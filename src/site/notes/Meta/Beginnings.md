@@ -101,7 +101,7 @@ The [[Jedi Order|Jedi Order]] falls
 [[Malkyn Rodarch|Malkyn Rodarch]] [16] is hired by the [[Rebellion|Rebel Alliance]] as a mercenary 
 An attack on the group with Padawan [[Cecily Beaumont|Cecily Beaumont]] [15] nearly wipes out all remaining hidden padawans and forces her to go into hiding with Padawan [[Dahlia Coutier|Dahlia Coutier]] [17]
 
-### 0 BBY — [[BATTLE OF YAVIN|BATTLE OF YAVIN]] & DESTRUCTION OF [[DEATH STAR|DEATH STAR]]
+### 0 BBY — [[Battle of Yavin|BATTLE OF YAVIN]] & DESTRUCTION OF [[DEATH STAR|DEATH STAR]]
 
 ### 1 ABY 
 Jedi Knight [[Cecily Beaumont|Cecily Beaumont]] [17] emerges with Jedi Knight [[Dahlia Coutier|Dahlia Coutier]] [19] to aid the [[Rebellion|Rebel Alliance]] defeat remainders of the [[Galactic Empire|Galactic Empire]] and [[Jen'jidai Cult|Jen'jidai Cult]]
