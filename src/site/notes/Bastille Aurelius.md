@@ -9,12 +9,13 @@
 >Master of the Knights of Ren, Heir Apparent to Lord Aurelius, Vessel of the Force, Keeper of Souls, Blade of the Sith, ~~Sword of the Jedi~~
 
 ## Personal Information
-Bastille carries the legacies of far too many, always destined to either excel in the Light or fall deep into the Dark. He is credited with the destruction of the [[Jedi Praxeum|Jedi Praxeum]] and [[Dahlia Coutier|Dahlia Coutier]]'s disappearance, seemingly having made his choice and chosen the Dark as *Ani Ren*. — [[Bastille Aurelius#History Plot Significance|Jump to history.]]
+Bastille carries the legacies of far too many, always destined to either excel in the Light or fall deep into the Dark. He is credited with the destruction of the [[Jedi Praxeum|Jedi Praxeum]] and [[Dahlia Coutier|Dahlia Coutier]]'s disappearance, seemingly having made his choice and chosen the Dark as *Ani Ren*. 
+↳ [[Bastille Aurelius#History Plot Significance|Jump to history.]]
 
 ### Basic Information
 
 #### Biographical
-**Homeworld** [[Axum|Axum]]
+==Homeworld== [[Axum|Axum]]
 ==Birth== [[Meta/Beginnings#8 ABY|8 ABY]]
 ==Death== N/A
 
