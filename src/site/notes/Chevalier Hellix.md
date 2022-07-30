@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"chandrila","aliases":["Muta Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","i ii iii iv v vi vii","forcesensitive"],"permalink":"/chevalier-hellix/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"chandrila","aliases":["Muta Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","i ii iii iv v vi vii","forcesensitive"],"permalink":"/chevalier-hellix/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Chevalier Hellix | Muta Ren
@@ -11,7 +11,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Chandrila|Chandrila]]
-==Birth== [[Meta/TIMELINE#7 ABY|7 ABY]]
+==Birth== [[Meta/Beginnings#7 ABY|7 ABY]]
 ==Death== N/A
 
 #### Physical
@@ -40,7 +40,7 @@ Summary info.
 #### Jedi Praxeum
 ==Master== [[Dahlia Coutier|Dahlia Coutier]], [[Allyson Petit|Allyson Petit]]
 ==Padawan== N/A
-==Knighted== [[Meta/TIMELINE#26 ABY|26 ABY]]
+==Knighted== [[Meta/Beginnings#26 ABY|26 ABY]]
 ==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
