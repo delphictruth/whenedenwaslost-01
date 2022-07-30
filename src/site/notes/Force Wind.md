@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":["Force Whirlwind","Spell of Storm"],"tags":["dark","light","offense","sense","alter"],"permalink":"/force-wind/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":["Force Whirlwind","Spell of Storm"],"tags":["dark","light","offense","sense","alter"],"permalink":"/force-wind/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Force Wind
