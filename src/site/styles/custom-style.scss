@@ -65,6 +65,11 @@ a {
     text-decoration: underline;
     color: #D04E4E;
 }    
+
+a.markdown-preview-view .internal-link.is-unresolved .is-unresolved {
+    opacity: 1;
+    color: #FFEDED;
+}
     
 a:hover {
     color: #FFEDED
