@@ -15,9 +15,9 @@ Bastille carries the legacies of far too many, always destined to either excel i
 ### Basic Information
 
 #### Biographical
-==Homeworld== [[Axum|Axum]]
-==Birth== [[Meta/Beginnings#8 ABY|8 ABY]]
-==Death== N/A
+**Homeworld** [[Axum|Axum]]
+**Birth** [[Meta/Beginnings#8 ABY|8 ABY]]
+**Death** N/A
 
 #### Physical
 ==Age== 22
