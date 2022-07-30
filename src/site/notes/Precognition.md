@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":["danger sense"],"tags":["universal","offense defense utility","control sense alter"],"permalink":"/precognition/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":["danger sense"],"tags":["universal","offense defense utility","control sense alter"],"permalink":"/precognition/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Precognition
