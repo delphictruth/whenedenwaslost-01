@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bastille-aurelius/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"category":"person","homeworld":"axum","aliases":["Bastille Rodarch Draig","Ani Ren"],"tags":["fallenjedi","firstorder","warlord","knightsofren","jedipraxeum","jediknight","v","vi","vii","forcesensitive"],"permalink":"/bastille-aurelius/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Bastille Aurelius | Ani Ren
