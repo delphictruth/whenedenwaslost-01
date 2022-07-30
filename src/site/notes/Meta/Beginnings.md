@@ -101,7 +101,7 @@ The [[Jedi Order|Jedi Order]] falls
 [[Malkyn Rodarch|Malkyn Rodarch]] [16] is hired by the [[Rebellion|Rebel Alliance]] as a mercenary 
 An attack on the group with Padawan [[Cecily Beaumont|Cecily Beaumont]] [15] nearly wipes out all remaining hidden padawans and forces her to go into hiding with Padawan [[Dahlia Coutier|Dahlia Coutier]] [17]
 
-### 0 BBY — [[Battle of Yavin|BATTLE OF YAVIN]] & DESTRUCTION OF [[DEATH STAR|DEATH STAR]]
+### 0 BBY — [[Battle of Yavin|BATTLE OF YAVIN]] & DESTRUCTION OF [[Death Star|DEATH STAR]]
 
 ### 1 ABY 
 Jedi Knight [[Cecily Beaumont|Cecily Beaumont]] [17] emerges with Jedi Knight [[Dahlia Coutier|Dahlia Coutier]] [19] to aid the [[Rebellion|Rebel Alliance]] defeat remainders of the [[Galactic Empire|Galactic Empire]] and [[Jen'jidai Cult|Jen'jidai Cult]]
@@ -129,7 +129,7 @@ The [[New Republic|New Republic]] is formed and establishes the [[New Republic S
 ↳ [[Cain Draig|Cain Draig]] [24] once more becomes the Senator of [[Carida|Carida]] in the new [[New Republic Senate|New Republic Senate]] 
 [[Battle of Jakku|Battle of Jakku]] occurs
 Conclusion of the [[Galactic Civil War|Galactic Civil War]] via the [[Galactic Concordance|Galactic Concordance]]
-[[Confederacy of Corporate Systems|Confederacy of Corporate Systems]] and [[New Seperatist Union|New Seperatist Union]] form 
+[[Confederacy of Independent Systems|Confederacy of Independent Systems]] and [[New Separatist Union|New Separatist Union]] form 
 [[Victoria Octan|Victoria Octan]] [21] enters a political marriage with [[Rye Kole|Rye Kole]] [22] of [[Rhinnal|Rhinnal]]
 [[Roslyn Dystra|Roslyn Dystra]] is born on ... 
 
