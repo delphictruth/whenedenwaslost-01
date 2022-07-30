@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"crystal","aliases":null,"permalink":"/permafrost/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"crystal","aliases":null,"permalink":"/permafrost/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Permafrost
