@@ -88,7 +88,9 @@ Summary info.
 - [[Malkyn Rodarch|Malkyn Rodarch]] (aunt/adopted mother)
 - [[Cain Draig|Cain Draig]] (uncle)
 - [[Versailles Cordelia|Versailles Cordelia]] (sister*)
+
 ==Significant Other== [[Hazel Caelum|Hazel Caelum]] (Bonded)
+
 ==Sith Ghosts==
 - [[Darth Grimm|Darth Grimm]]
 - [[Pollutis Kun|Pollutis Kun]]
