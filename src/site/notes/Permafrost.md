@@ -2,6 +2,8 @@
 {"dg-publish":true,"category":"crystal","aliases":null,"permalink":"/permafrost/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+- [[Meta/Beginnings|Back to Home]]
+
 # Permafrost
 Rare lightsaber crystals found on [[Hoth|Hoth]]. Produces an icy blue color. An [[Attuned crystal|Attuned crystal]]. 
 
