@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"category":"person","aliases":["Bastille Rodarch Draig","Ani Ren"],"permalink":"/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","aliases":["Bastille Rodarch Draig","Ani Ren"],"tags":["forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"],"permalink":"/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-#person #forcesensitive #fallenjedi #firstorder #knightsofren #warlord #azuriannobility #nobility #jedipraxeum #jediknight #formv #formvi #formvii
 - [[Meta/Beginnings|Back to Home]]
 - Also known as *Bastille Rodarch Draig*, *Lord Beaumont*
 
