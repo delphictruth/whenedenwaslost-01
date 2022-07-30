@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":null,"aliases":["Feru Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jedipadawan","v","forcesensitive"],"permalink":"/roman-ange/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":null,"aliases":["Feru Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jedipadawan","v","forcesensitive"],"permalink":"/roman-ange/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Roman Ange | Feru Ren
@@ -11,7 +11,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== 
-==Birth== [[Meta/TIMELINE#13 ABY|13 ABY]]
+==Birth== [[Meta/Beginnings#13 ABY|13 ABY]]
 ==Death== N/A
 
 #### Physical
