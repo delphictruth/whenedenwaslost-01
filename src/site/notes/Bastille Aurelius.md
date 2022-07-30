@@ -20,45 +20,45 @@ Bastille carries the legacies of far too many, always destined to either excel i
 **Death** N/A
 
 #### Physical
-==Age== 22
-==Gender== Male
-==Height== 6"0'
-==Hair== Black
-==Eyes== Ice blue
-==Skin== Pale
+**Age** 22
+**Gender** Male
+**Height** 6"0'
+**Hair** Black
+**Eyes** Ice blue
+**Skin** Pale
 
 ### Relations
 
 #### Family
-==Parents== [[Cecily Beaumont|Cecily Beaumont]] & [[Abel Draig|Raegel Aurelius]]
-==Other Family== 
+**Parents** [[Cecily Beaumont|Cecily Beaumont]] & [[Abel Draig|Raegel Aurelius]]
+**Other Family** 
 - [[Talia Draig|Talia Draig]] (aunt/adopted mother)
 - [[Malkyn Rodarch|Malkyn Rodarch]] (aunt/adopted mother)
 - [[Cain Draig|Cain Draig]] (uncle)
 - [[Versailles Cordelia|Versailles Cordelia]] (sister*)
 
-==Significant Other== [[Hazel Caelum|Hazel Caelum]] (Bonded)
+**Significant Other** [[Hazel Caelum|Hazel Caelum]] (Bonded)
 
-==Sith Ghosts==
+**Sith Ghosts**
 - [[Darth Grimm|Darth Grimm]]
 - [[Pollutis Kun|Pollutis Kun]]
 - [[Zaniel Bellatys|Zaniel Bellatys]]
 - [[Darth Echko|Darth Echko]]
 
 #### Political
-==Allegiance==  [[First Order|First Order]] 
-==Rank==  Warlord, Master of the [[Knights of Ren|Knights of Ren]]
-==Affiliations== [[Knights of Ren|Knights of Ren]] (First Knight), [[Azurian Nobility|Azurian Nobility]] (Lord)
+**Allegiance**  [[First Order|First Order]] 
+**Rank**  Warlord, Master of the [[Knights of Ren|Knights of Ren]]
+**Affiliations** [[Knights of Ren|Knights of Ren]] (First Knight), [[Azurian Nobility|Azurian Nobility]] (Lord)
 
 #### Jedi Praxeum
-==Master== [[Dahlia Coutier|Dahlia Coutier]]
-==Padawan== N/A
-==Knighted== [[Meta/Beginnings#26 ABY|26 ABY]]
-==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
+**Master** [[Dahlia Coutier|Dahlia Coutier]]
+**Padawan** N/A
+**Knighted** [[Meta/Beginnings#26 ABY|26 ABY]]
+**Class** [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
-==Master== [[Snoke|Snoke]]
-==Knights==
+**Master** [[Snoke|Snoke]]
+**Knights**
 - [[Chevalier Hellix|Muta Ren]]
 - [[Bardolph Vos|Jus Ren]]
 - [[Alfred Jonnas|Deco Ren]]
@@ -67,20 +67,17 @@ Bastille carries the legacies of far too many, always destined to either excel i
 - [[Roman Ange|Feru Ren]]
 
 ## Tactical Information
-Brief descriptions of combat style.
+Bastille is an extremely versatile fighter, having reached some level of mastery with all of the standard seven Forms and some lesser no styles. He seems to have a natural talent for combat with particularly strong [[Battle precognition|Battle precognition]], but some of his knowledge arises from his connection with [[Darth Echko|Darth Echko]] as well. 
 
 ### Combat
 
 #### Forms
-Specializes in [[Niman (VI)|Niman (VI)]] 
-Prefers [[Juyo (VII)|Juyo (VII)]] & [[Djem So (V)|Djem So (V)]] 
-Reverse grip, off-hand free for Force-paired attacks
-Highly versatile with a lean to offensive
+Bastille specializes in [[Niman (VI)|Niman (VI)]], particularly in the reverse-grip and dual wield styles. He is highly versatile in combat, dabbling in most of the Forms, but he prefers unpredictability of [[Juyo (VII)|Juyo (VII)]] and the swift counter-attacks of [[Djem So (V)|Djem So (V)]]. He primarly keeps his off-hand free for use of Force attacks mid-combat. 
 
 #### Force Beliefs & Usage
 [[Grey Jedi|Grey Jedi]] practices
 
-==Strengths==
+**Strengths**
 - [[Alter environment|Alter environment]]
 - [[Flow-walking|Flow-walking]]
 - [[Force meld|Force meld]]
@@ -94,7 +91,7 @@ Highly versatile with a lean to offensive
 - Combatting [[Torture by Chagrin|Torture by Chagrin]]
 - Capable of [[Spirit Transference|Spirit Transference]]
 
-==Weaknesses==
+**Weaknesses**
 - [[Force healing|Force healing]]
 - [[Precognition|Precognition]]
 - [[Center of Being|Center of Being]]
@@ -103,16 +100,10 @@ Highly versatile with a lean to offensive
 ### Weapons
 
 #### Jedi Saber
-[[Permafrost|Permafrost]] crystal
-[[Attuned crystal|Attuned crystal]]
-Ice blue blade
-Hilt modified for [[Djem So (V)|Form V]] combat, more rigid with separate facets for offense and defense
+Bastille's Jedi lightsaber from his time at the [[Jedi Praxeum|Praxeum]]. He chose not to [[bleed|bleed]] the [[Lightsaber Crystal|crystal]] for his new weapon, and instead continues to wield it when dual-wielding given the relatively neutral attunement of the crystal. It has a silver modified hilt stylized for [[Djem So (V)|Form V]], more rigid and slightly longer for single or double hand grips, and has separate facets for offenses and defense. It is powered by an [[Attuned crystal|attuned]] [[Permafrost|Permafrost]] crystal, which gives the blade an icy blue color.
 
 #### Darksider Saber
-[[Darksaber|Darksaber]] crystal 
-Unstable, static-y black blade
-Frequently lets off electricity in response to emotional states 
-Black hilt modified for [[Djem So (V)|Form V]]
+After recovering the lost [[Darksaber|Darksaber]], Bastille dismantled it to take the [[Lightsaber Crystal|crystal]] that used to power it. He built a new casing, nearly identical to his Jedi lightsaber but utilizing a matte black steel for the hilt. The black blade that is produced is unstable and static-y in appearance, often letting off bursts of electricity in response to hightened emotional states. 
 
 ## History & Plot Significance
 Bastille Aurelius is the legacy of two iconic families from the [[Meta/Beginnings#Galatic Civil War Era|Galactic Civil War]], and he has had an extremely chaotic life to show for it. He was primarily raised by his aunts, [[Talia Draig|Talia Draig]] and [[Malkyn Rodarch|Malkyn Rodarch]], and believed [[Malkyn Rodarch|Malkyn Rodarch]] to be his mother for the majority of his life. He was 15 when the scandal of him being the Sith [[Abel Draig|Raegal Aurelius]]'s son became public knowledge, and Bastille thought the truth explained the oddities of his life.
