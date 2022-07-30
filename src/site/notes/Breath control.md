@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":[],"tags":["universal","offense defense utility","control"],"permalink":"/breath-control/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":[],"tags":["universal","offense defense utility","control"],"permalink":"/breath-control/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Breath control
