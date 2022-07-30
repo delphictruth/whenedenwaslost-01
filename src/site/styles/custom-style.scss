@@ -53,16 +53,14 @@ h4:after {
 }     
     
 .theme-light {
-    background: #fff4eb;
-    color: #141414;
+    --background-primary: #fff7e3;
+    --inactive: #FFEDED;
+    --text-normal: #252525;
     --hl-md: rgba(255, 0, 0, 0.2);
     --hl-search: rgba(253, 115, 115, 0.25);
     --hl-cursor: rgba(229, 149, 149, 0.2);
 }
-    
-a.is-unresolved {
- color: #FFEDED;
-}   
+     
 a {
     text-decoration: underline;
     color: #D04E4E;
@@ -72,5 +70,4 @@ a:hover {
     color: #FFEDED
 }       
           
-    
 }
