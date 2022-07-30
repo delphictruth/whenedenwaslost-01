@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":["Cure","Force heal"],"tags":["universal","utility","control","alter"],"permalink":"/force-healing/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":["Cure","Force heal"],"tags":["universal","utility","control","alter"],"permalink":"/force-healing/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Force healing
