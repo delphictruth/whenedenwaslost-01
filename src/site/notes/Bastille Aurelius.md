@@ -2,6 +2,8 @@
 {"dg-publish":true,"category":"person","homeworld":"axum","aliases":["Bastille Rodarch Draig","Ani Ren"],"tags":["fallenjedi","firstorder","warlord","knightsofren","jedipraxeum","jediknight","v","vi","vii","forcesensitive"],"permalink":"/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+- [[Meta/Beginnings|Back to Home]]
+
 # Bastille Aurelius | Ani Ren
 >Master of the Knights of Ren, Heir Apparent to Lord Aurelius, Vessel of the Force, Keeper of Souls, Blade of the Sith, Sword of the Jedi
 
