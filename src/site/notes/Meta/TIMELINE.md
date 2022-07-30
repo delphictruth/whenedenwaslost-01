@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/timeline/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":true,"dg-publish":true,"permalink":"/meta/timeline/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 # Clone Wars Era
