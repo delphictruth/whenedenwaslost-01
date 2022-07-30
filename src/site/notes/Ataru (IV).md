@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"form","aliases":["Form IV","Ataru","Ataru"],"permalink":"/ataru-iv/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"form","aliases":["Form IV","Ataru","Ataru"],"permalink":"/ataru-iv/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Ataru | Form IV
