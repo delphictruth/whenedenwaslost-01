@@ -1,50 +1,54 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"corellia","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jedipadawan","ataru","niman","forcesensitive"],"permalink":"/versailles-cordelia/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"corellia","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jedipadawan","ataru","niman","forcesensitive","unfinished"],"permalink":"/versailles-cordelia/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+- [[Meta/Beginnings|Back to Home]]
+- Also known as
+
 # Versailles Cordelia | Victa Ren
-<i>The Wildling, Pirate King</i>
+>The Wildling, Pirate King
+
 ## Personal Information
 Summary info.
 
 ### Basic Information
 
 #### Biographical
-==Homeworld== [[Corellia|Corellia]]
-==Birth== [[Meta/Beginnings#12 ABY|12 ABY]]
-==Death== N/A
+**Homeworld** [[Corellia|Corellia]]
+**Birth** [[Meta/Beginnings#12 ABY|12 ABY]]
+**Death** N/A
 
 #### Physical
-==Age== 18
-==Gender== Female 
-==Height== 5'6
-==Hair== Black
-==Eyes== Bluebell, gold-fractured
-==Skin== Pale
+**Age** 18
+**Gender** Female 
+**Height** 5'6
+**Hair** Black
+**Eyes** Bluebell, gold-fractured
+**Skin** Pale
 
 ### Relations
 
 #### Family
-==Parents== Unknown smugglers
-==Other Family== [[Bastille Aurelius|Bastille Aurelius]] (brother*)
+**Parents** Unknown smugglers
+**Other Family** [[Bastille Aurelius|Bastille Aurelius]] (brother*)
 
-==Significant Other== [[Maggie Amell|Maggie Amell]]
+**Significant Other** [[Maggie Amell|Maggie Amell]]
 
 #### Political
-==Allegiance== [[First Order|First Order]]
-==Rank== Knight
-==Affiliations== [[Knights of Ren|Knights of Ren]]
+**Allegiance** [[First Order|First Order]]
+**Rank** Knight
+**Affiliations** [[Knights of Ren|Knights of Ren]]
 
 #### Jedi Praxeum
-==Master== [[Dahlia Coutier|Dahlia Coutier]]
-==Padawan== N/A
-==Knighted== N/A
-==Class== [[Jedi Padawan Classes|Jedi Padawan Class IV]]
+**Master** [[Dahlia Coutier|Dahlia Coutier]]
+**Padawan** N/A
+**Knighted** N/A
+**Class** [[Jedi Padawan Classes|Jedi Padawan Class IV]]
 
 #### Knights of Ren
-==Rank== Knight
-==Master== [[Bastille Aurelius|Ani Ren]]
-==Knights==
+**Rank** Knight
+**Master** [[Bastille Aurelius|Ani Ren]]
+**Knights**
 - [[Chevalier Hellix|Muta Ren]]
 - [[Bardolph Vos|Jus Ren]]
 - [[Alfred Jonnas|Deco Ren]]
@@ -62,9 +66,9 @@ Vi specializes in the dual-wielding style of [[Niman (VI)|Niman (VI)]], with pre
 #### Force Beliefs & Usage
 [blurb]
 
-==Strengths==
+**Strengths**
 - 
-==Weaknesses==
+**Weaknesses**
 - power
 
 ### Weapons
