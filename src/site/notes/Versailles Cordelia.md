@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"corellia","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jedipadawan","ataru","niman","forcesensitive"],"permalink":"/versailles-cordelia/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"corellia","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jedipadawan","ataru","niman","forcesensitive"],"permalink":"/versailles-cordelia/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Versailles Cordelia | Victa Ren
@@ -11,7 +11,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Corellia|Corellia]]
-==Birth== [[Meta/TIMELINE#12 ABY|12 ABY]]
+==Birth== [[Meta/Beginnings#12 ABY|12 ABY]]
 ==Death== N/A
 
 #### Physical
