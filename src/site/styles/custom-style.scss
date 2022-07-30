@@ -51,11 +51,6 @@ h4:after {
     background: #aab5cb;
     left: 0;
 }     
-    
-.theme-light {
-    background-primary: #fff7e3;
-    text-normal: #252525;
-}
      
 a {
     text-decoration: underline;
@@ -66,9 +61,8 @@ a:hover {
     color: #aab3ca
 }       
     
-.markdown-preview-view mark {
-    background-color: rgba(255, 0, 0, 0.2);
-    color: #252525;
-}  
+em {
+    color: #D04E4E
+}   
     
 }
