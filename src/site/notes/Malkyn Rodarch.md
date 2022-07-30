@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"mandalore","aliases":["General Rodarch"],"tags":["resistance","general","mercenary"],"permalink":"/malkyn-rodarch/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"mandalore","aliases":["General Rodarch"],"tags":["resistance","general","mercenary"],"permalink":"/malkyn-rodarch/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Malkyn Rodarch
@@ -11,7 +11,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Mandalore|Mandalore]]
-==Birth== [[Meta/TIMELINE#19 BBY|19 BBY]]
+==Birth== [[Meta/Beginnings#19 BBY|19 BBY]]
 ==Death== N/A
 
 #### Physical
