@@ -60,6 +60,7 @@ Hazel is strongly influenced by [[Dahlia Coutier|Dahlia Coutier]]'s philosophy a
 - [[Force Enlightenment|Force Enlightenment]]
 - [[Force Light|Force Light]] 
 - Affinity for [[Force ghosts|Force ghosts]] 
+
 ==Weaknesses==
 - power
 
