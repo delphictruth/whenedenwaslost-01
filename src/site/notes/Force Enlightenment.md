@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":["Enlightenment"],"tags":["light","utility","control"],"permalink":"/force-enlightenment/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":["Enlightenment"],"tags":["light","utility","control"],"permalink":"/force-enlightenment/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Force Enlightenment 
