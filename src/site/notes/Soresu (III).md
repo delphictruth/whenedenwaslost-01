@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"form","aliases":["Form III","Soresu"],"permalink":"/soresu-iii/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"form","aliases":["Form III","Soresu"],"permalink":"/soresu-iii/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Soresu | Form III
