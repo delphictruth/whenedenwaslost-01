@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["General Draig","Cain"],"tags":["resistance","general","forcesensitive"],"permalink":"/cain-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["General Draig","Cain"],"tags":["resistance","general","forcesensitive","unfinished"],"permalink":"/cain-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[Meta/Beginnings|Back to Home]]
@@ -10,7 +10,7 @@
 
 ## Personal Information
 Summary info.
-↳ [[Cain Draig|Jump to history.]]
+↳ [[Cain Draig#History Plot Significance|Jump to history.]]
 
 ### Basic Information
 
