@@ -2,7 +2,6 @@
 {"dg-publish":true,"category":"force","aliases":["danger sense"],"tags":["universal","offense defense utility","control sense alter"],"permalink":"/precognition/","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
-#forcepower #universal #utility #sense 
 # Precognition
 A deeper form of [[Force sense|Force sense]], more tuned towards sensing future events and premonitions, especially from objects. It is essentially the opposite power to [[Psychometry|Psychometry]], which senses the past. 
 
