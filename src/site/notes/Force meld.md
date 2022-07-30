@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":["meld","Jedi meld","battle meld","combat meld"],"tags":["light","offense","sense"],"permalink":"/force-meld/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":["meld","Jedi meld","battle meld","combat meld"],"tags":["light","offense","sense"],"permalink":"/force-meld/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Force meld
