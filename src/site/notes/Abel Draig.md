@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["Raegal Aurelius"],"tags":["sith","jenjidai","i ii iii iv v vi vii","forcesensitive"],"permalink":"/abel-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["Raegal Aurelius"],"tags":["sith","jenjidai","i ii iii iv v vi vii","forcesensitive","unfinished"],"permalink":"/abel-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[Meta/Beginnings|Back to Home]]
