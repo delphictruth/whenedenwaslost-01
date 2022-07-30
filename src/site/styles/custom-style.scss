@@ -40,7 +40,7 @@ h3:after {
 } 
     
 h4 {
-    color: #ccd6eb;
+    color: #aec1ed;
 }
 
 h4:after {
@@ -48,7 +48,7 @@ h4:after {
     display: block;
     width: 44%;
     height: 4px;
-    background: #aab5cb;
+    background: #99abd6;
     left: 0;
 }     
      
@@ -67,5 +67,13 @@ em {
     
 p {
     color: #252525
-}    
+} 
+    
+li {
+    color: #252525
+}  
+    
+mark {
+    color: #252525
+}     
 }
