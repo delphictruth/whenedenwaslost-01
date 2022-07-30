@@ -1,50 +1,54 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"seidhkona","aliases":["Sacra Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","i ii iii iv v vi vii","forcesensitive"],"permalink":"/imperia-sibyl/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"seidhkona","aliases":["Sacra Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","i ii iii iv v vi vii","forcesensitive","unfinished"],"permalink":"/imperia-sibyl/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+- [[Meta/Beginnings|Back to Home]]
+- Also known as
+
 # Imperia Sibyl | Sacra Ren
-<i>The Witch</i>
+>The Witch
+
 ## Personal Information
 Summary info.
 
 ### Basic Information
 
 #### Biographical
-==Homeworld== [[Seidhkona|Seidhkona]]
-==Birth== 
-==Death== N/A
+**Homeworld** [[Seidhkona|Seidhkona]]
+**Birth** 
+**Death** N/A
 
 #### Physical
-==Age== 21
-==Gender== Female 
-==Height== 5'7
-==Hair== Black
-==Eyes== Indigo
-==Skin== Pale
+**Age** 21
+**Gender** Female 
+**Height** 5'7
+**Hair** Black
+**Eyes** Indigo
+**Skin** Pale
 
 ### Relations
 
 #### Family
-==Parents== 
-==Other Family==
+**Parents** 
+**Other Family**
 
-==Significant Other== [[Bardolph Vos|Bardolph Vos]]
+**Significant Other** [[Bardolph Vos|Bardolph Vos]]
 
 #### Political
-==Allegiance== [[First Order|First Order]]
-==Rank== Knight
-==Affiliations== [[Knights of Ren|Knights of Ren]]
+**Allegiance** [[First Order|First Order]]
+**Rank** Knight
+**Affiliations** [[Knights of Ren|Knights of Ren]]
 
 #### Jedi Praxeum
-==Master== [[Dahlia Coutier|Dahlia Coutier]]
-==Padawan== N/A
-==Knighted== [[Meta/Beginnings#29 ABY|29 ABY]]
-==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
+**Master** [[Dahlia Coutier|Dahlia Coutier]]
+**Padawan** N/A
+**Knighted** [[Meta/Beginnings#29 ABY|29 ABY]]
+**Class** [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
-==Rank== Knight
-==Master== [[Bastille Aurelius|Ani Ren]]
-==Knights==
+**Rank** Knight
+**Master** [[Bastille Aurelius|Ani Ren]]
+**Knights**
 - [[Chevalier Hellix|Muta Ren]]
 - [[Bardolph Vos|Jus Ren]]
 - [[Alfred Jonnas|Deco Ren]]
@@ -62,9 +66,9 @@ Specializes in [[Imperia Sibyl|]]
 #### Force Beliefs & Usage
 [blurb]
 
-==Strengths==
+**Strengths**
 - 
-==Weaknesses==
+**Weaknesses**
 - power
 
 ### Weapons
