@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"axum","aliases":["Bastille Rodarch Draig","Ani Ren"],"tags":["fallenjedi","firstorder","warlord","knightsofren","jedipraxeum","jediknight","v","vi","vii","forcesensitive"],"permalink":"/bastille-aurelius/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"axum","aliases":["Bastille Rodarch Draig","Ani Ren"],"tags":["fallenjedi","firstorder","warlord","knightsofren","jedipraxeum","jediknight","v","vi","vii","forcesensitive"],"permalink":"/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Bastille Aurelius | Ani Ren
@@ -12,7 +12,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Axum|Axum]]
-==Birth== [[Meta/TIMELINE#8 ABY|8 ABY]]
+==Birth== [[Meta/Beginnings#8 ABY|8 ABY]]
 ==Death== N/A
 
 #### Physical
@@ -49,7 +49,7 @@ Summary info.
 #### Jedi Praxeum
 ==Master== [[Dahlia Coutier|Dahlia Coutier]]
 ==Padawan== N/A
-==Knighted== [[Meta/TIMELINE#26 ABY|26 ABY]]
+==Knighted== [[Meta/Beginnings#26 ABY|26 ABY]]
 ==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
