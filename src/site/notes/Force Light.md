@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":[],"tags":["light","jedi","utility","alter"],"permalink":"/force-light/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"force","aliases":[],"tags":["light","jedi","utility","alter"],"permalink":"/force-light/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Force Light
