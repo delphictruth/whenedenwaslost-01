@@ -14,7 +14,7 @@ h1:after {
 }      
     
 h2 {
-    color: #D04E4E;
+    color: #a6bbde;
 }
 
 h2:after {
@@ -22,12 +22,12 @@ h2:after {
     display: block;
     width: 85%;
     height: 4px;
-    background: #d4955b;
+    background: #848da4;
     left: 0;
 }  
 
 h3 {
-    color: #D04E4E;
+    color: #e76f6f;
 }
 
 h3:after {
@@ -35,12 +35,12 @@ h3:after {
     display: block;
     width: 65%;
     height: 4px;
-    background: #4f413b;
+    background: #d37171;
     left: 0;
 } 
     
 h4 {
-    color: #D04E4E;
+    color: #ccd6eb;
 }
 
 h4:after {
@@ -48,7 +48,7 @@ h4:after {
     display: block;
     width: 44%;
     height: 4px;
-    background: #f5e5bf;
+    background: #aab5cb;
     left: 0;
 }     
     
@@ -66,13 +66,8 @@ a {
     color: #D04E4E;
 }    
 
-a.markdown-preview-view .internal-link.is-unresolved .is-unresolved {
-    opacity: 1;
-    color: #FFEDED;
-}
-    
 a:hover {
-    color: #FFEDED
+    color: #aab3ca
 }       
           
 }
