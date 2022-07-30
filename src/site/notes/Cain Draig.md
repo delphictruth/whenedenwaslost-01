@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["General Draig","Cain"],"tags":["resistance","general","forcesensitive"],"permalink":"/cain-draig/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["General Draig","Cain"],"tags":["resistance","general","forcesensitive"],"permalink":"/cain-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Cain Draig
@@ -11,7 +11,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Carida|Carida]]
-==Birth== [[Meta/TIMELINE#20BBY|20 BBY]]
+==Birth== [[Meta/Beginnings#20BBY|20 BBY]]
 ==Death== N/A
 
 #### Physical
