@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"anaxes","aliases":["Jus Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","ii","forcesensitive"],"permalink":"/bardolph-vos/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"anaxes","aliases":["Jus Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","ii","forcesensitive"],"permalink":"/bardolph-vos/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Bardolph Vos | Jus Ren
@@ -11,7 +11,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Anaxes|Anaxes]]
-==Birth== [[Meta/TIMELINE#7 ABY|7 ABY]]
+==Birth== [[Meta/Beginnings#7 ABY|7 ABY]]
 ==Death== N/A
 
 #### Physical
@@ -38,7 +38,7 @@ Summary info.
 #### Jedi Praxeum
 ==Master== [[Dahlia Coutier|Dahlia Coutier]]
 ==Padawan== N/A
-==Knighted== [[Meta/TIMELINE#26 ABY|26 ABY]]
+==Knighted== [[Meta/Beginnings#26 ABY|26 ABY]]
 ==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
