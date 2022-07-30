@@ -1,50 +1,54 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"anaxes","aliases":["Jus Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","ii","forcesensitive"],"permalink":"/bardolph-vos/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"anaxes","aliases":["Jus Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","ii","forcesensitive","unfinished"],"permalink":"/bardolph-vos/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+- [[Meta/Beginnings|Back to Home]]
+- Also known as
+
 # Bardolph Vos | Jus Ren
-<i>The Executioner, Heir of House Vos</i>
+>The Executioner, Heir of House Vos
+
 ## Personal Information
 Summary info.
 
 ### Basic Information
 
 #### Biographical
-==Homeworld== [[Anaxes|Anaxes]]
-==Birth== [[Meta/Beginnings#7 ABY|7 ABY]]
-==Death== N/A
+**Homeworld** [[Anaxes|Anaxes]]
+**Birth** [[Meta/Beginnings#7 ABY|7 ABY]]
+**Death** N/A
 
 #### Physical
-==Age== 23
-==Gender== Male 
-==Height== 6'2
-==Hair== Black
-==Eyes== Grey
-==Skin== Pale
+**Age** 23
+**Gender** Male 
+**Height** 6'2
+**Hair** Black
+**Eyes** Grey
+**Skin** Pale
 
 ### Relations
 
 #### Family
-==Parents== [[Bornan Vos|Bornan Vos]] & [[Aryn Dro Vos|Aryn Dro Vos]]
-==Other Family== N/A
+**Parents** [[Bornan Vos|Bornan Vos]] & [[Aryn Dro Vos|Aryn Dro Vos]]
+**Other Family** N/A
 
-==Significant Other== [[Imperia Sibyl|Imperia Sibyl]]
+**Significant Other** [[Imperia Sibyl|Imperia Sibyl]]
 
 #### Political
-==Allegiance== [[First Order|First Order]]
-==Rank== Knight
-==Affiliations== [[Knights of Ren|Knights of Ren]]
+**Allegiance** [[First Order|First Order]]
+**Rank** Knight
+**Affiliations** [[Knights of Ren|Knights of Ren]]
 
 #### Jedi Praxeum
-==Master== [[Dahlia Coutier|Dahlia Coutier]]
-==Padawan== N/A
-==Knighted== [[Meta/Beginnings#26 ABY|26 ABY]]
-==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
+**Master** [[Dahlia Coutier|Dahlia Coutier]]
+**Padawan** N/A
+**Knighted** [[Meta/Beginnings#26 ABY|26 ABY]]
+**Class** [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
-==Rank== Knight
-==Master== [[Bastille Aurelius|Ani Ren]]
-==Knights==
+**Rank** Knight
+**Master** [[Bastille Aurelius|Ani Ren]]
+**Knights**
 - [[Chevalier Hellix|Muta Ren]]
 - [[Alfred Jonnas|Deco Ren]]
 - [[Imperia Sibyl|Sacra Ren]]
@@ -62,9 +66,9 @@ Specializes in [[Bardolph Vos|]]
 #### Force Beliefs & Usage
 [blurb]
 
-==Strengths==
+**Strengths**
 - 
-==Weaknesses==
+**Weaknesses**
 - power
 
 ### Weapons
