@@ -3,7 +3,8 @@
 ---
 
 # Bastille Aurelius | Ani Ren
-<b>Master of the Knights of Ren, Heir Apparent to Lord Aurelius, Vessel of the Force, Keeper of Souls, Blade of the Sith, Sword of the Jedi</b>
+>Master of the Knights of Ren, Heir Apparent to Lord Aurelius, Vessel of the Force, Keeper of Souls, Blade of the Sith, Sword of the Jedi
+
 ## Personal Information
 Summary info. 
 
