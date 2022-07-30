@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"nallastia","aliases":["Princess Caelum"],"tags":["greyjedi","resistance","princess","iii","iv","v","forcesensitive"],"permalink":"/hazel-caelum/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"nallastia","aliases":["Princess Caelum"],"tags":["greyjedi","resistance","princess","iii","iv","v","forcesensitive"],"permalink":"/hazel-caelum/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
+:SW_resistance:  [[Meta/Beginnings|Back to Home]]
+
 # Hazel Caelum
-<i>Lost Heir of Nallastia, Skull Princess, Shield of the Jedi</i>
+>Lost Heir of Nallastia, Skull Princess, Shield of the Jedi
+
 ## Personal Information
 Summary info.
 
@@ -11,7 +14,7 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Nallastia|Nallastia]]
-==Birth== [[Meta/TIMELINE#11 ABY|11 ABY]]
+==Birth== [[Meta/Beginnings#11 ABY|11 ABY]]
 ==Death== N/A
 
 #### Physical
