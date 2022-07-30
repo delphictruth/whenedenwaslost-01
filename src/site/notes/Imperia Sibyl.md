@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"seidhkona","aliases":["Sacra Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","i ii iii iv v vi vii","forcesensitive"],"permalink":"/imperia-sibyl/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"seidhkona","aliases":["Sacra Ren"],"tags":["fallenjedi","firstorder","knight","knightsofren","jedipraxeum","jediknight","i ii iii iv v vi vii","forcesensitive"],"permalink":"/imperia-sibyl/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Imperia Sibyl | Sacra Ren
@@ -38,7 +38,7 @@ Summary info.
 #### Jedi Praxeum
 ==Master== [[Dahlia Coutier|Dahlia Coutier]]
 ==Padawan== N/A
-==Knighted== [[Meta/TIMELINE#29 ABY|29 ABY]]
+==Knighted== [[Meta/Beginnings#29 ABY|29 ABY]]
 ==Class== [[Jedi Padawan Classes|Jedi Padawan Class III]]
 
 #### Knights of Ren
