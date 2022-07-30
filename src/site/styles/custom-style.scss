@@ -13,4 +13,66 @@ h1:after {
     left: 0;
 }      
     
+h2 {
+    color: #D04E4E;
+}
+
+h2:after {
+    content: "";
+    display: block;
+    width: 85%;
+    height: 4px;
+    background: #d4955b;
+    left: 0;
+}  
+
+h3 {
+    color: #D04E4E;
+}
+
+h3:after {
+    content: "";
+    display: block;
+    width: 65%;
+    height: 4px;
+    background: #4f413b;
+    left: 0;
+} 
+    
+h4 {
+    color: #D04E4E;
+}
+
+h4:after {
+    content: "";
+    display: block;
+    width: 44%;
+    height: 4px;
+    background: #f5e5bf;
+    left: 0;
+}     
+    
+.theme-light {
+    background: #fffcf0;
+    color: #412f2f;
+    --hl-md: rgba(255, 0, 0, 0.2);
+    --hl-search: rgba(253, 115, 115, 0.25);
+    --hl-cursor: rgba(229, 149, 149, 0.2);
+    
+}
+    
+a.is-unresolved{
+ color: #FFEDED;
+}
+    
+a {
+    text-decoration: underline;
+    color: #D04E4E;
+}    
+    
+a:hover {
+    color: #FFEDED
+}       
+          
+    
 }
