@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"place","location homeworld":"mandalore","aliases":["Academy"],"tags":["galacticempire","firstorder"],"permalink":"/imperial-academy/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"place","location homeworld":"mandalore","aliases":["Academy"],"tags":["galacticempire","firstorder"],"permalink":"/imperial-academy/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Imperial Academy
