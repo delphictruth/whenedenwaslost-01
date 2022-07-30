@@ -28,6 +28,7 @@ Summary info.
 ==Parents== 
 ==Other Family==
 - Margravine [[Quenelle Caelum|Quenelle Caelum]] (maternal grandmother)
+
 ==Significant Other== [[Bastille Aurelius|Bastille Aurelius]]
 
 #### Political
