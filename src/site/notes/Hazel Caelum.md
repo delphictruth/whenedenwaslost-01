@@ -32,7 +32,7 @@ Summary info.
 ==Other Family==
 - Margravine [[Quenelle Caelum|Quenelle Caelum]] (maternal grandmother)
 
-==Significant Other== [[Bastille Aurelius|Bastille Aurelius]]
+==Significant Other== [[Bastille Aurelius|Bastille Aurelius]] (Bonded)
 
 #### Political
 ==Allegiance== [[Resistance|Resistance]]
@@ -40,14 +40,12 @@ Summary info.
 ==Affiliations== 
 
 ## Tactical Information
-Brief descriptions of combat style.
+Her style has a heavy emphasis on defense. Her movements are notably swift, fluid, and acrobatic ([[Ataru (IV)|Ataru]] influence). With her double-bladed saber, she begins to balance her offense and defense with [[Djem So (V)|Form V]]. 
 
 ### Combat
 
 #### Forms
 Hazel specializes in [[Soresu (III)|Soresu (III)]] initially, but she later grows into [[Ataru (IV)|Ataru (IV)]] and, with her new double-bladed saber, begins to favor [[Djem So (V)|Shien / Djem So (V)]] simultaneously. 
-
-Her style has a heavy emphasis on defense. Her movements are notably swift, fluid, and acrobatic ([[Ataru (IV)|Ataru]] influence). With her double-bladed saber, she begins to balance her offense and defense with [[Djem So (V)|Form V]]. 
 
 #### Force Beliefs & Usage
 Hazel is strongly influenced by [[Dahlia Coutier|Dahlia Coutier]]'s philosophy and the "true" Jedi way initially, but her connection to [[Bastille Aurelius|Bastille Aurelius]] is also a powerful force. She is the first [[Grey Jedi|Grey Jedi]] in generations. 
