@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["Raegal Aurelius"],"tags":["sith","jenjidai","i ii iii iv v vi vii","forcesensitive"],"permalink":"/abel-draig/","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"carida","aliases":["Raegal Aurelius"],"tags":["sith","jenjidai","i ii iii iv v vi vii","forcesensitive"],"permalink":"/abel-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 # Raegal Aurelius
@@ -11,8 +11,8 @@ Summary info.
 
 #### Biographical
 ==Homeworld== [[Carida|Carida]]
-==Birth== [[Meta/TIMELINE#19 BBY|19 BBY]]
-==Death== [[Meta/TIMELINE#9 ABY|9 ABY]]
+==Birth== [[Meta/Beginnings#19 BBY|19 BBY]]
+==Death== [[Meta/Beginnings#9 ABY|9 ABY]]
 
 #### Physical
 ==Age== 27 (at death)
