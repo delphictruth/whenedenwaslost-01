@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"person","aliases":["Bastille Rodarch Draig","Ani Ren"],"tags":["forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"],"permalink":"/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","aliases":["Bastille Rodarch Draig","Ani Ren"],"rank":"Jedi Knight","form":"V, VI, VII","class":"Padawan Class III","status":"Fallen","tags":["forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"],"permalink":"/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[Meta/Beginnings|Back to Home]]
