@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"category":"person","homeworld":"nallastia","aliases":["Princess Caelum"],"tags":["greyjedi","resistance","princess","iii","iv","v","forcesensitive","unfinished"],"permalink":"/hazel-caelum/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"category":"person","homeworld":"nallastia","aliases":["Princess Caelum"],"tags":["greyjedi","resistance","princess","formiii","formiv","formv","forcesensitive","unfinished"],"permalink":"/hazel-caelum/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[Meta/Beginnings|Back to Home]]
 - Also known as *Margravine Hazel Caelum*, *Hazel Nobody of Jakku*
+- #resistance 
 
 # Hazel Caelum
 >Lost Heir of Nallastia, Skull Princess, Shield of the Jedi
