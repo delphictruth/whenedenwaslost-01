@@ -2,8 +2,7 @@
 {"dg-publish":true,"aliases":["Back to Directory"],"permalink":"/meta/directory/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Beginnings|Back to Home]]
-- [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[WEWL|Back to Home]] | [[Meta/Timeline|Back to Timeline]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 
 # Directory
 ## Characters
@@ -147,6 +146,9 @@
 - [[Vak|Vak]]
 
 ## Force Powers
+- [[Alter environment|Alter environment]]
+- [[Alter image|Alter image]]
+- [[Alter mind|Alter mind]]
 - [[Battle Meditation|Battle Meditation]]
 - [[Battle precognition|Battle precognition]]
 - [[Beast control|Beast control]]
