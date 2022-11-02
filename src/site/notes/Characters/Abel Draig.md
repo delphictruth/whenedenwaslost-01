@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"homeworld":"Carida","aliases":["Raegal Aurelius"],"tags":["character","darksider","jenjidai","forcesensitive","unfinished"],"permalink":"/characters/abel-draig/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":"Carida","aliases":["Raegal Aurelius"],"tags":["character","darksider","jenjidai","forcesensitive","unfinished"],"permalink":"/characters/abel-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
