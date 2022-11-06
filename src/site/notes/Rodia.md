@@ -10,7 +10,7 @@ Rodia is a small industrial planet located in the [[Tyrius system\|Tyrius system
 
 The cities of Rodia are built on waterways and protected from the extreme humidity and moisture by environmental shields known as "bubble domes." 
 
-**Capital** [[Rodia#Iskaayuma\|Rodia#Iskaayuma]]
+**Capital** [[Rodia#Iskaayuma\|Iskaayuma]]
 **Notable Locations**
 - 
 
@@ -33,4 +33,4 @@ Flip of the Credit is a casino located in Equator City. It is most famously know
 A prestigious concert hall located in Equator City. It is a larger, half-egg shaped construction made of durasteel and transparisteel. It is apparently spacious enough to hold "at least 5 light freighters."
 
 ### Samana
-Samana is the second city on Betu and almost entirely underwater. It is technically possible to land in Samana, but most control officers direct air traffic to the spaceport in [[Rodia#Equator City\|Rodia#Equator City]].
+Samana is the second city on Betu and almost entirely underwater. It is technically possible to land in Samana, but most control officers direct air traffic to the spaceport in [[Rodia#Equator City\|Equator City]].
