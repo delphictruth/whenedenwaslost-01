@@ -12,7 +12,8 @@ The cities of Rodia are built on waterways and protected from the extreme humidi
 
 **Capital** [[Rodia#Iskaayuma\|Iskaayuma]]
 **Notable Locations**
-- 
+- [[Rodia#Encheeko\|Encheeko]] (continent)
+- [[Rodia#Betu\|Betu]] (contintent)
 
 ## Encheeko
 Encheeko is the primary contintent on Rodia. 
