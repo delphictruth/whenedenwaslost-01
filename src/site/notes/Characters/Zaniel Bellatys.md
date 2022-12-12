@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"tags":["forceghost","character","forcesensitive"],"permalink":"/characters/zaniel-bellatys/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"tags":["forceghost","character","forcesensitive"],"permalink":"/characters/zaniel-bellatys/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Zaniel Bellatys
