@@ -29,7 +29,7 @@ Summary info.
 ### Relations
 
 #### Family
-**Parents** [[Aurora Caelum\|Aurora Caelum]] & [[Pirphal Chthonios\|Pirphal Chthonios]]
+**Parents** [[Characters/Aurora Caelum\|Aurora Caelum]] & [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]
 **Significant Other** [[Characters/Bastille Aurelius\|Bastille Aurelius]] ([[Force Abilities, Force Phenomena/Force Bond\|Bonded]])
 **Other Family**
 - Margravine [[Characters/Quenelle Caelum\|Quenelle Caelum]] (maternal grandmother)
