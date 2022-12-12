@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"tags":["newrepublicsenate","resistance","princess","character"],"permalink":"/characters/janelle/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"tags":["newrepublicsenate","resistance","princess","character","unfinished"],"permalink":"/characters/janelle/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Janelle
@@ -31,9 +31,8 @@ Summary info.
 
 #### Family
 **Parents** 
-**Other Family**
-
 **Significant Other** [[Characters/Maerex\|Maerex]]
+**Other Family**
 
 #### Political
 **Allegiance**  
