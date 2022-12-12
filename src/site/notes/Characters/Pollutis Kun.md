@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":["Isaak Malori"],"tags":["forceghost","sith","fallenjedi","jedipadawan","sithcult","forcesensitive","unfinished","character"],"permalink":"/characters/pollutis-kun/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":["Isaak Malori"],"tags":["forceghost","sith","fallenjedi","jedipadawan","sithcult","forcesensitive","unfinished","character"],"permalink":"/characters/pollutis-kun/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Isaak Malori*
 
 # Pollutis Kun
