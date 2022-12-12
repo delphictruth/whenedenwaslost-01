@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"category":"crystal","location":null,"aliases":[],"tags":["color","attuned unattuned"],"permalink":"/templates/crystal/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"location":null,"aliases":[],"tags":["color","attuned unattuned","crystal","unfinished"],"permalink":"/templates/crystal/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Beginnings|Back to Home]]
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Name of Crystal
