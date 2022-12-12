@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"tags":["character"],"permalink":"/characters/mari-ange/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"tags":["character","unfinished"],"permalink":"/characters/mari-ange/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -17,7 +17,7 @@ Summary info.
 #### Biographical
 **Homeworld** 
 **Birth** 
-**Death** N/A
+**Death** 
 
 #### Physical
 **Age** 
@@ -32,5 +32,4 @@ Summary info.
 #### Family
 **Parents** 
 **Other Family**
-
-**Significant Other** 
+- [[Characters/Roman Ange\|Roman Ange]] (son)
