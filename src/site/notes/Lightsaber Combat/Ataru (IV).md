@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Form IV","Ataru","Ataru"],"tags":["form"],"permalink":"/lightsaber-combat/ataru-iv/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"aliases":["Form IV","Ataru","Ataru"],"tags":["form"],"permalink":"/lightsaber-combat/ataru-iv/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
