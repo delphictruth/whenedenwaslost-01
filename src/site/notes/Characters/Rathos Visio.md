@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"rank":"Jedi Master","class":"N/A","status":"Deceased","form":"II","tags":["jedi","character","resistance","jedipraxeum","jedimaster","newjediorder","formii","forcesensitive"],"permalink":"/characters/rathos-visio/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"rank":"Jedi Master","class":"N/A","status":"Deceased","form":"II","tags":["jedi","character","resistance","jedipraxeum","jedimaster","newjediorder","formii","forcesensitive"],"permalink":"/characters/rathos-visio/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Rathos Visio
