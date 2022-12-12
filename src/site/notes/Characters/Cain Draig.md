@@ -34,7 +34,7 @@ Summary info.
 **Significant Other** [[Characters/Holland Lillivere\|Holland Lillivere]] (wife)
 **Other Family**
 - [[Characters/Fecility Beauregard\|Fecility Beauregard]] (aunt/adopted mother)
-- [[Characters/Norm Draig\|Norm Draig]] (uncle/adopted father)
+- [[Characters/Norman Draig\|Norman Draig]] (uncle/adopted father)
 - [[Characters/Alban Draig\|Alban Draig]] (brother)
 - [[Characters/Talia Draig\|Talia Draig]] (sister*)
 - [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (sister-in-law)
