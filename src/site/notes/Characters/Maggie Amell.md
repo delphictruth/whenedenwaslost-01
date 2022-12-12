@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"tags":["galacticsenate imperialsenate newrepublicsenate","firstorder resistance","princess prince lord etc","forcesensitive","unfinished","character"],"permalink":"/characters/maggie-amell/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"tags":["galacticsenate imperialsenate newrepublicsenate","firstorder resistance","princess prince lord etc","forcesensitive","unfinished","character"],"permalink":"/characters/maggie-amell/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Maggie Amell
->title roles
+>Resistance Pilot
 
 ## Personal Information
 Summary info.
@@ -16,7 +16,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** 
-**Birth** [[Meta/Timeline#9ABY\|9 ABY]]
+**Birth** 
 **Death** N/A
 
 #### Physical
