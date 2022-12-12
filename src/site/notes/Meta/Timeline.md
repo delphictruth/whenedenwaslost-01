@@ -182,7 +182,7 @@ The [[Factions, Cults, Cultures, Governments/First Order\|First Order]] begins t
 [[Characters/Octavia Bonteri\|Octavia Bonteri]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] on ... 
 
 ### 11 ABY
-[[Characters/Hazel Caelum\|Hazel Caelum]] is born to [[Aurora Caelum\|Aurora Caelum]] [21] and [[Pirphal Chthonios\|Pirphal Chthonios]] [22] on [[Navigational/Nallastia\|Nallastia]]
+[[Characters/Hazel Caelum\|Hazel Caelum]] is born to [[Characters/Aurora Caelum\|Aurora Caelum]] [21] and [[Characters/Pirphal Chthonios\|Pirphal Chthonios]] [22] on [[Navigational/Nallastia\|Nallastia]]
 [[Characters/Atty\|AT-5365]] is born on [[Navigational/Primea\|Primea]] 
 
 ### 12 ABY
