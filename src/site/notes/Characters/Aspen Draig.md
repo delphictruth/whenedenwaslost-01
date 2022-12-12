@@ -32,7 +32,7 @@ Aspen Draig was a Commander in [[Navigational/Carida\|Carida]]'s Navy and briefl
 #### Family
 **Parents** N/A
 **Other Family** 
-- [[Characters/Norm Draig\|Norm Draig]] (brother)
+- [[Characters/Norman Draig\|Norman Draig]] (brother)
 - [[Characters/Fecility Beauregard\|Fecility Beauregard]] (sister-in-law)
 - [[Characters/Cain Draig\|Cain Draig]] (son)
 - [[Characters/Alban Draig\|Alban Draig]] (son)
