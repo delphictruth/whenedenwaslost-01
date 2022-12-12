@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":null,"class":"Padawan Class IV","rank":"Jedi Padawan","status":"Fallen","form":"V","aliases":["Feru Ren"],"tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formv","classiv","forcesensitive","unfinished","character"],"permalink":"/characters/roman-ange/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"class":"Padawan Class IV","rank":"Jedi Padawan","status":"Fallen","form":"V","aliases":["Feru Ren"],"tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formv","classiv","forcesensitive","unfinished","character"],"permalink":"/characters/roman-ange/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Roman Ange | Feru Ren
@@ -30,8 +30,8 @@ Summary info.
 
 #### Family
 **Parents** [[Characters/Mari Ange\|Mari Ange]] 
+**Significant Other**
 **Other Family**
-**Significant Other** 
 
 #### Political
 **Allegiance** [[Factions, Cults, Cultures, Governments/First Order\|First Order]]
