@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":null,"form":null,"class":"Padawan Class II","status":"Deceased","rank":"Jedi Knight","aliases":[],"tags":["sith","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive"],"permalink":"/characters/kieran-crevan/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"form":null,"class":"Padawan Class II","status":"Deceased","rank":"Jedi Knight","aliases":[],"tags":["sith","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"permalink":"/characters/kieran-crevan/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Kieran Crevan
@@ -31,10 +31,9 @@ Summary info.
 
 #### Family
 **Parents** 
+**Significant Other** 
 **Other Family**
 - 
-
-**Significant Other** 
 
 #### Political
 **Allegiance**  
