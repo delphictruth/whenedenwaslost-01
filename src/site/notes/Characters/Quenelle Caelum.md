@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"tags":["character"],"permalink":"/characters/quenelle-caelum/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"tags":["character","unfinished"],"permalink":"/characters/quenelle-caelum/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *Margravine Caelum*
 
 # Quenelle Caelum
->title roles
+>Margravine, Skull Queen of Nallastia 
 
 ## Personal Information
 Summary info.
