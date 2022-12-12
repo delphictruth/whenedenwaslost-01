@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"homeworld":"Carida","aliases":[],"tags":["resistance","forcesensitive","unfinished","character"],"permalink":"/characters/talia-draig/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":"Carida","aliases":[],"tags":["resistance","forcesensitive","unfinished","character"],"permalink":"/characters/talia-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *General Talia Draig*
 
 # Talia Rodarch Draig
->General of the Rebel Alliance
+>General of the Rebel Alliance, "Talia" of the Resistance
 
 ## Personal Information
 Summary info.
@@ -36,7 +36,7 @@ Summary info.
 
 #### Political
 **Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]
-**Rank**  
+**Rank** "Talia"
 **Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (General of the Pathfinders)
 
 ## History & Plot Significance
