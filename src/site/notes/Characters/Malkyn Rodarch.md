@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":"mandalore","aliases":["General Rodarch"],"tags":["resistance","general","mercenary","unfinished","character"],"permalink":"/characters/malkyn-rodarch/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":"mandalore","aliases":["General Rodarch"],"tags":["resistance","general","mercenary","unfinished","character"],"permalink":"/characters/malkyn-rodarch/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *General Rodarch*
 
 # Malkyn Rodarch Draig
@@ -37,9 +37,9 @@ General Rodarch is quite possibly one of the most iconic [[Factions, Cults, Cult
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (nephew/adopted son)
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Factions, Cults, Cultures, Governments/Resistance]]
+**Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]
 **Rank** General
-**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (mercenary), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
+**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (mercenary, General), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
 
 ## History & Plot Significance
 Brief blurb.
