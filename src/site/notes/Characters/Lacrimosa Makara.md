@@ -31,10 +31,9 @@ Summary info.
 
 #### Family
 **Parents** 
+**Significant Other** [[Characters/Chevalier Hellix\|Chevalier Hellix]] (it's complicated)
 **Other Family**
 - 
-
-**Significant Other** 
 
 #### Political
 **Allegiance**  
