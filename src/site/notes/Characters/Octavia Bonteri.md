@@ -1,23 +1,22 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"rank":"Jedi Padawan","class":"Padawan Class IV","status":"Deceased","form":"VII","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formvii","classiv","forcesensitive","unfinished","character"],"permalink":"/characters/octavia-bonteri/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"rank":"Jedi Padawan","class":"Padawan Class IV","status":"Deceased","form":"VII","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formvii","classiv","forcesensitive","unfinished","character"],"permalink":"/characters/octavia-bonteri/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Octavia Bonteri
->titles, taglines, etc
+>
 
 ## Personal Information
-Summary info.
-↳ 
+Octavia Bonteri was a Jedi padawan with the [[Factions, Cults, Cultures, Governments/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Moraband\|Moraband]] in the [[Battles, Major Events, Wars, Eras/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
 
 ### Basic Information
 
 #### Biographical
 **Homeworld** 
 **Birth** 
-**Death** N/A
+**Death** 
 
 #### Physical
 **Age** 
@@ -30,11 +29,9 @@ Summary info.
 ### Relations
 
 #### Family
-**Parents** [[Characters/Ellie Bonteri\|Ellie Bonteri]] and [[Characters/Michael Hellix\|Michael Hellix]]
+**Parents** [[Characters/Ellie Bonteri\|Ellie Bonteri]] & [[Characters/Michael Hellix\|Michael Hellix]]
 **Other Family**
-- [[Characters/Chevalier Hellix\|Chevalier Hellix]]
-
-**Significant Other** 
+- [[Characters/Chevalier Hellix\|Chevalier Hellix]] (half-brother)
 
 #### Political
 **Allegiance**  
@@ -42,10 +39,10 @@ Summary info.
 **Affiliations**  
 
 #### Jedi Praxeum
-**Master** 
-**Padawan** 
-**Knighted** 
-**Class** 
+**Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan** N/A
+**Knighted** N/A
+**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class IV]]
 
 ## Tactical Information
 Brief descriptions of combat style.
@@ -67,7 +64,7 @@ info info
 ### Weapons
 
 #### Jedi Saber
-[crystal] color hilt style attuned
+[[Crystals/Ankarres Sapphire\|Ankarres Sapphire]], deep indigo blue, copper-y colored hilt with waves etched into the metal 
 
 ## History & Plot Significance
 Brief blurb.
