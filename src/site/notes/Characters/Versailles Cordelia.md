@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"homeworld":"Corellia","form":"IV, VI","rank":"Jedi Padawan","status":"Fallen","class":"Padawan Class IV","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive","unfinished","character"],"permalink":"/characters/versailles-cordelia/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"homeworld":"Corellia","form":"IV, VI","rank":"Jedi Padawan","status":"Fallen","class":"Padawan Class IV","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive","unfinished","character"],"permalink":"/characters/versailles-cordelia/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Versailles Cordelia | Victa Ren
@@ -30,9 +30,9 @@ Summary info.
 
 #### Family
 **Parents** Unknown smugglers
+**Significant Other** [[Characters/Maggie Amell\|Maggie Amell]]
 **Other Family** 
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (brother*)
-**Significant Other** [[Characters/Maggie Amell\|Maggie Amell]]
 
 #### Political
 **Allegiance** [[Factions, Cults, Cultures, Governments/First Order\|First Order]]
@@ -77,7 +77,7 @@ She has a lot of [[Lightsaber Combat/Ataru (IV)\|Ataru (IV)]] influence in how s
 ### Weapons
 
 #### Darksider Saber / Saber Shoto
- Versailles' first lightsaber is her darksider saber, seeing how she had not yet made her own lightsaber before the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]. [[Characters/Alfred Jonnas\|Alfred Jonnas]] gave her the [[Crystals/Adegan\|Ilum]] crystal from his original lightsaber, which she [[Force Abilities, Force Phenomena/Bleed\|bled]] to form her original red blade.
+Versailles' first lightsaber is her darksider saber, seeing how she had not yet made her own lightsaber before the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]. [[Characters/Alfred Jonnas\|Alfred Jonnas]] gave her the [[Crystals/Adegan\|Ilum]] crystal from his original lightsaber, which she [[Force Abilities, Force Phenomena/Bleed\|bled]] to form her original red blade.
 
 However, she later dismantled the saber, trying to modify it to suit her more, and accidentally shattered the crystal. The blade was reduced to an unstable dagger-like shoto, which Versailles still keeps in her collection. 
 
