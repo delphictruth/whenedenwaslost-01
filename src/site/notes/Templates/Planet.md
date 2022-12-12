@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"category":"planet","region":null,"sector":null,"system":null,"aliases":[],"tags":["map","resistance firstorder","monarchy democracy"],"permalink":"/templates/planet/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"dg-home-link":false,"region":null,"sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","system hyperlane sector planet","unfinished"],"permalink":"/templates/planet/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
-- [[Meta/Beginnings|Back to Home]]
+- [[Meta/Timeline\|Back to Home]]
 - Also known as 
 
 # Planet
@@ -11,3 +11,5 @@ Desc
 **Capital**
 **Notable Locations**
 - test
+
+**Planets**
