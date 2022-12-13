@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Dalnan","system":"Eiram","grid":"I-19","aliases":[],"tags":["map","planet","outerrim","dalnan","retraining","unfinished"],"permalink":"/navigational/eiram/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/eiram/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
