@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"aliases":["Form III","Soresu"],"tags":["form"],"permalink":"/lightsaber-combat/soresu-iii/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lightsaber-combat/soresu-iii/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form III*
 # Soresu 
 >The Way of the Mynock, The Resilience Form
