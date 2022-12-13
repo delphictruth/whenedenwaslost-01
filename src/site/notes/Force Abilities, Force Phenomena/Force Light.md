@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":[],"tags":["light","jedi","utility","alter","forcepower"],"permalink":"/force-abilities-force-phenomena/force-light/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/force-light/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
