@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/moraband/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Korriban*, *Pegesam*
 
 # Moraband
@@ -22,5 +22,5 @@ Desc
 
 
 ### Tomb of Maka Ragnos
-The final resting place of [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], an ancient Sith lord who still lingered in the Tomb as a [[Force Abilities, Force Phenomena/Force ghosts\|Sith ghost]] centuries after his death. It is located in the Valley of the Dark Lords on [[Navigational/Moraband\|Moraband]] and is also where the [[Weaponry, Ships, Technology/Sceptor of Ragnos\|Sceptor of Ragnos]] was once hidden. 
+The final resting place of [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], an ancient Sith lord who still lingered in the Tomb as a [[Force Abilities & Phenomena/Force ghosts\|Sith ghost]] centuries after his death. It is located in the Valley of the Dark Lords on [[Navigational/Moraband\|Moraband]] and is also where the [[Weapons/Sceptor of Ragnos\|Sceptor of Ragnos]] was once hidden. 
 
