@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/crystals/ankarres-sapphire/"}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Antares crystal*
 
 # Ankarras Sapphire
-The Ankarras Sapphire is a unique [[Crystals/Lightsaber crystal\|lightsaber crystal]], the only one of its kind. It is a legendary stone with great healing powers, capable of being wielded by Lightsiders on its own but also able to be used in a lightsaber to strengthen the Jedi overall. It produces a dark blue blade, nearly indigo in color.
+The Ankarras Sapphire is a unique [[Directories/Lightsaber Crystals\|lightsaber crystal]], the only one of its kind. It is a legendary stone with great healing powers, capable of being wielded by Lightsiders on its own but also able to be used in a lightsaber to strengthen the Jedi overall. It produces a dark blue blade, nearly indigo in color.
 
 It is said that if a Darksider tries to wield the crystal, or any saber produced with it, it will burn their hands. 
 
