@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Chorlian","system":"Malachor","grid":"S-4","aliases":["Malachor"],"tags":["map","retraining","outerrim","chorlian","planet"],"permalink":"/navigational/malachor-v/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/malachor-v/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
