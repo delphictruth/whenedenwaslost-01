@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Colonies","sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","sector","colonies","unfinished"],"permalink":"/navigational/tapani-sector/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/tapani-sector/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
