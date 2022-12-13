@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Enlightenment"],"tags":["light","utility","forcepower","control"],"permalink":"/force-abilities-force-phenomena/force-enlightenment/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/force-enlightenment/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
