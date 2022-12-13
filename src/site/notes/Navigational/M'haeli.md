@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Expansion Region","sector":"Majoor","system":"Plynn","grid":"N-15","aliases":[],"tags":["map","planet","expansion","majoor","starkiller","unfinished"],"permalink":"/navigational/m-haeli/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/m-haeli/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
