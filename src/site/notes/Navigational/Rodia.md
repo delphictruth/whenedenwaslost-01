@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/rodia/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]]
+- [[Directories/Timeline\|Back to Home]]
 
 # Rodia
 Rodia is a small industrial planet located in the [[Navigational/Tyrius system\|Tyrius system]] of the [[Navigational/Outer Rim\|Outer Rim]]. It is predominantly covered in rainforests, oceans, and swamps, with no truly dry land to speak of. Notably, it is the homeworld of the *Rodian species* and is known (humorously) as a major exporter of "bounty hunters". 
@@ -54,7 +54,7 @@ Betu is one of the two continents on Rodia. It is the smaller of the two but pre
 Equator City is a megalopolis that was previously the capital city of Rodia. It is located on the continent Betu. It is a known gambling complex that is said to have hosted various criminal syndicates over the years.
 
 #### Flip of the Credit
-Flip of the Credit is a casino located in Equator City. It is most famously known as a money laundering sceme for the [[Factions, Cults, Cultures, Governments/Black Sun\|Black Sun]].
+Flip of the Credit is a casino located in Equator City. It is most famously known as a money laundering sceme for the [[Organizations/Black Sun\|Black Sun]].
 
 #### Holosseum
 A prestigious concert hall located in Equator City. It is a larger, half-egg shaped construction made of durasteel and transparisteel. It is apparently spacious enough to hold "at least 5 light freighters."
