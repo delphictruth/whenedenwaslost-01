@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":"Carida","aliases":["General Draig","Cain"],"tags":["resistance","general","character","forcesensitive","unfinished"],"permalink":"/characters/cain-draig/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/cain-draig/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
