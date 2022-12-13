@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Wild Space","sector":"Unknown","system":null,"grid":"K-2","aliases":[],"tags":["map","planet","wildspace","unfinished"],"permalink":"/navigational/mortis/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/mortis/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
