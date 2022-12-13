@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"location":"Korriban","year":null,"aliases":["Pesegam's Fall"],"tags":["event","battle"],"permalink":"/battles-major-events-wars-eras/fall-of-the-jen-jidai/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/battles-major-events-wars-eras/fall-of-the-jen-jidai/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
