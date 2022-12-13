@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":"Anaxes","form":"II","rank":"Jedi Knight","class":"Padawan Class III","status":"Fallen","aliases":["Jus Ren"],"tags":["character","fallenjedi","jediknight","firstorder","knightsofren","jedipraxeum","formii","forcesensitive","unfinished"],"permalink":"/characters/bardolph-vos/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/bardolph-vos/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
