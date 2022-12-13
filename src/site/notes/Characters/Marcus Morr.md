@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"form":null,"class":"Padawan Class II","status":"Deceased","rank":"Jedi Knight","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished","character"],"permalink":"/characters/marcus-morr/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/marcus-morr/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
