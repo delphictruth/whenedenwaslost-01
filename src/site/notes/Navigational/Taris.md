@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":null,"system":"Taris","grid":"N-7","aliases":[],"tags":["map","outerrim","retraining","planet","unfinished"],"permalink":"/navigational/taris/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/taris/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
