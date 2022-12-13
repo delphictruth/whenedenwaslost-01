@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":null,"class":"Padawan Class IV","rank":"Jedi Padawan","status":"Fallen","form":"V","aliases":["Feru Ren"],"tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formv","classiv","forcesensitive","unfinished","character"],"permalink":"/characters/roman-ange/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/roman-ange/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
