@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":null,"sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","hyperlane","unfinished","corellian"],"permalink":"/navigational/corellian-run/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/corellian-run/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
