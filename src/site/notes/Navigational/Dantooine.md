@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":null,"sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","starkiller","planet","unfinished"],"permalink":"/navigational/dantooine/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/dantooine/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
