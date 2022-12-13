@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":null,"aliases":[],"tags":["fauna"],"permalink":"/weaponry-ships-technology/sceptor-of-ragnos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/weaponry-ships-technology/sceptor-of-ragnos/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
