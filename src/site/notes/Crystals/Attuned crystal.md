@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["fauna"],"permalink":"/crystals/attuned-crystal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/crystals/attuned-crystal/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
