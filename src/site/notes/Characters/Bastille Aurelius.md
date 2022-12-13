@@ -38,8 +38,6 @@ Bastille carries the legacies of far too many, always destined to either excel i
 - [[Characters/Cain Draig\|Cain Draig]] (uncle)
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]] (sister*)
 
-**Significant Other** [[Characters/Hazel Caelum\|Hazel Caelum]] ([[Force Abilities, Force Phenomena/Force Bond\|Bonded]])
-
 **Sith Ghosts**
 - [[Characters/Darth Grimm\|Darth Grimm]]
 - [[Characters/Pollutis Kun\|Pollutis Kun]]
