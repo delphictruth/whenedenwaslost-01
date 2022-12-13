@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/cassel-dameron/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Cassel Dameron
@@ -16,7 +16,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** 
-**Birth** [[Meta/Timeline#8 ABY\|8 ABY]]
+**Birth** [[Directories/Timeline#8 ABY\|8 ABY]]
 **Death** N/A
 
 #### Physical
