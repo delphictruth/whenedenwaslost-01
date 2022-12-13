@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Savareen","system":"Tyrius","grid":"R-16","aliases":["Sky Fortress"],"tags":["map","planet","savareen","outerrim","tyrius"],"permalink":"/navigational/pirdia/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/pirdia/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
