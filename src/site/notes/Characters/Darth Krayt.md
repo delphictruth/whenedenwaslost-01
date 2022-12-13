@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/darth-krayt/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *A'Sharad Hett*
 
 # Darth Krayt
@@ -12,6 +12,6 @@ As Jedi Master A'Sharad Hett of the Jedi Order, he fought in the Clone Wars and 
 
 While in hiding, he eventually discovered that former Jedi Padawan Isaak Malori had gone on to become Pollutis Kun. Hett had known the Padawan and had been the one to pursuade the Council that it was time to give up searching for the boy several weeks after he disappeared from the Order in 12 BBY. Hett blamed himself for what the boy became. He cut himself off from the Force and began working as a bounty hunter. 
 
-During his travels, he ended up on [[Navigational/Malachor V\|Malachor V]] and was trapped in a vortex that pulled his starship to the planet's surface. While he was stranded there he became corrupted by the Dark side and the [[Force Abilities, Force Phenomena/Wound in the Force\|Wound in the Force]] that prevails on the planet, becoming the Sith Lord Darth Krayt. He went on to recruit followers for the [[Factions, Cults, Cultures, Governments/One Sith\|One Sith]] on the Sith world [[Navigational/Zoist\|Zoist]].
+During his travels, he ended up on [[Navigational/Malachor V\|Malachor V]] and was trapped in a vortex that pulled his starship to the planet's surface. While he was stranded there he became corrupted by the Dark side and the [[Force Abilities & Phenomena/Wound in the Force\|Wound in the Force]] that prevails on the planet, becoming the Sith Lord Darth Krayt. He went on to recruit followers for the [[Organizations/One Sith\|One Sith]] on the Sith world [[Navigational/Zoist\|Zoist]].
 
 
