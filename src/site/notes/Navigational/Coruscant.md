@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Core Worlds","sector":"Corusca","system":"Coruscant","grid":"L-9","aliases":[],"tags":["map","resistance","democracy","corellian","perlemian","corudant","koros","martial","metellos","spur","unfinished"],"permalink":"/navigational/coruscant/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/coruscant/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
