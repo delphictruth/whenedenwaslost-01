@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":null,"system":"Crait","aliases":[],"tags":["map","planet","unfinished"],"permalink":"/navigational/crait/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/crait/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
