@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"aliases":["Back to Timeline"],"permalink":"/meta/timeline/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/meta/timeline/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-- **Outdated timeline, ages/year likely inaccurate**
+- **Outdated timeline, ages/years likely inaccurate, unreliable record**
 # Galactic Timeline
 ## Clone Wars Era
 ### 20 BBY
@@ -26,11 +26,11 @@ Jedi Order disaffiliates from the [[Factions, Cults, Cultures, Governments/Galac
 ↳ [[Battles, Major Events, Wars, Eras/The Jedi Exile\|The Jedi Exile]] = Jedi become independent agents once more and remove themselves from politics
 Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] becomes involved in the beginnings of a resistance movement among the [[Factions, Cults, Cultures, Governments/Imperial Senate\|Imperial Senate]]
 [[Characters/Aspen Draig\|Aspen Draig]] is killed in action
-↳ [[Characters/Cain Draig\|Cain Draig]] [2] and [[Characters/Alban Draig\|Alban Draig]] [1] are taken in by General [[Characters/Norm Draig\|Norm Draig]] and Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]]
+↳ [[Characters/Cain Draig\|Cain Draig]] [2] and [[Characters/Alban Draig\|Alban Draig]] [1] are taken in by General [[Characters/Norman Draig\|Norman Draig]] and Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]]
 [[Characters/Dahlia Coutier\|Dahlia Coutier]] is born on ... 
 
 ### 17 BBY
-[[Characters/Talia Draig\|Talia Draig]] is born to [[Characters/Fecility Beauregard\|Fecility Beauregard]] and [[Characters/Norm Draig\|Norm Draig]]
+[[Characters/Talia Draig\|Talia Draig]] is born to [[Characters/Fecility Beauregard\|Fecility Beauregard]] and [[Characters/Norman Draig\|Norman Draig]]
 [[Characters/Alban Draig\|Alban Draig]] [2] begins to show early signs of Force sensitivity
 
 ### 16 BBY
@@ -85,7 +85,7 @@ Jedi numbers continue to dwindle
 ### 3 BBY
 [[Battles, Major Events, Wars, Eras/Occupation of Carida\|Occupation of Carida]] occurs
 ↳ The [[Factions, Cults, Cultures, Governments/Galactic Empire\|Galactic Empire]] occupies [[Navigational/Carida\|Carida]] after discovering that they are aiding in [[Factions, Cults, Cultures, Governments/Rebellion\|Rebellion]] activities 
-↳ Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] and General [[Characters/Norm Draig\|Norm Draig]] are killed in the overthrow of the government 
+↳ Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] and General [[Characters/Norman Draig\|Norman Draig]] are killed in the overthrow of the government 
 ↳ [[Characters/Cain Draig\|Cain Draig]] [15] and [[Characters/Talia Draig\|Talia Draig]] [13] are orphaned 
 Unrest on [[Navigational/Carida\|Carida]] occurs during the attempt to restructure their government and appease the [[Factions, Cults, Cultures, Governments/Galactic Empire\|Galactic Empire]]
 
@@ -260,7 +260,7 @@ The [[Factions, Cults, Cultures, Governments/New Jedi Order\|New Jedi Order]] en
 [[Battles, Major Events, Wars, Eras/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]
 ↳ Jedi Padawan [[Characters/Bastille Aurelius\|Bastille Aurelius]] [17] is forbidden from joining the strike team
 ↳ Jedi Padawan [[Characters/Octavia Bonteri\|Octavia Bonteri]] [15] is killed in the battle
-↳ Jedi Knight [[Characters/Kieran Crevan\|Kieran Crevan]] [21] enters the [[Tomb of Maka Ragnos\|Tomb of Maka Ragnos]] and disappears
+↳ Jedi Knight [[Characters/Kieran Crevan\|Kieran Crevan]] [21] enters the [[Navigational/Moraband#Tomb of Maka Ragnos\|Tomb of Maka Ragnos]] and disappears
 
 ### 26 ABY
 [[Characters/Kieran Crevan\|Kieran Crevan]] [22], possessed by [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], attacks the [[Factions, Cults, Cultures, Governments/Jedi Praxeum\|Jedi Praxeum]] with aid from the remaining [[Factions, Cults, Cultures, Governments/Disciples of Ragnos\|Disciples of Ragnos]]
