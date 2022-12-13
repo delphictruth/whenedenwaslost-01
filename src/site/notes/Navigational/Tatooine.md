@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Arkanis","system":"Tatoo","grid":"R-16","aliases":[],"tags":["map","planet","outerrim","starkiller","arkanis","mumbles","triellus","unfinished"],"permalink":"/navigational/tatooine/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/tatooine/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
