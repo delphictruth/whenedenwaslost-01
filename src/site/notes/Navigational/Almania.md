@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Mortex","system":"Almanian","grid":"S-5","aliases":[],"tags":["map","planet","outerrim","mortex"],"permalink":"/navigational/almania/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/almania/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
