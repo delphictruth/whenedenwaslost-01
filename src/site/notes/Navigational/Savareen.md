@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Savareen","system":"Savareen","grid":"Q-16","aliases":[],"tags":["map","planet","kessel","corellian"],"permalink":"/navigational/savareen/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/savareen/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
