@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"aliases":["Form VI","Niman","VI"],"tags":["form"],"permalink":"/lightsaber-combat/niman-vi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lightsaber-combat/niman-vi/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form VI*
 
 # Niman
