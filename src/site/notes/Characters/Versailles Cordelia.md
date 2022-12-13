@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":"Corellia","form":"IV, VI","rank":"Jedi Padawan","status":"Fallen","class":"Padawan Class IV","aliases":["Victa Ren"],"tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive","unfinished","character"],"permalink":"/characters/versailles-cordelia/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/versailles-cordelia/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
