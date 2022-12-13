@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":"Artorias","rank":"Jedi Knight","form":"I","class":"Padawan Class III","status":"Fallen","aliases":["Deco Ren","Prince Jonnas"],"tags":["character","fallenjedi","firstorder","knightsofren","jediknight","jedipraxeum","prince","royalty","formi","forcesensitive","unfinished"],"permalink":"/characters/alfred-jonnas/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/alfred-jonnas/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
