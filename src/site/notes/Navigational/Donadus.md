@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Inner Rim","sector":"Bamula","system":"Donadus","grid":"J-13","aliases":[],"tags":["map","innerrim","bamula","planet","unfinished"],"permalink":"/navigational/donadus/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/donadus/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
