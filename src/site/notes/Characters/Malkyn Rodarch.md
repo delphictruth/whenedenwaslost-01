@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":"mandalore","aliases":["General Rodarch"],"tags":["resistance","general","mercenary","unfinished","character"],"permalink":"/characters/malkyn-rodarch/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/malkyn-rodarch/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -39,7 +39,7 @@ General Rodarch is quite possibly one of the most iconic [[Factions, Cults, Cult
 #### Political
 **Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]
 **Rank** General
-**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (mercenary, General), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
+**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (mercenary), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
 
 ## History & Plot Significance
 Brief blurb.
