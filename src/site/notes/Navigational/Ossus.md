@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Auril","system":"Adega","grid":"R-6","aliases":[],"tags":["map","planet","outerrim","auril","starkiller","unfinished"],"permalink":"/navigational/ossus/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/ossus/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
