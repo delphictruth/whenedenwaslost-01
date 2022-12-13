@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Savareen","system":"Christoph","grid":"Q-16","aliases":[],"tags":["map","planet","corellian","outerrim","savareen"],"permalink":"/navigational/christophsis/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/christophsis/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
