@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Tarabba","system":"Utapau","grid":null,"aliases":[],"tags":["map","planet","starkiller","outerrim","tarabba","unfinished"],"permalink":"/navigational/utapau/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/utapau/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
