@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/marcus-morr/"}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Marcus Morr
@@ -16,7 +16,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** 
-**Birth** [[Meta/Timeline#3 ABY\|3 ABY]]
+**Birth** [[Directories/Timeline#3 ABY\|3 ABY]]
 **Death** N/A
 
 #### Physical
