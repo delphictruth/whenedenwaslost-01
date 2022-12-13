@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/talia-draig/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *General Talia Draig*
 
 # Talia Rodarch Draig
@@ -35,9 +35,9 @@ Summary info.
 **Other Family**
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]
+**Allegiance** [[Organizations/Resistance\|Resistance]]
 **Rank** "Talia"
-**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (General of the Pathfinders)
+**Affiliations** [[Organizations/Rebellion\|Rebel Alliance]] (General of the Pathfinders)
 
 ## History & Plot Significance
 Brief blurb.
