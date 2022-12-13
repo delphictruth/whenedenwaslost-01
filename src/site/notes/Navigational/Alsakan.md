@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/navigational/alsakan/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Archais*
 
 # Alsakan
 Alsakan is an ecumenopolis[^1] world in the Alsakan system in the [[Navigational/Core Worlds\|Core Worlds]]. A Core Founder on the [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]], Alsakan is an ancient, wealthy world that has been a major political player for centuries. 
 
-In ancient times, it was known as the [[Factions, Cults, Cultures, Governments/Kingdom of Archais\|Kingdom of Archais]] and is sometimes still referred to as *Archais* given that Alsakan is still ruled by the kingdom. 
+In ancient times, it was known as the [[Organizations/Kingdom of Archais\|Kingdom of Archais]] and is sometimes still referred to as *Archais* given that Alsakan is still ruled by the kingdom. 
 
 **Capital** Xenvaer
 **Notable Locations**
