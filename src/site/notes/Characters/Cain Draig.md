@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/cain-draig/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *General Draig*, *Admiral Draig*
 
 # Cain Draig
@@ -16,7 +16,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** [[Navigational/Carida\|Carida]]
-**Birth** [[Meta/Timeline#20BBY\|20 BBY]]
+**Birth** [[Directories/Timeline#20BBY\|20 BBY]]
 **Death** N/A
 
 #### Physical
@@ -42,9 +42,9 @@ Summary info.
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (nephew)
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]
+**Allegiance** [[Organizations/Resistance\|Resistance]]
 **Rank** General
-**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (Admiral), [[Factions, Cults, Cultures, Governments/Galactic Senate\|Galactic Senate]] (former Senator)
+**Affiliations** [[Organizations/Rebellion\|Rebel Alliance]] (Admiral), [[Organizations/Galactic Senate\|Galactic Senate]] (former Senator)
 
 ## History & Plot Significance
 Brief blurb.
