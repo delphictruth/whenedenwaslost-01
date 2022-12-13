@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":[],"tags":["light dark universal","offense defense utility","control sense alter","forcepower"],"permalink":"/crystals/deadly-sight/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/crystals/deadly-sight/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
