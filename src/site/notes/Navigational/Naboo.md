@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim","sector":"Chommell","system":"Naboo","grid":"O-17","aliases":[],"tags":["map","midrim","chommell","planet","unfinished"],"permalink":"/navigational/naboo/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/naboo/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
