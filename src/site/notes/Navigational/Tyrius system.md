@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Savareen","grid":"R-16","aliases":[],"tags":["map","system","savareen","outerrim"],"permalink":"/navigational/tyrius-system/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/tyrius-system/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
