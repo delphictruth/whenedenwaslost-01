@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/tashtor-sector/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]]
+- [[Directories/Timeline\|Back to Home]]
 
 # Tashtor sector
 
