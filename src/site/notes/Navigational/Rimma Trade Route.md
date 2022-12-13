@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim","sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","midrim","hyperlane","unfinished"],"permalink":"/navigational/rimma-trade-route/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/rimma-trade-route/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
