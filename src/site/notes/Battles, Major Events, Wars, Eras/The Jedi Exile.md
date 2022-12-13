@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"tags":["unfinished","event"],"permalink":"/battles-major-events-wars-eras/the-jedi-exile/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/battles-major-events-wars-eras/the-jedi-exile/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
