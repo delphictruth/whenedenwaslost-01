@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":null,"aliases":[],"rank":"Jedi Padawan","class":"Padawan Class IV","status":"Deceased","form":"VII","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formvii","classiv","forcesensitive","unfinished","character"],"permalink":"/characters/octavia-bonteri/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/octavia-bonteri/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
