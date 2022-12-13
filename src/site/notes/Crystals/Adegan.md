@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":null,"aliases":["Ilum"],"tags":["color","unattuned","crystal"],"permalink":"/crystals/adegan/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/crystals/adegan/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
