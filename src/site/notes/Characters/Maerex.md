@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/maerex/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Senator*
 
 # Maerex
@@ -16,7 +16,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** 
-**Birth** [[Meta/Timeline#9ABY\|9 ABY]]
+**Birth** [[Directories/Timeline#9ABY\|9 ABY]]
 **Death** N/A
 
 #### Physical
