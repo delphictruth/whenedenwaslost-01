@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":null,"system":null,"grid":"P-17","aliases":[],"tags":["map","outerrim","retraining","planet","unfinished"],"permalink":"/navigational/ikkrukk/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/ikkrukk/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
