@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"force","aliases":["Force Whirlwind","Spell of Storm"],"tags":["dark","light","offense","sense","alter","forcepower"],"permalink":"/force-abilities-force-phenomena/force-wind/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/force-wind/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
