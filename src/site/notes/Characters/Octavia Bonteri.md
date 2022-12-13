@@ -2,14 +2,14 @@
 {"dg-publish":true,"permalink":"/characters/octavia-bonteri/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Octavia Bonteri
 >
 
 ## Personal Information
-Octavia Bonteri was a Jedi padawan with the [[Factions, Cults, Cultures, Governments/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Moraband\|Moraband]] in the [[Battles, Major Events, Wars, Eras/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
+Octavia Bonteri was a Jedi padawan with the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Moraband\|Moraband]] in the [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
 
 ### Basic Information
 
@@ -42,7 +42,7 @@ Octavia Bonteri was a Jedi padawan with the [[Factions, Cults, Cultures, Governm
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** N/A
 **Knighted** N/A
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class IV]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class IV]]
 
 ## Tactical Information
 Brief descriptions of combat style.
