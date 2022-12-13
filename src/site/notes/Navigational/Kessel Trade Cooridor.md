@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Kessel","aliases":[],"tags":["map","hyperlane"],"permalink":"/navigational/kessel-trade-cooridor/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/kessel-trade-cooridor/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
