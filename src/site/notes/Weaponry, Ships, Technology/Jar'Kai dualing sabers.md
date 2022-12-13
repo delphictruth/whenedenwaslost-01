@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location homeworld":null,"aliases":[],"tags":["galacticsenate imperialsenate","resistance firstorder","sith jedi","fauna"],"permalink":"/weaponry-ships-technology/jar-kai-dualing-sabers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/weaponry-ships-technology/jar-kai-dualing-sabers/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
