@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Core Worlds","grid":null,"aliases":[],"tags":["map","sector","unfinished","gijurun"],"permalink":"/navigational/atrisian-commonwealth/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/atrisian-commonwealth/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
