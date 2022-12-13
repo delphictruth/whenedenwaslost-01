@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","grid":"Q-16","aliases":[],"tags":["map","sector","unfinished","corellian","triellus","outerrim"],"permalink":"/navigational/savareen-sector/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/savareen-sector/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
