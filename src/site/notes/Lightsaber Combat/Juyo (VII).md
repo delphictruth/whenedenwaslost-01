@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"aliases":["Form VII","VII","Juyo","Vaapad","Vaapad (VII)","Juyo (VII)"],"tags":["form"],"permalink":"/lightsaber-combat/juyo-vii/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lightsaber-combat/juyo-vii/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form VII*
 
 # Juyo / Vaapad
