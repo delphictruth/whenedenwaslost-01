@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Unknown Regions","sector":null,"system":"Ilum","grid":"G-7","aliases":[],"tags":["map","planet","unknown"],"permalink":"/navigational/ilum/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/ilum/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
