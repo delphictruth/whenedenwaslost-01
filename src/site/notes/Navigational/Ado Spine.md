@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim","sector":"Ado","system":null,"grid":null,"aliases":[],"tags":["map","hyperlane","midrim","unfinished"],"permalink":"/navigational/ado-spine/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/ado-spine/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
