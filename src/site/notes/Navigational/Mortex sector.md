@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","grid":null,"aliases":[],"tags":["map","sector","outerrim"],"permalink":"/navigational/mortex-sector/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/mortex-sector/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
