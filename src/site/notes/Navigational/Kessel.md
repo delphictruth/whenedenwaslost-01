@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Kessel","system":"Kessel","grid":"T-10","aliases":[],"tags":["map","planet","outerrim","kessel","kessels","kesselt"],"permalink":"/navigational/kessel/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/kessel/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
