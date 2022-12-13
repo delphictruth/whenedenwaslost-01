@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Expansion Region","sector":null,"system":null,"grid":"N-15","aliases":[],"tags":["map","sector","expansion","unfinished"],"permalink":"/navigational/majoor-sector/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/majoor-sector/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
