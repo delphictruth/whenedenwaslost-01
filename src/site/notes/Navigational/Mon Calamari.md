@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/mon-calamari/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]]
+- [[Directories/Timeline\|Back to Home]]
 - Also known as 
 
 # Mon Calamari
