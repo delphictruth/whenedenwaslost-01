@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/imperia-sibyl/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Imperia Sibyl | Sacra Ren
@@ -35,15 +35,15 @@ Summary info.
 **Significant Other** [[Characters/Bardolph Vos\|Bardolph Vos]]
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/First Order\|First Order]]
+**Allegiance** [[Organizations/First Order\|First Order]]
 **Rank** Knight
-**Affiliations** [[Factions, Cults, Cultures, Governments/Knights of Ren\|Knights of Ren]]
+**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
 
 #### Jedi Praxeum
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** N/A
-**Knighted** [[Meta/Timeline#29 ABY\|29 ABY]]
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class III]]
+**Knighted** [[Directories/Timeline#29 ABY\|29 ABY]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class III]]
 
 #### Knights of Ren
 **Rank** Knight
@@ -67,14 +67,14 @@ Imperia does not practice an traditional lightsaber form. She utilizes a unique 
 The Mother
 
 **Strengths**
-- [[Force Abilities, Force Phenomena/Force healing\|Force healing]]
-- [[Force Abilities, Force Phenomena/Hibernation trance\|Hibernation trance]]
-- [[Force Abilities, Force Phenomena/Center of Being\|Center of Being]]
-- [[Force Abilities, Force Phenomena/Battle Meditation\|Battle Meditation]]
-- [[Force Abilities, Force Phenomena/Wall of Light\|Wall of Light]]
-- [[Force Abilities, Force Phenomena/Telekinesis\|Telekinesis]]
-- [[Force Abilities, Force Phenomena/Malacia\|Malacia]]
-- [[Force Abilities, Force Phenomena/Morichro\|Morichro]]
+- [[Force Abilities & Phenomena/Force healing\|Force healing]]
+- [[Force Abilities & Phenomena/Hibernation trance\|Hibernation trance]]
+- [[Force Abilities & Phenomena/Center of Being\|Center of Being]]
+- [[Force Abilities & Phenomena/Battle Meditation\|Battle Meditation]]
+- [[Force Abilities & Phenomena/Wall of Light\|Wall of Light]]
+- [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]]
+- [[Force Abilities & Phenomena/Malacia\|Malacia]]
+- [[Force Abilities & Phenomena/Morichro\|Morichro]]
 **Weaknesses**
 - Hand-to-hand combat
 
@@ -84,7 +84,7 @@ The Mother
 Imperia's Jedi lightsabers were three identical sabers crafted from [[Crystals/Durindfire\|Durindfire]] crystals specifically [[Crystals/Attuned crystal\|attuned]] to maintain harmony with her Force signature and with one another. They were light blue with a silvery sheen granted by the crystal, with standard silver hilts. 
 
 #### Darksider Sabers
-After the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Imperia [[Force Abilities, Force Phenomena/Bleed\|bled]] her original lightsabers. While they became a pale red with a silvery sheen, there was very little change to their composition given the neutrality of their original alignment. 
+After the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Imperia [[Force Abilities & Phenomena/Bleed\|bled]] her original lightsabers. While they became a pale red with a silvery sheen, there was very little change to their composition given the neutrality of their original alignment. 
 
 ## History & Plot Significance
 — Imperia practices more removed methods of fighting and interacting with the Force; she generally physically passive, relying more so on her strong spiritual connection to the Force and the reliance on mental techniques and magicks; more cult-like appreciation
