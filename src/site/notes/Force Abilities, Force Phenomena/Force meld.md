@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["meld","Jedi meld","battle meld","combat meld"],"tags":["light","offense","sense","forcepower"],"permalink":"/force-abilities-force-phenomena/force-meld/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/force-meld/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
