@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"aliases":["Maka Ragnos"],"tags":["unfinished","character"],"permalink":"/characters/dark-lord-ragnos/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/dark-lord-ragnos/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
