@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location":null,"aliases":[],"tags":["color","attuned unattuned","crystal"],"permalink":"/crystals/durindfire/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/crystals/durindfire/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
