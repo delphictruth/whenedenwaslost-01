@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/lillian-nicolescu/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Lillian Nicolescu
@@ -38,7 +38,7 @@ Summary info.
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Chevalier Hellix\|Chevalier Hellix]] (brief)
 **Padawan** N/A
 **Knighted** N/A
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class IV]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class IV]]
 
 ## History & Plot Significance
 Still using a training blade at Fall; was still in the learning phases of form i 
