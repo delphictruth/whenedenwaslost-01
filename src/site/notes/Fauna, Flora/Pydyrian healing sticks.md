@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"location":"Pyrdyr","aliases":[],"tags":["fauna"],"permalink":"/fauna-flora/pydyrian-healing-sticks/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/fauna-flora/pydyrian-healing-sticks/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
