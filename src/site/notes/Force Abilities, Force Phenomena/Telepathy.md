@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["telepathic","Second Sight"],"tags":["universal","sens","forcepower"],"permalink":"/force-abilities-force-phenomena/telepathy/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/telepathy/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
