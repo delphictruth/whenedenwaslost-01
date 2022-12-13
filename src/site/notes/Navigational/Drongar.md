@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":null,"system":"Drongar","grid":"T-5","aliases":[],"tags":["map","planet","outerrim"],"permalink":"/navigational/drongar/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/drongar/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
