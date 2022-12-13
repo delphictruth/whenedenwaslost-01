@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Unknown Regions","grid":null,"aliases":[],"tags":["map","sector","unknown","burkes","unfinished"],"permalink":"/navigational/terrabe-sector/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/terrabe-sector/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
