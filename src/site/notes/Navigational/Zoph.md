@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Unknown Regions","grid":"F-4","aliases":["Starkiller Base"],"tags":["map","planet","unknown"],"permalink":"/navigational/zoph/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/zoph/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
