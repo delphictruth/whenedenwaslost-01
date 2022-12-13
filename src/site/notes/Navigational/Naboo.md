@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/naboo/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]]
+- [[Directories/Timeline\|Back to Home]]
 - Also known as 
 
 # Naboo
