@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"location":"Pydyr","aliases":[],"tags":["faction"],"permalink":"/factions-cults-cultures-governments/fallanassi/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/factions-cults-cultures-governments/fallanassi/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
