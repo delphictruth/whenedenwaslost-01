@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Sith battle coordination"],"tags":["forcepower","universal","control","sense","alter"],"permalink":"/force-abilities-force-phenomena/battle-meditation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/battle-meditation/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
