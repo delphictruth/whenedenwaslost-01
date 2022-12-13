@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Core Worlds","sector":"Koornacht","system":"N'zoth","grid":"K-10","aliases":[],"tags":["map","core","koornacht","planet","starkiller","unfinished"],"permalink":"/navigational/y-ness/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/y-ness/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
