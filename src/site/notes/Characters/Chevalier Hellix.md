@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/chevalier-hellix/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Chevalier Hellix | Muta Ren
@@ -15,7 +15,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** [[Navigational/Chandrila\|Chandrila]]
-**Birth** [[Meta/Timeline#7 ABY\|7 ABY]]
+**Birth** [[Directories/Timeline#7 ABY\|7 ABY]]
 **Death** N/A
 
 #### Physical
@@ -37,15 +37,15 @@ Summary info.
 **Significant Other** [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/First Order\|First Order]]
+**Allegiance** [[Organizations/First Order\|First Order]]
 **Rank** Second Knight
-**Affiliations** [[Factions, Cults, Cultures, Governments/Knights of Ren\|Knights of Ren]]
+**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
 
 #### Jedi Praxeum
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Allyson Petit\|Allyson Petit]]
 **Padawan** [[Characters/Lillian Nicolescu\|Lillian Nicolescu]] (brief)
-**Knighted** [[Meta/Timeline#26 ABY\|26 ABY]]
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class III]]
+**Knighted** [[Directories/Timeline#26 ABY\|26 ABY]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class III]]
 
 #### Knights of Ren
 **Rank** Second Knight
@@ -69,19 +69,19 @@ Chevalier specializes in [[Lightsaber Combat/Juyo (VII)\|Juyo (VII)]], but his s
 [blurb]
 
 **Strengths**
-- [[Force Abilities, Force Phenomena/Force empathy\|Force empathy]]
-- [[Force Abilities, Force Phenomena/Force body\|Force body]]
-- [[Force Abilities, Force Phenomena/Alter Image\|Alter Image]]
-- [[Force Abilities, Force Phenomena/Force illusion\|Force illusion]]
-- [[Force Abilities, Force Phenomena/Mind Tricks\|Mind Tricks]]
-- [[Force Abilities, Force Phenomena/Force jump\|Force jump]]
+- [[Force Abilities & Phenomena/Force empathy\|Force empathy]]
+- [[Force Abilities & Phenomena/Force body\|Force body]]
+- [[Force Abilities & Phenomena/Alter Image\|Alter Image]]
+- [[Force Abilities & Phenomena/Force illusion\|Force illusion]]
+- [[Force Abilities & Phenomena/Mind Tricks\|Mind Tricks]]
+- [[Force Abilities & Phenomena/Force jump\|Force jump]]
 **Weaknesses**
 - Techniques requiring direction of energy; he is better at affecting his own person, not the environment around him
 
 ### Weapons
 
 #### Jedi Saber
-Chevalier's Jedi lightsaber has a [[Crystals/Ghostfire\|Ghostfire]] crystal, which creates a transparent blade that does not produce sound or color like a normal saber and tends to leave after-images. For that reason, it is extremely hard to keep track of and can even appear to be an illusion. It had a standard hilt style of white-washed steel. He lost in shortly after the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall]].
+Chevalier's Jedi lightsaber has a [[Crystals/Ghostfire\|Ghostfire]] crystal, which creates a transparent blade that does not produce sound or color like a normal saber and tends to leave after-images. For that reason, it is extremely hard to keep track of and can even appear to be an illusion. It had a standard hilt style of white-washed steel. He lost in shortly after the [[Events/Fall of the Jedi Praxeum\|Fall]].
 
 #### Darksider Saber
 Chevalier's darksider lightsaber is formed from a [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]] crystal and a fairly typical red blade. It is an [[Crystals/Attuned crystal\|Attuned crystal]], such that only he can activate the saber. 
