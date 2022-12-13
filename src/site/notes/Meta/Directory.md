@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"aliases":["Back to Directory"],"permalink":"/meta/directory/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/meta/directory/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -58,7 +58,7 @@
 - [[Characters/Marcus Morr\|Marcus Morr]]
 - [[Characters/Mari Ange\|Mari Ange]]
 - [[Characters/Michael Hellix\|Michael Hellix]]
-- [[Characters/Norm Draig\|Norm Draig]]
+- [[Characters/Norman Draig\|Norman Draig]]
 - [[Characters/Octavia Bonteri\|Octavia Bonteri]]
 - [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]
 - [[Characters/Pollutis Kun\|Pollutis Kun]]
