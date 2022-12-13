@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location homeworld":null,"aliases":[],"tags":["galacticsenate imperialsenate","resistance firstorder","sith jedi","crystal"],"permalink":"/crystals/lightsaber-crystal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/crystals/lightsaber-crystal/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
