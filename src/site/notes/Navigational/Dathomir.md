@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Quelii","system":"Dathomir","grid":"O-6","aliases":[],"tags":["map","outerrim","quelii","planet","unfinished"],"permalink":"/navigational/dathomir/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/dathomir/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
