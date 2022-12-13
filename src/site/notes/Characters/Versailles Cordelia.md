@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/versailles-cordelia/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Versailles Cordelia | Victa Ren
@@ -15,7 +15,7 @@ Summary info.
 
 #### Biographical
 **Homeworld** [[Navigational/Corellia\|Corellia]]
-**Birth** [[Meta/Timeline#12 ABY\|12 ABY]]
+**Birth** [[Directories/Timeline#12 ABY\|12 ABY]]
 **Death** N/A
 
 #### Physical
@@ -35,15 +35,15 @@ Summary info.
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (brother*)
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/First Order\|First Order]]
+**Allegiance** [[Organizations/First Order\|First Order]]
 **Rank** Knight
-**Affiliations** [[Factions, Cults, Cultures, Governments/Knights of Ren\|Knights of Ren]]
+**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
 
 #### Jedi Praxeum
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** N/A
 **Knighted** N/A
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class IV]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class IV]]
 
 #### Knights of Ren
 **Rank** Knight
@@ -77,7 +77,7 @@ She has a lot of [[Lightsaber Combat/Ataru (IV)\|Ataru (IV)]] influence in how s
 ### Weapons
 
 #### Darksider Saber / Saber Shoto
-Versailles' first lightsaber is her darksider saber, seeing how she had not yet made her own lightsaber before the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]. [[Characters/Alfred Jonnas\|Alfred Jonnas]] gave her the [[Crystals/Adegan\|Ilum]] crystal from his original lightsaber, which she [[Force Abilities, Force Phenomena/Bleed\|bled]] to form her original red blade.
+Versailles' first lightsaber is her darksider saber, seeing how she had not yet made her own lightsaber before the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]. [[Characters/Alfred Jonnas\|Alfred Jonnas]] gave her the [[Crystals/Adegan\|Ilum]] crystal from his original lightsaber, which she [[Force Abilities & Phenomena/Bleed\|bled]] to form her original red blade.
 
 However, she later dismantled the saber, trying to modify it to suit her more, and accidentally shattered the crystal. The blade was reduced to an unstable dagger-like shoto, which Versailles still keeps in her collection. 
 
@@ -93,8 +93,8 @@ Versailles has a range of additional weapons that she experiments with and tinke
 ## History & Plot Significance
 Versailles was born to smugglers on [[Navigational/Corellia\|Corellia]], and ultimately raised by a band of smugglers as opposed to any specific parents. She still doesn't know if her actual parents were among those that helped raise her or not, and has no idea of their names. In fact, it is believed that her last name, Cordelia, is actually derived from the plant itself in place of a true name from her parents.
 
-When she was 10 years old, Jadi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] sensed her on Corellia while on a mission and came with Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and fellow Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15] to bring her to the [[Factions, Cults, Cultures, Governments/Jedi Praxeum\|Jedi Praxeum]]. She has a deep loyalty to and close relationship with Bastille as a result, so much so that she considers him her elder brother. 
+When she was 10 years old, Jadi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] sensed her on Corellia while on a mission and came with Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and fellow Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15] to bring her to the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]. She has a deep loyalty to and close relationship with Bastille as a result, so much so that she considers him her elder brother. 
 
-During the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Versailles can be considered one of the key instigators. She was the first one to intervene and block Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] from Bastille, kicking off the chain of events that led to the rest of the [[Factions, Cults, Cultures, Governments/Knights of Ren\|Knights of Ren]] defecting. 
+During the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Versailles can be considered one of the key instigators. She was the first one to intervene and block Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] from Bastille, kicking off the chain of events that led to the rest of the [[Organizations/Knights of Ren\|Knights of Ren]] defecting. 
 
-She experiences [[Force Abilities, Force Phenomena/Fallout\|Fallout]] from the trauma of the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall]]. As a result, and as a byproduct of how young she was when they defected and were retrained in the Dark side, she is particularly vulnerable to its influence. She loses control more easily than the older Knights, though not nearly as badly as [[Characters/Roman Ange\|Roman Ange]]. 
+She experiences [[Force Abilities & Phenomena/Fallout\|Fallout]] from the trauma of the [[Events/Fall of the Jedi Praxeum\|Fall]]. As a result, and as a byproduct of how young she was when they defected and were retrained in the Dark side, she is particularly vulnerable to its influence. She loses control more easily than the older Knights, though not nearly as badly as [[Characters/Roman Ange\|Roman Ange]]. 
