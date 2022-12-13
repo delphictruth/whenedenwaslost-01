@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Savareen","grid":"R-16","aliases":[],"tags":["map","system","outerrim","savareen","corellian"],"permalink":"/navigational/savareen-system/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/savareen-system/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
