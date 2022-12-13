@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":null,"sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","retraining","planet","unfinished"],"permalink":"/navigational/dorin/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/dorin/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
