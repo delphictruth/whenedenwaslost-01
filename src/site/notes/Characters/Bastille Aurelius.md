@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"aliases":["Bastille Rodarch Draig","Ani Ren"],"rank":"Jedi Knight","form":"V, VI, VII","class":"Padawan Class III","status":"Fallen","tags":["character","forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"],"permalink":"/characters/bastille-aurelius/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"aliases":["Bastille Rodarch Draig","Ani Ren"],"rank":"Jedi Knight","form":"V, VI, VII","class":"Padawan Class III","status":"Fallen","tags":["character","forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"],"permalink":"/characters/bastille-aurelius/","dgPassFrontmatter":true}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
