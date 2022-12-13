@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Core Worlds","sector":"Atrisian Commonwealth","system":"Frisal","grid":"J-12","aliases":[],"tags":["map","planet","core","unfinished"],"permalink":"/navigational/frisal/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/frisal/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
