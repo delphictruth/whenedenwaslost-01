@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim, Western Reaches","sector":"Trilon","system":"Batuu","grid":"G-15","aliases":[],"tags":["map","planet","outerrim","trilon","retraining","unfinished"],"permalink":"/navigational/batuu/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/batuu/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
