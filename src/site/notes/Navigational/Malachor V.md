@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/navigational/malachor-v/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]]
+- [[Directories/Timeline\|Back to Home]]
 - Also known as *Malachor*
 
 # Malachor V
-Malachor V, or simply *Malachor*, is an Outer Rim planet located in the Malachor system. During the [[Battles, Major Events, Wars, Eras/Battle of Malachor V\|Battle of Malachor V]], the planet was devastated by the use of the Mass Shadow Generator, with its very core cracking. Thousands of Jedi, Republic soldiers, and Mandalorians died in the resulting cataclysm. 
+Malachor V, or simply *Malachor*, is an Outer Rim planet located in the Malachor system. During the [[Events/Battle of Malachor V\|Battle of Malachor V]], the planet was devastated by the use of the Mass Shadow Generator, with its very core cracking. Thousands of Jedi, Republic soldiers, and Mandalorians died in the resulting cataclysm. 
 
 It is presently a cracked and twisted wasteland covered with jagged cliffs and plagued by constant lightning storms. Some refer to it as a "ship graveyard," given the broken and destroyed vessels that still orbit the planet and litter the surface to this day. 
 
-The destruction of the planet tore a [[Force Abilities, Force Phenomena/Wound in the Force\|Wound in the Force]], and the echoes of all of the pain, suffering, and death resound strongly on the planet's surface. The gravity of the planet has become unstable, with the planet frequently pulling nearby starships out of orbit or disrupting hyperspace travel.
+The destruction of the planet tore a [[Force Abilities & Phenomena/Wound in the Force\|Wound in the Force]], and the echoes of all of the pain, suffering, and death resound strongly on the planet's surface. The gravity of the planet has become unstable, with the planet frequently pulling nearby starships out of orbit or disrupting hyperspace travel.
 
 While the planet cannot sustain much life, it is inhabited by monstrous storm beasts and Sith creatures. It is said that prolonged exposure to the surface can be a corruptive force.
 
