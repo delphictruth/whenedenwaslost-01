@@ -2,21 +2,21 @@
 {"dg-publish":true,"permalink":"/characters/malkyn-rodarch/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *General Rodarch*
 
 # Malkyn Rodarch Draig
 >General of the Resistance, Mandalorian Hound
 
 ## Personal Information
-General Rodarch is quite possibly one of the most iconic [[Factions, Cults, Cultures, Governments/Rebellion\|Rebellion]] figures in the galaxy, known for the assistance she gave Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] in defeating the [[Characters/Darth Sidious\|Emperor]]. Before that, however, she was a renowned mercenary and freedom-fighter known as the Mandalorian Hound. Presently she is leading the [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]. 
+General Rodarch is quite possibly one of the most iconic [[Organizations/Rebellion\|Rebellion]] figures in the galaxy, known for the assistance she gave Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] in defeating the [[Characters/Darth Sidious\|Emperor]]. Before that, however, she was a renowned mercenary and freedom-fighter known as the Mandalorian Hound. Presently she is leading the [[Organizations/Resistance\|Resistance]]. 
 ↳ [[Characters/Malkyn Rodarch#History Plot Significance\|Jump to history.]]
 
 ### Basic Information
 
 #### Biographical
 **Homeworld** [[Navigational/Mandalore\|Mandalore]]
-**Birth** [[Meta/Timeline#19 BBY\|19 BBY]]
+**Birth** [[Directories/Timeline#19 BBY\|19 BBY]]
 **Death** N/A
 
 #### Physical
@@ -37,9 +37,9 @@ General Rodarch is quite possibly one of the most iconic [[Factions, Cults, Cult
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (nephew/adopted son)
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/Resistance\|Resistance]]
+**Allegiance** [[Organizations/Resistance\|Resistance]]
 **Rank** General
-**Affiliations** [[Factions, Cults, Cultures, Governments/Rebellion\|Rebel Alliance]] (mercenary), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
+**Affiliations** [[Organizations/Rebellion\|Rebel Alliance]] (mercenary), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
 
 ## History & Plot Significance
 Brief blurb.
