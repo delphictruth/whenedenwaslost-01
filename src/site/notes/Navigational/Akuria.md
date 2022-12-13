@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":null,"sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","retraining","planet","unfinished"],"permalink":"/navigational/akuria/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/akuria/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
