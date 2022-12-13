@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim","sector":"Terrabe","system":"Jedha","grid":"H-10","aliases":[],"tags":["map","planet","unfinished","midrim","terrabe","burkes"],"permalink":"/navigational/jedha/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/jedha/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
