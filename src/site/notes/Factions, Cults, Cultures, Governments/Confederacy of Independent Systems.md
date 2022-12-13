@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"allegiance":null,"aliases":null,"tags":["unfinished","faction"],"permalink":"/factions-cults-cultures-governments/confederacy-of-independent-systems/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/factions-cults-cultures-governments/confederacy-of-independent-systems/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
