@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"aliases":["Form I","Shii-Cho"],"tags":["form"],"permalink":"/lightsaber-combat/shii-cho-i/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/lightsaber-combat/shii-cho-i/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form I*
 
 # Shii-Cho
