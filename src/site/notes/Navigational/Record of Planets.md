@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"tags":["map"],"permalink":"/navigational/record-of-planets/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/record-of-planets/","dgHomeLink":false}
 ---
 
 # Record of Planets
