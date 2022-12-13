@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Colonies","sector":"Tapani","system":"Fondor","grid":"L-13","aliases":[],"tags":["map","retraining","colonies","tapani","planet","unfinished"],"permalink":"/navigational/fondor/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/fondor/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
