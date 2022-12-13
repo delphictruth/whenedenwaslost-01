@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/outer-rim/","dgHomeLink":false}
 ---
 
-- [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Outer Rim Systems*, *Outer Rim Worlds*
 
 # Outer Rim Territories
