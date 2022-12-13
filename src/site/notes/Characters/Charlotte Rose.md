@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"homeworld":"J't'p'tan","aliases":["Charlotte"],"rank":"Jedi Knight","class":"Padawan Class III","status":"Inactive","form":null,"tags":["resistance","character","jedipraxeum","jediknight","forcesensitive","unfinished"],"permalink":"/characters/charlotte-rose/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/charlotte-rose/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
