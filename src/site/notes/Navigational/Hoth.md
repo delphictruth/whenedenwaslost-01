@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim, Western Reaches","sector":"Anoat Sector","system":"Hoth","grid":"K-18","tags":["map","outerrim","western","anoat","unfinished","planet"],"permalink":"/navigational/hoth/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/hoth/","dgHomeLink":false}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
