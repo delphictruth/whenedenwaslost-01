@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Inner Rim","sector":null,"system":null,"grid":"I-13","aliases":[],"tags":["map","planet","innerrim","retraining","unfinished"],"permalink":"/navigational/minfar/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/minfar/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
