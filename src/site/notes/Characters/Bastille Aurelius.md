@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"aliases":["Bastille Rodarch Draig","Ani Ren"],"rank":"Jedi Knight","form":"V, VI, VII","class":"Padawan Class III","status":"Fallen","tags":["character","forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"],"permalink":"/characters/bastille-aurelius/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/bastille-aurelius/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -31,6 +31,7 @@ Bastille carries the legacies of far too many, always destined to either excel i
 
 #### Family
 **Parents** [[Characters/Cecily Beaumont\|Cecily Beaumont]] & [[Characters/Alban Draig\|Raegel Aurelius]]
+**Significant Other** [[Characters/Hazel Caelum\|Hazel Caelum]] ([[Force Abilities, Force Phenomena/Force Bond\|Bonded]])
 **Other Family** 
 - [[Characters/Talia Draig\|Talia Draig]] (aunt/adopted mother)
 - [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (aunt/adopted mother)
