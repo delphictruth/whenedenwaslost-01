@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/tyrius-system/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/tyrius-system/"}
 ---
 
-- [[Meta/Timeline\|Back to Home]]
+- [[Directories/Timeline\|Back to Home]]
 - Also known as *Rodian system*
 
 # Tyrius system
