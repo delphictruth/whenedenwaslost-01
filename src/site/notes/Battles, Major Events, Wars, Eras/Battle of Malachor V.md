@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"location":"Malachor V","year":"3960 BBY","aliases":[],"tags":["event","battle"],"permalink":"/battles-major-events-wars-eras/battle-of-malachor-v/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/battles-major-events-wars-eras/battle-of-malachor-v/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
