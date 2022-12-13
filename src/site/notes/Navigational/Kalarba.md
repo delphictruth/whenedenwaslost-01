@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid rim","sector":"Hevvral","system":"Kalarba","grid":"P-15","aliases":[],"tags":["map","midrim","planet","duros","retraining","unfinished"],"permalink":"/navigational/kalarba/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/kalarba/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
