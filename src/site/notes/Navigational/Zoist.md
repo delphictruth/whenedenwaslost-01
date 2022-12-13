@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Outer Rim","sector":"Esstran","system":"Zoist","grid":"R-4","aliases":[],"tags":["map","outerrim","esstran","planet","unfinished"],"permalink":"/navigational/zoist/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/zoist/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
