@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Unknown Regions","sector":null,"system":"Exegol","grid":"F-7","aliases":[],"tags":["map","planet","unknown"],"permalink":"/navigational/exegol/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/exegol/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
