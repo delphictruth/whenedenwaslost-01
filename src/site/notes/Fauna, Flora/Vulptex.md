@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location homeworld":null,"aliases":[],"tags":["fauna"],"permalink":"/fauna-flora/vulptex/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/fauna-flora/vulptex/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
