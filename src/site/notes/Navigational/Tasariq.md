@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Inner Rim","sector":null,"system":"Tasar","grid":"J-14","aliases":[],"tags":["map","innerrim","planet","unfinished"],"permalink":"/navigational/tasariq/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/tasariq/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
