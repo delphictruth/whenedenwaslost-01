@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"category":"forcepower","aliases":["Corrupting","bleed"],"tags":["sith","forcepower"],"permalink":"/force-abilities-force-phenomena/bleed/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/force-abilities-force-phenomena/bleed/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
