@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"homeworld":null,"aliases":[],"tags":["greyjedi","resistance","jediknight","i ii iii iv v vi vii","forcesensitive","unfinished","character"],"permalink":"/characters/lacrimosa-makara/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/characters/lacrimosa-makara/"}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
