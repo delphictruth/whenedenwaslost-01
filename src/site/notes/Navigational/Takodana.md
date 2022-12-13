@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim, Western Reaches","sector":"Tashtor","system":"Takodana","grid":"J-16","aliases":[],"tags":["map","planet","midrim","western","tashtor","unfinished"],"permalink":"/navigational/takodana/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/takodana/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
