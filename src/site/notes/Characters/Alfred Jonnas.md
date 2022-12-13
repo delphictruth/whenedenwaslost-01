@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/alfred-jonnas/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Prince Jonnas*
 
 # Alfred Jonnas | Deco Ren
@@ -15,7 +15,7 @@ Alfred is the crown Prince of [[Navigational/Artorias\|Artorias]], but he left h
 
 #### Biographical
 **Homeworld** [[Navigational/Artorias\|Artorias]]
-**Birth** [[Meta/Timeline#8 ABY\|8 ABY]]
+**Birth** [[Directories/Timeline#8 ABY\|8 ABY]]
 **Death** N/A
 
 #### Physical
@@ -35,15 +35,15 @@ Alfred is the crown Prince of [[Navigational/Artorias\|Artorias]], but he left h
 **Significant Other** [bethrothed]
 
 #### Political
-**Allegiance** [[Factions, Cults, Cultures, Governments/First Order\|First Order]]
+**Allegiance** [[Organizations/First Order\|First Order]]
 **Rank** Knight of Ren
-**Affiliations** [[Factions, Cults, Cultures, Governments/Knights of Ren\|Knights of Ren]]
+**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
 
 #### Jedi Praxeum
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** N/A
-**Knighted** [[Meta/Timeline#26 ABY\|26 ABY]]
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class III]]
+**Knighted** [[Directories/Timeline#26 ABY\|26 ABY]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class III]]
 
 #### Knights of Ren
 **Rank** Knight
@@ -67,18 +67,18 @@ Alfred specializes in [[Lightsaber Combat/Shii-Cho (I)\|Shii-Cho (I)]], though h
 [blurb]
 
 **Strengths**
-- [[Factions, Cults, Cultures, Governments/Shadow vision\|Shadow vision]]
-- [[Force Abilities, Force Phenomena/Beast Control\|Beast Control]]
-- [[Force Abilities, Force Phenomena/Mechu-Deru\|Mechu-Deru]]
+- [[Organizations/Shadow vision\|Shadow vision]]
+- [[Force Abilities & Phenomena/Beast Control\|Beast Control]]
+- [[Force Abilities & Phenomena/Mechu-Deru\|Mechu-Deru]]
 - Mounted combat
 **Weaknesses**
-- [[Force Abilities, Force Phenomena/Levitation\|Levitation]]
-- [[Force Abilities, Force Phenomena/Telekinesis\|Telekinesis]]
+- [[Force Abilities & Phenomena/Levitation\|Levitation]]
+- [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]]
 
 ### Weapons
 
 #### Jedi Saber
-Alfred's Jedi lightsaber had a standard [[Crystals/Adegan\|Ilum]] crystal that gave the blade a yellow-green hue. It had a cross-guard hilt that gave the lightsaber the appearance of a more traditional sword. After the [[Battles, Major Events, Wars, Eras/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], he gave the crystal to [[Characters/Versailles Cordelia\|Versailles Cordelia]] to create her first saber. 
+Alfred's Jedi lightsaber had a standard [[Crystals/Adegan\|Ilum]] crystal that gave the blade a yellow-green hue. It had a cross-guard hilt that gave the lightsaber the appearance of a more traditional sword. After the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], he gave the crystal to [[Characters/Versailles Cordelia\|Versailles Cordelia]] to create her first saber. 
 
 #### Darksider Saber
 Alfred's darksider lightsaber was formed from a new [[Crystals/Dragite\|Dragite]] crystal, which makes the blade give a dull ringing sound when struck. Occasionally, it can let off sonic damage. The blade is red and cased in another cross-guard styled hilt. 
