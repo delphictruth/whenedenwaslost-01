@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim","sector":null,"system":null,"grid":"Q-14","aliases":[],"tags":["map","planet","midrim","retraining","unfinished"],"permalink":"/navigational/tah-nuhma/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/tah-nuhma/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
