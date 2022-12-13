@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"location homeworld":"Axum","aliases":[],"tags":["axum","faction","royalty","nobility"],"permalink":"/factions-cults-cultures-governments/azurian-nobility/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/factions-cults-cultures-governments/azurian-nobility/"}
 ---
 
 - [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
