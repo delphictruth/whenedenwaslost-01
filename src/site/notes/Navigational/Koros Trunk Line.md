@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":null,"sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","hyperlane","unfinished"],"permalink":"/navigational/koros-trunk-line/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/koros-trunk-line/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
