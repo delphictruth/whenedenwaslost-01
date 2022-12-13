@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/allyson-petit/","dgHomeLink":false}
 ---
 
-- [[WEWL\|Back to Home]] | [[Meta/Timeline\|Back to Timeline]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Allyson Petit
@@ -16,8 +16,8 @@ Summary info.
 
 #### Biographical
 **Homeworld** 
-**Birth** [[Meta/Timeline#1 ABY\|1 ABY]]
-**Death** [[Meta/Timeline#23 ABY\|23 ABY]]
+**Birth** [[Directories/Timeline#1 ABY\|1 ABY]]
+**Death** [[Directories/Timeline#23 ABY\|23 ABY]]
 
 #### Physical
 **Age** 22 (at death)
@@ -44,8 +44,8 @@ Summary info.
 #### Jedi Praxeum
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** [[Characters/Chevalier Hellix\|Chevalier Hellix]]
-**Knighted** [[Meta/Timeline#21 ABY\|21 ABY]]
-**Class** [[Factions, Cults, Cultures, Governments/Jedi Padawan Classes\|Jedi Padawan Class I]]
+**Knighted** [[Directories/Timeline#21 ABY\|21 ABY]]
+**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class I]]
 
 ## Tactical Information
 Brief descriptions of combat style.
