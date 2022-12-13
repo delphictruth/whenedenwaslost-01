@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Core Worlds","sector":"Alderaan","system":"Alderaan","grid":"M-10","aliases":[],"tags":["map","core","alderaan","planet","commenor","unfinished"],"permalink":"/navigational/alderaan/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/alderaan/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
