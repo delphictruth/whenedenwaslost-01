@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Mid Rim, Western Reaches","sector":null,"system":null,"grid":null,"aliases":[],"tags":["map","midrim","western","sector","unfinished"],"permalink":"/navigational/tashtor-sector/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/tashtor-sector/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
