@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"region":"Core Worlds","sector":"Duro","system":"Duro","grid":"M-11","aliases":[],"tags":["map","core","retraining","planet","unfinished"],"permalink":"/navigational/duro/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/duro/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]]
