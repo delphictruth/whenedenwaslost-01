@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home-link":false,"location":"mandalore","aliases":["Academy"],"tags":["galacticempire","location","place","firstorder","unfinished"],"permalink":"/navigational/imperial-academy/","dgHomeLink":false,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/navigational/imperial-academy/","dgHomeLink":false}
 ---
 
 - [[Meta/Timeline\|Back to Home]] | [[Meta/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
