@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/opatajji/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/opatajji/","tags":["map","planet","core","azure","alsaka","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
