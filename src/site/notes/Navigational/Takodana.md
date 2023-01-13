@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/takodana/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/takodana/","tags":["map","planet","midrim","western","tashtor","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
