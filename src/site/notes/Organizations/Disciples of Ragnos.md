@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/organizations/disciples-of-ragnos/"}
+{"dg-publish":true,"permalink":"/organizations/disciples-of-ragnos/","tags":["unfinished","faction"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Disciples of Ragnos 
@@ -10,9 +10,9 @@ The Disciples of Ragnos refers to the cult(s) that formed in honor of Dark Lord 
 
 Centuries after his death, the [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] was dedicated to learning the ghost's teachings and to trying to bring him back to life. They spent several generations trying to find the [[Weapons/Sceptor of Ragnos\|Sceptor of Ragnos]], the Sith Lord's lost sword, which was capable of siphoning Dark side energy and transferring it to individuals to make them Force sensitive. They intended to grow their numbers and try to use the Sceptor to solidify Ragnos's ghost. However, the group was destroyed before they could ever locate the Sceptor.
 
-In 16 ABY, the Disciples began to form once more under the teachings of [[Characters/Disciple\|Disciple]], who spoke of Maka Ragnos's legacy and claimed to know where the Sceptor was located. [[Characters/Disciple\|Disciple]] was a survivor of the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]], which had a stronghold in the [[Temple of Pesegam\|Temple of Pesegam]] on [[Navigational/Moraband\|Korriban]], and it was said that they had discovered the truth of Maka Ragnos during their time on the planet, before the [[Events/Fall of the Jen'jidai\|Fall of the Jen'jidai]] in 9 ABY. 
+In 16 ABY, the Disciples began to form once more under the teachings of [[Characters/Missing Entry\|Missing Entry]], who spoke of Maka Ragnos's legacy and claimed to know where the Sceptor was located. [[Characters/Missing Entry\|Missing Entry]] was a survivor of the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]], which had a stronghold in the [[Temple of Pesegam\|Temple of Pesegam]] on [[Navigational/Moraband\|Korriban]], and it was said that they had discovered the truth of Maka Ragnos during their time on the planet, before the [[Events/Fall of the Jen'jidai\|Fall of the Jen'jidai]] in 9 ABY. 
 
-In the year 17 ABY, before the Disciples were publicly known, [[Characters/Disciple\|Disciple]] learned that his former Lord [[Characters/Alban Draig\|Raegal Aurelius]] had a son. Determined to create a new Savior of the Jen'jidai, this time styled as a vessel for [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], he arranged to have [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] kidnapped and brought to him during the Festival of Stars. While the pirates never completed their mission, [[Characters/Disciple\|Disciple]]'s involvement was never exposed and the Disciples remained hidden for the time being. 
+In the year 17 ABY, before the Disciples were publicly known, [[Characters/Missing Entry\|Missing Entry]] learned that his former Lord [[Characters/Alban Draig\|Raegal Aurelius]] had a son. Determined to create a new Savior of the Jen'jidai, this time styled as a vessel for [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], he arranged to have [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] kidnapped and brought to him during the Festival of Stars. While the pirates never completed their mission, [[Characters/Missing Entry\|Missing Entry]]'s involvement was never exposed and the Disciples remained hidden for the time being. 
 
 In 24 ABY, the Disciples officially revealed themselves to the galaxy, terrorizing planets and trying to recruit new followers. The [[Organizations/New Jedi Order\|New Jedi Order]] entered its first official conflict period in tryig to stop them. The battle raged on, with the Disciples scoring a significant victory in the [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]] towards the end of 25 ABY when Jedi Knight [[Characters/Kieran Crevan\|Kieran Crevan]] entered the [[Tomb of Maka Ragnos\|Tomb of Maka Ragnos]] and subsequently became a vessel for [[Characters/Dark Lord Ragnos\|Maka Ragnos]] himself. 
 
