@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/eiram/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/eiram/","tags":["map","planet","outerrim","dalnan","retraining","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
