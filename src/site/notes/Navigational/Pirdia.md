@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/pirdia/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/pirdia/","tags":["map","planet","savareen","outerrim","tyrius"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
