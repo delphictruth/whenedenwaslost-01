@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/octavia-bonteri/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/octavia-bonteri/","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formvii","classiv","forcesensitive","unfinished","character"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Octavia Bonteri
@@ -42,7 +42,7 @@ Octavia Bonteri was a Jedi padawan with the [[Organizations/Jedi Praxeum\|Jedi P
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** N/A
 **Knighted** N/A
-**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class IV]]
+**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
 
 ## Tactical Information
 Brief descriptions of combat style.
