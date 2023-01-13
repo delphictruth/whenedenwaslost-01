@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bornan-vos/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/bornan-vos/","tags":["lord","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *Lord Vos Senior*
 
 # Bornan Vos
