@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/marcus-morr/"}
+{"dg-publish":true,"permalink":"/characters/marcus-morr/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished","character"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Marcus Morr
@@ -34,28 +34,25 @@ Summary info.
 **Other Family**
 - 
 
-**Significant Other** 
+## Political Affiliations
 
-#### Political
 **Allegiance**  
 **Rank**  
 **Affiliations**  
 
-#### Jedi Praxeum
+### Jedi Praxeum
+
 **Master** 
 **Padawan** 
 **Knighted** 
-**Class** 
+**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
-## Tactical Information
-Brief descriptions of combat style.
+## Combat
 
-### Combat
-
-#### Forms
+### Forms
 Specializes in [[Characters/Marcus Morr\|]] 
 
-#### Force Beliefs & Usage
+### Force Beliefs & Usage
 info info 
 
 **Strengths**
@@ -64,10 +61,12 @@ info info
 **Weaknesses**
 - power
 
-### Weapons
+## Weapons
 
-#### Jedi Saber
+### Jedi Saber
+
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
+
 Brief blurb.
