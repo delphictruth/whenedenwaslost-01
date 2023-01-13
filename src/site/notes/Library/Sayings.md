@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/library/sayings/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/library/sayings/","tags":["library","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Sayings
->The teaching's of Emperor Uueg Tching
+>The teachings of Emperor Uueg Tching
 
 The *Sayings* are a series of scrolls composing a collection of didactic and gnomic precepts of [[Navigational/Atrisia\|Atrisia]] Emperor Tching of the Kital Phard Dynasty. His wisdom regarding the strategic use of power, diplomacy, and espionage are admired throughout the whole galaxy, and serve as a point of national pride for [[Navigational/Atrisia\|Atrisia]]. 
 
