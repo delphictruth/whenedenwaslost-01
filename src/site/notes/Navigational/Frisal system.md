@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/frisal-system/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/frisal-system/","tags":["map","system","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
