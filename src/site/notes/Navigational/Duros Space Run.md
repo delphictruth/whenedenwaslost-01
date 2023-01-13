@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/duros-space-run/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/duros-space-run/","tags":["map","hyperlane","midrim","outerrim"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
