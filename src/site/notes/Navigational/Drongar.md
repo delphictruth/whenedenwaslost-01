@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/drongar/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/drongar/","tags":["map","planet","outerrim"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
