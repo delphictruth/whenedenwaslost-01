@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/lacrimosa-makara/"}
+{"dg-publish":true,"permalink":"/characters/lacrimosa-makara/","tags":["greyjedi","resistance","jediknight","i ii iii iv v vi vii","forcesensitive","unfinished","character"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Lacrimosa Makara
