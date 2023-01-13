@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/tyrius-system/"}
+{"dg-publish":true,"permalink":"/navigational/tyrius-system/","tags":["map","system","savareen","outerrim"]}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
