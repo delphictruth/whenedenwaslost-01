@@ -1,25 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/fecility-beauregard/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/fecility-beauregard/","tags":["senator","character","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Senator Beauregard*
 
 # Felicity Beauregard
 >Senator of Carida
 
-## Personal Information
 Summary info.
-↳ 
 
-### Basic Information
+## Biographical
 
-#### Biographical
 **Homeworld** [[Navigational/Carida\|Carida]]
 **Birth** 
 **Death** [[Directories/Timeline#3 BBY\|3 BBY]]
 
-#### Physical
+## Physical
+
 **Age** 
 **Gender** 
 **Height** 
@@ -27,18 +25,18 @@ Summary info.
 **Eyes** 
 **Skin** 
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
+**Significant Other** 
 **Other Family**
 
-**Significant Other** 
+## Political
 
-#### Political
 **Allegiance**  
 **Rank**  
 **Affiliations**  
 
 ## History & Plot Significance
+
 Brief blurb.
