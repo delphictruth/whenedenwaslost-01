@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/nyriaan/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/nyriaan/","tags":["map","retraining","mid","transvultra","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
