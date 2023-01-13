@@ -10,13 +10,16 @@
 
 Bastille carries the legacies of far too many, always destined to either excel in the Light or fall deep into the Dark. He is credited with the destruction of the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s disappearance, seemingly having made his choice and chosen the Dark as *Ani Ren*. 
 
-## Biographical
+==h4 replacement==
+## Personal Information
+
+### Biographical
 
 **Homeworld** [[Navigational/Axum\|Axum]]
 **Birth** [[Directories/Timeline#8 ABY\|8 ABY]]
 **Death** N/A
 
-## Physical
+### Physical
 
 **Age** 23
 **Gender** Male
@@ -29,6 +32,7 @@ Bastille carries the legacies of far too many, always destined to either excel i
 
 **Parents** [[Characters/Cecily Beaumont\|Cecily Beaumont]] & [[Characters/Alban Draig\|Raegel Aurelius]]
 **Significant Other** [[Characters/Hazel Caelum\|Hazel Caelum]] ([[Force Abilities & Phenomena/Force Bond\|Bonded]])
+
 **Other Family** 
 - [[Characters/Talia Draig\|Talia Draig]] (aunt/adopted mother)
 - [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (aunt/adopted mother)
