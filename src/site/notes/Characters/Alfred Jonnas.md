@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/alfred-jonnas/","tags":["character","fallenjedi","firstorder","knightsofren","jediknight","jedipraxeum","prince","royalty","formi","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/alfred-jonnas/","tags":["fallenjedi","firstorder","knightsofren","jediknight","jedipraxeum","royalty","formi","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -42,7 +42,7 @@ Alfred is the crown Prince of [[Navigational/Artorias\|Artorias]], but he left h
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** N/A
 **Knighted** [[Directories/Timeline#26 ABY\|26 ABY]]
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Jedi Praxeum#Jedi Padawan Class III]]
+**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Jedi Padawan Class III]]
 
 ### Knights of Ren
 
