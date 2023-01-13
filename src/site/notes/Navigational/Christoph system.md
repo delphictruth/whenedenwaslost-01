@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/christoph-system/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/christoph-system/","tags":["map","system","outerrim","savareen"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
