@@ -1,25 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/isa-phant/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/isa-phant/","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formi","classiv","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Isa Phant
 >titles, taglines, etc
 
-## Personal Information
-Summary info.
-↳ 
+summary
 
-### Basic Information
+## Biographical
 
-#### Biographical
 **Homeworld** 
 **Birth** 
 **Death** 
 
-#### Physical
+## Physical
+
 **Age** 
 **Gender** 
 **Height** 
@@ -27,30 +25,28 @@ Summary info.
 **Eyes** 
 **Skin** 
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
+**Significant Other**  
 **Other Family**
 - 
 
-**Significant Other**  
+## Jedi Praxeum
 
-#### Jedi Praxeum
 **Master** 
-**Padawan** 
-**Knighted** 
-**Class** 
+**Padawan** N/A
+**Knighted** N/A
+**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
 
-## Tactical Information
-Brief descriptions of combat style.
+# Combat
 
-### Combat
+### Forms
 
-#### Forms
 Specializes in [[Characters/Isa Phant\|]] 
 
-#### Force Beliefs & Usage
+### Force Beliefs & Usage
+
 info info 
 
 **Strengths**
@@ -59,10 +55,12 @@ info info
 **Weaknesses**
 - power
 
-### Weapons
+## Weapons
 
-#### Jedi Saber
+### Jedi Saber
+
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
+
 Brief blurb.
