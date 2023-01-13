@@ -1,25 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/cassel-dameron/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/cassel-dameron/","tags":["resistance","character","pilot","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Cassel Dameron
 >title roles
 
-## Personal Information
-Summary info.
-↳ 
+Summary
 
-### Basic Information
+## Biographical
 
-#### Biographical
 **Homeworld** 
 **Birth** [[Directories/Timeline#8 ABY\|8 ABY]]
 **Death** N/A
 
-#### Physical
+## Physical
+
 **Age** 
 **Gender** 
 **Height** 
@@ -27,18 +25,17 @@ Summary info.
 **Eyes** 
 **Skin** 
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
 **Other Family**
 
-**Significant Other** 
+## Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance** [[Organizations/Resistance\|Resistance]]
+**Rank** Captain
+**Affiliations** 
 
 ## History & Plot Significance
+
 Brief blurb.
