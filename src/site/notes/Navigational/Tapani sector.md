@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/tapani-sector/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/tapani-sector/","tags":["map","sector","colonies","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
