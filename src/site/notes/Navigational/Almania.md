@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/almania/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/almania/","tags":["map","planet","outerrim","mortex"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 
 # Almania
 Almania is a cold and windy planet located in the [[Navigational/Mortex sector\|Mortex sector]] of the [[Navigational/Outer Rim\|Outer Rim]]. It has three moons, including the moon [[Navigational/Pydyr\|Pydyr]], and is primarily comprised of mountains and plains. 
