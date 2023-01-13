@@ -3,6 +3,10 @@ const markdownIt = require("markdown-it");
 const fs = require('fs');
 const matter = require('gray-matter');
 const faviconPlugin = require('eleventy-favicon');
+const tocPlugin = require('eleventy-plugin-toc');
+
+const {headerToId, namedHeadingsFilter} = require("./src/helpers/utils") 
+
 module.exports = function(eleventyConfig) {
 
     let markdownLib = markdownIt({
@@ -10,6 +14,15 @@ module.exports = function(eleventyConfig) {
             html: true
         })
         .use(require("markdown-it-footnote"))
+        .use(require("markdown-it-attrs"))
+        .use(require("markdown-it-hashtag"),{
+            hashtagRegExp: `[^\\s!@#$%^&*()=+.,\[{\\]};:'"?><]+`
+        })
+        .use(function(md){
+            md.renderer.rules.hashtag_open  = function(tokens, idx) {
+                return '<a class="tag" onclick="toggleTagSearch(this)">'
+            }
+        })
         .use(require('markdown-it-mathjax3'), {
             tex: {
                 inlineMath: [
@@ -184,6 +197,7 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/site/img");
     eleventyConfig.addPlugin(faviconPlugin, { destination: 'dist' });
+    eleventyConfig.addPlugin(tocPlugin, {ul:true, tags: ['h1','h2', 'h3', 'h4', 'h5', 'h6']});
     eleventyConfig.addFilter('jsonify', function (variable) {
       return JSON.stringify(variable);
     });
@@ -201,47 +215,3 @@ module.exports = function(eleventyConfig) {
     };
 
 };
-
-function headerToId(heading) {
-    return slugify(heading);
-}
-
-//https://github.com/rstacruz/markdown-it-named-headings/blob/master/index.js
-function namedHeadingsFilter(md, options) {
-    md.core.ruler.push('named_headings', namedHeadings.bind(null, md));
-}
-
-function namedHeadings(md, state) {
-
-    var ids = {}
-
-    state.tokens.forEach(function(token, i) {
-        if (token.type === 'heading_open') {
-            var text = md.renderer.render(state.tokens[i + 1].children, md.options)
-            var id = headerToId(text);
-            var uniqId = uncollide(ids, id)
-            ids[uniqId] = true
-            setAttr(token, 'id', uniqId)
-        }
-    })
-}
-
-function uncollide(ids, id) {
-    if (!ids[id]) return id
-    var i = 1
-    while (ids[id + '-' + i]) { i++ }
-    return id + '-' + i
-}
-
-function setAttr(token, attr, value, options) {
-    var idx = token.attrIndex(attr)
-
-    if (idx === -1) {
-        token.attrPush([attr, value])
-    } else if (options && options.append) {
-        token.attrs[idx][1] =
-            token.attrs[idx][1] + ' ' + value
-    } else {
-        token.attrs[idx][1] = value
-    }
-}
