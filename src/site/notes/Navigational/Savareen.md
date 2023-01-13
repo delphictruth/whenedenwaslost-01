@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/savareen/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/savareen/","tags":["map","planet","kessel","corellian"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
