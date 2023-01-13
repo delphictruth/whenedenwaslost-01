@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/medth/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/medth/","tags":["map","midrim","ado","adospine","rimma","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
