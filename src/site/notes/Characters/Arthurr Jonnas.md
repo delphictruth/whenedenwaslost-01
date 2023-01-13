@@ -1,44 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/characters/arthurr-jonnas/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/arthurr-jonnas/","tags":["character","royalty","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *King Arthurr*
 
 # Arthurr Jonnas
->title roles
+>King of Artorias
 
-## Personal Information
-Summary info.
-↳ 
-
-### Basic Information
-
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#9ABY\|9 ABY]]
-**Death** N/A
-
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
-
-### Relations
-
-#### Family
-**Parents** 
-**Other Family**
-
-**Significant Other** 
-
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
-
-## History & Plot Significance
-Brief blurb.
