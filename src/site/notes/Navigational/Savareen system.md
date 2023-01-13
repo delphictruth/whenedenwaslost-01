@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/savareen-system/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/savareen-system/","tags":["map","system","outerrim","savareen","corellian"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
