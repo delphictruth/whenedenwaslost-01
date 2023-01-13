@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/walalla/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/walalla/","tags":["map","innerrim","seventh","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
