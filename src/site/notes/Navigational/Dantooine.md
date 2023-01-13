@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/dantooine/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/dantooine/","tags":["map","starkiller","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
