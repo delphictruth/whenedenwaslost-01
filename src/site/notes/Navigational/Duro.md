@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/duro/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/duro/","tags":["map","core","retraining","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
