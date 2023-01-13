@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/directories/timeline/","dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - **Outdated timeline, ages/years likely inaccurate, unreliable record**
+
 # Galactic Timeline
 ## Clone Wars Era
 ### 20 BBY
@@ -183,7 +184,7 @@ The [[Organizations/First Order\|First Order]] begins to form out of the remnant
 
 ### 11 ABY
 [[Characters/Hazel Caelum\|Hazel Caelum]] is born to [[Characters/Aurora Caelum\|Aurora Caelum]] [21] and [[Characters/Pirphal Chthonios\|Pirphal Chthonios]] [22] on [[Navigational/Nallastia\|Nallastia]]
-[[Characters/Atty\|AT-5365]] is born on [[Navigational/Primea\|Primea]] 
+[[Characters/AT-5365\|AT-5365]] is born on [[Navigational/Primea\|Primea]] 
 
 ### 12 ABY
 [[Characters/Versailles Cordelia\|Versailles Cordelia]] is born on [[Navigational/Corellia\|Corellia]]
@@ -192,10 +193,10 @@ The [[Organizations/First Order\|First Order]] begins to form out of the remnant
 [[Characters/Maggie Amell\|Maggie Amell]] is born on ...
 [[Characters/Roman Ange\|Roman Ange]] is born to the slave [[Characters/Mari Ange\|Mari Ange]] on ...
 [[Characters/Marcus Morr\|Marcus Morr]] [10] is Awakened in an accident that kills his brother [[Characters/Aiden Morr\|Aiden Morr]] [7] and is sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
-[[Characters/Atty\|AT-5365]] [2] is conscripted into the [[Navigational/Stormtrooper Corps\|Stormtrooper Corps]] 
+[[Characters/AT-5365\|AT-5365]] [2] is conscripted into the [[Navigational/Stormtrooper Corps\|Stormtrooper Corps]] 
 
 ### 14 ABY
-[[Characters/Lillian Nicolescu\|Lillian Nicolescu]] is born on ... 
+[[Characters/Lilith Nicolescu\|Lilith Nicolescu]] is born on ... 
 
 ### 15 ABY
 [[Characters/Isa Phant\|Isa Phant]] is born on ... 
@@ -219,7 +220,7 @@ The [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] begins to revive 
 
 ### 19 ABY
 [[Characters/Charlotte Rose\|Charlotte Rose]] [11] is sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
-Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] [37] senses [[Characters/Lillian Nicolescu\|Lillian Nicolescu]] [5] and brings her to the [[Organizations/Jedi Praxeum\|Praxeum]]
+Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] [37] senses [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] [5] and brings her to the [[Organizations/Jedi Praxeum\|Praxeum]]
 
 ### 20 ABY
 Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] is killed by [[Organizations/First Order\|First Order]] assassins and her daughter [[Characters/Octavia Bonteri\|Octavia Bonteri]] [10] is sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
@@ -230,7 +231,7 @@ Master [[Characters/Rathos Visio\|Rathos Visio]] [39] brings [[Characters/Isa Ph
 [[Characters/Chevalier Hellix\|Chevalier Hellix]] [14] discovers that [[Characters/Octavia Bonteri\|Octavia Bonteri]] [11] is his half-sister
 The [[Organizations/First Order\|First Order]] begins to rebuild its Navy
 Small dogfights begin to crop up in the [[Navigational/Outer Rim\|Outer Rim]]
-[[Organizations/Jedi Padawan Classes\|Jedi Padawan Class I]] is Knighted
+[[Jedi Padawan Classes\|Jedi Padawan Class I]] is Knighted
 ↳ [[Characters/Allyson Petit\|Allyson Petit]] [20] 
 ↳ [[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [21]
 Jedi Padawans [[Characters/Chevalier Hellix\|Chevalier Hellix]] [14] and [[Characters/Kieran Crevan\|Kieran Crevan]] [17] are dispatched with Jedi Knights [[Characters/Allyson Petit\|Allyson Petit]] [20] and [[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [21] to capture [[Characters/Rinnrivin Di\|Rinnrivin Di]] by request of the [[Organizations/New Republic Senate\|New Republic Senate]]
@@ -251,7 +252,7 @@ Jedi Knight [[Characters/Allyson Petit\|Allyson Petit]] [22] is killed on a miss
 [[Organizations/Seperatist\|Seperatist]] worlds begin to secede from the [[Organizations/New Republic Senate\|New Republic Senate]], joining the [[Organizations/First Order\|First Order]]
 The [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] gain strength and emerge publicly, terrorizing smaller planets
 The [[Organizations/New Jedi Order\|New Jedi Order]] enters its first official conflict period, combatting the [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]]
-[[Organizations/Jedi Padawan Classes\|Jedi Padawan Class II]] is Knighted
+[[Jedi Padawan Classes\|Jedi Padawan Class II]] is Knighted
 ↳ [[Characters/Kieran Crevan\|Kieran Crevan]] [20] 
 ↳ [[Characters/Roslyn Dystra\|Roslyn Dystra]] [19]
 ↳ [[Characters/Marcus Morr\|Marcus Morr]] [21]
@@ -267,7 +268,7 @@ The [[Organizations/New Jedi Order\|New Jedi Order]] enters its first official c
 ↳ Knight [[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [26] is killed by [[Characters/Kieran Crevan\|Kieran Crevan]] [22]
 ↳ [[Characters/Kieran Crevan\|Kieran Crevan]] [22] is killed by Padawan [[Characters/Chevalier Hellix\|Chevalier Hellix]] [19]
 ↳ Final remnants of the [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] are wiped out
-[[Organizations/Jedi Padawan Classes\|Jedi Padawan Class III]] is Knighted
+[[Jedi Padawan Classes\|Jedi Padawan Class III]] is Knighted
 ↳ [[Characters/Bastille Aurelius\|Bastille Aurelius]] [18]
 ↳ [[Characters/Bardolph Vos\|Bardolph Vos]] [19]
 ↳ [[Characters/Alfred Jonnas\|Alfred Jonnas]] [18]
@@ -284,7 +285,7 @@ Sith ghost [[Characters/Darth Grimm\|Darth Grimm]] is summoned to the [[Organiza
 Jedi Knights [[Characters/Bastille Aurelius\|Bastille Aurelius]] [20], [[Characters/Bardolph Vos\|Bardolph Vos]] [21], [[Characters/Alfred Jonnas\|Alfred Jonnas]] [20], [[Characters/Chevalier Hellix\|Chevalier Hellix]] [21], [[Characters/Imperia Sibyl\|Imperia Sibyl]] [19], and Padawans [[Characters/Versailles Cordelia\|Versailles Cordelia]] [16] and [[Characters/Roman Ange\|Roman Ange]] [15] defect to the [[Organizations/First Order\|First Order]]
 ↳ Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [47] is killed
 ↳ Jedi Knights [[Characters/Roslyn Dystra\|Roslyn Dystra]] [23] and [[Characters/Marcus Morr\|Marcus Morr]] [25] are killed 
-↳ Jedi Padawans [[Characters/Lillian Nicolescu\|Lillian Nicolescu]] [14] and [[Characters/Isa Phant\|Isa Phant]] [13] are killed 
+↳ Jedi Padawans [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] [14] and [[Characters/Isa Phant\|Isa Phant]] [13] are killed 
 ↳ Grand Master Jedi [[Characters/Dahlia Coutier\|Dahlia Coutier]] [46] disappears 
 ↳ Jedi Knight [[Characters/Charlotte Rose\|Charlotte Rose]] [20] forsakes the Jedi way and joins the [[Organizations/Resistance\|Resistance]] 
 Generals [[Characters/Cain Draig\|Cain Draig]] [47] and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [46] escalate the war with the [[Organizations/First Order\|First Order]]
