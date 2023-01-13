@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/ilum/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/ilum/","tags":["map","planet","unknown"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
