@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bastille-aurelius/","tags":["character","forcesensitive","fallenjedi","firstorder","knightsofren","warlord","azuriannobility","nobility","jedipraxeum","jediknight","formv","formvi","formvii"]}
+{"dg-publish":true,"permalink":"/characters/bastille-aurelius/","tags":["forcesensitive","fallenjedi","firstorder","knightsofren","azuriannobility","jedipraxeum","jediknight","formv","formvi","formvii"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -25,7 +25,7 @@ Bastille carries the legacies of far too many, always destined to either excel i
 **Eyes** Ice blue
 **Skin** Pale
 
-## Family
+## Relations
 
 **Parents** [[Characters/Cecily Beaumont\|Cecily Beaumont]] & [[Characters/Alban Draig\|Raegel Aurelius]]
 **Significant Other** [[Characters/Hazel Caelum\|Hazel Caelum]] ([[Force Abilities & Phenomena/Force Bond\|Bonded]])
@@ -34,6 +34,7 @@ Bastille carries the legacies of far too many, always destined to either excel i
 - [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (aunt/adopted mother)
 - [[Characters/Cain Draig\|Cain Draig]] (uncle)
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]] (sister*)
+
 **Sith Ghosts**
 - [[Characters/Darth Grimm\|Darth Grimm]]
 - [[Characters/Pollutis Kun\|Pollutis Kun]]
