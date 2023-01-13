@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mumble-s-turnaround/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mumble-s-turnaround/","tags":["map","outerrim","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
