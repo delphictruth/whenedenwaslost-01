@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/malachor-v/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/malachor-v/","tags":["map","retraining","outerrim","chorlian","planet"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
