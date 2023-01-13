@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/holland-lillivere/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/holland-lillivere/","tags":["newrepublicsenate","resistance","character","senator","princess prince lord etc","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Senator Lillivere*, *Queen of Naboo*
 
 # Holland Lillivere
