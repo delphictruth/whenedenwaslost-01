@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/alsakan/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/alsakan/","tags":["map","ecumenopolis","monarchy","core","azure","alsaka","planet","perlemian","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Archais*
 
 # Alsakan
