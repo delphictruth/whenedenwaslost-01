@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-immersion/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-immersion/","tags":["universal","forcepower"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 
 # Force immersion
 Force immersion is a specialized technique developed by the [[Organizations/Fallanassi\|Fallanassi]], by which a skilled user can immerse themselves in the [[Organizations/Fallanassi White Current\|White Current]], rendering themselves undetectable by any means, organic or artificial. Only careful scrutiny can pierce the immersion technique, and even then the weak-minded will remain oblivious to their presence unless the Fallanassi in question interacts with them. 
