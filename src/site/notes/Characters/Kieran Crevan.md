@@ -1,25 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kieran-crevan/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/kieran-crevan/","tags":["sith","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Kieran Crevan
 >titles, taglines, etc
 
-## Personal Information
-Summary info.
-↳ 
+## Biographical
 
-### Basic Information
-
-#### Biographical
 **Homeworld** 
 **Birth** 
-**Death** N/A
+**Death** 
 
-#### Physical
+### Physical
+
 **Age** 
 **Gender** 
 **Height** 
@@ -27,30 +23,32 @@ Summary info.
 **Eyes** 
 **Skin** 
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
 **Significant Other** 
 **Other Family**
 - 
 
-#### Political
+## Political Affiliations
+
 **Allegiance**  
 **Rank**  
 **Affiliations**  
 
-#### Jedi Praxeum
-**Master** 
-**Padawan** 
+### Jedi Praxeum
+
+**Master** [[Characters/Rathos Visio\|Rathos Visio]]
+**Padawan** N/A
 **Knighted** 
-**Class** 
+**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
-### Weapons
+## Weapons
 
-#### Jedi Saber
+### Jedi Saber
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
+
 kill count: [[Characters/Catherine Greatstorm\|Catherine Greatstorm]]
 killed by: [[Characters/Chevalier Hellix\|Chevalier Hellix]]
