@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/donadus/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/donadus/","tags":["map","innerrim","bamula","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
