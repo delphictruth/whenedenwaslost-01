@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/kessel-run/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/kessel-run/","tags":["map","hyperlane","outerrim","kessels"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
