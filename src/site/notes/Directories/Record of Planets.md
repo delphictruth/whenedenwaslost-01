@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/directories/record-of-planets/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/directories/record-of-planets/","tags":["map"],"dgHomeLink":false}
 ---
 
+- - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+
 # Record of Planets
+
 | Planet                                           | Region                                       | Sector                | System    | Grid |
 | ------------------------------------------------ | -------------------------------------------- | --------------------- | --------- | ---- |
 | [[Navigational/Aeos Prime\|Aeos Prime]]       | \-                                           | \-                    | \-        | \-   |
@@ -17,6 +20,7 @@
 | [[Navigational/Axum\|Axum]]                   | Core Worlds                                  | Azure                 | Axum      | L-9  |
 | [[Navigational/Batuu\|Batuu]]                 | Outer Rim, Western Reaches                   | Trilon                | Batuu     | G-15 |
 | [[Navigational/Carida\|Carida]]               | Colonies                                     | \-                    | Carida    | M-9  |
+| [[Navigational/Chaaktil\|Chaaktil]]           | [[Navigational/Inner Rim\|Inner Rim]]     | \-                    | \-        | L-14 |
 | [[Navigational/Chandrila\|Chandrila]]         | Core Worlds                                  | Bormea                | Chandrila | L-9  |
 | [[Navigational/Christophsis\|Christophsis]]   | Outer Rim                                    | Savareen              | Christoph | Q-16 |
 | [[Navigational/Columus\|Columus]]             | Core Worlds                                  | \-                    | \-        | M-11 |
@@ -39,6 +43,7 @@
 | [[Navigational/Hoth\|Hoth]]                   | Outer Rim, Western Reaches                   | Anoat Sector          | Hoth      | K-18 |
 | [[Navigational/Ikkrukk\|Ikkrukk]]             | Outer Rim                                    | \-                    | \-        | P-17 |
 | [[Navigational/Ilum\|Ilum]]                   | Unknown Regions                              | \-                    | Ilum      | G-7  |
+| [[Navigational/J't'p'tan\|J't'p'tan]]         | \-                                           | \-                    | \-        | \-   |
 | [[Navigational/Jakku\|Jakku]]                 | Inner Rim, Western Reaches                   | Jakku                 | Jakku     | I-13 |
 | [[Navigational/Jedha\|Jedha]]                 | Mid Rim                                      | Terrabe               | Jedha     | H-10 |
 | [[Navigational/Kalarba\|Kalarba]]             | Mid rim                                      | Hevvral               | Kalarba   | P-15 |
