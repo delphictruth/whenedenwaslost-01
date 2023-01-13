@@ -1,25 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ellie-bonteri/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/ellie-bonteri/","tags":["imperialsenate","resistance","senator","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Senator Bonteri*
 
 # Ellie Bonteri
 >Senator of Coruscant
 
-## Personal Information
 Summary info.
-↳ 
 
-### Basic Information
+## Biographical
 
-#### Biographical
 **Homeworld** 
 **Birth** 
 **Death** N/A
 
-#### Physical
+## Physical
+
 **Age** 
 **Gender** 
 **Height** 
@@ -27,18 +25,21 @@ Summary info.
 **Eyes** 
 **Skin** 
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
+**Significant Other** [[Characters/Michael Hellix\|Michael Hellix]], (other)
 **Other Family**
+- [[Characters/Chevalier Hellix\|Chevalier Hellix]] (son)
+- [[Characters/Drew Hellix\|Drew Hellix]] (son)
+- [[Characters/Octavia Bonteri\|Octavia Bonteri]] (dauther)
 
-**Significant Other** 
+## Political Affiliations
 
-#### Political
 **Allegiance**  
 **Rank**  
 **Affiliations**  
 
 ## History & Plot Significance
+
 Brief blurb.
