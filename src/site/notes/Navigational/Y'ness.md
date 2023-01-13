@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/y-ness/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/y-ness/","tags":["map","core","koornacht","planet","starkiller","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
