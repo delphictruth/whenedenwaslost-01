@@ -1,25 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/charlotte-rose/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/charlotte-rose/","tags":["resistance","character","jedipraxeum","jediknight","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Charlotte Rose
 >titles, taglines, etc
 
-## Personal Information
-Summary info.
-↳ 
+summary
 
-### Basic Information
+## Biographical
 
-#### Biographical
-**Homeworld** 
+**Homeworld** [[Navigational/J't'p'tan\|J't'p'tan]]
 **Birth** 
 **Death** N/A
 
-#### Physical
+## Physical
+
 **Age** 
 **Gender** Female
 **Height** 5'5
@@ -27,35 +25,31 @@ Summary info.
 **Eyes** Blue
 **Skin** Pale
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
 **Other Family**
 - 
 
-**Significant Other** 
+## Political Affiliations
 
-#### Political
 **Allegiance**  
 **Rank**  
 **Affiliations**  
 
-#### Jedi Praxeum
+### Jedi Praxeum
+
 **Master** 
 **Padawan** 
 **Knighted** 
 **Class** 
 
-## Tactical Information
-Brief descriptions of combat style.
+## Combat
 
-### Combat
-
-#### Forms
+### Forms
 Specializes in [[Characters/Charlotte Rose\|]] 
 
-#### Force Beliefs & Usage
+### Force Beliefs & Usage
 Fallanassi White Current 
 
 **Strengths**
@@ -64,16 +58,12 @@ Fallanassi White Current
 **Weaknesses**
 - power
 
-### Weapons
+## Weapons
 
-#### Jedi Saber
+### Jedi Saber
+
 Charlotte's Jedi lightsaber has an orange [[Crystals/Solari\|Solari]] crystal,
 
-#### Darksider Saber
-
-
-#### Extra
-
-
 ## History & Plot Significance
+
 Brief blurb.
