@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/christophsis/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/christophsis/","tags":["map","planet","corellian","outerrim","savareen"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
