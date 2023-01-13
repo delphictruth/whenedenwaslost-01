@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/ado-spine/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/ado-spine/","tags":["map","hyperlane","midrim","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
