@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/pastoria/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/pastoria/","tags":["map","planet","retraining","outerrim","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
