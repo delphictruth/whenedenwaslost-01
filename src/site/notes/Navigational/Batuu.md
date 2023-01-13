@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/batuu/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/batuu/","tags":["map","planet","outerrim","trilon","retraining","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
