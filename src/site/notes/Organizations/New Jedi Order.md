@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/organizations/new-jedi-order/"}
+{"dg-publish":true,"permalink":"/organizations/new-jedi-order/","tags":["galacticsenate","resistance","jedi","faction"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # New Jedi Order
