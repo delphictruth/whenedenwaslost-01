@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/coruscant-dantooine-hyperlane/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/coruscant-dantooine-hyperlane/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
