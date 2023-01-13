@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/majoor-sector/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/majoor-sector/","tags":["map","sector","expansion","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
