@@ -1,54 +1,58 @@
 ---
-{"dg-publish":true,"permalink":"/characters/cecily-beaumont/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/cecily-beaumont/","tags":["jedi","rebellion","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Princess Beaumont*
 
 # Cecily Beaumont
 >Princess of Axum, Light of the Jedi
 
-## Personal Information
-Summary info.
-↳ 
+Summary
 
-### Basic Information
+## Biographical
 
-#### Biographical
 **Homeworld** [[Navigational/Axum\|Axum]]
-**Birth** 
+**Birth** [[Directories/Timeline#16 BBY\|16 BBY]]
 **Death** [[Directories/Timeline#9 ABY\|9 ABY]]
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Physical
 
-### Relations
+**Age** 23 (at death)
+**Gender** Female
+**Height** 5'3
+**Hair** White blonde
+**Eyes** Light blue
+**Skin** Pale
 
-#### Family
+## Relations
+
 **Parents** 
 **Significant Other** [[Characters/Alban Draig\|Raegal Aurelius]] (husband)
 **Other Family**
-- 
+- [[Characters/Bastille Aurelius\|Bastille Aurelius]] (son)
+- [[Characters/Cain Draig\|Cain Draig]] (brother-in-law)
+- [[Characters/Talia Draig\|Talia Draig]] (cousin)
+- [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (cousin)
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+## Political Affiliations
 
-#### New Jedi Order
+**Allegiance** [[Organizations/Rebellion\|Rebellion]]
+**Rank** Jedi General
+**Affiliations** [[Organizations/Jedi Order\|Jedi Order]]
+
+### New Jedi Order
+
 **Master** 
-**Padawan** 
+**Padawan** N/A
 **Knighted** 
 
-### Weapons
+## Weapons
 
-#### Jedi Saber
+### Jedi Saber
+
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
+
 Brief blurb.
