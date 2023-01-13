@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/rodia/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/rodia/","tags":["map","planet","savareen","outerrim"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
