@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/savareen-sector/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/savareen-sector/","tags":["map","sector","unfinished","corellian","triellus","outerrim"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
