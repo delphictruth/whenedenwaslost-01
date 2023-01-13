@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mortex-sector/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mortex-sector/","tags":["map","sector","outerrim"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
