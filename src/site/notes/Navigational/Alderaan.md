@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/alderaan/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/alderaan/","tags":["map","core","alderaan","planet","commenor","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
