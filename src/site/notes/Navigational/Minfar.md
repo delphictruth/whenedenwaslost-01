@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/minfar/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/minfar/","tags":["map","planet","innerrim","retraining","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
