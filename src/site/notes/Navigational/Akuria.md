@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/akuria/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/akuria/","tags":["map","retraining","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
