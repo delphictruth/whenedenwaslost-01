@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/dalnan-sector/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/dalnan-sector/","tags":["map","outerrim","sector"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
