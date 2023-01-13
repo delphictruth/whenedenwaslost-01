@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/zoist/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/zoist/","tags":["map","outerrim","esstran","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
