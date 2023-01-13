@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mon-calamari/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mon-calamari/","tags":["map","retraining","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
