@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/jar-kai-dualing-sabers/"}
+{"dg-publish":true,"permalink":"/weapons/jar-kai-dualing-sabers/","tags":["galacticsenate imperialsenate","resistance firstorder","sith jedi","fauna"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Jar'Kai dualing sabers
