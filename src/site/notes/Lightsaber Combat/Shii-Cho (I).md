@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/lightsaber-combat/shii-cho-i/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/lightsaber-combat/shii-cho-i/","tags":["form"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form I*
 
 # Shii-Cho
@@ -19,7 +19,7 @@ Shii-Cho philosophy emphasizes victory without injury, so every move is geared t
 **Practitioners**
 - [[Characters/Alfred Jonnas\|Alfred Jonnas]]
 - [[Characters/Isa Phant\|Isa Phant]]
-- [[Characters/Lillian Nicolescu\|Lillian Nicolescu]]
+- [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]
 
 ## Stances
 
