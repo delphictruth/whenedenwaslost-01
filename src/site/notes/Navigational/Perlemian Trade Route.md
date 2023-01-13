@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/perlemian-trade-route/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/perlemian-trade-route/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
