@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/dathomir/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/dathomir/","tags":["map","outerrim","quelii","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
