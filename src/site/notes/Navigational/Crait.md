@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/crait/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/crait/","tags":["map","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
