@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/kessel/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/kessel/","tags":["map","planet","outerrim","kessel","kessels","kesselt"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
