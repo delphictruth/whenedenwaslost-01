@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mortis/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mortis/","tags":["map","planet","wildspace","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
