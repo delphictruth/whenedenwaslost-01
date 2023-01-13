@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/erodsis/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/erodsis/","tags":["map","planet","savareen","outerrim"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
