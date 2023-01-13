@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/corellian-run/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/corellian-run/","tags":["map","hyperlane","unfinished","corellian"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
