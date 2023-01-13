@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/jedha/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/jedha/","tags":["map","planet","unfinished","midrim","terrabe","burkes"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
