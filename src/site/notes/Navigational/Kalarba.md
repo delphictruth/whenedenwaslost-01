@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/kalarba/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/kalarba/","tags":["map","midrim","planet","duros","retraining","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
