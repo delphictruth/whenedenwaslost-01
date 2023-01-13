@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mindabaal/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mindabaal/","tags":["map","planet","innerrim","bamula","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
