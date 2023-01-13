@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/m-haeli/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/m-haeli/","tags":["map","planet","expansion","majoor","starkiller","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
