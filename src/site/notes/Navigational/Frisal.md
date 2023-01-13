@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/frisal/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/frisal/","tags":["map","planet","core","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
