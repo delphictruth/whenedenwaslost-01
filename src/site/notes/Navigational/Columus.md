@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/columus/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/columus/","tags":["map","planet","core","retraining","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
