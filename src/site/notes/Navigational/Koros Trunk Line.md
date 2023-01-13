@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/koros-trunk-line/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/koros-trunk-line/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
