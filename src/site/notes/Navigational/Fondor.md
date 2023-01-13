@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/fondor/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/fondor/","tags":["map","retraining","colonies","tapani","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
