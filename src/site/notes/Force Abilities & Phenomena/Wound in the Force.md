@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wound-in-the-force/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wound-in-the-force/","tags":["light dark universal","offense defense utility","control sense alter","forcepower"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *hole in the Force*, *tear in the Force*
 
 # Wound in the Force
