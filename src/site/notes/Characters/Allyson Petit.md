@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/allyson-petit/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/allyson-petit/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Allyson Petit
@@ -27,47 +27,35 @@ Summary info.
 **Eyes** Dark green
 **Skin** Pale
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
+**Significant Other**
 **Other Family**
 - 
 
-**Significant Other** 
+## Political Affiliations
 
-#### Political
 **Allegiance**  
 **Rank**  
 **Affiliations**  
 
-#### Jedi Praxeum
+## Jedi Praxeum
+
 **Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan** [[Characters/Chevalier Hellix\|Chevalier Hellix]]
 **Knighted** [[Directories/Timeline#21 ABY\|21 ABY]]
-**Class** [[Organizations/Jedi Padawan Classes\|Jedi Padawan Class I]]
+**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class I\|Padawan Class I]]
 
-## Tactical Information
-Brief descriptions of combat style.
+## Combat
 
-### Combat
+info
 
-#### Forms
-Specializes in [[Characters/Allyson Petit\|]] 
+## Weapons
 
-#### Force Beliefs & Usage
-info info 
-
-**Strengths**
-- power
-
-**Weaknesses**
-- power
-
-### Weapons
-
-#### Jedi Saber
+### Jedi Saber
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
+
 Brief blurb.
