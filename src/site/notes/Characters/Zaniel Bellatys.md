@@ -1,25 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/characters/zaniel-bellatys/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/zaniel-bellatys/","tags":["forceghost","character","forcesensitive"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Directories/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Zaniel Bellatys
 >titles roles
 
-## Personal Information
 Darksider who neither formally trained with the Jedi nor was considered a true Sith: he had only moderate Force sensitivity and acted mostly in supporting roles for the Sith, eventually killed in a Cantina fight
-↳ 
 
-### Basic Information
+## Biographical
 
-#### Biographical
 **Homeworld** 
 **Birth** 
 **Death** 
 
-#### Physical
+## Physical
+
 **Age** 
 **Gender** 
 **Height** 
@@ -27,14 +25,14 @@ Darksider who neither formally trained with the Jedi nor was considered a true S
 **Eyes** 
 **Skin** 
 
-### Relations
+## Relations
 
-#### Family
 **Parents** 
 **Other Family**
 **Significant Other** 
 
-#### Political
+## Political
+
 **Allegiance**  
 **Rank**  
 **Affiliations**  
