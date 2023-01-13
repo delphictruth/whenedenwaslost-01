@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/kessel-trade-cooridor/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/kessel-trade-cooridor/","tags":["map","hyperlane"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
