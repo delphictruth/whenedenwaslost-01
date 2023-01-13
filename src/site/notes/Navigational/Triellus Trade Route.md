@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/triellus-trade-route/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/triellus-trade-route/","tags":["map","outerrim","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
