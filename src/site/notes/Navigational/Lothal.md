@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/lothal/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/lothal/","tags":["map","planet","starkiller","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
