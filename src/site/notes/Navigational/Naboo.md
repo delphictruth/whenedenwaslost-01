@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/naboo/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/naboo/","tags":["map","midrim","chommell","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
