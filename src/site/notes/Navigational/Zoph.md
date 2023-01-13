@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/zoph/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/zoph/","tags":["map","planet","unknown"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
