@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/atrisian-commonwealth/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/atrisian-commonwealth/","tags":["map","sector","unfinished","gijurun"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
