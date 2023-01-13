@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/exegol/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/exegol/","tags":["map","planet","unknown"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
