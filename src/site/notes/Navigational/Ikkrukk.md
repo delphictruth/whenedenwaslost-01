@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/ikkrukk/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/ikkrukk/","tags":["map","outerrim","retraining","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
