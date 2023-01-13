@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/martial-cross/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/martial-cross/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
