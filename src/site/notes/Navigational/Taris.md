@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/taris/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/taris/","tags":["map","outerrim","retraining","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
