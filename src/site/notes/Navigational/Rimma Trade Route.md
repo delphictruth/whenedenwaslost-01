@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/rimma-trade-route/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/rimma-trade-route/","tags":["map","midrim","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
