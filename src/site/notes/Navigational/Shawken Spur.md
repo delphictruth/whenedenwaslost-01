@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/shawken-spur/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/shawken-spur/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
