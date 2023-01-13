@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/dorin/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/dorin/","tags":["map","retraining","planet","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
