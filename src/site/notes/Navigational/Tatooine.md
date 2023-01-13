@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/tatooine/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/tatooine/","tags":["map","planet","outerrim","starkiller","arkanis","mumbles","triellus","unfinished"],"dgHomeLink":false}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
