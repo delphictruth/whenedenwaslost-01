@@ -1,61 +1,59 @@
 ---
-{"dg-publish":true,"permalink":"/characters/charlotte-rose/","tags":["resistance","character","jedipraxeum","jediknight","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/charlotte-rose/","tags":["resistance","jedipraxeum","jediknight","forcesensitive","unfinished"],"dgHomeLink":false}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Charlotte Rose
->titles, taglines, etc
+>Last Survivor
 
-summary
+## Personal Information
 
-## Biographical
+**Homeworld**::  [[Navigational/J't'p'tan\|J't'p'tan]]
+**Birth**::  
+**Death**::  N/A
+**Status**::  Alive
 
-**Homeworld** [[Navigational/J't'p'tan\|J't'p'tan]]
-**Birth** 
-**Death** N/A
-
-## Physical
-
-**Age** 
-**Gender** Female
-**Height** 5'5
-**Hair** Black
-**Eyes** Blue
-**Skin** Pale
+**Age**::  
+**Gender**::  Female
+**Height**::  5'5
+**Hair**::  Black
+**Eyes**::  Blue
+**Skin**::  Pale
 
 ## Relations
 
-**Parents** 
-**Other Family**
+**Parents**::  
+**Other Family**::
 - 
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  [[Organizations/Resistance\|Resistance]]
+**Rank**::  Soldier
+**Affiliations**::  [[Organizations/New Jedi Order\|New Jedi Order]]
 
 ### Jedi Praxeum
 
-**Master** 
-**Padawan** 
-**Knighted** 
-**Class** 
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]] 
+**Padawan**::  N/A 
+**Knighted**::   [[Directories/Timeline#26 ABY\|26 ABY]]
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]] 
 
 ## Combat
 
 ### Forms
+
 Specializes in [[Characters/Charlotte Rose\|]] 
 
 ### Force Beliefs & Usage
+
 Fallanassi White Current 
 
-**Strengths**
+**Strengths**::
 - power
 
-**Weaknesses**
+**Weaknesses**::
 - power
 
 ## Weapons
