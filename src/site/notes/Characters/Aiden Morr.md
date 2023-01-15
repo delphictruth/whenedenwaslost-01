@@ -1,29 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/characters/aiden-morr/","tags":["character","npc","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/aiden-morr/","tags":["npc"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- No other recorded names
-
+- *No other names on record*
 # Aiden Morr
+>Lost One
 
 Aiden Morr was the younger brother of Jedi Knight [[Characters/Marcus Morr\|Marcus Morr]]. There was a rather infamous accident around Marcus's [[Awakening\|Awakening]], in which Aiden was killed.
+## Personal Information
 
-## Biographical
+**Homeworld**::  
+**Birth**::  [[Directories/Timeline#6 ABY\|6 ABY]]
+**Death**:: 
+**Status**::  Deceased
 
-**Homeworld** 
-**Birth** [[Directories/Timeline#6 ABY\|6 ABY]]
-**Death** [[Directories/Timeline#13 ABY\|13 ABY]]
+**Age**::  7 (at death)
+**Gender**::  Male
+**Height**:: 
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
+## Relations
 
-## Physical
+**Parents**:: 
+**Significant Other**::  None on record
 
-**Age** 7 (at death)
-**Gender** Male
-**Hair** Brown
-**Eyes** Brown
-**Skin** Pale
+**Other Family**::
+- [[Characters/Marcus Morr\|Marcus Morr]] (brother)
 
-## Family
-
-**Parents** 
-**Other Family** [[Characters/Marcus Morr\|Marcus Morr]] (brother)
