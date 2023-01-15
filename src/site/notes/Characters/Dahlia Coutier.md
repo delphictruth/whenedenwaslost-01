@@ -1,56 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/characters/dahlia-coutier/","tags":["newjediorder","jedipraxeum","resistance","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/dahlia-coutier/","tags":["newjediorder","jedipraxeum","resistance","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
-
+- Also known as *The Last Jedi*
 # Dahlia Coutier
->titles, taglines, etc
+>Grand Jedi Master of the Jedi Praxeum
 
 ## Personal Information
-Summary info.
-↳ 
 
-### Basic Information
+**Homeworld**:: 
+**Birth**:: 
+**Death**:: 
+**Status**::  Unknown
 
-#### Biographical
-**Homeworld** 
-**Birth** 
-**Death** N/A
+**Age**:: 
+**Gender**:: 
+**Height**:: 
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**:: 
+**Significant Other**::
 
-#### Family
-**Parents** 
-**Other Family**
+**Other Family**::
 - 
 
-**Significant Other** 
+### Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  [[Organizations/Rebellion\|Rebellion]]
+**Rank**::  Jedi General
+**Affiliations**::  [[Organizations/New Jedi Order\|New Jedi Order]] (Grand Jedi Master)
 
-#### Jedi Praxeum
-**Master** 
-**Padawan** 
-**Knighted** 
-**Class** 
+### New Jedi Order
 
-### Weapons
+**Master**:: 
+**Padawan**:: 
+**Knighted**:: 
+## Weapons
 
-#### Jedi Saber
-[crystal] color hilt style attuned
+### Jedi Saber
+
 
 ## History & Plot Significance
+
 Brief blurb.
