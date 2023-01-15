@@ -4,7 +4,6 @@
 
 - [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Sith Triumvirate
 The Sith Triumvirate formed out of the remains of [[Characters/Revan\|Revan]]'s Sith Empire following the end of the Jedi Civil War and Revan's return to the Jedi, otherwise known as the beginning of the Sith Civil War. Under the leadership of the Dark Lords of the Sith Triumvirate, it went on to wage war against the Jedi.
 
