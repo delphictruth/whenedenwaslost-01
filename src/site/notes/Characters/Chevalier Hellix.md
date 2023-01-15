@@ -1,56 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/characters/chevalier-hellix/","tags":["fallenjedi","firstorder","jediknight","knightsofren","jedipraxeum","formvii","trakata","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/chevalier-hellix/","tags":["fallenjedi","firstorder","jediknight","knightsofren","jedipraxeum","formvii","trakata","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Chevalier Hellix | Muta Ren
 >The Trickster, Second Knight
 
-summary
+## Personal Information
 
-## Biographical
+**Homeworld**::  [[Navigational/Chandrila\|Chandrila]]
+**Birth**::  [[Directories/Timeline#7 ABY\|7 ABY]]
+**Death**::  N/A
 
-**Homeworld** [[Navigational/Chandrila\|Chandrila]]
-**Birth** [[Directories/Timeline#7 ABY\|7 ABY]]
-**Death** N/A
-
-## Physical
-
-**Age** 24
-**Gender** Male
-**Height** 6'1
-**Hair** Blonde
-**Eyes** Apple green
-**Skin** Pale
-
+**Age**::  24
+**Gender**::  Male
+**Height**::  6'1
+**Hair**::  Blonde
+**Eyes**::  Apple green
+**Skin**::  Pale
+**Status**::  Alive
 ## Relations
 
-**Parents** [[Characters/Michael Hellix\|Michael Hellix]] & [[Characters/Ellie Bonteri\|Ellie Bonteri]]
-**Significant Other** [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]
-**Other Family**
+**Parents**::  [[Characters/Michael Hellix\|Michael Hellix]] & [[Characters/Ellie Bonteri\|Ellie Bonteri]]
+**Significant Other**::  [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]
+
+**Other Family**::
 - [[Characters/Drew Hellix\|Drew Hellix]] (brother)
 - [[Characters/Octavia Bonteri\|Octavia Bonteri]] (half-sister)
 
 ## Political Affiliations
 
-**Allegiance** [[Organizations/First Order\|First Order]]
-**Rank** Second Knight
-**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
+**Allegiance**::  [[Organizations/First Order\|First Order]]
+**Rank**::  Knight
+**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
-**Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Allyson Petit\|Allyson Petit]]
-**Padawan** [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] (brief)
-**Knighted** [[Directories/Timeline#26 ABY\|26 ABY]]
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Jedi Padawan Class III]]
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Allyson Petit\|Allyson Petit]]
+**Padawan**::  [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] (brief)
+**Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
 
-**Rank** Second Knight
-**Master** [[Characters/Bastille Aurelius\|Ani Ren]]
-**Knights**
+**Rank**::  Second Knight
+**Master**::  [[Characters/Bastille Aurelius\|Ani Ren]]
+**Knights**::
 - [[Characters/Bardolph Vos\|Jus Ren]]
 - [[Characters/Alfred Jonnas\|Deco Ren]]
 - [[Characters/Imperia Sibyl\|Sacra Ren]]
@@ -64,8 +60,6 @@ summary
 Chevalier specializes in [[Lightsaber Combat/Juyo (VII)\|Juyo (VII)]], but his style is largely influenced by his practice of [[Lightsaber Combat/Trákata\|Trákata]], a rather risky and rare strategy that depends on igniting and extinguishing the lightsaber rapidly in combat. He dabbles a bit in [[Lightsaber Combat/Juyo (VII)\|Vaapad (VII)]] as well, but more so for its compliments to Juyo. His blade-work is graceful and light, but completely unpredictable and reckless. 
 
 ### Force Beliefs & Usage
-
-blurb
 
 **Strengths**
 - [[Force Abilities & Phenomena/Force empathy\|Force empathy]]
