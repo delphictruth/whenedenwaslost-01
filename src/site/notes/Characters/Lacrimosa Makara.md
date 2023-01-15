@@ -1,66 +1,61 @@
 ---
-{"dg-publish":true,"permalink":"/characters/lacrimosa-makara/","tags":["greyjedi","resistance","jediknight","i ii iii iv v vi vii","forcesensitive","unfinished","character"]}
+{"dg-publish":true,"permalink":"/characters/lacrimosa-makara/","tags":["greyjedi","resistance","jediknight","i ii iii iv v vi vii","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Lacrimosa Makara
 >titles, taglines, etc
 
 ## Personal Information
-Summary info.
-↳ [[Characters/Lacrimosa Makara#History Plot Significance\|Jump to history.]]
 
-### Basic Information
+**Homeworld**::  [[Navigational/Kuat\|Kuat]] 
+**Birth**::  
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth** 
-**Death** N/A
+**Age**:: 
+**Gender**::  Female
+**Height**::  6'0
+**Hair**::  Auburn (dyed brown)
+**Eyes**::  Dark blue
+**Skin**::  Pale
 
-#### Physical
-**Age** 
-**Gender** Female
-**Height** 6'0
-**Hair** Auburn (dyed brown)
-**Eyes** Dark blue
-**Skin** Pale
+## Relations
 
-### Relations
+**Parents**:: [[Characters/Erikson Makara\|Erikson Makara]] & [[Characters/Coreen Makara\|Coreen Makara]] 
+**Significant Other**::  [[Characters/Chevalier Hellix\|Chevalier Hellix]] (it's complicated)
 
-#### Family
-**Parents** 
-**Significant Other** [[Characters/Chevalier Hellix\|Chevalier Hellix]] (it's complicated)
-**Other Family**
-- 
+**Other Family**::
+- [[Characters/Hasina Makara\|Hasina Makara]] (sister)
+- [[Juliette Rose Makara\|Juliette Rose Makara]] (sister-in-law)
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+### Political Affiliations
 
-## Tactical Information
-Brief descriptions of combat style.
+**Allegiance**::  [[Humanitarian\|Humanitarian]]
+**Rank**::  Coordinator
+**Affiliations**::  [[Organizations/New Republic\|New Republic]] (ally), [[Organizations/Resistance\|Resistance]] (ally)  
 
-### Combat
+## Combat
 
-#### Forms
+### Forms
+
 Specializes in [[Characters/Lacrimosa Makara\|]] 
 
-#### Force Beliefs & Usage
+### Force Beliefs & Usage
+
 info info 
 
-**Strengths**
+**Strengths**::
 - power
 
-**Weaknesses**
+**Weaknesses**::
 - power
 
-### Weapons
+## Weapons
 
 #### Jedi Saber
+
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
-Brief blurb.
