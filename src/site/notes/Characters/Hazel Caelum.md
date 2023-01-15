@@ -1,42 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/characters/hazel-caelum/","tags":["greyjedi","character","resistance","princess","formiii","formiv","formv","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/hazel-caelum/","tags":["greyjedi","resistance","princess","formiii","formiv","formv","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Margravine Hazel Caelum*, *Hazel Nobody of Jakku*
-
 # Hazel Caelum
 >Lost Heir of Nallastia, Skull Princess, Vessel of the Force, Shield of the Jedi
 
-Summary info.
+## Personal Information
 
-## Biographical
+**Homeworld**::  [[Navigational/Nallastia\|Nallastia]]
+**Birth**::  [[Directories/Timeline#11 ABY\|11 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-**Homeworld** [[Navigational/Nallastia\|Nallastia]]
-**Birth** [[Directories/Timeline#11 ABY\|11 ABY]]
-**Death** N/A
-
-## Physical
-
-**Age** 20
-**Gender** Female
-**Height** 5'2
-**Hair** Golden
-**Eyes** Golden
-**Skin** Dark
-
+**Age**::  20
+**Gender**::  Female
+**Height**::  5'2
+**Hair**::  Golden
+**Eyes**::  Golden
+**Skin**::  Dark
 ## Relations
 
-**Parents** [[Characters/Aurora Caelum\|Aurora Caelum]] & [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]
-**Significant Other** [[Characters/Bastille Aurelius\|Bastille Aurelius]] ([[Force Abilities & Phenomena/Force Bond\|Bonded]])
-**Other Family**
+**Parents**:: [[Characters/Aurora Caelum\|Aurora Caelum]] & [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]
+**Significant Other**:: [[Characters/Bastille Aurelius\|Bastille Aurelius]] ([[Force Abilities & Phenomena/Force Bond\|Bonded]])
+
+**Other Family**::
 - Margravine [[Characters/Quenelle Caelum\|Quenelle Caelum]] (maternal grandmother)
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance** [[Organizations/Resistance\|Resistance]]
-**Rank** Jedi
-**Affiliations** [[Navigational/Nallastia\|Nallastia]] (Skull Princess)
+**Allegiance**::  [[Organizations/Resistance\|Resistance]]
+**Rank**::  Jedi General
+**Affiliations**::  [[Navigational/Nallastia\|Nallastia]] (Skull Princess)
 
 ## Combat
 
@@ -50,7 +46,7 @@ Hazel specializes in [[Lightsaber Combat/Soresu (III)\|Soresu (III)]] initially,
 
 Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s philosophy and the "true" Jedi way initially, but her connection to [[Characters/Bastille Aurelius\|Bastille Aurelius]] is also a powerful force. She is the first true [[Organizations/Grey Jedi\|Grey Jedi]] in generations. 
 
-**Strengths**
+**Strengths**::
 - [[Force Abilities & Phenomena/Precognition\|Precognition]]
 - [[Force Abilities & Phenomena/Force healing\|Force healing]]
 - [[Force Abilities & Phenomena/Battle Meditation\|Battle Meditation]]
@@ -62,7 +58,7 @@ Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s 
 - [[Force Abilities & Phenomena/Force Light\|Force Light]] 
 - Affinity for [[Force Abilities & Phenomena/Force ghosts\|Force ghosts]] 
 
-**Weaknesses**
+**Weaknesses**::
 - power
 
 ## Weapons
@@ -83,4 +79,4 @@ Her second Jedi lightsaber is crafted to interlock with the first at the hilts, 
 
 ## History & Plot Significance
 
-Brief blurb.
+
