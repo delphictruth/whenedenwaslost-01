@@ -1,43 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/characters/janelle/","tags":["newrepublicsenate","resistance","princess","character","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/janelle/","tags":["newrepublicsenate","resistance","princess","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *Princess*
 # Janelle
->title roles
+>Princess of Atrisia
 
 ## Personal Information
-Summary info.
-↳
 
-### Basic Information
+**Homeworld**::  [[Navigational/Atrisia\|Atrisia]]
+**Birth**::  [[Directories/Timeline#9ABY\|9 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#9ABY\|9 ABY]]
-**Death** N/A
+**Age**:: 
+**Gender**:: 
+**Height**:: 
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**:: 
+**Significant Other**::  [[Characters/Maerex\|Maerex]]
 
-#### Family
-**Parents** 
-**Significant Other** [[Characters/Maerex\|Maerex]]
-**Other Family**
+**Other Family**::
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+### Political Affiliations
+
+**Allegiance**::  [[Organizations/New Republic\|New Republic]]  
+**Rank**  Princess
+**Affiliations**  [[Organizations/Resistance\|Resistance]] (ally)
 
 ## History & Plot Significance
 Brief blurb.
