@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/imperia-sibyl/","tags":["character","fallenjedi","firstorder","knightsofren","jedipraxeum","jediknight","forcesensitive","unfinished","trayas"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/imperia-sibyl/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jediknight","forcesensitive","unfinished","trayas"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -8,46 +8,44 @@
 # Imperia Sibyl | Sacra Ren
 >The Witch
 
-## Biographical
+## Personal Information
 
-**Homeworld** [[Navigational/Seidhkona\|Seidhkona]]
-**Birth** 
-**Death** N/A
+**Homeworld**::  [[Navigational/Seidhkona\|Seidhkona]]
+**Birth**::  
+**Death**::  N/A
+**Status**::  Alive
 
-## Physical
+**Age**::  22
+**Gender**::  Female 
+**Height**::  5'7
+**Hair**::  Black
+**Eyes**::  Indigo
+**Skin**::  Pale
 
-**Age** 22
-**Gender** Female 
-**Height** 5'7
-**Hair** Black
-**Eyes** Indigo
-**Skin** Pale
+**Parents**::  Unrecorded 
+**Significant Other**::  [[Characters/Bardolph Vos\|Bardolph Vos]]
 
-## Relations
-
-**Parents** 
-**Significant Other** [[Characters/Bardolph Vos\|Bardolph Vos]]
-**Other Family**
+**Other Family**::
 - Unrecorded
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance** [[Organizations/First Order\|First Order]]
-**Rank** Knight
-**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
+**Allegiance**::  [[Organizations/First Order\|First Order]]
+**Rank**::  Knight
+**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
-**Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
-**Padawan** N/A
-**Knighted** [[Directories/Timeline#29 ABY\|29 ABY]]
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Jedi Padawan Class III]]
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan**::  N/A
+**Knighted**::  [[Directories/Timeline#29 ABY\|29 ABY]]
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
 
-**Rank** Knight
-**Master** [[Characters/Bastille Aurelius\|Ani Ren]]
-**Knights**
+**Rank**::  Knight
+**Master**::  [[Characters/Bastille Aurelius\|Ani Ren]]
+**Knights**::
 - [[Characters/Chevalier Hellix\|Muta Ren]]
 - [[Characters/Bardolph Vos\|Jus Ren]]
 - [[Characters/Alfred Jonnas\|Deco Ren]]
@@ -56,17 +54,13 @@
 
 ## Combat
 
-Summary
-
-### Forms
-
 Imperia does not practice an traditional lightsaber form. She utilizes a unique style of combat that relies on telepathically controlling three sabers at once, allowing her to fight from a slight distance and with little personal movement. There is no known name for this style of combat, but some have used the phrase [[Lightsaber Combat/Traya's Telepathy\|Traya's Telepathy]] to refer to it. 
 
 ### Force Beliefs & Usage
 
 The Mother
 
-**Strengths**
+**Strengths**::
 - [[Force Abilities & Phenomena/Force healing\|Force healing]]
 - [[Force Abilities & Phenomena/Hibernation trance\|Hibernation trance]]
 - [[Force Abilities & Phenomena/Center of Being\|Center of Being]]
@@ -76,7 +70,7 @@ The Mother
 - [[Force Abilities & Phenomena/Malacia\|Malacia]]
 - [[Force Abilities & Phenomena/Morichro\|Morichro]]
 
-**Weaknesses**
+**Weaknesses**::
 - Hand-to-hand combat
 
 ## Weapons
