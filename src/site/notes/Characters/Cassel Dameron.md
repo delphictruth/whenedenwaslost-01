@@ -1,40 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/characters/cassel-dameron/","tags":["resistance","character","pilot","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/cassel-dameron/","tags":["resistance","pilot","unfinished"],"dgHomeLink":false}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
-
+- Also known as *Commander Damerson*
 # Cassel Dameron
->title roles
+>Commander Pilot of Black Squadron
 
-Summary
+## Personal Information
 
-## Biographical
+**Homeworld**:: 
+**Birth**::  [[Directories/Timeline#8 ABY\|8 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-**Homeworld** 
-**Birth** [[Directories/Timeline#8 ABY\|8 ABY]]
-**Death** N/A
-
-## Physical
-
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+**Age**::  
+**Gender**::  
+**Height**::  
+**Hair**:: 
+**Eyes**:: 
+**Skin**::
 
 ## Relations
 
-**Parents** 
-**Other Family**
+**Parents**::  
+**Significant Other**:: [[Characters/AT-5365\|Atty]]
 
-## Political Affiliations
+**Other Family**::
 
-**Allegiance** [[Organizations/Resistance\|Resistance]]
-**Rank** Captain
-**Affiliations** 
+### Political Affiliations
+
+**Allegiance**::  [[Organizations/Resistance\|Resistance]]
+**Rank**::  Commander
+**Affiliations**::  Black Squadron (Black Leader)
 
 ## History & Plot Significance
 
