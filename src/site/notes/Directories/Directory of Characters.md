@@ -35,7 +35,7 @@
 | [[Characters/Darth Krayt\|Darth Krayt]]                       | [[Organizations/One Sith\|One Sith]]                       | Sith Lord         | [[Navigational/Tatooine\|Tatooine]]   | Unknown  |
 | [[Characters/Darth Malak\|Darth Malak]]                       | \-                                                            | Sith Lord         | \-                                       | Deceased |
 | [[Characters/Darth Nihilus\|Darth Nihilus]]                   | [[Organizations/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | Unknown                                  | Deceased |
-| [[Characters/Darth Sidious\|Darth Sidious]]                   | [[Banite Sith\|Banite Sith]]                               | Sith Lord         | [[Navigational/Naboo\|Naboo]]         | Deceased |
+| [[Characters/Darth Sidious\|Darth Sidious]]                   | [[Organizations/Banite Sith\|Banite Sith]]                               | Sith Lord         | [[Navigational/Naboo\|Naboo]]         | Deceased |
 | [[Characters/Darth Sion\|Darth Sion]]                         | [[Organizations/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                       | \-       |
 | [[Characters/Darth Traya\|Darth Traya]]                       | [[Organizations/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                       | Deceased |
 | [[Characters/Drew Hellix\|Drew Hellix]]                       | None                                                          | No sensitivity    | \-                                       | Deceased |
@@ -51,8 +51,9 @@
 | [[Characters/Imperia Sibyl\|Imperia Sibyl]]                   | [[Organizations/First Order\|First Order]]                 | Fallen Jedi       | [[Navigational/Seidhkona\|Seidhkona]] | Alive    |
 | [[Characters/Isa Phant\|Isa Phant]]                           | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
 | [[Characters/Janelle\|Janelle]]                               | [[Organizations/New Republic\|New Republic]]               | Low sensitivity   | [[Navigational/Atrisia\|Atrisia]]     | Alive    |
+| [[Characters/Juliette Rose Makara\|Juliette Rose Makara]]     | [[Organizations/Resistance\|Resistance]]                   | No sensitivity    | \-                                       | Alive    |
 | [[Characters/Kieran Crevan\|Kieran Crevan]]                   | [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] | Sith Apprentice   | \-                                       | Deceased |
-| [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]             | [[Humanitarian\|Humanitarian]]                             | Force-sensitive   | [[Navigational/Kuat\|Kuat]]           | Alive    |
+| [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]             | [[Organizations/Humanitarian\|Humanitarian]]               | Force-sensitive   | [[Navigational/Kuat\|Kuat]]           | Alive    |
 | [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]             | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
 | [[Characters/Lord ??\|Lord ??]]                               | [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]           | Sith Lord         | \-                                       | Deceased |
 | [[Characters/Maerex\|Maerex]]                                 | \-                                                            | \-                | \-                                       | \-       |
