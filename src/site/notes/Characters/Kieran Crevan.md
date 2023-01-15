@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/kieran-crevan/","tags":["sith","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/kieran-crevan/","tags":["sith","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -8,13 +8,12 @@
 # Kieran Crevan
 >titles, taglines, etc
 
-## Biographical
+## Personal Information
 
-**Homeworld** 
-**Birth** 
-**Death** 
-
-### Physical
+**Homeworld**:: 
+**Birth**:: 
+**Death**::
+**Status**::  Deceased
 
 **Age** 
 **Gender** 
@@ -25,30 +24,32 @@
 
 ## Relations
 
-**Parents** 
-**Significant Other** 
-**Other Family**
+**Parents**:: 
+**Significant Other**:: None on record
+
+**Other Family**::
 - 
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]]
+**Rank**::  Sith Apprentice
+**Affiliations**::  
 
 ### Jedi Praxeum
 
-**Master** [[Characters/Rathos Visio\|Rathos Visio]]
-**Padawan** N/A
-**Knighted** 
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
+**Master**::  [[Characters/Rathos Visio\|Rathos Visio]]
+**Padawan**::  N/A
+**Knighted**::  
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## Weapons
 
 ### Jedi Saber
+
 [crystal] color hilt style attuned
 
 ## History & Plot Significance
 
-kill count: [[Characters/Catherine Greatstorm\|Catherine Greatstorm]]
+kill count: [[Characters/Catherine Labelle\|Catherine Labelle]]
 killed by: [[Characters/Chevalier Hellix\|Chevalier Hellix]]
