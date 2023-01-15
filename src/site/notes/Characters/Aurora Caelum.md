@@ -1,40 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/characters/aurora-caelum/","tags":["princess","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/aurora-caelum/","tags":["princess","royalty","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Aurora Caelum
->title roles
+>Princess of Nallastia, The Dawn Princess
 
+## Personal Information
 
-## Biographical
+**Homeworld**::  [[Navigational/Nallastia\|Nallastia]]
+**Birth**::  
+**Death**:: 
+**Status**::  Deceased
 
-**Homeworld** 
-**Birth** 
-**Death** N/A
-
-## Physical
-
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
-
+**Age**:: 
+**Gender**:: 
+**Height**:: 
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
 ## Relations
 
-**Parents** 
-**Other Family**
+**Parents**::  [[Characters/Quenelle Caelum\|Quenelle Caelum]]
+**Significant Other**::  [[Characters/Pirphal Chthonios\|Pirphal Chthonios]] (husband)
 
-## Political Affiliations
+**Other Family**::
+- [[Characters/Hazel Caelum\|Hazel Caelum]] (daughter)
 
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+### Political Affiliations
 
+**Allegiance**::  Independent
+**Rank**::  Princess
+**Affiliations**::  
 ## History & Plot Significance
 
-Brief blurb.
