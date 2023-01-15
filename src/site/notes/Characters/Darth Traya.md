@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/darth-traya/","tags":["fallenjedi sith","forcesensitive","trakata","trayas","sithtrio"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/darth-traya/","tags":["fallenjedi","sith","forcesensitive","trakata","trayas","sithtrio"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Kreia*, *Lord of Betrayal*
-
 # Darth Traya
 >Jedi Outcast, Dark Lord of the Sith Triumvirate
 
