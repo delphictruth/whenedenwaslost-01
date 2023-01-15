@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/directories/directory-of-characters/","tags":["meta"]}
+{"dg-publish":true,"permalink":"/directories/directory-of-characters/","tags":["meta"],"dgShowLocalGraph":false}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -35,7 +35,7 @@
 | [[Characters/Darth Krayt\|Darth Krayt]]                       | [[Organizations/One Sith\|One Sith]]                       | Sith Lord         | [[Navigational/Tatooine\|Tatooine]]   | Unknown  |
 | [[Characters/Darth Malak\|Darth Malak]]                       | \-                                                            | Sith Lord         | \-                                       | Deceased |
 | [[Characters/Darth Nihilus\|Darth Nihilus]]                   | [[Organizations/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | Unknown                                  | Deceased |
-| [[Characters/Darth Sidious\|Darth Sidious]]                   | [[Organizations/Banite Sith\|Banite Sith]]                               | Sith Lord         | [[Navigational/Naboo\|Naboo]]         | Deceased |
+| [[Characters/Darth Sidious\|Darth Sidious]]                   | [[Organizations/Banite Sith\|Banite Sith]]                 | Sith Lord         | [[Navigational/Naboo\|Naboo]]         | Deceased |
 | [[Characters/Darth Sion\|Darth Sion]]                         | [[Organizations/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                       | \-       |
 | [[Characters/Darth Traya\|Darth Traya]]                       | [[Organizations/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                       | Deceased |
 | [[Characters/Drew Hellix\|Drew Hellix]]                       | None                                                          | No sensitivity    | \-                                       | Deceased |
