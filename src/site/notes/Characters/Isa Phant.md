@@ -1,43 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/characters/isa-phant/","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formi","classiv","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/isa-phant/","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formi","classiv","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Isa Phant
 >titles, taglines, etc
 
-summary
+## Personal Information
 
-## Biographical
+**Homeworld**::  
+**Birth**::   
+**Death**::   
+**Status**::  Deceased
 
-**Homeworld** 
-**Birth** 
-**Death** 
-
-## Physical
-
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+**Age**::  
+**Gender**::  Female 
+**Height**::  Unrecorded 
+**Hair**::  White 
+**Eyes**::  Green 
+**Skin**::  Pale 
 
 ## Relations
 
-**Parents** 
-**Significant Other**  
-**Other Family**
+**Parents**::  
+**Significant Other**::  None on record
+
+**Other Family**::
 - 
 
-## Jedi Praxeum
+### Jedi Praxeum
 
-**Master** 
-**Padawan** N/A
-**Knighted** N/A
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
+**Master**::  [[Characters/Rathos Visio\|Rathos Visio]] 
+**Padawan**::  N/A
+**Knighted**::  N/A
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
 
 # Combat
 
@@ -49,10 +46,10 @@ Specializes in [[Characters/Isa Phant\|]]
 
 info info 
 
-**Strengths**
+**Strengths**::
 - power
 
-**Weaknesses**
+**Weaknesses**::
 - power
 
 ## Weapons
