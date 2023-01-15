@@ -3,59 +3,43 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
-
+- *No other names on record*
 # Allyson Petit
->titles, taglines, etc
+>Jedi Knight of the New Order
 
 ## Personal Information
-Summary info.
-↳ 
 
-### Basic Information
+**Homeworld**::  
+**Birth**::  [[Directories/Timeline#1 ABY\|1 ABY]]
+**Death**::  [[Directories/Timeline#23 ABY\|23 ABY]]
 
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#1 ABY\|1 ABY]]
-**Death** [[Directories/Timeline#23 ABY\|23 ABY]]
-
-#### Physical
-**Age** 22 (at death)
-**Gender** Female
-**Height** 
-**Hair** Red
-**Eyes** Dark green
-**Skin** Pale
-
+**Age**::  22 (at death)
+**Gender**::  Female
+**Height**::  
+**Hair**::  Red
+**Eyes**::  Dark green
+**Skin**:: Pale
+**Status**::  Deceased
 ## Relations
 
-**Parents** 
-**Significant Other**
-**Other Family**
-- 
+**Parents**::  Unrecorded
+**Significant Other**::  None on record
 
-## Political Affiliations
+**Other Family**::
+- None on record
 
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+### Political Affiliations
 
-## Jedi Praxeum
+**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]  
+**Rank**::  Jedi Knight
+**Affiliations**::  
 
-**Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
-**Padawan** [[Characters/Chevalier Hellix\|Chevalier Hellix]]
-**Knighted** [[Directories/Timeline#21 ABY\|21 ABY]]
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class I\|Padawan Class I]]
+### Jedi Praxeum
 
-## Combat
-
-info
-
-## Weapons
-
-### Jedi Saber
-[crystal] color hilt style attuned
-
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan**::  [[Characters/Chevalier Hellix\|Chevalier Hellix]]
+**Knighted**::  [[Directories/Timeline#21 ABY\|21 ABY]]
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class I\|Padawan Class I]]
 ## History & Plot Significance
 
 Brief blurb.
