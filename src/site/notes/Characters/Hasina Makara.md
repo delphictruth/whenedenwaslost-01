@@ -24,7 +24,7 @@
 ## Relations
 
 **Parents**::  [[Characters/Erikson Makara\|Erikson Makara]] & [[Characters/Coreen Makara\|Coreen Makara]]
-**Significant Other**::  [[Juliette Rose Makara\|Juliette Rose Makara]] (wife)
+**Significant Other**::  [[Characters/Juliette Rose Makara\|Juliette Rose Makara]] (wife)
 
 **Other Family**::
 - [[Characters/Lacrimosa Makara\|Lacrimosa Makara]] (sister)
