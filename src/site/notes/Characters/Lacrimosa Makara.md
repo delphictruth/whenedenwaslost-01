@@ -28,11 +28,11 @@
 
 **Other Family**::
 - [[Characters/Hasina Makara\|Hasina Makara]] (sister)
-- [[Juliette Rose Makara\|Juliette Rose Makara]] (sister-in-law)
+- [[Characters/Juliette Rose Makara\|Juliette Rose Makara]] (sister-in-law)
 
 ### Political Affiliations
 
-**Allegiance**::  [[Humanitarian\|Humanitarian]]
+**Allegiance**::  [[Organizations/Humanitarian\|Humanitarian]]
 **Rank**::  Coordinator
 **Affiliations**::  [[Organizations/New Republic\|New Republic]] (ally), [[Organizations/Resistance\|Resistance]] (ally)  
 
