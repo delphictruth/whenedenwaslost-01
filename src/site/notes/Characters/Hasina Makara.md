@@ -1,10 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/characters/hasina-makara/","tags":["newrepublicsenate","chancellor","character"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/hasina-makara/","tags":["newrepublicsenate","resistance","chancellor","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Chancellor Makara*
-
 # Hasina Makara
+>Chancellor of the New Republic Senate
 
-Birthyear 6 ABY 
+## Personal Information
+
+**Homeworld**::  [[Navigational/Kuat\|Kuat]]
+**Birth**::  
+**Death**::  N/A
+**Status**::  Alive
+
+**Age**:: 
+**Gender**:: 
+**Height**:: 
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
+
+## Relations
+
+**Parents**::  [[Characters/Erikson Makara\|Erikson Makara]] & [[Characters/Coreen Makara\|Coreen Makara]]
+**Significant Other**::  [[Juliette Rose Makara\|Juliette Rose Makara]] (wife)
+
+**Other Family**::
+- [[Characters/Lacrimosa Makara\|Lacrimosa Makara]] (sister)
+
+### Political Affiliations
+
+**Allegiance**::  [[Organizations/New Republic\|New Republic]]
+**Rank**::  Chancellor
+**Affiliations**::  [[Organizations/Resistance\|Resistance]] (ally), [[Organizations/New Republic Senate\|New Republic Senate]] (Senator)
+
+## History & Plot Significance
+
