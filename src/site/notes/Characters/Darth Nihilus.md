@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/darth-nihilus/","tags":["fallenjedi","sith","forcesensitive","sithtrio"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/darth-nihilus/","tags":["fallenjedi","sith","forcesensitive","sithtrio"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Lord of Hunger*
-
 # Darth Nihilus
 >Dark Lord of the Sith Triumvirate
 
