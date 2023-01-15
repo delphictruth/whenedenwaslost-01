@@ -11,7 +11,7 @@
 [[Characters/Cain Draig\|Cain Draig]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] of [[Navigational/Carida\|Carida]] 
 
 ### 19 BBY
-[[Characters/Alban Draig\|Alban Draig]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] on [[Navigational/Carida\|Carida]] 
+[[Characters/Raegal Aurelius\|Raegal Aurelius]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] on [[Navigational/Carida\|Carida]] 
 [[Events/Siege of Mandalore\|Siege of Mandalore]] occurs
 [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] is born on [[Navigational/Mandalore\|Mandalore]]
 [[Organizations/Galactic Republic\|Galactic Republic]] becomes [[Organizations/Galactic Empire\|Galactic Empire]] 
@@ -27,15 +27,15 @@ Jedi Order disaffiliates from the [[Organizations/Galactic Empire\|Galactic Empi
 ↳ [[Events/The Jedi Exile\|The Jedi Exile]] = Jedi become independent agents once more and remove themselves from politics
 Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] becomes involved in the beginnings of a resistance movement among the [[Organizations/Imperial Senate\|Imperial Senate]]
 [[Characters/Aspen Draig\|Aspen Draig]] is killed in action
-↳ [[Characters/Cain Draig\|Cain Draig]] [2] and [[Characters/Alban Draig\|Alban Draig]] [1] are taken in by General [[Characters/Norman Draig\|Norman Draig]] and Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]]
+↳ [[Characters/Cain Draig\|Cain Draig]] [2] and [[Characters/Raegal Aurelius\|Raegal Aurelius]] [1] are taken in by General [[Characters/Norman Draig\|Norman Draig]] and Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]]
 [[Characters/Dahlia Coutier\|Dahlia Coutier]] is born on ... 
 
 ### 17 BBY
 [[Characters/Talia Draig\|Talia Draig]] is born to [[Characters/Fecility Beauregard\|Fecility Beauregard]] and [[Characters/Norman Draig\|Norman Draig]]
-[[Characters/Alban Draig\|Alban Draig]] [2] begins to show early signs of Force sensitivity
+[[Characters/Raegal Aurelius\|Raegal Aurelius]] [2] begins to show early signs of Force sensitivity
 
 ### 16 BBY
-[[Characters/Alban Draig\|Alban Draig]] [3] is kidnapped by the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] and later presumed dead
+[[Characters/Raegal Aurelius\|Raegal Aurelius]] [3] is kidnapped by the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] and later presumed dead
 ↳ [[Navigational/Carida\|Carida]] adopts an isolationist policy and grows distant from the [[Organizations/Imperial Senate\|Imperial Senate]] while continuing to sponsor resistance development 
 Princess [[Characters/Cecily Beaumont\|Cecily Beaumont]] is born on [[Navigational/Axum\|Axum]]
 [[Characters/Victoria Octan\|Victoria Octan]] is born on [[Navigational/Nallastia\|Nallastia]]
@@ -80,7 +80,7 @@ Padawan [[Characters/Victoria Octan\|Victoria Octan]] [10] is sent back to her h
 
 ### 4 BBY
 Death of the [[Characters/Grand Inquisitor\|Grand Inquisitor]] leads to the beginning of the breakdown of the [[Organizations/Inquisitorius\|Inquisitorius]]
-The emergence of Sith apprentice [[Characters/Alban Draig\|Raegel Aurelius]] [15] brings a new wave of violence from the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
+The emergence of Sith apprentice [[Characters/Raegal Aurelius\|Raegel Aurelius]] [15] brings a new wave of violence from the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
 Jedi numbers continue to dwindle 
 
 ### 3 BBY
@@ -142,7 +142,7 @@ Conclusion of the [[Events/Galactic Civil War\|Galactic Civil War]] via the [[Ev
 ### 6 ABY 
 Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] and [[Characters/Dahlia Coutier\|Dahlia Coutier]] [24] seek to disband any remaining [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] members and factions 
 ↳ Jedi Knight [[Characters/Rathos Visio\|Rathos Visio]] [25], a survivor from the [[Organizations/Jedi Order\|Jedi Order]], is discovered
-[[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] first meets Sith apprentice [[Characters/Alban Draig\|Raegel Aurelius]] [25] 
+[[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] first meets Sith apprentice [[Characters/Raegal Aurelius\|Raegel Aurelius]] [25] 
 [[Characters/Drew Hellix\|Drew Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [23] on [[Navigational/Chandrila\|Chandrila]] 
 [[Characters/Hasina Makara\|Hasina Makara]] is born to Senator [[Characters/Coreen Makara\|Coreen Makara]] and [[Kuat Drive Yards\|KDY]] President [[Characters/Erikson Makara\|Erikson Makara]] on [[Navigational/Kuat\|Kuat]] 
 [[Characters/Aiden Morr\|Aiden Morr]] is born on ... 
@@ -153,7 +153,7 @@ Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] and [[Characte
 [[Characters/Chevalier Hellix\|Chevalier Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [24] on [[Navigational/Chandrila\|Chandrila]] 
 [[Characters/Michael Hellix\|Michael Hellix]] [25] leaves the [[Organizations/New Republic\|New Republic]] with his sons [[Characters/Chevalier Hellix\|Chevalier Hellix]] and [[Characters/Drew Hellix\|Drew Hellix]] [1]
 [[Characters/Titanium Octan Makensi\|Titanium Kole]] is born to [[Characters/Victoria Octan\|Victoria Octan]] [23] and [[Characters/Rye Kole\|Rye Kole]] [24] on [[Navigational/Nallastia\|Nallastia]]
-Sith master [[Characters/Lord ??\|Lord ??]] is killed by [[Characters/Alban Draig\|Raegal Aurelius]] [26]
+Sith master [[Characters/Lord ??\|Lord ??]] is killed by [[Characters/Raegal Aurelius\|Raegal Aurelius]] [26]
 
 ### 8 ABY
 Grand Master Jedi [[Characters/Dahlia Coutier\|Dahlia Coutier]] [26] establishes the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] on [[Navigational/Yavin 4\|Yavin 4]]
@@ -165,13 +165,13 @@ Prince [[Characters/Alfred Jonnas\|Alfred Jonnas]] is born on [[Navigational/Art
 [[Characters/Evelynn Decipio\|Evelynn Decipio]] is born on [[Navigational/Mandalore\|Mandalore]] 
 [[Characters/Roslyn Dystra\|Roslyn Dystra]] [3] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
 [[Characters/Allyson Petit\|Allyson Petit]] [7] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
-[[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [8] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
+[[Characters/Catherine Labelle\|Catherine Labelle]] [8] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
 [[Characters/Rye Kole\|Rye Kole]] [25] dies
 
 ### 9 ABY 
-Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] goes to [[Navigational/Moraband\|Moraband]] to Turn the Sith Lord [[Characters/Alban Draig\|Raegel Aurelius]] [28]
+Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] goes to [[Navigational/Moraband\|Moraband]] to Turn the Sith Lord [[Characters/Raegal Aurelius\|Raegel Aurelius]] [28]
 ↳ The [[Navigational/Moraband#Temple of Pesegam\|Temple of Pesegam]] is destroyed, along with the remains of the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
-↳ [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] and [[Characters/Alban Draig\|Raegel Aurelius]] [26] disappear in the wreckage of the [[Navigational/Moraband#Valley of the Dark Lords\|Valley of the Dark Lords]]
+↳ [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] and [[Characters/Raegal Aurelius\|Raegel Aurelius]] [26] disappear in the wreckage of the [[Navigational/Moraband#Valley of the Dark Lords\|Valley of the Dark Lords]]
 [[Characters/Talia Draig\|Talia Draig]] [25] and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [26] adopt their nephew, renaming him [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]]
 [[Characters/Imperia Sibyl\|Imperia Sibyl]] is born on [[Navigational/Seidhkona\|Seidhkona]]  
 [[Characters/Lacrimosa Makara\|Lacrimosa Makara]] is born to Senator [[Characters/Coreen Makara\|Coreen Makara]] and [[Navigational/Kuat#Kuat Drive Yards\|KDY]] President [[Characters/Erikson Makara\|Erikson Makara]] on [[Navigational/Kuat\|Kuat]]
@@ -233,15 +233,15 @@ The [[Organizations/First Order\|First Order]] begins to rebuild its Navy
 Small dogfights begin to crop up in the [[Navigational/Outer Rim\|Outer Rim]]
 [[Jedi Padawan Classes\|Jedi Padawan Class I]] is Knighted
 ↳ [[Characters/Allyson Petit\|Allyson Petit]] [20] 
-↳ [[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [21]
-Jedi Padawans [[Characters/Chevalier Hellix\|Chevalier Hellix]] [14] and [[Characters/Kieran Crevan\|Kieran Crevan]] [17] are dispatched with Jedi Knights [[Characters/Allyson Petit\|Allyson Petit]] [20] and [[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [21] to capture [[Characters/Rinnrivin Di\|Rinnrivin Di]] by request of the [[Organizations/New Republic Senate\|New Republic Senate]]
+↳ [[Characters/Catherine Labelle\|Catherine Labelle]] [21]
+Jedi Padawans [[Characters/Chevalier Hellix\|Chevalier Hellix]] [14] and [[Characters/Kieran Crevan\|Kieran Crevan]] [17] are dispatched with Jedi Knights [[Characters/Allyson Petit\|Allyson Petit]] [20] and [[Characters/Catherine Labelle\|Catherine Labelle]] [21] to capture [[Characters/Rinnrivin Di\|Rinnrivin Di]] by request of the [[Organizations/New Republic Senate\|New Republic Senate]]
 
 ### 22 ABY
 Jedi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] senses [[Characters/Versailles Cordelia\|Versailles Cordelia]] [10] and brings her to the [[Organizations/Jedi Praxeum\|Praxeum]] with Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15]
 Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] [40] brings Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] on a mission to investigate the [[Events/Napkin Bombing\|Napkin Bombing]] on [[Navigational/Hosnian Prime\|Hosnian Prime]]
 
 ### 23 ABY
-It becomes public knowledge that Senator [[Characters/Cain Draig\|Cain Draig]] [43]'s brother was [[Characters/Alban Draig\|Raegel Aurelius]] 
+It becomes public knowledge that Senator [[Characters/Cain Draig\|Cain Draig]] [43]'s brother was [[Characters/Raegal Aurelius\|Raegel Aurelius]] 
 ↳ [[Characters/Cain Draig\|Cain Draig]] [43] is forced to resign from the [[Organizations/New Republic Senate\|New Republic Senate]]
 ↳ Jedi Padawan [[Characters/Bastille Aurelius\|Bastille Aurelius]] [15] learns the truth about his parents
 [[Organizations/First Order\|First Order]] attacks begin to emerge 
@@ -265,7 +265,7 @@ The [[Organizations/New Jedi Order\|New Jedi Order]] enters its first official c
 
 ### 26 ABY
 [[Characters/Kieran Crevan\|Kieran Crevan]] [22], possessed by [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], attacks the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] with aid from the remaining [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]]
-↳ Knight [[Characters/Catherine Greatstorm\|Catherine Greatstorm]] [26] is killed by [[Characters/Kieran Crevan\|Kieran Crevan]] [22]
+↳ Knight [[Characters/Catherine Labelle\|Catherine Labelle]] [26] is killed by [[Characters/Kieran Crevan\|Kieran Crevan]] [22]
 ↳ [[Characters/Kieran Crevan\|Kieran Crevan]] [22] is killed by Padawan [[Characters/Chevalier Hellix\|Chevalier Hellix]] [19]
 ↳ Final remnants of the [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] are wiped out
 [[Jedi Padawan Classes\|Jedi Padawan Class III]] is Knighted
