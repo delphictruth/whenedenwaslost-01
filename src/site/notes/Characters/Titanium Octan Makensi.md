@@ -1,73 +1,43 @@
 ---
-{"dg-publish":true,"permalink":"/characters/titanium-octan-makensi/","tags":["greyjedi","resistance","forcesensitive","unfinished","character"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/titanium-octan-makensi/","tags":["greyjedi","resistance","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Titanium Octan Makensi
 >titles, taglines, etc
 
 ## Personal Information
-Summary info.
-↳ 
 
-### Basic Information
+**Homeworld**::  [[Navigational/Nallastia\|Nallastia]]
+**Birth**::  [[Directories/Timeline#8 ABY\|8 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#8 ABY\|8 ABY]]
-**Death** N/A
+**Age**::  
+**Gender**:: 
+**Height**:: 
+**Hair**::
+**Eyes**:: 
+**Skin**::
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**::  [[Characters/Victoria Octan\|Victoria Octan]] & [[Characters/Rye Kole\|Rye Kole]]
+**Significant Other**::  None on record
 
-#### Family
-**Parents** [[Characters/Victoria Octan\|Victoria Octan]] 
-**Other Family**
-- 
+**Other Family**::
+- [[Characters/Dallas Makensi\|Dallas Makensi]] (father*)
 
-**Significant Other** 
+#### Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  Independent
+**Rank**::  
+**Affiliations**::  
 
-#### Jedi Praxeum
-**Master** 
-**Padawan** 
-**Knighted** 
-**Class** 
+## Combat
 
-## Tactical Information
-Brief descriptions of combat style.
-
-### Combat
-
-#### Forms
-Specializes in [[Characters/Titanium Octan Makensi\|]] 
-
-#### Force Beliefs & Usage
-info info 
-
-**Strengths**
-- power
-
-**Weaknesses**
-- power
-
-### Weapons
-
-#### Jedi Saber
-[crystal] color hilt style attuned
+## Weapons
 
 ## History & Plot Significance
 Brief blurb.
