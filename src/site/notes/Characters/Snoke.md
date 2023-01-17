@@ -1,44 +1,38 @@
 ---
-{"dg-publish":true,"permalink":"/characters/snoke/","tags":["character","firstorder","forcesensitive"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/snoke/","tags":["firstorder","banitesith","forcesensitive"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Supreme Leader*
-
 # Snoke
->title roles
+>Supreme Leader of the First Order
 
 ## Personal Information
-Summary info.
-↳
 
-### Basic Information
+**Homeworld**::  Unknown
+**Birth**::  Unknown
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth**
-**Death** N/A
+**Age**::  Unknown 
+**Gender**::  Male
+**Height**:: 
+**Hair**::  None
+**Eyes**::  
+**Skin**::  Diseased
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
-
-#### Family
-**Parents** 
+**Parents**::  Unknown
+**Significant Other**::  None on record
 **Other Family**
+- None on record
 
-**Significant Other** 
+### Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  [[Organizations/First Order\|First Order]]
+**Rank**::  Supreme Leader
+**Affiliations**::  [[Organizations/Banite Sith\|Banite Sith]]
 
 ## History & Plot Significance
 Brief blurb.
