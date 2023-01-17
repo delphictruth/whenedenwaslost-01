@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/corellian-run/","tags":["map","hyperlane","unfinished","corellian"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/corellian-run/","tags":["map","hyperlane","unfinished","corellian"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Corellian Run
 Desc
+
+**Region**::  
 
 **Planets**
 - [[Navigational/Christophsis\|Christophsis]]
