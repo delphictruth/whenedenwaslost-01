@@ -1,44 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/characters/maggie-amell/","tags":["galacticsenate imperialsenate newrepublicsenate","firstorder resistance","princess prince lord etc","forcesensitive","unfinished","character"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/maggie-amell/","tags":["resistance","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Maggie Amell
 >Resistance Pilot
 
 ## Personal Information
-Summary info.
-↳ 
 
-### Basic Information
+**Homeworld**:: 
+**Birth**:: 
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth** 
-**Death** N/A
+**Age**:: 
+**Gender**:: 
+**Height**::  
+**Hair**::  Black 
+**Eyes**:: 
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**::  Unrecorded
+**Significant Other**::  [[Characters/Versailles Cordelia\|Versailles Cordelia]]
 
-#### Family
-**Parents** 
-**Other Family**
+**Other Family**:: 
+- None on record
 
-**Significant Other** 
+#### Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  [[Organizations/Resistance\|Resistance]]
+**Rank**::  Pilot
+**Affiliations**::
 
 ## History & Plot Significance
 Brief blurb.
