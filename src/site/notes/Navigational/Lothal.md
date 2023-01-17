@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/lothal/","tags":["map","planet","starkiller","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/lothal/","tags":["map","planet","starkiller","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Lothal
 Desc
 
-**Capital**
-**Notable Locations**
-- test
+**Region**::  
+**Sector**::
+**System**::
+**Grid**::
 
-**Planets**
+**Capital**::
+**Notable Locations**::
+- test
