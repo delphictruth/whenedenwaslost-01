@@ -1,51 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/characters/roslyn-dystra/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished","character"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/roslyn-dystra/","tags":["jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Lady Dystra*
-
 # Roslyn Dystra
 >titles, taglines, etc
 
 ## Personal Information
-Summary info.
-↳ 
 
-### Basic Information
+**Homeworld**::  
+**Birth**::  
+**Death**::  
+**Status**::  Deceased
 
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#9ABY\|9 ABY]]
-**Death** N/A
+**Age**::  
+**Gender**::  Female
+**Height**::  5'1
+**Hair**::  White blonde
+**Eyes**::  Light blue
+**Skin**::  Pale
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**:: 
+**Significant Other**::  [[Characters/Marcus Morr\|Marcus Morr]]
 
-#### Family
-**Parents** 
-**Other Family**
-- 
+**Other Family**::
+- None on record
 
-**Significant Other** 
+### Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]
+**Rank**::  Jedi Knight
+**Affiliations**::  [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
 
 #### Jedi Praxeum
-**Master** 
-**Padawan** 
-**Knighted** 
-**Class** 
+
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan**::  N/A
+**Knighted**::  [[Directories/Timeline#21 ABY\|24 ABY]]
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## History & Plot Significance
 Brief blurb.
