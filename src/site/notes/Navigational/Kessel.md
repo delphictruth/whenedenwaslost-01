@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/kessel/","tags":["map","planet","outerrim","kessel","kessels","kesselt"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/kessel/","tags":["map","planet","outerrim","kessel","kessels","kesselt"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Xo's Eye*
-
 # Kessel
 Kessel is a misshapen planet with a barren, rocky landscape. Its landscape is dotted with ancient tombs and ruins, many of which appear to be Sith in origin. It is considered an extremely valuable source for smugglers in particular, as the only planet known for having a natural supply of [[Fauna & Flora/Glitterstim spice\|glitterstim spice]] and [[Fauna & Flora/Coaxium\|coaxium]].
 
@@ -12,8 +11,13 @@ Many of its mines used to be worked by prisoners from the Kessel Prison located 
 
 The [[Navigational/Kessel Run\|Kessel Run]] is the unofficial route from the planet, used to smuggle spice, while the [[Navigational/Kessel Trade Cooridor\|Kessel Trade Cooridor]] is the official hyperlane. 
 
-**Capital** [[Navigational/Kessel\|Kessendra]]
-**Notable Locations**
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Kessel sector\|Kessel sector]]
+**System**::  [[Kessel system\|Kessel system]]
+**Grid**::  T-10
+
+**Capital**::  [[Navigational/Kessel\|Kessendra]]
+**Notable Locations**:: 
 - Kessendra Stadium
 - Spice Mines
 - Kessel Prison
