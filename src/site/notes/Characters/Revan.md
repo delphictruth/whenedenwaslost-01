@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/characters/revan/","tags":["character","fallenjedi sith","forcesensitive"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/revan/","tags":["fallenjedi","sith","jedimaster","forcesensitive"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *The Revanchist*, *Darth Revan*
-
 # Revan
 >The Butcher, Dark Lord of the Sith, Prodigal Knight
 
