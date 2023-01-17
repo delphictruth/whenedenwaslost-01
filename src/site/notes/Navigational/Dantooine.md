@@ -1,15 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/dantooine/","tags":["map","starkiller","planet","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/dantooine/","tags":["map","starkiller","planet","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
-# Planet
+# Dantooine
 Desc
 
-**Capital**
-**Notable Locations**
+**Region**::  
+**Sector**::
+**System**::
+**Grid**::
+
+**Capital**::
+**Notable Locations**::
 - test
 
-**Planets**
