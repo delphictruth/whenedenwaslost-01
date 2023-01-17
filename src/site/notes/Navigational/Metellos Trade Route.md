@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/metellos-trade-route/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/metellos-trade-route/","tags":["map","hyperlane","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- 
 - Also known as 
 
 # Metellos Trade Route
 Desc
+
 
 **Planets**
 - [[Navigational/Coruscant\|Coruscant]]
