@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/directories/record-of-planets/","tags":["map"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/directories/record-of-planets/","tags":["map"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-
 # Record of Planets
 
 | Planet                                           | Region                                                                                                    | Sector                                                           | System                                                 | Grid |
@@ -29,6 +28,7 @@
 | [[Navigational/D'Qar\|D'Qar]]                 | [[Navigational/Outer Rim\|Outer Rim]]                                                                  | [[Sanbra sector\|Sanbra sector]]                                 | [[Ileenium system\|Ileenium system]]                   | O-17 |
 | [[Navigational/Dantooine\|Dantooine]]         | \-                                                                                                        | \-                                                               | \-                                                     | \-   |
 | [[Navigational/Dathomir\|Dathomir]]           | [[Navigational/Outer Rim\|Outer Rim]]                                                                  | [[Quelii sector\|Quelii sector]]                                 | [[Dathomir system\|Dathomir system]]                   | O-6  |
+| [[Navigational/Deralia\|Deralia]]             | [[Navigational/Outer Rim\|Outer Rim]]                                                                  | [[Tammuz sector\|Tammuz sector]]                                 | [[Deralia system\|Deralia system]]                     | T-15 |
 | [[Navigational/Donadus\|Donadus]]             | [[Navigational/Inner Rim\|Inner Rim]]                                                                  | [[Bamula sector\|Bamula sector]]                                 | [[Donadus system\|Donadus system]]                     | J-13 |
 | [[Navigational/Dorin\|Dorin]]                 | \-                                                                                                        | \-                                                               | \-                                                     | \-   |
 | [[Navigational/Drongar\|Drongar]]             | [[Navigational/Outer Rim\|Outer Rim]]                                                                  | \-                                                               | [[Drongar system\|Drongar system]]                     | T-5  |
@@ -67,7 +67,7 @@
 | [[Navigational/Namadii\|Namadii]]             | \-                                                                                                        | \-                                                               | \-                                                     | \-   |
 | [[Navigational/Nyriaan\|Nyriaan]]             | Mid Rim                                                                                                   | Trans-Vulta                                                      | Luire                                                  | N-7  |
 | [[Navigational/Opatajji\|Opatajji]]           | Core Worlds                                                                                               | Azure                                                            | Alsaka                                                 | L-9  |
-| [[Navigational/Ossus\|Ossus]]                 | Outer Rim                                                                                                 | Auril                                                            | Adega                                                  | R-6  |
+| [[Navigational/Ossus\|Ossus]]                 | [[Navigational/Outer Rim\|Outer Rim]]                                                                  | [[Auril sector\|Auril sector]]                                   | [[Navigational/Adega system\|Adega system]]         | R-6  |
 | [[Navigational/Pastoria\|Pastoria]]           | Outer Rim                                                                                                 | \-                                                               | \-                                                     | P-17 |
 | [[Navigational/Pirdia\|Pirdia]]               | Outer Rim                                                                                                 | Savareen                                                         | Tyrius                                                 | R-16 |
 | [[Navigational/Primea\|Primea]]               | Unknown Regions                                                                                           | \-                                                               | Primea                                                 | E-11 |
