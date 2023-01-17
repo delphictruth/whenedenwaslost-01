@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/carida/","tags":["map","planet","colonies","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/carida/","tags":["map","planet","colonies","unfinished"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 # Carida
 Desc
 
-**Capital**
-**Notable Locations**
+**Region**::  [[Navigational/Colonies\|Colonies]]
+**Sector**::  
+**System**::  [[Carida system\|Carida system]]
+**Grid**::  M-9
+
+**Capital**::
+**Notable Locations**::
 - test
