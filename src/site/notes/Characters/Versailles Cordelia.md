@@ -1,53 +1,52 @@
 ---
-{"dg-publish":true,"permalink":"/characters/versailles-cordelia/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/versailles-cordelia/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Versailles Cordelia | Victa Ren
 >The Wildling, Pirate King
 
-## Biographical
+## Personal Information
 
-**Homeworld** [[Navigational/Corellia\|Corellia]]
-**Birth** [[Directories/Timeline#12 ABY\|12 ABY]]
-**Death** N/A
+**Homeworld**::  [[Navigational/Corellia\|Corellia]]
+**Birth**::  [[Directories/Timeline#12 ABY\|12 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-## Physical
-
-**Age** 19
-**Gender** Female 
-**Height** 5'6
-**Hair** Black
-**Eyes** Bluebell, gold-fractured
-**Skin** Pale
+**Age**::  19
+**Gender**::  Female 
+**Height**::  5'6
+**Hair**::  Black
+**Eyes**::  Bluebell, gold-fractured
+**Skin**::  Pale
 
 ## Relations
 
-**Parents** Unknown smugglers
-**Significant Other** [[Characters/Maggie Amell\|Maggie Amell]]
-**Other Family** 
+**Parents**::  Unknown 
+**Significant Other**::  [[Characters/Maggie Amell\|Maggie Amell]]
+
+**Other Family**:: 
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (brother*)
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance** [[Organizations/First Order\|First Order]]
-**Rank** Knight
-**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
+**Allegiance**::  [[Organizations/First Order\|First Order]]
+**Rank**::  Knight
+**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
-**Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
-**Padawan** N/A
-**Knighted** N/A
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan**::  N/A
+**Knighted**::  N/A
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
 
 ### Knights of Ren
 
-**Rank** Knight
-**Master** [[Characters/Bastille Aurelius\|Ani Ren]]
-**Knights**
+**Rank**::  Knight
+**Master**::  [[Characters/Bastille Aurelius\|Ani Ren]]
+**Knights**:: 
 - [[Characters/Chevalier Hellix\|Muta Ren]]
 - [[Characters/Bardolph Vos\|Jus Ren]]
 - [[Characters/Alfred Jonnas\|Deco Ren]]
@@ -60,7 +59,7 @@ Summary
 
 ### Forms
 
-Versailles likes to consider herself a [[Lightsaber Combat/Niman (VI)\|Niman (VI)]] specialist, in part because she model her initial style on [[Characters/Bastille Aurelius\|Bastille Aurelius]]'s and in part because she prefers the flexibility it offs to other forms of weapons. Notably, she most frequently uses her saber tonfas, which lend themselves to [[Lightsaber Combat/Jar'Kai\|Jar'Kai tactics]] such as [[Lightsaber Combat/Niman (VI)\|Niman]]. 
+Versailles likes to consider herself a [[Lightsaber Combat/Niman (VI)\|Niman (VI)]] specialist, in part because she model her initial style on [[Characters/Bastille Aurelius\|Bastille Aurelius]]'s and in part because she prefers the flexibility it offers to other forms of weapons. Notably, she most frequently uses her saber tonfas, which lend themselves to [[Lightsaber Combat/Jar'Kai\|Jar'Kai tactics]] such as [[Lightsaber Combat/Niman (VI)\|Niman]]. 
 
 She has a lot of [[Lightsaber Combat/Ataru (IV)\|Ataru (IV)]] influence in how she fights. She is a big fan of the kinectic fashion of Form IV and employs a lot of flips and acrobatics in her style. The offensive nature also suits her better than the more passive [[Lightsaber Combat/Shii-Cho (I)\|Shii-Cho (I)]] of her Padawan years. 
 
