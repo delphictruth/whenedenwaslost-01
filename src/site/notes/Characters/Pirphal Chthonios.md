@@ -1,44 +1,40 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pirphal-chthonios/","tags":["character","galacticsenate imperialsenate newrepublicsenate","firstorder resistance","senator chancellor","princess prince lord etc","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/pirphal-chthonios/","tags":["forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Pirphal Chthonios
 >title roles
 
 ## Personal Information
-Summary info.
-↳
 
-### Basic Information
+**Homeworld**::  
+**Birth**::  
+**Death**::  
+**Status**::  Deceased
 
-#### Biographical
-**Homeworld** 
-**Birth** 
-**Death** N/A
+**Age**:: 
+**Gender**:: 
+**Height**:: 
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**:: 
+**Significant Other**::  [[Characters/Aurora Caelum\|Aurora Caelum]] (wife)
 
-#### Family
-**Parents** 
-**Other Family**
+**Other Family**::
+- [[Characters/Hazel Caelum\|Hazel Caelum]] (daughter)
+- [[Characters/Quenelle Caelum\|Quenelle Caelum]] (mother-in-law)
 
-**Significant Other** 
+#### Political Affiliations
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  Independent
+**Rank**:: 
+**Affiliations**::  
 
 ## History & Plot Significance
 Brief blurb.
