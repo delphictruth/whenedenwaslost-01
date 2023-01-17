@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/kuat/","tags":["map","core","slice","kuat","unfinished","planet"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/kuat/","tags":["map","core","slice","kuat","unfinished","planet"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Kuat
 Known for the prestigious [[Navigational/Kuat#Kuat Drive Yards\|Kuat Drive Yards]] corporation and its large shipyards, the planet notably produced warships for both the [[Organizations/Galactic Republic\|Galactic Republic]] and [[Organizations/Galactic Empire\|Galactic Empire]].
+
+**Region**::  [[Navigational/Core Worlds\|Core Worlds]], [[The Slice\|The Slice]]
+**Sector**::  [[Kuat sector\|Kuat sector]]
+**System**::  [[Kuat system\|Kuat system]]
+**Grid**::  M-10
 
 **Capital**
 **Notable Locations**
