@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/atrisia/","tags":["planet","map","resistance","monarchy","gijurun","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/atrisia/","tags":["planet","map","resistance","monarchy","gijurun","unfinished"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Ketal Phard*
-
 # Atrisia
 More mordernly known as *Ketal Phard*, Atrisia is the heart of the [[Navigational/Atrisian Commonwealth\|Atrisian Commonwealth]]. It is located on the [[Navigational/Giju Run\|Giju Run]]. 
 
@@ -14,8 +13,14 @@ Given its lengthy history, Atrisia is considered a classic field of galactic his
 
 [[Characters/Janelle\|Janelle]] is the current ruling authority, managing much of the nation's politics on account of her sick parents. Under her guidance, the Atrisia has become a silent partner to the [[Organizations/Resistance\|Resistance]].
 
-**Capital** Jar'Kai
-**Notable Locations**
+**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Sector**::  [[Navigational/Atrisian Commonwealth\|Atrisian Commonwealth]]
+**System**::  [[Navigational/Atrisi system\|Atrisi system]]
+**Grid**::  J-12
+
+**Capital**:: Jar'Kai
+**Notable Locations**::
 - [[Navigational/Atrisia#Atrisian Imperial Historical Library\|Atrisian Imperial Historical Library]]
 
 ## Atrisian Imperial Historical Library
+
