@@ -1,43 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/characters/maerex/","tags":["newrepublicsenate","senator","prince","character"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/maerex/","tags":["newrepublicsenate","senator","prince","character"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Senator*
-
 # Maerex
 >title roles
 
 ## Personal Information
-Summary info.
-↳
 
-### Basic Information
+**Homeworld**::  
+**Birth**::  [[Directories/Timeline#9ABY\|9 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#9ABY\|9 ABY]]
-**Death** N/A
+**Age**:: 
+**Gender**::  Male 
+**Height**:: 
+**Hair**::  Red 
+**Eyes**:: 
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**:: 
+**Significant Other**::  [[Characters/Janelle\|Janelle]]
 
-#### Family
-**Parents** 
-**Significant Other** 
-**Other Family**
+**Other Family**::
+- None on record
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+#### Political Affliations
+
+**Allegiance**::  
+**Rank**::  Senator
+**Affiliations**:: 
 
 ## History & Plot Significance
 Brief blurb.
