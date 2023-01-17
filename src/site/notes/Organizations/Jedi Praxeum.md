@@ -25,12 +25,12 @@ In the end, they only had four [[Organizations/Jedi Praxeum#Jedi Padawan Classes
 | [[Characters/Isa Phant\|Isa Phant]]                     | Jedi Padawan      | [[Lightsaber Combat/Shii-Cho (I)\|I]]                    | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]] | Deceased |
 | [[Characters/Kieran Crevan\|Kieran Crevan]]             | Jedi Knight       | \-                                                          | [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]      | Deceased |
 | [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]       | Jedi Padawan      | [[Lightsaber Combat/Shii-Cho (I)\|I]]                    | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | Deceased |
-| [[Characters/Marcus Morr\|Marcus Morr]]                 | \-                | \-                                                          | [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]      | \-       |
-| [[Characters/Octavia Bonteri\|Octavia Bonteri]]         | \-                | [[Lightsaber Combat/Juyo (VII)\|VII]]                    | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | \-       |
-| [[Characters/Rathos Visio\|Rathos Visio]]               | \-                | [[Lightsaber Combat/Makashi (II)\|II]]                   | N/A                                                                            | \-       |
-| [[Characters/Roman Ange\|Roman Ange]]                   | \-                | [[Lightsaber Combat/Djem So (V)\|V]]                     | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | \-       |
-| [[Characters/Roslyn Dystra\|Roslyn Dystra]]             | \-                | \-                                                          | [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]      | \-       |
-| [[Characters/Versailles Cordelia\|Versailles Cordelia]] | \-                | [[Lightsaber Combat/Ataru (IV)\|IV]], [[Lightsaber Combat/Niman (VI)\|VI]]                      | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | \-       |
+| [[Characters/Marcus Morr\|Marcus Morr]]                 | Jedi Knight       | \-                                                          | [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]      | Deceased |
+| [[Characters/Octavia Bonteri\|Octavia Bonteri]]         | Jedi Padawan      | [[Lightsaber Combat/Juyo (VII)\|VII]]                    | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | Deceased |
+| [[Characters/Rathos Visio\|Rathos Visio]]               | Jedi Master       | [[Lightsaber Combat/Makashi (II)\|II]]                   | N/A                                                                            | \-       |
+| [[Characters/Roman Ange\|Roman Ange]]                   | Jedi Padawan      | [[Lightsaber Combat/Djem So (V)\|V]]                     | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | Fallen   |
+| [[Characters/Roslyn Dystra\|Roslyn Dystra]]             | Jedi Knight       | \-                                                          | [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]      | Deceased |
+| [[Characters/Versailles Cordelia\|Versailles Cordelia]] | Jedi Padawan      | [[Lightsaber Combat/Ataru (IV)\|IV]], [[Lightsaber Combat/Niman (VI)\|VI]]                      | [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | Fallen   |
 
 ## Jedi Padawan Classes
 
