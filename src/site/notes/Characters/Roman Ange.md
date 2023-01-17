@@ -1,54 +1,54 @@
 ---
-{"dg-publish":true,"permalink":"/characters/roman-ange/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formv","classiv","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/roman-ange/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formv","classiv","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Roman Ange | Feru Ren
 >The Terror
 
 summary
 
-## Biographical
+## Personal Information
 
-**Homeworld** 
-**Birth** [[Directories/Timeline#13 ABY\|13 ABY]]
-**Death** N/A
+**Homeworld**::  
+**Birth**::  [[Directories/Timeline#13 ABY\|13 ABY]]
+**Death**::  N/A
+**Status**::  Alive
 
-## Physical
-
-**Age** 18
-**Gender** Male 
-**Height** 5'9
-**Hair** Black
-**Eyes** Black
-**Skin** Sickly pale
+**Age**::  18
+**Gender**::  Male 
+**Height**::  5'9
+**Hair**::  Black
+**Eyes**::  Black
+**Skin**::  Sickly pale
 
 ## Relations
 
-**Parents** [[Characters/Mari Ange\|Mari Ange]] 
-**Significant Other**
+**Parents**::  [[Characters/Mari Ange\|Mari Ange]] 
+**Significant Other**::
+
 **Other Family**
+- None on record
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance** [[Organizations/First Order\|First Order]]
-**Rank** Knight
-**Affiliations** [[Organizations/Knights of Ren\|Knights of Ren]]
+**Allegiance**::  [[Organizations/First Order\|First Order]]
+**Rank**::  Knight
+**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
-**Master** [[Characters/Dahlia Coutier\|Dahlia Coutier]]
-**Padawan** N/A
-**Knighted** N/A
-**Class** [[Jedi Padawan Classes\|Jedi Padawan Class IV]]
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan**::  N/A
+**Knighted**::  N/A
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
 
 ### Knights of Ren
 
-**Rank** Knight
-**Master** [[Characters/Bastille Aurelius\|Ani Ren]]
-**Knights**
+**Rank**::  Knight
+**Master**::  [[Characters/Bastille Aurelius\|Ani Ren]]
+**Knights**:: 
 - [[Characters/Chevalier Hellix\|Muta Ren]]
 - [[Characters/Bardolph Vos\|Jus Ren]]
 - [[Characters/Alfred Jonnas\|Deco Ren]]
