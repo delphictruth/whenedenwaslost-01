@@ -3,7 +3,6 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-
 # Record of Events
 
 | Event                                                                                        | Location                                 | Year                                       | Type       |
