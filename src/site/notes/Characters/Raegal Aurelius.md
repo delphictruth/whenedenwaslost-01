@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/raegal-aurelius/","tags":["darksider","jenjidai","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/raegal-aurelius/","tags":["darksider","jenjidai","forcesensitive","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
