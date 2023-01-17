@@ -2,11 +2,13 @@
 {"dg-publish":true,"permalink":"/navigational/ado-spine/","tags":["map","hyperlane","midrim","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
 
 # Ado Spine
 Desc
 
-**Planets**
+**Region**:: [[Navigational/Mid Rim\|Mid Rim]]
+
+**Planets**::
 - [[Navigational/Medth\|Medth]]
