@@ -7,7 +7,7 @@
 # Aiden Morr
 >Lost One
 
-Aiden Morr was the younger brother of Jedi Knight [[Characters/Marcus Morr\|Marcus Morr]]. There was a rather infamous accident around Marcus's [[Awakening\|Awakening]], in which Aiden was killed.
+Aiden Morr was the younger brother of Jedi Knight [[Characters/Marcus Morr\|Marcus Morr]]. There was a rather infamous accident around Marcus's [[Force Abilities & Phenomena/Awakening\|Awakening]], in which Aiden was killed.
 ## Personal Information
 
 **Homeworld**::  
