@@ -56,32 +56,32 @@
 | [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]             | [[Organizations/Humanitarian\|Humanitarian]]               | Force-sensitive   | [[Navigational/Kuat\|Kuat]]           | Alive    |
 | [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]             | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
 | [[Characters/Lord ??\|Lord ??]]                               | [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]           | Sith Lord         | \-                                       | Deceased |
-| [[Characters/Maerex\|Maerex]]                                 | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Maggie Amell\|Maggie Amell]]                     | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Malkyn Rodarch\|Malkyn Rodarch]]                 | \-                                                            | \-                | mandalore                                | \-       |
-| [[Characters/Marcus Morr\|Marcus Morr]]                       | \-                                                            | \-                | \-                                       | Deceased |
-| [[Characters/Mari Ange\|Mari Ange]]                           | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Michael Hellix\|Michael Hellix]]                 | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Missing Entry\|Missing Entry]]                   | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Norman Draig\|Norman Draig]]                     | \-                                                            | \-                | carida                                   | \-       |
-| [[Characters/Octavia Bonteri\|Octavia Bonteri]]               | \-                                                            | \-                | \-                                       | Deceased |
-| [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]           | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Pollutis Kun\|Pollutis Kun]]                     | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Quenelle Caelum\|Quenelle Caelum]]               | \-                                                            | \-                | \-                                       | \-       |
+| [[Characters/Maerex\|Maerex]]                                 | \-                                                            | No sensitivity    | \-                                       | Alive    |
+| [[Characters/Maggie Amell\|Maggie Amell]]                     | [[Organizations/Resistance\|Resistance]]                   | Force-sensitive   | \-                                       | Alive    |
+| [[Characters/Malkyn Rodarch\|Malkyn Rodarch]]                 | [[Organizations/Resistance\|Resistance]]                   | No sensitivity    | [[Navigational/Mandalore\|Mandalore]] | Alive    |
+| [[Characters/Marcus Morr\|Marcus Morr]]                       | \-                                                            | Jedi Knight       | \-                                       | Deceased |
+| [[Characters/Mari Ange\|Mari Ange]]                           | \-                                                            | No sensitivity    | \-                                       | Deceased |
+| [[Characters/Michael Hellix\|Michael Hellix]]                 | [[Organizations/Rebellion\|Rebellion]]                     | Low sensitivity   | \-                                       | Deceased |
+| [[Characters/Missing Entry\|Missing Entry]]                   | Unknown                                                       | Force Adept       | Unknown                                  | Unknown  |
+| [[Characters/Norman Draig\|Norman Draig]]                     | [[Navigational/Carida\|Carida]] Navy                                               | No sensitivity    | [[Navigational/Carida\|Carida]]       | Deceased |
+| [[Characters/Octavia Bonteri\|Octavia Bonteri]]               | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
+| [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]           | Independent                                                   | Force-user        | \-                                       | Deceased |
+| [[Characters/Pollutis Kun\|Pollutis Kun]]                     | [[Organizations/Banite Sith\|Banite Sith]]                 | Sith Apprentice   | \-                                       | Deceased |
+| [[Characters/Quenelle Caelum\|Quenelle Caelum]]               | Independent                                                   | No sensitivity    | [[Navigational/Nallastia\|Nallastia]] | Alive    |
 | [[Characters/Raegal Aurelius\|Raegal Aurelius]]               | [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]           | Sith Lord         | [[Navigational/Carida\|Carida]]       | Deceased |
-| [[Characters/Rathos Visio\|Rathos Visio]]                     | \-                                                            | \-                | \-                                       | Deceased |
-| [[Characters/Revan\|Revan]]                                   | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Rinnrivin Di\|Rinnrivin Di]]                     | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Roman Ange\|Roman Ange]]                         | \-                                                            | \-                | \-                                       | Fallen   |
-| [[Characters/Roslyn Dystra\|Roslyn Dystra]]                   | \-                                                            | \-                | \-                                       | Deceased |
-| [[Characters/Rye Kole\|Rye Kole]]                             | \-                                                            | \-                | rhinnal                                  | \-       |
-| [[Characters/Snoke\|Snoke]]                                   | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Talia Draig\|Talia Draig]]                       | \-                                                            | \-                | Carida                                   | \-       |
-| [[Characters/Titanium Octan Makensi\|Titanium Octan Makensi]] | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Unkar Plutt\|Unkar Plutt]]                       | \-                                                            | \-                | \-                                       | \-       |
-| [[Characters/Versailles Cordelia\|Versailles Cordelia]]       | \-                                                            | \-                | [[Navigational/Corellia\|Corellia]]   | Fallen   |
-| [[Characters/Victoria Octan\|Victoria Octan]]                 | \-                                                            | \-                | [[Navigational/Nallastia\|Nallastia]] | \-       |
-| [[Characters/Zaniel Bellatys\|Zaniel Bellatys]]               | \-                                                            | \-                | \-                                       | \-       |
+| [[Characters/Rathos Visio\|Rathos Visio]]                     | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Master       | \-                                       | Deceased |
+| [[Characters/Revan\|Revan]]                                   | [[Organizations/Jedi Order\|Jedi Order]]                   | Force Adept       | [[Navigational/Deralia\|Deralia]]                     | Deceased |
+| [[Characters/Rinnrivin Di\|Rinnrivin Di]]                     | \-                                                            | No sensitivity    | \-                                       | Deceased |
+| [[Characters/Roman Ange\|Roman Ange]]                         | [[Organizations/First Order\|First Order]]                 | Jedi Padawan      | \-                                       | Alive    |
+| [[Characters/Roslyn Dystra\|Roslyn Dystra]]                   | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Knight       | \-                                       | Deceased |
+| [[Characters/Rye Kole\|Rye Kole]]                             | \-                                                            | No sensitivity    | [[Navigational/Rhinnal\|Rhinnal]]     | Deceased |
+| [[Characters/Snoke\|Snoke]]                                   | [[Organizations/First Order\|First Order]]                 | Sith Lord         | Unknown                                  | Alive    |
+| [[Characters/Talia Draig\|Talia Draig]]                       | [[Organizations/Resistance\|Resistance]]                   | Force-sensitive   | [[Navigational/Carida\|Carida]]       | Alive    |
+| [[Characters/Titanium Octan Makensi\|Titanium Octan Makensi]] | Independent                                                   | Force-user        | [[Navigational/Nallastia\|Nallastia]] | Alive    |
+| [[Characters/Unkar Plutt\|Unkar Plutt]]                       | [[Organizations/First Order\|First Order]]                 | No sensitivity    | [[Navigational/Jakku\|Jakku]]         | Alive    |
+| [[Characters/Versailles Cordelia\|Versailles Cordelia]]       | [[Organizations/First Order\|First Order]]                 | Fallen Jedi       | [[Navigational/Corellia\|Corellia]]   | Alive    |
+| [[Characters/Victoria Octan\|Victoria Octan]]                 | [[Organizations/Jedi Order\|Jedi Order]]                   | Jedi Padawan      | [[Navigational/Nallastia\|Nallastia]] | Deceased |
+| [[Characters/Zaniel Bellatys\|Zaniel Bellatys]]               | \-                                                            | Force Adept       | \-                                       | Deceased |
 
 
 
