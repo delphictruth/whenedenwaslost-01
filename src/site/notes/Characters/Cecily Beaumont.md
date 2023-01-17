@@ -30,6 +30,7 @@
 - [[Characters/Cain Draig\|Cain Draig]] (brother-in-law)
 - [[Characters/Talia Draig\|Talia Draig]] (cousin)
 - [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (cousin)
+- [[Characters/Victoria Octan\|Victoria Octan Makensi]] (cousin)
 
 ### Political Affiliations
 
