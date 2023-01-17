@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/artorias/","tags":["map","planet","outerrim","myto","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/artorias/","tags":["map","planet","outerrim","myto","unfinished"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # Artorias
@@ -10,7 +10,12 @@ Artorias is a sunny world, with sizable mountains, forests, and oceans. It is hi
 
 It is currently under the rule of King [[Characters/Arthurr Jonnas\|Arthurr Jonnas]] and is the home planet of Prince [[Characters/Alfred Jonnas\|Alfred Jonnas]]. 
 
-**Capital**
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Myto sector\|Myto sector]]
+**System**::  [[Artorias system\|Artorias system]]
+**Grid**::  K-3
+
+**Capital**::
 **Notable Locations**
 - Great Sea of Artorias
 - Artorian safe haven
