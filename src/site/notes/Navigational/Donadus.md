@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/donadus/","tags":["map","innerrim","bamula","planet","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/donadus/","tags":["map","innerrim","bamula","planet","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Donadus
 Desc
+
+**Region**::  [[Navigational/Inner Rim\|Inner Rim]]
+**Sector**::  [[Bamula sector\|Bamula sector]]
+**System**::  [[Donadus system\|Donadus system]]
+**Grid**::  J-13
 
 **Capital** 
 **Notable Locations**
