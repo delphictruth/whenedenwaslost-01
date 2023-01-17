@@ -1,46 +1,46 @@
 ---
-{"dg-publish":true,"permalink":"/characters/rathos-visio/","tags":["jedi","resistance","jedipraxeum","jedimaster","newjediorder","formii","forcesensitive"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/rathos-visio/","tags":["jedi","resistance","jedipraxeum","jedimaster","newjediorder","formii","forcesensitive"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
-
+- *No other name on record*
 # Rathos Visio
 >Jedi Master
 
-## Biographical
+## Personal Information
 
-**Homeworld** 
-**Birth** 
-**Death** N/A
+**Homeworld**:: 
+**Birth**:: 
+**Death**:: 
+**Status**::  Deceased
 
-## Physical
-
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+**Age**:: 
+**Gender**:: 
+**Height**::
+**Hair**::
+**Eyes**::
+**Skin**::
 
 ## Relations
 
-**Parents** 
-**Other Family**
-- 
+**Parents**::  Unknown
+**Significant Other**::  None on record
 
-## Political Affiliations
+**Other Family**::
+- None on record
 
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+### Political Affiliations
+
+**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]
+**Rank**::  Jedi Master
+**Affiliations**::  [[Organizations/Jedi Order\|Jedi Order]]
 
 ### Jedi Praxeum
 
-**Master** N/A
-**Padawan** [[Characters/Bardolph Vos\|Bardolph Vos]]
-**Knighted** 
-**Class** N/A
+**Master**::  N/A
+**Padawan**::  [[Characters/Bardolph Vos\|Bardolph Vos]]
+**Knighted**::  
+**Class**::  N/A
 
 ## Combat
 
