@@ -7,3 +7,8 @@
 
 # Yavin 4
 Home of the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
+
+**Region**:: Outer Rim
+**Sector**:: Gordian Reach
+**System**:: Yavin
+**Grid**:: P-6
