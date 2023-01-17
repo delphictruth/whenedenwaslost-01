@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/koros-trunk-line/","tags":["map","hyperlane","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/koros-trunk-line/","tags":["map","hyperlane","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Koros Trunk Line
 Desc
+
+**Region**::
+**Sector**::
+**System**::
+**Grid**::
 
 **Planets**
 - [[Navigational/Coruscant\|Coruscant]]
