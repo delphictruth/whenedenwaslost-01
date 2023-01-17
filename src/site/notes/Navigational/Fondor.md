@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/fondor/","tags":["map","retraining","colonies","tapani","planet","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/fondor/","tags":["map","retraining","colonies","tapani","planet","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Fondor
-
 located in the [[Navigational/Tapani sector\|Tapani sector]] of the [[Navigational/Colonies\|Colonies]] 
+
+**Region**::  [[Navigational/Colonies\|Colonies]]
+**Sector**::  [[Navigational/Tapani sector\|Tapani sector]]
+**System**::  [[Fondor system\|Fondor system]]
+**Grid**::  L-13
 
 **Capital**
 **Notable Locations**
