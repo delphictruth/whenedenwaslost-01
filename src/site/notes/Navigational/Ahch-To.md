@@ -2,11 +2,15 @@
 {"dg-publish":true,"permalink":"/navigational/ahch-to/","tags":["map","planet","unknown","unfinished"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Ahch-To
 Desc
+
+**Region**:: [[Navigational/Unknown Regions\|Unknown Regions]]
+**Sector**:: 
+**System**:: Ahch-To 
+**Grid**:: F-13
 
 **Capital**
 **Notable Locations**
