@@ -4,48 +4,43 @@
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Marcus Morr
 >titles, taglines, etc
 
 ## Personal Information
-Summary info.
-↳ 
 
-### Basic Information
+**Homeworld**:: 
+**Birth**::  [[Directories/Timeline#3 ABY\|3 ABY]]
+**Death**:: 
+**Status**::  Deceased
 
-#### Biographical
-**Homeworld** 
-**Birth** [[Directories/Timeline#3 ABY\|3 ABY]]
-**Death** N/A
+**Age**::  
+**Gender**::   
+**Height**::  
+**Hair**:: 
+**Eyes**:: 
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**::  
+**Significant Other**::  [[Characters/Roslyn Dystra\|Roslyn Dystra]]
 
-#### Family
-**Parents** 
 **Other Family**
-- 
+- [[Characters/Aiden Morr\|Aiden Morr]] (brother)
 
-## Political Affiliations
+### Political Affiliations
 
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  
+**Rank**::   
+**Affiliations**::  
 
 ### Jedi Praxeum
 
-**Master** 
-**Padawan** 
-**Knighted** 
-**Class** [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
+**Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
+**Padawan**::  N/A 
+**Knighted**:: 
+**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## Combat
 
@@ -55,10 +50,10 @@ Specializes in [[Characters/Marcus Morr\|]]
 ### Force Beliefs & Usage
 info info 
 
-**Strengths**
+**Strengths**::
 - power
 
-**Weaknesses**
+**Weaknesses**:: 
 - power
 
 ## Weapons
