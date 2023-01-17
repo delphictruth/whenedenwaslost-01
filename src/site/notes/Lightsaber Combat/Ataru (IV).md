@@ -10,7 +10,7 @@
 
 An aggressive style, Form IV is fast-paced and effective against single opponents, though weaker in prolonged combat and confined spaces, or against blaster fire. Ataru is characterized by Force-assisted acrobatics, such as somersaults and leaping strikes, both for attack and defense. Another characteristic of the form is its fast strikes from multiple directions. 
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]]
 
