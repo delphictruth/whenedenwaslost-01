@@ -1,44 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/characters/quenelle-caelum/","tags":["character","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/quenelle-caelum/","tags":["unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as *Margravine Caelum*
-
+- Also known as *Margravine Quenelle*
 # Quenelle Caelum
 >Margravine, Skull Queen of Nallastia 
 
 ## Personal Information
-Summary info.
-↳
 
-### Basic Information
+**Homeworld**::  [[Navigational/Nallastia\|Nallastia]]
+**Birth**:: 
+**Death**::  N/A
+**Status**::  Alive
 
-#### Biographical
-**Homeworld** 
-**Birth** 
-**Death** N/A
+**Age**:: 
+**Gender**::
+**Height**::
+**Hair**::
+**Eyes**::
+**Skin**:: 
 
-#### Physical
-**Age** 
-**Gender** 
-**Height** 
-**Hair** 
-**Eyes** 
-**Skin** 
+## Relations
 
-### Relations
+**Parents**:: 
+**Significant Other**::
 
-#### Family
-**Parents** 
-**Other Family**
+**Other Family**::
+- [[Characters/Aurora Caelum\|Aurora Caelum]] (daughter)
+- [[Characters/Pirphal Chthonios\|Pirphal Chthonios]] (son-in-law)
+- [[Characters/Hazel Caelum\|Hazel Caelum]] (granddaughter)
 
-**Significant Other** 
+#### Political Affiliatons
 
-#### Political
-**Allegiance**  
-**Rank**  
-**Affiliations**  
+**Allegiance**::  Independent
+**Rank**::  Margravine 
+**Affiliations**::  
 
 ## History & Plot Significance
 Brief blurb.
