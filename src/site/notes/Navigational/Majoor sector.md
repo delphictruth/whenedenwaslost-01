@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/majoor-sector/","tags":["map","sector","expansion","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/majoor-sector/","tags":["map","sector","expansion","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Majoor sector
 Desc
+
+**Region**::  [[Navigational/Expansion Region\|Expansion Region]]
+**Sector**::
+**System**::
+**Grid**::  N-15
 
 **Planets**
 - [[Navigational/M'haeli\|M'haeli]]
