@@ -1,11 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/e-ronoh/","tags":["map","planet","outerrim","dalnan","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/e-ronoh/","tags":["map","planet","outerrim","dalnan","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 # E'ronoh
 Desc
+
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Navigational/Dalnan sector\|Dalnan sector]]
+**System**::  [[Eiram system\|Eiram system]]
+**Grid**::  I-19
 
 **Capital**
 **Notable Locations**
