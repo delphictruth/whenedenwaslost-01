@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/takodana/","tags":["map","planet","midrim","western","tashtor","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/takodana/","tags":["map","planet","midrim","western","tashtor","unfinished"]}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
@@ -8,6 +8,11 @@
 # Takodana
 
 located in the [[Navigational/Tashtor sector\|Tashtor sector]] of the [[Navigational/Mid Rim\|Mid Rim]].
+
+**Region**::  [[Navigational/Mid Rim\|Mid Rim]]; [[Western Reaches\|Western Reaches]]
+**Sector**::  [[Navigational/Tashtor sector\|Tashtor sector]]
+**System**::  [[Takodana system\|Takodana system]]
+**Grid**::  J-16
 
 **Capital**
 **Notable Locations**
