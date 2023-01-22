@@ -8,7 +8,7 @@
 
 [[Organizations/Knights of Ren\|Knights of Ren]] have a mission here during their year of retraining
 
-**Region**::  [[Navigational/Outer Rim\|Outer Rim]], [[Western Reaches\|Western Reaches]]
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]; [[Western Reaches\|Western Reaches]]
 **Sector**::  [[Anoat sector\|Anoat sector]]
 **System**::  [[Hoth system\|Hoth system]]
 **Grid**::  K-18
