@@ -70,7 +70,7 @@
 | [[Characters/Quenelle Caelum\|Quenelle Caelum]]               | Independent                                                   | No sensitivity    | [[Navigational/Nallastia\|Nallastia]] | Alive    |
 | [[Characters/Raegal Aurelius\|Raegal Aurelius]]               | [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]           | Sith Lord         | [[Navigational/Carida\|Carida]]       | Deceased |
 | [[Characters/Rathos Visio\|Rathos Visio]]                     | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Master       | \-                                       | Deceased |
-| [[Characters/Revan\|Revan]]                                   | [[Organizations/Jedi Order\|Jedi Order]]                   | Force Adept       | [[Navigational/Deralia\|Deralia]]                     | Deceased |
+| [[Characters/Revan\|Revan]]                                   | [[Organizations/Jedi Order\|Jedi Order]]                   | Force Adept       | [[Navigational/Deralia\|Deralia]]     | Deceased |
 | [[Characters/Rinnrivin Di\|Rinnrivin Di]]                     | \-                                                            | No sensitivity    | \-                                       | Deceased |
 | [[Characters/Roman Ange\|Roman Ange]]                         | [[Organizations/First Order\|First Order]]                 | Jedi Padawan      | \-                                       | Alive    |
 | [[Characters/Roslyn Dystra\|Roslyn Dystra]]                   | [[Organizations/New Jedi Order\|New Jedi Order]]           | Jedi Knight       | \-                                       | Deceased |
