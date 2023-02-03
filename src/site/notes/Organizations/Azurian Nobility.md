@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/organizations/azurian-nobility/","tags":["axum","faction","royalty","nobility"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *Azure Imperium*
 # Azurian Nobility
-Refers to the ruling classes of [[Navigational/Azure sector\|Azure sector]], a Core World sector notable for its internal politics and nobility. It includes both the ruling Houses of [[Navigational/Anaxes\|Anaxes]] and the royal family of [[Navigational/Axum\|Axum]]. 
 
-**Affiliations** 
-- test
+Refers to the ruling classes of [[Navigational/Azure sector\|Azure sector]], a Core World sector notable for its internal politics and nobility. It includes both the ruling Houses of [[Navigational/Anaxes\|Anaxes]] and the royal family of [[Navigational/Axum\|Axum]], which were the primary powers within the old *Azure Imperium* that ruled over the sector centuries before the formation of the [[Organizations/Galactic Republic\|Galactic Republic]]. 
+
