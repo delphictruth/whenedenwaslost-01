@@ -3,11 +3,13 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *Ord Carida*
 # Carida
+
 Desc
 
 **Region**::  [[Navigational/Colonies\|Colonies]]
-**Sector**::  
+**Sector**::  N/A
 **System**::  [[Carida system\|Carida system]]
 **Grid**::  M-9
 
