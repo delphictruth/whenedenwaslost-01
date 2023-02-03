@@ -7,5 +7,5 @@
 
 # Primea 
 
-Home of the [[Organizations/Vak\|Vak]] people, capital of the [[Organizations/Vak Combine\|Vak Combine]] government
+Home of the [[Species & Cultures/Vak\|Vak]] people, capital of the [[Organizations/Vak Combine\|Vak Combine]] government
 
