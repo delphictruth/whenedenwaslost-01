@@ -7,10 +7,10 @@
 # Dorin
 Desc
 
-**Region**::
+**Region**::  [[Navigational/Expansion Region\|Expansion Region]]
 **Sector**::
 **System**::
-**Grid**::
+**Grid**::  J-8
 
 **Capital**
 **Notable Locations**
