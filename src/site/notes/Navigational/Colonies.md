@@ -18,3 +18,4 @@
 - [[Navigational/Nallastia\|Nallastia]]
 
 **Hyperlanes**
+- [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
