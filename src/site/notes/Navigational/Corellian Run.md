@@ -1,19 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/corellian-run/","tags":["map","hyperlane","unfinished","corellian"]}
+{"dg-publish":true,"permalink":"/navigational/corellian-run/","tags":["map","hyperlane"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
-
+- *No other names on record*
 # Corellian Run
-Desc
+tex
 
-**Region**::  
+### Regions
 
-**Planets**
+### Sectors
+
+### Systems
+- [[Navigational/Christoph system\|Christoph system]]
+
+### Planets
 - [[Navigational/Christophsis\|Christophsis]]
-- [[Navigational/Corellian Run\|Corellian Run]]
+- [[Navigational/Corellia\|Corellia]]
 - [[Navigational/Coruscant\|Coruscant]]
 - [[Navigational/Savareen\|Savareen]]
-- [[Navigational/Savareen sector\|Savareen sector]]
-- [[Navigational/Savareen system\|Savareen system]]
+
