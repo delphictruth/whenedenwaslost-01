@@ -61,7 +61,7 @@ summary
 
 ### Forms
 
-Specializes in [[Lightsaber Combat/Djem So (V)\|Djem So (V)]] 
+Specializes in [[Forms & Martial Arts/Djem So (V)\|Djem So (V)]] 
 tends to fall out of true combat form; reliance on raw, frantic movements that don't conform to any form
 
 ### Force Beliefs & Usage
