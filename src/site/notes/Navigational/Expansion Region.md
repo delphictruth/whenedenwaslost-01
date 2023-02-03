@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/expansion-region/","tags":["map","region"]}
+{"dg-publish":true,"permalink":"/navigational/expansion-region/","tags":["map","region","western"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -7,12 +7,13 @@
 # Expansion Region
 
 
-**Sectors**
+### Sectors
 - [[Navigational/Majoor sector\|Majoor sector]]
 
-**Systems**
+### Systems
 
-**Planets**
+### Planets
 - [[Navigational/M'haeli\|M'haeli]]
 
-**Hyperlanes**
+### Hyperlanes
+- [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
