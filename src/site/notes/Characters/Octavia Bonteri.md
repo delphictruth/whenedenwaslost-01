@@ -45,7 +45,7 @@ Octavia Bonteri was a Jedi padawan with the [[Organizations/Jedi Praxeum\|Jedi P
 ## Combat
 
 #### Forms
-Specializes in [[Lightsaber Combat/Juyo (VII)\|Juyo (VII)]].
+Specializes in [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]].
 
 #### Force Beliefs & Usage
 info info 
