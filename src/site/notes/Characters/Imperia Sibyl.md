@@ -53,7 +53,7 @@
 
 ## Combat
 
-Imperia does not practice an traditional lightsaber form. She utilizes a unique style of combat that relies on telepathically controlling three sabers at once, allowing her to fight from a slight distance and with little personal movement. There is no known name for this style of combat, but some have used the phrase [[Lightsaber Combat/Traya's Telepathy\|Traya's Telepathy]] to refer to it. 
+Imperia does not practice an traditional lightsaber form. She utilizes a unique style of combat that relies on telepathically controlling three sabers at once, allowing her to fight from a slight distance and with little personal movement. There is no known name for this style of combat, but some have used the phrase [[Forms & Martial Arts/Traya's Telepathy\|Traya's Telepathy]] to refer to it. 
 
 ### Force Beliefs & Usage
 
