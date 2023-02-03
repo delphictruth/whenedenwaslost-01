@@ -58,7 +58,7 @@ Alfred lacks some standard Force abilities, such as telekinesis and levitation; 
 
 ### Forms
 
-Alfred specializes in [[Lightsaber Combat/Shii-Cho (I)\|Shii-Cho (I)]], though he does dip into [[Lightsaber Combat/Soresu (III)\|Soresu (III)]] as needed. His style closely resembles that of traditional sword-fighting, with simplistic and controlled movements, but his strange usage of the Force adds a level of unpredictability. 
+Alfred specializes in [[Forms & Martial Arts/Shii-Cho (I)\|Shii-Cho (I)]], though he does dip into [[Forms & Martial Arts/Soresu (III)\|Soresu (III)]] as needed. His style closely resembles that of traditional sword-fighting, with simplistic and controlled movements, but his strange usage of the Force adds a level of unpredictability. 
 
 ### Force Beliefs & Usage
 
