@@ -9,7 +9,7 @@
 
 located in the [[Navigational/Tashtor sector\|Tashtor sector]] of the [[Navigational/Mid Rim\|Mid Rim]].
 
-**Region**::  [[Navigational/Mid Rim\|Mid Rim]]; [[Western Reaches\|Western Reaches]]
+**Region**::  [[Navigational/Mid Rim\|Mid Rim]]; [[Navigational/Western Reaches\|Western Reaches]]
 **Sector**::  [[Navigational/Tashtor sector\|Tashtor sector]]
 **System**::  [[Takodana system\|Takodana system]]
 **Grid**::  J-16
