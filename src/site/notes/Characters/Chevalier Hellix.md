@@ -57,7 +57,7 @@
 
 ### Forms
 
-Chevalier specializes in [[Lightsaber Combat/Juyo (VII)\|Juyo (VII)]], but his style is largely influenced by his practice of [[Lightsaber Combat/Trákata\|Trákata]], a rather risky and rare strategy that depends on igniting and extinguishing the lightsaber rapidly in combat. He dabbles a bit in [[Lightsaber Combat/Juyo (VII)\|Vaapad (VII)]] as well, but more so for its compliments to Juyo. His blade-work is graceful and light, but completely unpredictable and reckless. 
+Chevalier specializes in [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]], but his style is largely influenced by his practice of [[Forms & Martial Arts/Trákata\|Trákata]], a rather risky and rare strategy that depends on igniting and extinguishing the lightsaber rapidly in combat. He dabbles a bit in [[Forms & Martial Arts/Juyo (VII)\|Vaapad (VII)]] as well, but more so for its compliments to Juyo. His blade-work is graceful and light, but completely unpredictable and reckless. 
 
 ### Force Beliefs & Usage
 
