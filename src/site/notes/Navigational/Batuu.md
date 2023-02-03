@@ -7,7 +7,7 @@
 # Batuu
 Batuu is a ... located in the [[Navigational/Trilon sector\|Trilon sector]] of the [[Navigational/Outer Rim\|Outer Rim]]. 
 
-**Region**::  [[Navigational/Outer Rim\|Outer Rim]]; [[Western Reaches\|Western Reaches]]
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]; [[Navigational/Western Reaches\|Western Reaches]]
 **Sector**::  [[Navigational/Trilon sector\|Trilon sector]]
 **System**::  [[Batuu system\|Batuu system]]
 **Grid**::  G-15
