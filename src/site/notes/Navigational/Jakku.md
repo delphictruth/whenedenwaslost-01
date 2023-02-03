@@ -6,7 +6,7 @@
 - Also known as
 # Jakku
 
-**Region**::  [[Navigational/Inner Rim\|Inner Rim]], [[Western Reaches\|Western Reaches]]
+**Region**::  [[Navigational/Inner Rim\|Inner Rim]]; [[Navigational/Western Reaches\|Western Reaches]]
 **Sector**::  [[Jakku sector\|Jakku sector]]
 **System**::  [[Jakku system\|Jakku system]]
 **Grid**::  I-13
