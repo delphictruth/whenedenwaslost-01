@@ -36,15 +36,15 @@
 
 ## Combat
 
-Hazel's style has a heavy emphasis on defense. Her movements are notably swift, fluid, and acrobatic ([[Lightsaber Combat/Ataru (IV)\|Ataru]] influence). With her double-bladed saber, she begins to balance her offense and defense with [[Lightsaber Combat/Djem So (V)\|Form V]]. 
+Hazel's style has a heavy emphasis on defense. Her movements are notably swift, fluid, and acrobatic ([[Forms & Martial Arts/Ataru (IV)\|Ataru]] influence). With her double-bladed saber, she begins to balance her offense and defense with [[Forms & Martial Arts/Djem So (V)\|Form V]]. 
 
 ### Forms
 
-Hazel specializes in [[Lightsaber Combat/Soresu (III)\|Soresu (III)]] initially, but she later grows into [[Lightsaber Combat/Ataru (IV)\|Ataru (IV)]] and, with her new double-bladed saber, begins to favor [[Lightsaber Combat/Djem So (V)\|Shien / Djem So (V)]], using both sides simultaneously. 
+Hazel specializes in [[Forms & Martial Arts/Soresu (III)\|Soresu (III)]] initially, but she later grows into [[Forms & Martial Arts/Ataru (IV)\|Ataru (IV)]] and, with her new double-bladed saber, begins to favor [[Forms & Martial Arts/Djem So (V)\|Shien / Djem So (V)]], using both sides simultaneously. 
 
 ### Force Beliefs & Usage
 
-Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s philosophy and the "true" Jedi way initially, but her connection to [[Characters/Bastille Aurelius\|Bastille Aurelius]] is also a powerful force. She is the first true [[Organizations/Grey Jedi\|Grey Jedi]] in generations. 
+Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s philosophy and the "true" Jedi way initially, but her connection to [[Characters/Bastille Aurelius\|Bastille Aurelius]] is also a powerful force. She is the first true [[Library/Grey Jedi\|Grey Jedi]] in generations. 
 
 **Strengths**::
 - [[Force Abilities & Phenomena/Precognition\|Precognition]]
