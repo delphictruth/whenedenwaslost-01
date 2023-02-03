@@ -10,7 +10,7 @@
 **Region**::  [[Navigational/Outer Rim\|Outer Rim]]
 **Sector**::  
 **System**::  [[Crait system\|Crait system]]
-**Grid**::
+**Grid**::  N-17
 
 **Capital**::
 **Notable Locations**::
