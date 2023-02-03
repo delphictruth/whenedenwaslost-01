@@ -7,7 +7,7 @@
 # Kuat
 Known for the prestigious [[Navigational/Kuat#Kuat Drive Yards\|Kuat Drive Yards]] corporation and its large shipyards, the planet notably produced warships for both the [[Organizations/Galactic Republic\|Galactic Republic]] and [[Organizations/Galactic Empire\|Galactic Empire]].
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]], [[The Slice\|The Slice]]
+**Region**::  [[Navigational/Core Worlds\|Core Worlds]]; [[The Slice\|The Slice]]
 **Sector**::  [[Kuat sector\|Kuat sector]]
 **System**::  [[Kuat system\|Kuat system]]
 **Grid**::  M-10
