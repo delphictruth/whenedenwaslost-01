@@ -69,11 +69,11 @@ Bastille is an extremely versatile fighter, having reached some level of mastery
 
 ### Forms
 
-Bastille specializes in [[Lightsaber Combat/Niman (VI)\|Niman (VI)]], particularly in the reverse-grip and dual wield styles. He is highly versatile in combat, dabbling in most of the Forms, but he prefers unpredictability of [[Lightsaber Combat/Juyo (VII)\|Juyo (VII)]] and the swift counter-attacks of [[Lightsaber Combat/Djem So (V)\|Djem So (V)]]. He primarly keeps his off-hand free for use of Force attacks mid-combat. 
+Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particularly in the reverse-grip and dual wield styles. He is highly versatile in combat, dabbling in most of the Forms, but he prefers unpredictability of [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]] and the swift counter-attacks of [[Forms & Martial Arts/Djem So (V)\|Djem So (V)]]. He primarly keeps his off-hand free for use of Force attacks mid-combat. 
 
 ### Force Beliefs & Usage
 
-[[Organizations/Grey Jedi\|Grey Jedi]] practices
+[[Library/Grey Jedi\|Grey Jedi]] practices
 
 **Strengths**::
 - [[Force Abilities & Phenomena/Alter Environment\|Alter Environment]]
@@ -99,7 +99,7 @@ Bastille specializes in [[Lightsaber Combat/Niman (VI)\|Niman (VI)]], particular
 
 ### Jedi Saber
 
-Bastille's Jedi lightsaber from his time at the [[Organizations/Jedi Praxeum\|Praxeum]]. He chose not to [[Force Abilities & Phenomena/Bleed\|bleed]] the [[Directories/Lightsaber crystals\|crystal]] for his new weapon, and instead continues to wield it when dual-wielding given the relatively neutral attunement of the crystal. It has a silver modified hilt stylized for [[Lightsaber Combat/Djem So (V)\|Form V]], more rigid and slightly longer for single or double hand grips, and has separate facets for offenses and defense. It is powered by an [[Crystals/Attuned crystal\|attuned]] [[Crystals/Permafrost\|Permafrost]] crystal, which gives the blade an icy blue color.
+Bastille's Jedi lightsaber from his time at the [[Organizations/Jedi Praxeum\|Praxeum]]. He chose not to [[Force Abilities & Phenomena/Bleed\|bleed]] the [[Directories/Lightsaber crystals\|crystal]] for his new weapon, and instead continues to wield it when dual-wielding given the relatively neutral attunement of the crystal. It has a silver modified hilt stylized for [[Forms & Martial Arts/Djem So (V)\|Form V]], more rigid and slightly longer for single or double hand grips, and has separate facets for offenses and defense. It is powered by an [[Crystals/Attuned crystal\|attuned]] [[Crystals/Permafrost\|Permafrost]] crystal, which gives the blade an icy blue color.
 
 ### Darksider Saber
 
