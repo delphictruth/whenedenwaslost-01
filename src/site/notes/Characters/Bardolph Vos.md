@@ -56,7 +56,7 @@
 
 ### Forms
 
-Bardolph is a rigid [[Lightsaber Combat/Makashi (II)\|Makashi (II)]] specialist with absolutely no deviation in his style. His technique embodies tight control and economical movements, producing a very precise and deliberate manner of fighting. 
+Bardolph is a rigid [[Forms & Martial Arts/Makashi (II)\|Makashi (II)]] specialist with absolutely no deviation in his style. His technique embodies tight control and economical movements, producing a very precise and deliberate manner of fighting. 
 
 ### Force Beliefs & Usage
 
@@ -80,7 +80,7 @@ Bardolph doesn't practice any particular style of Force belief, nor does he nece
 
 ### Jedi Saber
 
-Bardolph's Jedi lightsaber had a [[Crystals/Kaiburr\|Kaiburr]] crystal, which gave the saber several balancing properties and can boost the user's Force abilities. It was emerald in color and had a distinctive cursed hilt, styled for [[Lightsaber Combat/Makashi (II)\|Makashi]] combat. 
+Bardolph's Jedi lightsaber had a [[Crystals/Kaiburr\|Kaiburr]] crystal, which gave the saber several balancing properties and can boost the user's Force abilities. It was emerald in color and had a distinctive cursed hilt, styled for [[Forms & Martial Arts/Makashi (II)\|Makashi]] combat. 
 
 ### Darksider Saber
 
