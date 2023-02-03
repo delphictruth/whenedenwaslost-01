@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/coruscant/","tags":["map","resistance","democracy","corellian","perlemian","corudant","koros","martial","metellos","spur","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/coruscant/","tags":["map","resistance","planet","democracy","corellianrun","perlemian","corudant","koros","martial","metellos","spur","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
