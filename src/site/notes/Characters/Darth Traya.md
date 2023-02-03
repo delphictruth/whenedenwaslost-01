@@ -15,4 +15,4 @@ During the Sith Wars, in an ironic twist of Fate, Revan had returned to the Ligh
 
 It is said that Darth Traya used the Trayus Academy on [[Navigational/Malachor V\|Malachor V]] as her stronghold for the Sith Order. It is also said that she, as well as her two former apprentices, eventually died on the planet. 
 
-Notably, Darth Traya is well-known for her curious form of lightsaber combat: she wielded three lightsabers through the use of [[Force Abilities & Phenomena/Telepathy\|Telepathy]]. [[Characters/Imperia Sibyl\|Sacra Ren]] studied her teachings and holocrons when crafting her own sabers, adopting the technique. She was also known to practice [[Lightsaber Combat/Trákata\|Trákata]].
+Notably, Darth Traya is well-known for her curious form of lightsaber combat: she wielded three lightsabers through the use of [[Force Abilities & Phenomena/Telepathy\|Telepathy]]. [[Characters/Imperia Sibyl\|Sacra Ren]] studied her teachings and holocrons when crafting her own sabers, adopting the technique. She was also known to practice [[Forms & Martial Arts/Trákata\|Trákata]].
