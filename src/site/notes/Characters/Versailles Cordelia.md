@@ -59,9 +59,9 @@ Summary
 
 ### Forms
 
-Versailles likes to consider herself a [[Lightsaber Combat/Niman (VI)\|Niman (VI)]] specialist, in part because she model her initial style on [[Characters/Bastille Aurelius\|Bastille Aurelius]]'s and in part because she prefers the flexibility it offers to other forms of weapons. Notably, she most frequently uses her saber tonfas, which lend themselves to [[Lightsaber Combat/Jar'Kai\|Jar'Kai tactics]] such as [[Lightsaber Combat/Niman (VI)\|Niman]]. 
+Versailles likes to consider herself a [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]] specialist, in part because she model her initial style on [[Characters/Bastille Aurelius\|Bastille Aurelius]]'s and in part because she prefers the flexibility it offers to other forms of weapons. Notably, she most frequently uses her saber tonfas, which lend themselves to [[Forms & Martial Arts/Jar'Kai\|Jar'Kai tactics]] such as [[Forms & Martial Arts/Niman (VI)\|Niman]]. 
 
-She has a lot of [[Lightsaber Combat/Ataru (IV)\|Ataru (IV)]] influence in how she fights. She is a big fan of the kinectic fashion of Form IV and employs a lot of flips and acrobatics in her style. The offensive nature also suits her better than the more passive [[Lightsaber Combat/Shii-Cho (I)\|Shii-Cho (I)]] of her Padawan years. 
+She has a lot of [[Forms & Martial Arts/Ataru (IV)\|Ataru (IV)]] influence in how she fights. She is a big fan of the kinectic fashion of Form IV and employs a lot of flips and acrobatics in her style. The offensive nature also suits her better than the more passive [[Forms & Martial Arts/Shii-Cho (I)\|Shii-Cho (I)]] of her Padawan years. 
 
 ### Force Beliefs & Usage
 
