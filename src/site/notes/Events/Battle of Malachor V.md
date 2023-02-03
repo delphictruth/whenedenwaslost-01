@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/events/battle-of-malachor-v/","tags":["event","battle"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/events/battle-of-malachor-v/","tags":["event","battle"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Ani'la Akaan*
-
 # Battle of Malachor V
 The final battle of the Mandalorian Wars, also known as the "Great Last Battle" (*Ani'la Akaan*). It was a cataclysmic battle that turned the planet [[Navigational/Malachor V\|Malachor V]] into a "graveyard world" and was considered a pyrrhic victory for the Republic.
 
@@ -12,5 +11,5 @@ It was also one of Revan's most significant campaigns, with many accreditting it
 
 The destruction of Malachor V tore a [[Force Abilities & Phenomena/Wound in the Force\|Wound in the Force]] that lasts to this day. Destroyed vessels still orbit the planet and litter the surface, while the planet itself is marked by the warped energy of the death of thousands of Jedi, Republic soldiers, and Mandalorians. There are near constant tectonic storms on the surface, pulling nearby ships out of orbit. 
 
-**Location** Malachor V
-**Year** 3960 BBY
+**Location**::  [[Navigational/Malachor V\|Malachor V]]
+**Year**::  3960 BBY
