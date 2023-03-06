@@ -33,14 +33,14 @@ Alfred is the crown Prince of [[Navigational/Artorias\|Artorias]], but he left h
 
 **Allegiance**::  [[Organizations/First Order\|First Order]]
 **Rank**::  Knight of Ren
-**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
+**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
 
@@ -65,7 +65,7 @@ Alfred specializes in [[Forms & Martial Arts/Shii-Cho (I)\|Shii-Cho (I)]], thoug
 text
 
 **Strengths**::
-- [[Organizations/Shadow vision\|Shadow vision]]
+- [[Force Abilities & Phenomena/Shadow vision\|Shadow vision]]
 - [[Force Abilities & Phenomena/Beast Control\|Beast Control]]
 - [[Force Abilities & Phenomena/Mechu-Deru\|Mechu-Deru]]
 - Mounted combat
