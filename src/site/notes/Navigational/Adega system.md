@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/adega-system/","tags":["map","system","outerrime","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/adega-system/","tags":["map","system","outerrime"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -12,6 +12,6 @@ One of the six remaining Auril systems, or those within the [[Auril sector\|Auri
 **Sector**::  [[Auril sector\|Auril sector]]
 **Grid**::  R-6
 
-**Planets**::
+### Planets
 - [[Navigational/Ossus\|Ossus]]
 
