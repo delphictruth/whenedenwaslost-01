@@ -6,7 +6,7 @@
 - *No other names on record*
 # Palawa
 
-Palawa was the original homeworld of the [[Organizations/Followers of Palawa\|Followers of Palawa]], as well as the site of the legendary [[Organizations/Chatos Academy\|Chatos Academy]]. The planet was destroyed in a battle between the [[Organizations/Followers of Palawa\|Followers of Palawa]] and the [[Organizations/Jedi Order\|Jedi Order]], prior to the [[Events/First Great Schism\|First Great Schism]]. 
+Palawa was the original homeworld of the [[Force Traditions & Sects/Followers of Palawa\|Followers of Palawa]], as well as the site of the legendary [[Force Traditions & Sects/Chatos Academy\|Chatos Academy]]. The planet was destroyed in a battle between the [[Force Traditions & Sects/Followers of Palawa\|Followers of Palawa]] and the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], prior to the [[Events/First Great Schism\|First Great Schism]]. 
 
 **Region**::  [[Navigational/Core Worlds\|Core Worlds]]
 **Sector**::  N/A
@@ -15,4 +15,4 @@ Palawa was the original homeworld of the [[Organizations/Followers of Palawa\|Fo
 
 **Capital**::  N/A
 **Notable Locations**::
-- [[Organizations/Chatos Academy\|Chatos Academy]]
+- [[Force Traditions & Sects/Chatos Academy\|Chatos Academy]]
