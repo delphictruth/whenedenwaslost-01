@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/mind-tricks/","tags":["universal","utility","control","sense","alter","forcepower"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *affect mind*, *alter mind*, *dominate mind*, *Force mind trick*, *Force persuasion*, *Illusion*, *Jedi mind trick*, *Mindform*, *Force corruption*
 
 # Mind Tricks
@@ -40,9 +40,9 @@ A known variant of Force illusion was *masquerade*. Masquerade enables the user 
 
 The Dark-side technique for creating illusions, or *mindforms*, involves conjuring visible, life-like astral projections of whatever the conjurer desires through the use of Sith magic. The illusions distort all of an individual's sensory perceptions, and only through concentration on the Force is an individual able to perceive them as being false.
 
-The [[Organizations/Fallanassi\|Fallanassi]], due to their abilities to manipulate the [[Library/Fallanassi White Current\|Fallanassi White Current]], were capable of creating powerful illusions. However, unlike most Force-sensitives, illusions created through the White Current could be created to be as insubstantial or as real as the user wanted, with the most convincing illusions being indistinguishable visually from a real object. Conversely, Fallanassi illusions could be intentionally insubstantial, so as to trick a sentient into thinking that something that was real wasn't real.
+The [[Force Traditions & Sects/Fallanassi\|Fallanassi]], due to their abilities to manipulate the [[Library/Fallanassi White Current\|Fallanassi White Current]], were capable of creating powerful illusions. However, unlike most Force-sensitives, illusions created through the White Current could be created to be as insubstantial or as real as the user wanted, with the most convincing illusions being indistinguishable visually from a real object. Conversely, Fallanassi illusions could be intentionally insubstantial, so as to trick a sentient into thinking that something that was real wasn't real.
 
-Similarly, the [[Organizations/Witches of Dathomir\|Witches of Dathomir]] use a unique style of Force illusions that tend to be central to their practice of magic. They call them *illusion spells*. 
+Similarly, the [[Force Traditions & Sects/Witches of Dathomir\|Witches of Dathomir]] use a unique style of Force illusions that tend to be central to their practice of magic. They call them *illusion spells*. 
 
 ## Force projection
 Another possible variant of *Force illusion*, though not quite the same, is *Force projection*, which enables the user to create and "program" an apparition similar to themselves to distract, confuse, or lure enemies. The illusion can be animate or inanimate, is fully capable of intercepting incoming fire, and is visible to all around it.
