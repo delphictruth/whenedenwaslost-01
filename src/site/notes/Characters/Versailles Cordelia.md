@@ -33,14 +33,14 @@
 
 **Allegiance**::  [[Organizations/First Order\|First Order]]
 **Rank**::  Knight
-**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
+**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  N/A
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
 
 ### Knights of Ren
 
@@ -98,8 +98,8 @@ Versailles has a range of additional weapons that she experiments with and tinke
 
 Versailles was born to smugglers on [[Navigational/Corellia\|Corellia]], and ultimately raised by a band of smugglers as opposed to any specific parents. She still doesn't know if her actual parents were among those that helped raise her or not, and has no idea of their names. In fact, it is believed that her last name, Cordelia, is actually derived from the plant itself in place of a true name from her parents.
 
-When she was 10 years old, Jadi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] sensed her on Corellia while on a mission and came with Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and fellow Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15] to bring her to the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]. She has a deep loyalty to and close relationship with Bastille as a result, so much so that she considers him her elder brother. 
+When she was 10 years old, Jadi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] sensed her on Corellia while on a mission and came with Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and fellow Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15] to bring her to the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]. She has a deep loyalty to and close relationship with Bastille as a result, so much so that she considers him her elder brother. 
 
-During the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Versailles can be considered one of the key instigators. She was the first one to intervene and block Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] from Bastille, kicking off the chain of events that led to the rest of the [[Organizations/Knights of Ren\|Knights of Ren]] defecting. 
+During the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Versailles can be considered one of the key instigators. She was the first one to intervene and block Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] from Bastille, kicking off the chain of events that led to the rest of the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] defecting. 
 
 She experiences [[Force Abilities & Phenomena/Fallout\|Fallout]] from the trauma of the [[Events/Fall of the Jedi Praxeum\|Fall]]. As a result, and as a byproduct of how young she was when they defected and were retrained in the Dark side, she is particularly vulnerable to its influence. She loses control more easily than the older Knights, though not nearly as badly as [[Characters/Roman Ange\|Roman Ange]]. 
