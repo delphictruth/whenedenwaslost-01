@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/pastoria/","tags":["map","planet","retraining","outerrim","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/pastoria/","tags":["map","planet","retraining","outerrim","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Pastoria
 Desc
+
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::
+**System**::
+**Grid**::  P-17
 
 **Capital**
 **Notable Locations**
