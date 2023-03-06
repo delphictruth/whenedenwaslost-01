@@ -44,7 +44,7 @@ Hazel specializes in [[Forms & Martial Arts/Soresu (III)\|Soresu (III)]] initial
 
 ### Force Beliefs & Usage
 
-Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s philosophy and the "true" Jedi way initially, but her connection to [[Characters/Bastille Aurelius\|Bastille Aurelius]] is also a powerful force. She is the first true [[Library/Grey Jedi\|Grey Jedi]] in generations. 
+Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s philosophy and the "true" Jedi way initially, but her connection to [[Characters/Bastille Aurelius\|Bastille Aurelius]] is also a powerful force. She is the first true [[Force Traditions & Sects/Grey Jedi\|Grey Jedi]] in generations. 
 
 **Strengths**::
 - [[Force Abilities & Phenomena/Precognition\|Precognition]]
