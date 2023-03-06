@@ -32,7 +32,7 @@
 
 ### Political Affiliations
 
-**Allegiance**::  [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]]
+**Allegiance**::  [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]]
 **Rank**::  Sith Apprentice
 **Affiliations**::  
 
@@ -41,7 +41,7 @@
 **Master**::  [[Characters/Rathos Visio\|Rathos Visio]]
 **Padawan**::  N/A
 **Knighted**::  
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## Weapons
 
