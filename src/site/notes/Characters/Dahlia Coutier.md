@@ -33,7 +33,7 @@
 
 **Allegiance**::  [[Organizations/Rebellion\|Rebellion]]
 **Rank**::  Jedi General
-**Affiliations**::  [[Organizations/New Jedi Order\|New Jedi Order]] (Grand Jedi Master)
+**Affiliations**::  [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]] (Grand Jedi Master)
 
 ### New Jedi Order
 
