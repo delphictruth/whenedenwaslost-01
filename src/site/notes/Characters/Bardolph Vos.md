@@ -32,14 +32,14 @@
 
 **Allegiance**::  [[Organizations/First Order\|First Order]]
 **Rank**::  Knight
-**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
+**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Rathos Visio\|Rathos Visio]]
 **Padawan**::  N/A
 **Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
 
@@ -67,7 +67,7 @@ Bardolph doesn't practice any particular style of Force belief, nor does he nece
 - [[Force Abilities & Phenomena/Shatterpoint\|Shatterpoint]]
 - [[Force Abilities & Phenomena/Force sight\|Force sight]]
 - [[Force Abilities & Phenomena/Crucitorn\|Crucitorn]]
-- [[Crystals/Deadly sight\|Deadly sight]]
+- [[Force Abilities & Phenomena/Deadly sight\|Deadly sight]]
 - [[Force Abilities & Phenomena/Mind Tricks#Force fear\|Force fear]]
 - Practices the Sith art [[Force Abilities & Phenomena/Dun Möch\|Dun Möch]]
 
