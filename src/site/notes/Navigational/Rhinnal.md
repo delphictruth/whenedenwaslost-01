@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/rhinnal/","tags":["unfinished","core","darpa","perlemian","planet","map"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/rhinnal/","tags":["unfinished","core","darpa","perlemian","planet","map"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Rhinnal
 
-
+**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Sector**::  [[Darpa sector\|Darpa sector]]
+**System**::  [[Rhinnal system\|Rhinnal system]]
+**Grid**::  L-9
 
 https://starwars.fandom.com/wiki/Rhinnal
