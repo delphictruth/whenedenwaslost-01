@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/library/fallanassi-white-current/","tags":["universal light dark","forceblief","beliefs"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *The Force*, *Adepts of the White Current*
-
 # Fallanassi White Current
 
 The White Current is the Fallanassi interpretation of the Force, and is often used in the creation of illusions and concealment rather than for anger, protection, healing, aggression, or any other reason. The White Current is uniquely different from other aspects and schools of thought in that the Current is the immersion of oneself in the actual flows and ripples within the Force, rather than in the Force as a whole.
@@ -16,5 +15,5 @@ Skilled Adepts are capable of sensing the flowing currents nearly constantly and
 An unique ability of the Adepts is [[Force Abilities & Phenomena/Force immersion\|Force immersion]], which allows them to sheild and hide themselves and their surroundings from vision and electronic sensors. 
 
 **Practitioners**
-- [[Organizations/Fallanassi\|Fallanassi]]
+- [[Force Traditions & Sects/Fallanassi\|Fallanassi]]
 - [[Characters/Charlotte Rose\|Charlotte Rose]]
