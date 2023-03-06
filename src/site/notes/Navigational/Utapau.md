@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/navigational/utapau/","tags":["map","planet","starkiller","outerrim","tarabba","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
-- Also known as 
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as
 # Utapau
 Desc
 
