@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-martial-arts/makashi-ii/","tags":["form"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/forms-and-martial-arts/makashi-ii/","tags":["form","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form II*
-
 # Makashi 
 >Way of the , Form
 
