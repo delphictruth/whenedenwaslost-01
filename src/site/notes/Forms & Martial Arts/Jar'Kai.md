@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-martial-arts/jar-kai/","tags":["technique"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/forms-and-martial-arts/jar-kai/","tags":["technique"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Jar'Kai tactic*
-
 # Jar'Kai
 >The original dual-bladed combat 
 
@@ -12,10 +11,10 @@ A dual-blade sword-fighting technique, Jar'Kai was first developed in [[Navigati
 
 [[Forms & Martial Arts/Niman (VI)\|Niman]] is considered a similar dual-blade technique, developed separately and stylized into the current Jedi lightsaber form, but may have been influenced by Jar'Kai and is occasionally referred to as a Jar'Kai tactic or even simply as Jar'Kai. Similar, the dual-bladed version of [[Forms & Martial Arts/Ataru (IV)\|Ataru]] is sometimes considered a Jar'Kai tactic as well. 
 
-**Affiliations**
+**Affiliations**::
 - [[Navigational/Atrisia\|Atrisia]]
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (Niman)
 - [[Characters/Hazel Caelum\|Hazel Caelum]] (Dual-wield Ataru)
 
