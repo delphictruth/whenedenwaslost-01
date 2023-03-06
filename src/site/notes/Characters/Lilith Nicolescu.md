@@ -34,7 +34,7 @@
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Chevalier Hellix\|Chevalier Hellix]] (brief)
 **Padawan**::  N/A
 **Knighted**::  N/A
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
 
 ## History & Plot Significance
 
