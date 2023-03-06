@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/y-ness/","tags":["map","core","koornacht","planet","starkiller","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/y-ness/","tags":["map","core","koornacht","planet","starkiller","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
-- Also known as 
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as
 # Y'ness
 Desc
+
+**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Sector**::  [[Koornacht sector\|Koornacht sector]]
+**System**::  [[N'zoth system\|N'zoth system]]
+**Grid**::  K-10
 
 **Capital**
 **Notable Locations**
