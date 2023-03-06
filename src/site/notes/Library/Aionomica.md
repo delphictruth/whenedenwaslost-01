@@ -8,4 +8,4 @@
 
 The *Aionomica* is a collection within the [[Library/Ancient Jedi texts\|ancient Jedi texts]], held on the planet [[Navigational/Ahch-To\|Ahch-To]]. The text is written in an ancient, lost language and is preserved in two volumes by Jedi Master and historian Ri-Lee Howell. It is a combination of a codex, correspondence, and scrapbook that collecs many of the earliest accounts of explorations and codifications in the Force. 
 
-*Aionomica I* and *Aionomica II* are the two known and accepted volumes. There was a forgery scandal about a rumored third volume long before the collapse of the [[Organizations/Jedi Order\|Jedi Order]], but it was ultimately determined that a third volume did not exist. 
+*Aionomica I* and *Aionomica II* are the two known and accepted volumes. There was a forgery scandal about a rumored third volume long before the collapse of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], but it was ultimately determined that a third volume did not exist. 
