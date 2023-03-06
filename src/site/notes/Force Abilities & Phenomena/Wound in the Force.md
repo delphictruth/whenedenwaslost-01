@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wound-in-the-force/","tags":["light dark universal","offense defense utility","control sense alter","forcepower"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wound-in-the-force/","tags":["light dark universal","offense defense utility","control sense alter","forcepower"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *hole in the Force*, *tear in the Force*
-
 # Wound in the Force
 A form of [[Force Abilities & Phenomena/Psychometry\|Force echo]]. Such a wound is a catastrophic disturbance in the Force, caused by a traumatic event that weakened the very fabric of the Force in the area. They are often formed at the sight of massive loss of life, especially those that occur in a short period of time. The epicenter of such a wound is a Dark place, reverberating with echoes of the pain, terror, and suffering of the dead.
 
