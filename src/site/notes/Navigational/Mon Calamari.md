@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mon-calamari/","tags":["map","retraining","planet","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mon-calamari/","tags":["map","retraining","planet","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Mon Calamari
 Desc
+
+**Region**::
+**Sector**::
+**System**::
+**Grid**::
 
 **Capital**
 **Notable Locations**
 - test
-
-**Planets**
