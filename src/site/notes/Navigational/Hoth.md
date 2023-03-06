@@ -6,7 +6,7 @@
 - Also known as 
 # Hoth
 
-[[Organizations/Knights of Ren\|Knights of Ren]] have a mission here during their year of retraining
+[[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] have a mission here during their year of retraining
 
 **Region**::  [[Navigational/Outer Rim\|Outer Rim]]; [[Navigational/Western Reaches\|Western Reaches]]
 **Sector**::  [[Anoat sector\|Anoat sector]]
