@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/m-haeli/","tags":["map","planet","expansion","majoor","starkiller","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/m-haeli/","tags":["map","planet","expansion","majoor","starkiller","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
