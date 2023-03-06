@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/eiram/","tags":["map","planet","outerrim","dalnan","retraining","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/eiram/","tags":["map","planet","outerrim","dalnan","retraining","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
