@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-martial-arts/djem-so-v/","tags":["form"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/forms-and-martial-arts/djem-so-v/","tags":["form"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form V*
-
 # Shien / Djem So
 >The Way of the Krayt Dragon, The Perseverance Form
 
