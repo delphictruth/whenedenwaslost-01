@@ -13,7 +13,7 @@ To compensate for the relaxed focus on bladework and lack of significant special
 
 According to Jedi Battlemaster Cin Drallig, if a duelist dedicated himself exclusively to Form VI, he could expect to study the style for at least ten years before achieving mastery.
 
-As a dual-wield form, some refer to it as a [[Forms & Martial Arts/Jar'Kai\|Jar'Kai tactic]]. Interestingly, Niman was originally developed by the [[Organizations/Legions of Lettow\|Legions of Lettow]], a sect of Dark Jedi that broke away from the [[Organizations/Jedi Order\|Jedi Order]] and named the Form after the Kashi gods that they worshipped. Nevertheless, it still found its way into the Order's teachings. 
+As a dual-wield form, some refer to it as a [[Forms & Martial Arts/Jar'Kai\|Jar'Kai tactic]]. Interestingly, Niman was originally developed by the [[Force Traditions & Sects/Legions of Lettow\|Legions of Lettow]], a sect of Dark Jedi that broke away from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and named the Form after the Kashi gods that they worshipped. Nevertheless, it still found its way into the Order's teachings. 
 
 **Specialists**
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
