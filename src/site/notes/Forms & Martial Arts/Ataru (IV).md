@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-martial-arts/ataru-iv/","tags":["form"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/forms-and-martial-arts/ataru-iv/","tags":["form"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Form IV*
-
 # Ataru
 >The Way of the Hawk-Bat, The Aggression Form
 
