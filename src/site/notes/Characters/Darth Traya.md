@@ -11,7 +11,7 @@ Former Jedi Master Kreia, infamously known for her unorthodox and novel teaching
 
 Once Revan re-emerged as the Dark Lord of the Sith, Jedi Outcast Kreia turned her attention back to [[Navigational/Malachor V\|Malachor V]], newly determined to investigate the planet and see what led to her Padawan's fall to the Dark side. She finally traveled to the planet to find answers. Instead, she herself was corrupted by the lingering [[Force Abilities & Phenomena/Wound in the Force\|Wound in the Force]], and she became the Dark Lord of the Sith, Darth Traya.  
 
-During the Sith Wars, in an ironic twist of Fate, Revan had returned to the Light while his master turned deeper into the Dark. Darth Traya led the Sith with her two apprentices, [[Characters/Darth Nihilus\|Darth Nihilus]] and [[Characters/Darth Sion\|Darth Sion]], in the [[Organizations/Sith Triumvirate\|Sith Triumvirate]] until they betrated and overthrew her. 
+During the Sith Wars, in an ironic twist of Fate, Revan had returned to the Light while his master turned deeper into the Dark. Darth Traya led the Sith with her two apprentices, [[Characters/Darth Nihilus\|Darth Nihilus]] and [[Characters/Darth Sion\|Darth Sion]], in the [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]] until they betrated and overthrew her. 
 
 It is said that Darth Traya used the Trayus Academy on [[Navigational/Malachor V\|Malachor V]] as her stronghold for the Sith Order. It is also said that she, as well as her two former apprentices, eventually died on the planet. 
 
