@@ -6,6 +6,6 @@
 - *No other names on record*
 # Palawa hibernation trance
 
-The [[Organizations/Followers of Palawa\|Followers of Palawa]] created a certain type of deep trance technique that permitted practitioners to enter into a hypernation trance and sleep for decades without aging. It was also practiced by the [[Organizations/Legions of Lettow\|Legions of Lettow]]. 
+The [[Force Traditions & Sects/Followers of Palawa\|Followers of Palawa]] created a certain type of deep trance technique that permitted practitioners to enter into a hypernation trance and sleep for decades without aging. It was also practiced by the [[Force Traditions & Sects/Legions of Lettow\|Legions of Lettow]]. 
 
 **Specialists**::
