@@ -32,7 +32,7 @@
 
 ### Political Affiliations
 
-**Allegiance**::  [[Organizations/Jedi Order\|Jedi Order]]
+**Allegiance**::  [[Force Traditions & Sects/Jedi Order\|Jedi Order]]
 **Rank**::  Jedi Padawan
 **Affiliations**::  [[Organizations/Azurian Nobility\|Azurian Nobility]] 
 
