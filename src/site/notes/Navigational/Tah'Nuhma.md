@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/tah-nuhma/","tags":["map","planet","midrim","retraining","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/tah-nuhma/","tags":["map","planet","midrim","retraining","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Tah'Nuhma
 Desc
+
+**Region**::  [[Navigational/Mid Rim\|Mid Rim]]
+**Sector**::
+**System**::
+**Grid**::  Q-14
 
 **Capital**
 **Notable Locations**
