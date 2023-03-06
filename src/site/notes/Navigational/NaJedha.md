@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/na-jedha/","tags":["map","planet","unknown","terrabe","burkes","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/na-jedha/","tags":["map","planet","unknown","terrabe","burkes","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # NaJedha
 Desc
+
+**Region**::  [[Navigational/Unknown Regions\|Unknown Regions]]
+**Sector**::  [[Navigational/Terrabe sector\|Terrabe sector]]
+**System**::  [[Jedha system\|Jedha system]]
+**Grid**::  H-10
 
 **Capital**
 **Notable Locations**
