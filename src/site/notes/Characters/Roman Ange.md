@@ -35,14 +35,14 @@ summary
 
 **Allegiance**::  [[Organizations/First Order\|First Order]]
 **Rank**::  Knight
-**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
+**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  N/A
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
 
 ### Knights of Ren
 
