@@ -30,7 +30,7 @@
 
 ### Political Affiliations
 
-**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]  
+**Allegiance**::  [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]  
 **Rank**::  Jedi Knight
 **Affiliations**::  
 
@@ -39,7 +39,7 @@
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  [[Characters/Chevalier Hellix\|Chevalier Hellix]]
 **Knighted**::  [[Directories/Timeline#21 ABY\|21 ABY]]
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class I\|Padawan Class I]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class I\|Padawan Class I]]
 ## History & Plot Significance
 
 Brief blurb.
