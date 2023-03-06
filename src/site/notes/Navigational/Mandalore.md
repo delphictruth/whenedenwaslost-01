@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/mandalore/","tags":["map","outerrim","mandalore","unfinished","planet"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/mandalore/","tags":["map","outerrim","mandalore","unfinished","planet"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Mandalore
 Desc
+
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Mandalore sector\|Mandalore sector]]
+**System**::  [[Mandalore system\|Mandalore system]]
+**Grid**::  O-7
 
 **Capital**
 **Notable Locations**
