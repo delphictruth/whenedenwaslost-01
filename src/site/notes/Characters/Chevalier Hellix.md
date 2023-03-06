@@ -33,14 +33,14 @@
 
 **Allegiance**::  [[Organizations/First Order\|First Order]]
 **Rank**::  Knight
-**Affiliations**::  [[Organizations/Knights of Ren\|Knights of Ren]]
+**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]]
 
 ### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Allyson Petit\|Allyson Petit]]
 **Padawan**::  [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] (brief)
 **Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
 
