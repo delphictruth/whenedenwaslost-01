@@ -7,7 +7,7 @@
 # Octavia Bonteri
 >
 
-Octavia Bonteri was a Jedi padawan with the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Moraband\|Moraband]] in the [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
+Octavia Bonteri was a Jedi padawan with the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Moraband\|Moraband]] in the [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
 ## Personal Information
 
 **Homeworld**::  
@@ -31,16 +31,16 @@ Octavia Bonteri was a Jedi padawan with the [[Organizations/Jedi Praxeum\|Jedi P
 - [[Characters/Drew Hellix\|Drew Hellix]] (half-brother)
 - [[Characters/Chevalier Hellix\|Chevalier Hellix]] (half-brother)
 
-**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]
+**Allegiance**::  [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]
 **Rank**::  Jedi Padawan
-**Affiliations**::  [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
+**Affiliations**::  [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]
 
 #### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  N/A
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
 
 ## Combat
 
