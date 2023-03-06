@@ -38,6 +38,7 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Ikkrukk\|Ikkrukk]]
 - [[Navigational/Kashi\|Kashi]]
 - [[Navigational/Kessel\|Kessel]]
+- [[Navigational/Lothal\|Lothal]]
 - [[Navigational/Malachor V\|Malachor V]]
 - [[Navigational/Mandalore\|Mandalore]]
 - [[Navigational/Moraband\|Moraband]]
