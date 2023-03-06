@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/directories/record-of-planets/","tags":["map"]}
+{"dg-publish":true,"permalink":"/directories/record-of-planets/","tags":["map"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
