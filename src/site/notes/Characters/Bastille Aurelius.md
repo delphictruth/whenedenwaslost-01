@@ -73,7 +73,7 @@ Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particu
 
 ### Force Beliefs & Usage
 
-[[Library/Grey Jedi\|Grey Jedi]] practices
+[[Force Traditions & Sects/Grey Jedi\|Grey Jedi]] practices
 
 **Strengths**::
 - [[Force Abilities & Phenomena/Alter Environment\|Alter Environment]]
