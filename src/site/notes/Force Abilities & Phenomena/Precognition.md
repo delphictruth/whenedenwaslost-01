@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/precognition/","tags":["universal","offense defense utility","control sense alter","forcepower"],"dgHomeLink":false}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *danger sense*, *Third Sight*
 
 # Precognition
@@ -12,7 +12,7 @@ A deeper form of [[Force Abilities & Phenomena/Force sense\|Force sense]], more 
 
 Precognition can also be a lead-in to a specific technique that utilizes [[Force Abilities & Phenomena/Shatterpoint\|Shatterpoint]], seeing how the precognition can aid in perceiving those points. 
 
-The [[Organizations/Chiss\|Chiss]] refer to this ability as *Third Sight*, and in their heightened form it allows them to navigate through hyperspace safely without hyperlanes. 
+The [[Species & Cultures/Chiss\|Chiss]] refer to this ability as *Third Sight*, and in their heightened form it allows them to navigate through hyperspace safely without hyperlanes. 
 
 **Specialists**
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
