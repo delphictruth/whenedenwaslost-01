@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/moraband/","tags":["map","outerrim","esstran","unfinished","planet"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/moraband/","tags":["map","outerrim","esstran","unfinished","planet"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Korriban*, *Pegesam*
-
 # Moraband
 Desc
+
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Esstran sector\|Esstran sector]]
+**System**::  [[Horuset system\|Horuset system]]
+**Grid**::  R-5
 
 **Capital**
 **Notable Locations**
