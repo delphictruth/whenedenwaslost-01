@@ -31,16 +31,16 @@
 
 ### Political Affiliations
 
-**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]
+**Allegiance**::  [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]
 **Rank**::  Jedi Knight
-**Affiliations**::  [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
+**Affiliations**::  [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]
 
 #### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  [[Directories/Timeline#21 ABY\|24 ABY]]
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## History & Plot Significance
 Brief blurb.
