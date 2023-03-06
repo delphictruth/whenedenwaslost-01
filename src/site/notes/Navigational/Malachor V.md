@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/malachor-v/","tags":["map","retraining","outerrim","chorlian","planet"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/malachor-v/","tags":["map","retraining","outerrim","chorlian","planet"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Malachor*
-
 # Malachor V
 Malachor V, or simply *Malachor*, is an Outer Rim planet located in the Malachor system. During the [[Events/Battle of Malachor V\|Battle of Malachor V]], the planet was devastated by the use of the Mass Shadow Generator, with its very core cracking. Thousands of Jedi, Republic soldiers, and Mandalorians died in the resulting cataclysm. 
 
@@ -15,6 +14,11 @@ The destruction of the planet tore a [[Force Abilities & Phenomena/Wound in the 
 While the planet cannot sustain much life, it is inhabited by monstrous storm beasts and Sith creatures. It is said that prolonged exposure to the surface can be a corruptive force.
 
 The planet's infamy has led its name to become a curse of sorts; many refer to "Malachor" in the same manner as "Hell".
+
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Chorlian sector\|Chorlian sector]]
+**System**::  [[Malachor system\|Malachor system]]
+**Grid**::  S-4
 
 **Notable Locations**
 - True Sith academy ruins
