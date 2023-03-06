@@ -1,17 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/unknown-regions/","tags":["map","region"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/unknown-regions/","tags":["map","region","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
-
 # Unknown Regions
 tex
 
-**Sectors**
+### Sectors
 
-**Systems**
+### Systems
 
-**Planets**
+### Planets
 
-**Hyperlanes**
+### Hyperlanes
