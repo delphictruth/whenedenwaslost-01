@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/triellus-trade-route/","tags":["map","outerrim","hyperlane","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/triellus-trade-route/","tags":["map","outerrim","hyperlane","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Triellus Trade Route
 Desc
+
+
 
 **Planets**
 - [[Navigational/Outer Rim\|Outer Rim]]
