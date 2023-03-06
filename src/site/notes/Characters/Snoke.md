@@ -32,7 +32,7 @@
 
 **Allegiance**::  [[Organizations/First Order\|First Order]]
 **Rank**::  Supreme Leader
-**Affiliations**::  [[Organizations/Banite Sith\|Banite Sith]]
+**Affiliations**::  [[Force Traditions & Sects/Banite Sith\|Banite Sith]]
 
 ## History & Plot Significance
 Brief blurb.
