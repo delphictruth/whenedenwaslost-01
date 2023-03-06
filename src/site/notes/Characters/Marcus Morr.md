@@ -40,7 +40,7 @@
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A 
 **Knighted**:: 
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## Combat
 
