@@ -36,7 +36,7 @@
 
 **Allegiance**:: [[Organizations/Rebellion\|Rebellion]]
 **Rank**::  Jedi General
-**Affiliations**::  [[Organizations/Jedi Order\|Jedi Order]] (Jedi Padawan), [[Organizations/New Jedi Order\|New Jedi Order]] (Jedi Knight)
+**Affiliations**::  [[Force Traditions & Sects/Jedi Order\|Jedi Order]] (Jedi Padawan), [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]] (Jedi Knight)
 
 ### New Jedi Order
 
