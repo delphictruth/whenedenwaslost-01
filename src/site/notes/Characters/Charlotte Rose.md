@@ -31,14 +31,14 @@
 
 **Allegiance**::  [[Organizations/Resistance\|Resistance]]
 **Rank**::  Soldier
-**Affiliations**::  [[Organizations/New Jedi Order\|New Jedi Order]]
+**Affiliations**::  [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]
 
 ### Jedi Praxeum
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]] 
 **Padawan**::  N/A 
 **Knighted**::   [[Directories/Timeline#26 ABY\|26 ABY]]
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]] 
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]] 
 
 ## Combat
 
