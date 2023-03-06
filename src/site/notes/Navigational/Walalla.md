@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/walalla/","tags":["map","innerrim","seventh","planet","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/walalla/","tags":["map","innerrim","seventh","planet","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
-- Also known as 
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as
 # Walalla
 Desc
+
+**Region**::  [[Navigational/Inner Rim\|Inner Rim]]
+**Sector**::  [[Seventh Security Zone\|Seventh Security Zone]]
+**System**::  [[Walalla system\|Walalla system]]
+**Grid**::  J-13
 
 **Capital**
 **Notable Locations**
