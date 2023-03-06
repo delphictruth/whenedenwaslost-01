@@ -1,15 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/rodia/","tags":["map","planet","savareen","outerrim"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/navigational/rodia/","tags":["map","planet","savareen","tyrius","outerrim"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- *No other names on record* 
 # Rodia
+
 Rodia is a small industrial planet located in the [[Navigational/Tyrius system\|Tyrius system]] of the [[Navigational/Outer Rim\|Outer Rim]]. It is predominantly covered in rainforests, oceans, and swamps, with no truly dry land to speak of. Notably, it is the homeworld of the *Rodian species* and is known (humorously) as a major exporter of "bounty hunters". 
 
 The cities of Rodia are built on waterways and protected from the extreme humidity and moisture by environmental shields known as "bubble domes." 
 
-**Capital** [[Navigational/Rodia#Iskaayuma\|Iskaayuma]]
+**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Sector**::  [[Navigational/Savareen sector\|Savareen sector]]
+**System**::  [[Navigational/Tyrius system\|Tyrius system]]
+**Grid**::  R-16
+
+**Capital**::  [[Navigational/Rodia#Iskaayuma\|Iskaayuma]]
 **Notable Locations**
 - [[Navigational/Rodia#Encheeko\|Encheeko]] (continent)
 	- [[Navigational/Rodia#Iskaayuma\|Iskaayuma]] (capital)
