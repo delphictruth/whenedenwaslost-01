@@ -23,6 +23,7 @@
 | [[Events/Galactic Civil War\|Galactic Civil War]]                                         | \-                                         | \-                                         | Era        |
 | [[Events/Galactic Concordance\|Galactic Concordance]]                                     | \-                                         | \-                                         | Event      |
 | [[Events/Great Galactic War\|Great Galactic War]]                                         | \-                                         | \-                                         | War        |
+| [[Events/Great Jedi Purge\|Great Jedi Purge]]                                             | \-                                         | \-                                         | \-         |
 | [[Events/Napkin Bombing\|Napkin Bombing]]                                                 | Hosnian Prime                              | \-                                         | Event      |
 | [[Events/Occupation of Carida\|Occupation of Carida]]                                     | carida                                     | \-                                         | Occupation |
 | [[Events/Padawan Massacre\|Padawan Massacre]]                                             | \-                                         | \-                                         | Event      |
