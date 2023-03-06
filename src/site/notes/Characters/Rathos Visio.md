@@ -31,9 +31,9 @@
 
 ### Political Affiliations
 
-**Allegiance**::  [[Organizations/New Jedi Order\|New Jedi Order]]
+**Allegiance**::  [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]
 **Rank**::  Jedi Master
-**Affiliations**::  [[Organizations/Jedi Order\|Jedi Order]]
+**Affiliations**::  [[Force Traditions & Sects/Jedi Order\|Jedi Order]]
 
 ### Jedi Praxeum
 
