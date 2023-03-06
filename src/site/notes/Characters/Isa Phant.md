@@ -34,7 +34,7 @@
 **Master**::  [[Characters/Rathos Visio\|Rathos Visio]] 
 **Padawan**::  N/A
 **Knighted**::  N/A
-**Class**::  [[Organizations/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
+**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Jedi Padawan Class IV]]
 
 # Combat
 
