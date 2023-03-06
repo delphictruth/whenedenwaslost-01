@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/directories/timeline/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/directories/timeline/"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - **Outdated timeline, ages/years likely inaccurate, unreliable record**
-
 # Galactic Timeline
 ## Clone Wars Era
 ### 20 BBY
@@ -22,7 +21,7 @@ End of the [[Events/Clone Wars\|Clone Wars]]
 ## "The Dark Times" Era
 
 ### 18 BBY
-[[Organizations/Jedi Order\|Jedi Order]] exists, trying to restore peace to broken worlds and combat the emerging pockets of darksiders under [[Characters/Pollutis Kun\|Pollutis Kun]] [16]
+[[Force Traditions & Sects/Jedi Order\|Jedi Order]] exists, trying to restore peace to broken worlds and combat the emerging pockets of darksiders under [[Characters/Pollutis Kun\|Pollutis Kun]] [16]
 Jedi Order disaffiliates from the [[Organizations/Galactic Empire\|Galactic Empire]] and [[Organizations/Imperial Senate\|Imperial Senate]] 
 ↳ [[Events/The Jedi Exile\|The Jedi Exile]] = Jedi become independent agents once more and remove themselves from politics
 Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] becomes involved in the beginnings of a resistance movement among the [[Organizations/Imperial Senate\|Imperial Senate]]
@@ -35,28 +34,28 @@ Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] becomes involved
 [[Characters/Raegal Aurelius\|Raegal Aurelius]] [2] begins to show early signs of Force sensitivity
 
 ### 16 BBY
-[[Characters/Raegal Aurelius\|Raegal Aurelius]] [3] is kidnapped by the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] and later presumed dead
+[[Characters/Raegal Aurelius\|Raegal Aurelius]] [3] is kidnapped by the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] and later presumed dead
 ↳ [[Navigational/Carida\|Carida]] adopts an isolationist policy and grows distant from the [[Organizations/Imperial Senate\|Imperial Senate]] while continuing to sponsor resistance development 
 Princess [[Characters/Cecily Beaumont\|Cecily Beaumont]] is born on [[Navigational/Axum\|Axum]]
 [[Characters/Victoria Octan\|Victoria Octan]] is born on [[Navigational/Nallastia\|Nallastia]]
 
 ### 15 BBY
-A representative from the [[Organizations/Jedi Order\|Jedi Order]] approaches [[Characters/Fecility Beauregard\|Fecility Beauregard]] about [[Characters/Cain Draig\|Cain Draig]] [5] and is sent away 
+A representative from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] approaches [[Characters/Fecility Beauregard\|Fecility Beauregard]] about [[Characters/Cain Draig\|Cain Draig]] [5] and is sent away 
 ↳ [[Navigational/Carida\|Carida]] imports [[Fauna & Flora/Ysalamir creatures\|Ysalamir creatures]] to create a Force-neutral zone in their capital city, dampening [[Characters/Cain Draig\|Cain Draig]] [5] and [[Characters/Talia Draig\|Talia Draig]] [2]
 [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [4] is orphaned during ongoing unrest on [[Navigational/Mandalore\|Mandalore]] and is taken in by Clan Rodarch
 
 ### 14 BBY
-Conflict between the [[Organizations/Jedi Order\|Jedi Order]] and the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] becomes more apparent
+Conflict between the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] becomes more apparent
 ↳ Wide-spread conflict between the Jedi and various Sith factions becomes muddled
-↳ Propaganda campaign lauched against the [[Organizations/Jedi Order\|Jedi Order]], pointing to the [[Events/The Jedi Exile\|The Jedi Exile]] and painting the Jedi as corrupt and dangerous 
-[[Organizations/Inquisitorius\|Inquisitorius]] develops under the [[Organizations/Galactic Empire\|Galactic Empire]] as a way to "protect" against the "Jedi threat"
+↳ Propaganda campaign lauched against the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], pointing to the [[Events/The Jedi Exile\|The Jedi Exile]] and painting the Jedi as corrupt and dangerous 
+[[Force Traditions & Sects/Inquisitorius\|Inquisitorius]] develops under the [[Organizations/Galactic Empire\|Galactic Empire]] as a way to "protect" against the "Jedi threat"
 
 ### 13 BBY
 
 ### 12 BBY 
 
 ### 11 BBY
-[[Characters/Cecily Beaumont\|Cecily Beaumont]] [5] is discretely recruited by the [[Organizations/Jedi Order\|Jedi Order]]
+[[Characters/Cecily Beaumont\|Cecily Beaumont]] [5] is discretely recruited by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]]
 
 ### 10 BBY
 
@@ -69,8 +68,8 @@ Conflict between the [[Organizations/Jedi Order\|Jedi Order]] and the [[Organiza
 ### 7 BBY
 
 ### 6 BBY
-War between the [[Organizations/Jedi Order\|Jedi Order]] and [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] / [[Organizations/Sith Cultists\|Sith Cultists]] comes to a head
-↳ [[Organizations/Inquisitorius\|Inquisitors]] push the tide in favor of the [[Organizations/Galactic Empire\|Galactic Empire]] as Jedi numbers start to rapidly decrease
+War between the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] / [[Force Traditions & Sects/Sith Cultists\|Sith Cultists]] comes to a head
+↳ [[Force Traditions & Sects/Inquisitorius\|Inquisitors]] push the tide in favor of the [[Organizations/Galactic Empire\|Galactic Empire]] as Jedi numbers start to rapidly decrease
 Padawan [[Characters/Cecily Beaumont\|Cecily Beaumont]] [10] and Padawan [[Characters/Dahlia Coutier\|Dahlia Coutier]] [12] are among a group of younglings sent away under the protection of several Jedi Knights
 Padawan [[Characters/Victoria Octan\|Victoria Octan]] [10] is sent back to her home planet, [[Navigational/Nallastia\|Nallastia]] 
 
@@ -79,8 +78,8 @@ Padawan [[Characters/Victoria Octan\|Victoria Octan]] [10] is sent back to her h
 ## Galatic Civil War Era
 
 ### 4 BBY
-Death of the [[Characters/Grand Inquisitor\|Grand Inquisitor]] leads to the beginning of the breakdown of the [[Organizations/Inquisitorius\|Inquisitorius]]
-The emergence of Sith apprentice [[Characters/Raegal Aurelius\|Raegel Aurelius]] [15] brings a new wave of violence from the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
+Death of the [[Characters/Grand Inquisitor\|Grand Inquisitor]] leads to the beginning of the breakdown of the [[Force Traditions & Sects/Inquisitorius\|Inquisitorius]]
+The emergence of Sith apprentice [[Characters/Raegal Aurelius\|Raegel Aurelius]] [15] brings a new wave of violence from the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]
 Jedi numbers continue to dwindle 
 
 ### 3 BBY
@@ -97,7 +96,7 @@ Local government on [[Navigational/Carida\|Carida]] manages to reclaim power fro
 Death of the [[Organizations/Galactic Empire\|Galactic Empire]]-imposed leader on [[Navigational/Mandalore\|Mandalore]]
 ↳ On-going civil war on [[Navigational/Mandalore\|Mandalore]] and power vacuum emerges
 ↳ [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [15] escapes the [[Navigational/Imperial Academy\|Academy]] and flees with a group of fellow officers
-The [[Organizations/Jedi Order\|Jedi Order]] falls 
+The [[Force Traditions & Sects/Jedi Order\|Jedi Order]] falls 
 
 ### 1 BBY 
 [[Navigational/Carida\|Carida]] begins to offer discreet aid to the [[Organizations/Rebellion\|Rebel Alliance]]
@@ -107,7 +106,7 @@ An attack on the group with Padawan [[Characters/Cecily Beaumont\|Cecily Beaumon
 ### 0 BBY — [[Events/Battle of Yavin\|Battle of Yavin]] & DESTRUCTION OF [[Navigational/Death Star\|DEATH STAR]]
 
 ### 1 ABY 
-Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [17] emerges with Jedi Knight [[Characters/Dahlia Coutier\|Dahlia Coutier]] [19] to aid the [[Organizations/Rebellion\|Rebel Alliance]] in defeating remainders of the [[Organizations/Galactic Empire\|Galactic Empire]] and [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
+Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [17] emerges with Jedi Knight [[Characters/Dahlia Coutier\|Dahlia Coutier]] [19] to aid the [[Organizations/Rebellion\|Rebel Alliance]] in defeating remainders of the [[Organizations/Galactic Empire\|Galactic Empire]] and [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]
 [[Characters/Talia Draig\|Talia Draig]] [17] begins to run supplies to various [[Organizations/Rebellion\|Rebellion]] outposts from [[Navigational/Carida\|Carida]]
 ↳ [[Characters/Talia Draig\|Talia Draig]] [17] meets the mercenary [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [19]
 [[Characters/Allyson Petit\|Allyson Petit]] is born on ... 
@@ -140,8 +139,8 @@ Conclusion of the [[Events/Galactic Civil War\|Galactic Civil War]] via the [[Ev
 ## New Republic Era | Cold War Era
 
 ### 6 ABY 
-Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] and [[Characters/Dahlia Coutier\|Dahlia Coutier]] [24] seek to disband any remaining [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]] members and factions 
-↳ Jedi Knight [[Characters/Rathos Visio\|Rathos Visio]] [25], a survivor from the [[Organizations/Jedi Order\|Jedi Order]], is discovered
+Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] and [[Characters/Dahlia Coutier\|Dahlia Coutier]] [24] seek to disband any remaining [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] members and factions 
+↳ Jedi Knight [[Characters/Rathos Visio\|Rathos Visio]] [25], a survivor from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], is discovered
 [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] first meets Sith apprentice [[Characters/Raegal Aurelius\|Raegel Aurelius]] [25] 
 [[Characters/Drew Hellix\|Drew Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [23] on [[Navigational/Chandrila\|Chandrila]] 
 [[Characters/Hasina Makara\|Hasina Makara]] is born to Senator [[Characters/Coreen Makara\|Coreen Makara]] and [[Kuat Drive Yards\|KDY]] President [[Characters/Erikson Makara\|Erikson Makara]] on [[Navigational/Kuat\|Kuat]] 
@@ -156,21 +155,21 @@ Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] and [[Characte
 Sith master [[Characters/Lord ??\|Lord ??]] is killed by [[Characters/Raegal Aurelius\|Raegal Aurelius]] [26]
 
 ### 8 ABY
-Grand Master Jedi [[Characters/Dahlia Coutier\|Dahlia Coutier]] [26] establishes the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] on [[Navigational/Yavin 4\|Yavin 4]]
+Grand Master Jedi [[Characters/Dahlia Coutier\|Dahlia Coutier]] [26] establishes the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] on [[Navigational/Yavin 4\|Yavin 4]]
 ↳ Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [27] joins her to help teach
 [[Characters/Bastille Aurelius\|Bastille Aurelius]] is born to [[Characters/Cecily Beaumont\|Cecily Beaumont]] [24] on [[Navigational/Axum\|Axum]]
 Prince [[Characters/Alfred Jonnas\|Alfred Jonnas]] is born on [[Navigational/Artorias\|Artorias]] 
 [[Characters/Cassel Dameron\|Cassel Dameron]] is born on ... 
 [[Characters/Charlotte Rose\|Charlotte Rose]] is born on [[Navigational/Pydyr\|Pydyr]] 
 [[Characters/Evelynn Decipio\|Evelynn Decipio]] is born on [[Navigational/Mandalore\|Mandalore]] 
-[[Characters/Roslyn Dystra\|Roslyn Dystra]] [3] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
-[[Characters/Allyson Petit\|Allyson Petit]] [7] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
-[[Characters/Catherine Labelle\|Catherine Labelle]] [8] joins the [[Organizations/Jedi Praxeum\|Jedi Praxeum]]
+[[Characters/Roslyn Dystra\|Roslyn Dystra]] [3] joins the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]
+[[Characters/Allyson Petit\|Allyson Petit]] [7] joins the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]
+[[Characters/Catherine Labelle\|Catherine Labelle]] [8] joins the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]
 [[Characters/Rye Kole\|Rye Kole]] [25] dies
 
 ### 9 ABY 
 Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] goes to [[Navigational/Moraband\|Moraband]] to Turn the Sith Lord [[Characters/Raegal Aurelius\|Raegel Aurelius]] [28]
-↳ The [[Navigational/Moraband#Temple of Pesegam\|Temple of Pesegam]] is destroyed, along with the remains of the [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
+↳ The [[Navigational/Moraband#Temple of Pesegam\|Temple of Pesegam]] is destroyed, along with the remains of the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]
 ↳ [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] and [[Characters/Raegal Aurelius\|Raegel Aurelius]] [26] disappear in the wreckage of the [[Navigational/Moraband#Valley of the Dark Lords\|Valley of the Dark Lords]]
 [[Characters/Talia Draig\|Talia Draig]] [25] and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [26] adopt their nephew, renaming him [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]]
 [[Characters/Imperia Sibyl\|Imperia Sibyl]] is born on [[Navigational/Seidhkona\|Seidhkona]]  
@@ -178,8 +177,8 @@ Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [23] goes to [[Navig
 [[Characters/Victoria Octan\|Victoria Octan]] [25] remarries [[Characters/Dallas Makensi\|Dallas Makensi]] [24]
 
 ### 10 ABY 
-The [[Organizations/First Order\|First Order]] begins to form out of the remnants of the [[Organizations/Centrists\|Centrists]], [[Organizations/Galactic Empire\|Galactic Empire]], and [[Organizations/Sith Cultists\|Sith Cultists]] in the [[Navigational/Outer Rim\|Outer Rim]]
-[[Characters/Kieran Crevan\|Kieran Crevan]] [6] is brought to the [[Organizations/Jedi Praxeum\|Praxeum]]
+The [[Organizations/First Order\|First Order]] begins to form out of the remnants of the [[Organizations/Centrists\|Centrists]], [[Organizations/Galactic Empire\|Galactic Empire]], and [[Force Traditions & Sects/Sith Cultists\|Sith Cultists]] in the [[Navigational/Outer Rim\|Outer Rim]]
+[[Characters/Kieran Crevan\|Kieran Crevan]] [6] is brought to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 [[Characters/Octavia Bonteri\|Octavia Bonteri]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] on ... 
 
 ### 11 ABY
@@ -192,7 +191,7 @@ The [[Organizations/First Order\|First Order]] begins to form out of the remnant
 ### 13 ABY
 [[Characters/Maggie Amell\|Maggie Amell]] is born on ...
 [[Characters/Roman Ange\|Roman Ange]] is born to the slave [[Characters/Mari Ange\|Mari Ange]] on ...
-[[Characters/Marcus Morr\|Marcus Morr]] [10] is Awakened in an accident that kills his brother [[Characters/Aiden Morr\|Aiden Morr]] [7] and is sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
+[[Characters/Marcus Morr\|Marcus Morr]] [10] is Awakened in an accident that kills his brother [[Characters/Aiden Morr\|Aiden Morr]] [7] and is sent to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 [[Characters/AT-5365\|AT-5365]] [2] is conscripted into the [[Navigational/Stormtrooper Corps\|Stormtrooper Corps]] 
 
 ### 14 ABY
@@ -203,29 +202,29 @@ The [[Organizations/First Order\|First Order]] begins to form out of the remnant
 
 ### 16 ABY
 [[Characters/Michael Hellix\|Michael Hellix]] [27] is killed 
-The [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] begins to revive in secret from remnants of the former Sith cult and [[Organizations/Jen'jidai Cult\|Jen'jidai Cult]]
-[[Characters/Imperia Sibyl\|Imperia Sibyl]] [7] is abandoned at the [[Organizations/New Republic Senate\|New Republic Senate]] and sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
+The [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] begins to revive in secret from remnants of the former Sith cult and [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]
+[[Characters/Imperia Sibyl\|Imperia Sibyl]] [7] is abandoned at the [[Organizations/New Republic Senate\|New Republic Senate]] and sent to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 
 ### 17 ABY
-[[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [9] is briefly captured, Awakened, and sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
+[[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [9] is briefly captured, Awakened, and sent to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 
 ### 18 ABY
 [[Events/Battle of Nallastia\|Battle of Nallastia]] occurs
 ↳ [[Characters/Victoria Octan\|Victoria Octan Makensi]] [34] is killed in the outbreak on [[Navigational/Nallastia\|Nallastia]]
 ↳ [[Characters/Dallas Makensi\|Dallas Makensi]] [33] leaves [[Navigational/Nallastia\|Nallastia]] with [[Characters/Titanium Octan Makensi\|Titanium Octan Makensi]] [11] and [[Characters/Hazel Caelum\|Hazel Caelum]] [7]
 ↳ [[Characters/Hazel Caelum\|Hazel Caelum]] [7] is lost in a raid on the transit and sold by her captors to [[Characters/Unkar Plutt\|Unkar Plutt]] on [[Navigational/Jakku\|Jakku]]
-[[Characters/Bardolph Vos\|Bardolph Vos]] [11] is sensed by Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [37] and brought to the [[Organizations/Jedi Praxeum\|Praxeum]]
+[[Characters/Bardolph Vos\|Bardolph Vos]] [11] is sensed by Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [37] and brought to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 [[Characters/Drew Hellix\|Drew Hellix]] [12] is killed
-↳ [[Characters/Chevalier Hellix\|Chevalier Hellix]] [11] is Awakened and sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
+↳ [[Characters/Chevalier Hellix\|Chevalier Hellix]] [11] is Awakened and sent to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 
 ### 19 ABY
-[[Characters/Charlotte Rose\|Charlotte Rose]] [11] is sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
-Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] [37] senses [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] [5] and brings her to the [[Organizations/Jedi Praxeum\|Praxeum]]
+[[Characters/Charlotte Rose\|Charlotte Rose]] [11] is sent to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
+Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] [37] senses [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] [5] and brings her to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 
 ### 20 ABY
-Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] is killed by [[Organizations/First Order\|First Order]] assassins and her daughter [[Characters/Octavia Bonteri\|Octavia Bonteri]] [10] is sent to the [[Organizations/Jedi Praxeum\|Praxeum]]
-[[Characters/Alfred Jonnas\|Alfred Jonnas]] [12] forfeits his title and joins the [[Organizations/Jedi Praxeum\|Praxeum]]
-Master [[Characters/Rathos Visio\|Rathos Visio]] [39] brings [[Characters/Isa Phant\|Isa Phant]] [5] to the [[Organizations/Jedi Praxeum\|Praxeum]]
+Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] is killed by [[Organizations/First Order\|First Order]] assassins and her daughter [[Characters/Octavia Bonteri\|Octavia Bonteri]] [10] is sent to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
+[[Characters/Alfred Jonnas\|Alfred Jonnas]] [12] forfeits his title and joins the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
+Master [[Characters/Rathos Visio\|Rathos Visio]] [39] brings [[Characters/Isa Phant\|Isa Phant]] [5] to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]
 
 ### 21 ABY
 [[Characters/Chevalier Hellix\|Chevalier Hellix]] [14] discovers that [[Characters/Octavia Bonteri\|Octavia Bonteri]] [11] is his half-sister
@@ -237,7 +236,7 @@ Small dogfights begin to crop up in the [[Navigational/Outer Rim\|Outer Rim]]
 Jedi Padawans [[Characters/Chevalier Hellix\|Chevalier Hellix]] [14] and [[Characters/Kieran Crevan\|Kieran Crevan]] [17] are dispatched with Jedi Knights [[Characters/Allyson Petit\|Allyson Petit]] [20] and [[Characters/Catherine Labelle\|Catherine Labelle]] [21] to capture [[Characters/Rinnrivin Di\|Rinnrivin Di]] by request of the [[Organizations/New Republic Senate\|New Republic Senate]]
 
 ### 22 ABY
-Jedi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] senses [[Characters/Versailles Cordelia\|Versailles Cordelia]] [10] and brings her to the [[Organizations/Jedi Praxeum\|Praxeum]] with Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15]
+Jedi Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] senses [[Characters/Versailles Cordelia\|Versailles Cordelia]] [10] and brings her to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]] with Master [[Characters/Rathos Visio\|Rathos Visio]] [41] and Padawan [[Characters/Bardolph Vos\|Bardolph Vos]] [15]
 Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] [40] brings Padawan [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] [14] on a mission to investigate the [[Events/Napkin Bombing\|Napkin Bombing]] on [[Navigational/Hosnian Prime\|Hosnian Prime]]
 
 ### 23 ABY
@@ -250,8 +249,8 @@ Jedi Knight [[Characters/Allyson Petit\|Allyson Petit]] [22] is killed on a miss
 
 ### 24 ABY
 [[Organizations/Seperatist\|Seperatist]] worlds begin to secede from the [[Organizations/New Republic Senate\|New Republic Senate]], joining the [[Organizations/First Order\|First Order]]
-The [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] gain strength and emerge publicly, terrorizing smaller planets
-The [[Organizations/New Jedi Order\|New Jedi Order]] enters its first official conflict period, combatting the [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]]
+The [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] gain strength and emerge publicly, terrorizing smaller planets
+The [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]] enters its first official conflict period, combatting the [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]]
 [[Jedi Padawan Classes\|Jedi Padawan Class II]] is Knighted
 ↳ [[Characters/Kieran Crevan\|Kieran Crevan]] [20] 
 ↳ [[Characters/Roslyn Dystra\|Roslyn Dystra]] [19]
@@ -264,10 +263,10 @@ The [[Organizations/New Jedi Order\|New Jedi Order]] enters its first official c
 ↳ Jedi Knight [[Characters/Kieran Crevan\|Kieran Crevan]] [21] enters the [[Navigational/Moraband#Tomb of Maka Ragnos\|Tomb of Maka Ragnos]] and disappears
 
 ### 26 ABY
-[[Characters/Kieran Crevan\|Kieran Crevan]] [22], possessed by [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], attacks the [[Organizations/Jedi Praxeum\|Jedi Praxeum]] with aid from the remaining [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]]
+[[Characters/Kieran Crevan\|Kieran Crevan]] [22], possessed by [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], attacks the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] with aid from the remaining [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]]
 ↳ Knight [[Characters/Catherine Labelle\|Catherine Labelle]] [26] is killed by [[Characters/Kieran Crevan\|Kieran Crevan]] [22]
 ↳ [[Characters/Kieran Crevan\|Kieran Crevan]] [22] is killed by Padawan [[Characters/Chevalier Hellix\|Chevalier Hellix]] [19]
-↳ Final remnants of the [[Organizations/Disciples of Ragnos\|Disciples of Ragnos]] are wiped out
+↳ Final remnants of the [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] are wiped out
 [[Jedi Padawan Classes\|Jedi Padawan Class III]] is Knighted
 ↳ [[Characters/Bastille Aurelius\|Bastille Aurelius]] [18]
 ↳ [[Characters/Bardolph Vos\|Bardolph Vos]] [19]
@@ -281,7 +280,7 @@ The [[Organizations/New Jedi Order\|New Jedi Order]] enters its first official c
 ## Resistance-First Order War Era
 
 ### 28 ABY — [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]
-Sith ghost [[Characters/Darth Grimm\|Darth Grimm]] is summoned to the [[Organizations/Jedi Praxeum\|Praxeum]] by [[Characters/Roman Ange\|Roman Ange]] [15], setting off the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]
+Sith ghost [[Characters/Darth Grimm\|Darth Grimm]] is summoned to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]] by [[Characters/Roman Ange\|Roman Ange]] [15], setting off the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]
 Jedi Knights [[Characters/Bastille Aurelius\|Bastille Aurelius]] [20], [[Characters/Bardolph Vos\|Bardolph Vos]] [21], [[Characters/Alfred Jonnas\|Alfred Jonnas]] [20], [[Characters/Chevalier Hellix\|Chevalier Hellix]] [21], [[Characters/Imperia Sibyl\|Imperia Sibyl]] [19], and Padawans [[Characters/Versailles Cordelia\|Versailles Cordelia]] [16] and [[Characters/Roman Ange\|Roman Ange]] [15] defect to the [[Organizations/First Order\|First Order]]
 ↳ Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [47] is killed
 ↳ Jedi Knights [[Characters/Roslyn Dystra\|Roslyn Dystra]] [23] and [[Characters/Marcus Morr\|Marcus Morr]] [25] are killed 
@@ -291,7 +290,7 @@ Jedi Knights [[Characters/Bastille Aurelius\|Bastille Aurelius]] [20], [[Charact
 Generals [[Characters/Cain Draig\|Cain Draig]] [47] and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [46] escalate the war with the [[Organizations/First Order\|First Order]]
 
 ### 29 ABY
-[[Organizations/First Order\|First Order]] Warlord [[Characters/Bastille Aurelius\|Ani Ren]] [21] and the [[Organizations/Knights of Ren\|Knights of Ren]] emerge for the first time
+[[Organizations/First Order\|First Order]] Warlord [[Characters/Bastille Aurelius\|Ani Ren]] [21] and the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] emerge for the first time
 ↳ [[Characters/Chevalier Hellix\|Chevalier Hellix]] ⇢ [[Characters/Chevalier Hellix\|Muta Ren]] [22]
 ↳ [[Characters/Bardolph Vos\|Bardolph Vos]] ⇢ [[Characters/Bardolph Vos\|Jus Ren]] [22]
 ↳ [[Characters/Imperia Sibyl\|Imperia Sibyl]] ⇢ [[Characters/Imperia Sibyl\|Sacra Ren]] [20]
