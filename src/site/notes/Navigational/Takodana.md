@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/navigational/takodana/","tags":["map","planet","midrim","western","tashtor","unfinished"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as 
-
 # Takodana
 
 located in the [[Navigational/Tashtor sector\|Tashtor sector]] of the [[Navigational/Mid Rim\|Mid Rim]].
