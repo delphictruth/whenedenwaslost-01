@@ -6,7 +6,7 @@
 - *No other names on record*
 # Bunduki
 
-Bunduki is a planet in the [[Navigational/Outer Rim\|Outer Rim]], the historic home of the [[Organizations/Followers of Palawa\|Followers of Palawa]] after they were forced from their homeworld, [[Navigational/Palawa\|Palawa]]. It is also considered the homeworld of the Followers' martial arts technique, [[Forms & Martial Arts/Teräs Käsi\|Teräs Käsi]].
+Bunduki is a planet in the [[Navigational/Outer Rim\|Outer Rim]], the historic home of the [[Force Traditions & Sects/Followers of Palawa\|Followers of Palawa]] after they were forced from their homeworld, [[Navigational/Palawa\|Palawa]]. It is also considered the homeworld of the Followers' martial arts technique, [[Forms & Martial Arts/Teräs Käsi\|Teräs Käsi]].
 
 **Region**::  [[Navigational/Outer Rim\|Outer Rim]]
 **Sector**::  [[Navigational/Pacanth Reach\|Pacanth Reach]]
