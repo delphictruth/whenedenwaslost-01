@@ -42,7 +42,7 @@ Bastille carries the legacies of far too many, always destined to either excel i
 
 **Allegiance**::  [[Organizations/First Order\|First Order]] 
 **Rank**::  Warlord, Master of the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]]
-**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] (First Knight), [[Organizations/Azurian Nobility\|Azurian Nobility]] (Lord), [[Library/Telos Holocron\|Telos Holocron]] (Gatekeeper)
+**Affiliations**::  [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] (First Knight), [[Organizations/Azurian Nobility\|Azurian Nobility]] (Lord), [[Library/Holocrons/Telos Holocron\|Telos Holocron]] (Gatekeeper)
 
 ### Jedi Praxeum
 
