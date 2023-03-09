@@ -14,7 +14,7 @@ The Je'daii were dedicated to maintaining Balance, seeing the Force as three asp
 
 The Je'daii philosophy acknowledged that there is always a light within darkness, and a darkness within light, such that it is impossible for one to ever be truly free of either. Je'daii were encouraged to give into the tempations of both the light and the dark, because it was necessary to embrace both in order to learn more of the Force and to achieve Balance. 
 
-The Je'daii maintained nine Temples, each of which was presided over by a Je'daii Temple Master. The nine Temple Masters formed the Council of Masters. Mastery was accomplished by studying different tenants of the Force at each of the Temples. There were also Je'daii Journeyers (those who have finished Padawan training and were current;y traveling between Temples for the [[Library/Great Journey\|Great Journey]]) and Je'daii Rangers (those who have finished their training at the Temples and acted as representatives of the Je'daii). 
+The Je'daii maintained nine Temples, each of which was presided over by a Je'daii Temple Master. The nine Temple Masters formed the Council of Masters. Mastery was accomplished by studying different tenants of the Force at each of the Temples. There were also Je'daii Journeyers (those who have finished Padawan training and were current;y traveling between Temples for the [[Library/Traditions/Great Journey\|Great Journey]]) and Je'daii Rangers (those who have finished their training at the Temples and acted as representatives of the Je'daii). 
 
 **Je'daii Temples**::
 - Mahara Kesh (Temple of Healing), in the Deep Ocean, [[Navigational/Tython\|Tython]]
