@@ -38,7 +38,7 @@ Traditionally, Jedi Padawans are trained as a collective. At the Praxeum, Padawa
 
 Classes are trained to deploy as a collective, or as smaller strike teams comprised of classmates. The general thinking behind this methodology is to prepare Padawans to work closely with one another and to grow deeply familiar with their potential combat partners.
 
-Classes generally graduate as one as well, which is why they are sorted based on training progression and not by age. It is highly unusual for a single Padawan to be Knighted, and it typically doesn't happen. Padawans who are ready to be Knighted early will nevertheless stay with their class until their class's [[Library/Knight Ceremony\|Knighting]].
+Classes generally graduate as one as well, which is why they are sorted based on training progression and not by age. It is highly unusual for a single Padawan to be Knighted, and it typically doesn't happen. Padawans who are ready to be Knighted early will nevertheless stay with their class until their class's [[Library/Traditions/Knight Ceremony\|Knighting]].
 
 Some classes are Knighted early, on account of special circumstances; typically anything that rises to the level of justifying an early Knighting is something that would have involved the whole class, so the class's graduation as a collective remains proper.
 
