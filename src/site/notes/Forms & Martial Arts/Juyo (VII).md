@@ -7,11 +7,13 @@
 # Juyo / Vaapad
 > The Way of the Vornskr, The Ferocity Form
 
-"In many ways, some have described it as a surrender to the Force and to chaos, to strike at an opponent with such speed and angles of attack that they have difficulty countering it. But in surrendering yourself to the Force in such a way reduces your ability to resist its effects should the enemy turn the Force against you. Be on your guard."
+Form VII is a vicious form of lightsaber combat that demands significant internal focus and control over the user's connect with Force to utilize properly. While the original form, *Juyo*, is a full-body form, the modern version known as *Vaapad* is described more so as a "state of mind" than a proper form. Both are marked by bold, direct movements that can be highly unpredictable.
 
-Due to its relatively high focus on one's internal emotions to gain dominance in combat, Form VII oscillates from simply being looked down upon to outright being seen as a taboo.
+Due to its relatively high focus on one's internal emotions to gain dominance in combat, Form VII oscillates from simply being looked down upon to outright being seen as a taboo. It has typically been considered the most controversial of all Forms.
 
 Notably, while both styles of Form VII have their own opening stances and classic maneuvers, it is said that a duelist is not truly executing the style unless they allow the heat of battle to color their actions and alter their approach. 
+
+*"In many ways, some have described it as a surrender to the Force and to chaos, to strike at an opponent with such speed and angles of attack that they have difficulty countering it. But in surrendering yourself to the Force in such a way reduces your ability to resist its effects should the enemy turn the Force against you. Be on your guard."* — Jedi Master [[Characters/Darth Traya\|Kreia]] to Jedi Padawans
 
 **Practitioners**
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
