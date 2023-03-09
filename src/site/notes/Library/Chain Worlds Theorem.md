@@ -6,5 +6,5 @@
 - Also known as *Vergence Scatter*
 # Chain Worlds Theorem
 
-The Chain Worlds Theorem is a theory written and illustrated by the Jedi that theorized the existence of the [[Force Abilities & Phenomena/World Between Worlds\|World Between Worlds]]. Presently, the theorem exists as a copy on a scroll kept with the [[Library/Ancient Jedi texts\|ancient Jedi texts]], but the original source is unknown. 
+The Chain Worlds Theorem is a theory written and illustrated by the Jedi that theorized the existence of the [[Force Abilities & Phenomena/World Between Worlds\|World Between Worlds]]. Presently, the theorem exists as a copy on a scroll kept with the [[Library/Ancient Jedi texts/Ancient Jedi texts\|ancient Jedi texts]], but the original source is unknown. 
 
