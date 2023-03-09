@@ -17,7 +17,7 @@ An aggressive style, Form IV is fast-paced and effective against single opponent
 The opening stance for Ataru was a balanced two-handed guard: holding the lightsaber vertically with both palms, either on the right or left side of the body.
 
 ## Common Maneuvers
-One technique employed with greater effect by Ataru users is the Hawk-Bat Swoop. When utilized by Ataru practitioners, it is intended to allow a combatant to quickly strike their opponent without giving them a chance to react, and then escape before they have a chance to retaliate. 
+One technique employed with greater effect by Ataru users is the *Hawk-Bat Swoop*. When utilized by Ataru practitioners, it is intended to allow a combatant to quickly strike their opponent without giving them a chance to react, and then escape before they have a chance to retaliate. 
 
 Another move that Ataru users can use effectively is dubbed the *Saber Swarm*, where numerous short strikes are aimed at the adversary to force a defensive posture. Ataru wielders are able to execute this combination with particular skill.
 
