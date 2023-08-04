@@ -45,7 +45,7 @@
 ## Combat
 
 ### Forms
-Specializes in [[Characters/Marcus Morr\|]] 
+Specializes in [[]] 
 
 ### Force Beliefs & Usage
 info info 
