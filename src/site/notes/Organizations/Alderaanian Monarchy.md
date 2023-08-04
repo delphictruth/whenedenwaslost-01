@@ -6,11 +6,11 @@
 - Also known as
 # Alderaanian Monarchy
 
-The royal ruling family of [[Navigational/Alderaan\|Alderaan]] is also a member of the [[Old Houses\|Old Houses]], known for its somewhat particular heirdom tests and ceremonies. Although a hereditary monarchy, heir apparents to Alderaan still must complete several challenges to be officially invested as the heir. 
+The royal ruling family of [[Navigational/Planets/Alderaan\|Alderaan]] is also a member of the [[Old Houses\|Old Houses]], known for its somewhat particular heirdom tests and ceremonies. Although a hereditary monarchy, heir apparents to Alderaan still must complete several challenges to be officially invested as the heir. 
 
 The heir challenges start with a *Day of Demand*, wherein Alderaanian heirs on their sixteenth Name Day must fight their way into the palace throne room and claim their right to the throne. They must then name three challenges (one of body, mind, and heart), and if those challenges are deemed worthy, they will be tasked with completing them. Only after completion of all three challenges will the heir apparent become the crown prince or princess of Alderaan. 
 
-The *Challenge of the Body* traditionally requires the heir apparent to climb [[Navigational/Alderaan#Appenza Peak\|Appenza Peak]], a famous mountain visible from the capital city. Most heirs make the climb on their own, but all heirs are allowed to choose one companion to join them. 
+The *Challenge of the Body* traditionally requires the heir apparent to climb [[Navigational/Planets/Alderaan#Appenza Peak\|Appenza Peak]], a famous mountain visible from the capital city. Most heirs make the climb on their own, but all heirs are allowed to choose one companion to join them. 
 
 The *Challenge of the Mind* is intended to test the heir's intelligence. It is typically more of an assignment in betterment and learning as opposed to a "challenge." Many heir apparents will take on aide roles in politics or represent Alderaan in the [[Apprentice Legislature\|Apprentice Legislature]], while some complete great research studies that can be stored within the archives.
 
