@@ -15,11 +15,13 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Savareen sector\|Savareen sector]]
 - [[Navigational/Trilon sector\|Trilon sector]]
 
+{ .block-language-dataview}
 ### Systems
 - [[Navigational/Christoph system\|Christoph system]]
 - [[Navigational/Savareen system\|Savareen system]]
 - [[Navigational/Tyrius system\|Tyrius system]]
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Aeos Prime\|Aeos Prime]]
 - [[Navigational/Akuria\|Akuria]]
@@ -36,6 +38,7 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Erodsis\|Erodsis]]
 - [[Navigational/Hoth\|Hoth]]
 - [[Navigational/Ikkrukk\|Ikkrukk]]
+- [[Navigational/Janx II\|Janx II]]
 - [[Navigational/Kashi\|Kashi]]
 - [[Navigational/Kessel\|Kessel]]
 - [[Navigational/Lothal\|Lothal]]
@@ -54,9 +57,12 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Yavin 4\|Yavin 4]]
 - [[Navigational/Zoist\|Zoist]]
 
+{ .block-language-dataview}
 ### Hyperlanes
 - [[Navigational/Kessel Run\|Kessel Run]]
 - [[Navigational/Kessel Trade Cooridor\|Kessel Trade Cooridor]]
 - [[Navigational/Mumble's Turnaround\|Mumble's Turnaround]]
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
 - [[Navigational/Triellus Trade Route\|Triellus Trade Route]]
+
+{ .block-language-dataview}
