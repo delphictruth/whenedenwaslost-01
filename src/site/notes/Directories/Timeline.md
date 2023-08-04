@@ -7,10 +7,10 @@
 # Galactic Timeline
 ## Clone Wars Era
 ### 20 BBY
-[[Characters/Cain Draig\|Cain Draig]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] of [[Navigational/Carida\|Carida]] 
+[[Characters/Cain Draig\|Cain Draig]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] of [[Navigational/Planets/Carida\|Carida]] 
 
 ### 19 BBY
-[[Characters/Raegal Aurelius\|Raegal Aurelius]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] on [[Navigational/Carida\|Carida]] 
+[[Characters/Raegal Aurelius\|Raegal Aurelius]] is born to Commander [[Characters/Aspen Draig\|Aspen Draig]] on [[Navigational/Planets/Carida\|Carida]] 
 [[Events/Siege of Mandalore\|Siege of Mandalore]] occurs
 [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] is born on [[Navigational/Mandalore\|Mandalore]]
 [[Organizations/Galactic Republic\|Galactic Republic]] becomes [[Organizations/Galactic Empire\|Galactic Empire]] 
@@ -35,13 +35,13 @@ Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] becomes involved
 
 ### 16 BBY
 [[Characters/Raegal Aurelius\|Raegal Aurelius]] [3] is kidnapped by the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] and later presumed dead
-↳ [[Navigational/Carida\|Carida]] adopts an isolationist policy and grows distant from the [[Organizations/Imperial Senate\|Imperial Senate]] while continuing to sponsor resistance development 
-Princess [[Characters/Cecily Beaumont\|Cecily Beaumont]] is born on [[Navigational/Axum\|Axum]]
+↳ [[Navigational/Planets/Carida\|Carida]] adopts an isolationist policy and grows distant from the [[Organizations/Imperial Senate\|Imperial Senate]] while continuing to sponsor resistance development 
+Princess [[Characters/Cecily Beaumont\|Cecily Beaumont]] is born on [[Navigational/Planets/Axum\|Axum]]
 [[Characters/Victoria Octan\|Victoria Octan]] is born on [[Navigational/Nallastia\|Nallastia]]
 
 ### 15 BBY
 A representative from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] approaches [[Characters/Fecility Beauregard\|Fecility Beauregard]] about [[Characters/Cain Draig\|Cain Draig]] [5] and is sent away 
-↳ [[Navigational/Carida\|Carida]] imports [[Fauna & Flora/Ysalamir creatures\|Ysalamir creatures]] to create a Force-neutral zone in their capital city, dampening [[Characters/Cain Draig\|Cain Draig]] [5] and [[Characters/Talia Draig\|Talia Draig]] [2]
+↳ [[Navigational/Planets/Carida\|Carida]] imports [[Fauna & Flora/Ysalamir creatures\|Ysalamir creatures]] to create a Force-neutral zone in their capital city, dampening [[Characters/Cain Draig\|Cain Draig]] [5] and [[Characters/Talia Draig\|Talia Draig]] [2]
 [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [4] is orphaned during ongoing unrest on [[Navigational/Mandalore\|Mandalore]] and is taken in by Clan Rodarch
 
 ### 14 BBY
@@ -84,22 +84,22 @@ Jedi numbers continue to dwindle
 
 ### 3 BBY
 [[Events/Occupation of Carida\|Occupation of Carida]] occurs
-↳ The [[Organizations/Galactic Empire\|Galactic Empire]] occupies [[Navigational/Carida\|Carida]] after discovering that they are aiding in [[Organizations/Rebellion\|Rebellion]] activities 
+↳ The [[Organizations/Galactic Empire\|Galactic Empire]] occupies [[Navigational/Planets/Carida\|Carida]] after discovering that they are aiding in [[Organizations/Rebellion\|Rebellion]] activities 
 ↳ Senator [[Characters/Fecility Beauregard\|Fecility Beauregard]] and General [[Characters/Norman Draig\|Norman Draig]] are killed in the overthrow of the government 
 ↳ [[Characters/Cain Draig\|Cain Draig]] [15] and [[Characters/Talia Draig\|Talia Draig]] [13] are orphaned 
-Unrest on [[Navigational/Carida\|Carida]] occurs during the attempt to restructure their government and appease the [[Organizations/Galactic Empire\|Galactic Empire]]
+Unrest on [[Navigational/Planets/Carida\|Carida]] occurs during the attempt to restructure their government and appease the [[Organizations/Galactic Empire\|Galactic Empire]]
 
 ### 2 BBY 
 Official establishment of the [[Organizations/Rebellion\|Rebel Alliance]] 
-Local government on [[Navigational/Carida\|Carida]] manages to reclaim power from the [[Organizations/Galactic Empire\|Galactic Empire]] 
-↳ [[Characters/Cain Draig\|Cain Draig]] [16] becomes the new Senator of [[Navigational/Carida\|Carida]]
+Local government on [[Navigational/Planets/Carida\|Carida]] manages to reclaim power from the [[Organizations/Galactic Empire\|Galactic Empire]] 
+↳ [[Characters/Cain Draig\|Cain Draig]] [16] becomes the new Senator of [[Navigational/Planets/Carida\|Carida]]
 Death of the [[Organizations/Galactic Empire\|Galactic Empire]]-imposed leader on [[Navigational/Mandalore\|Mandalore]]
 ↳ On-going civil war on [[Navigational/Mandalore\|Mandalore]] and power vacuum emerges
 ↳ [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [15] escapes the [[Navigational/Imperial Academy\|Academy]] and flees with a group of fellow officers
 The [[Force Traditions & Sects/Jedi Order\|Jedi Order]] falls 
 
 ### 1 BBY 
-[[Navigational/Carida\|Carida]] begins to offer discreet aid to the [[Organizations/Rebellion\|Rebel Alliance]]
+[[Navigational/Planets/Carida\|Carida]] begins to offer discreet aid to the [[Organizations/Rebellion\|Rebel Alliance]]
 [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [16] is hired by the [[Organizations/Rebellion\|Rebel Alliance]] as a mercenary 
 An attack on the group with Padawan [[Characters/Cecily Beaumont\|Cecily Beaumont]] [15] nearly wipes out all remaining hidden padawans and forces her to go into hiding with Padawan [[Characters/Dahlia Coutier\|Dahlia Coutier]] [17]
 
@@ -107,14 +107,14 @@ An attack on the group with Padawan [[Characters/Cecily Beaumont\|Cecily Beaumon
 
 ### 1 ABY 
 Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] [17] emerges with Jedi Knight [[Characters/Dahlia Coutier\|Dahlia Coutier]] [19] to aid the [[Organizations/Rebellion\|Rebel Alliance]] in defeating remainders of the [[Organizations/Galactic Empire\|Galactic Empire]] and [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]
-[[Characters/Talia Draig\|Talia Draig]] [17] begins to run supplies to various [[Organizations/Rebellion\|Rebellion]] outposts from [[Navigational/Carida\|Carida]]
+[[Characters/Talia Draig\|Talia Draig]] [17] begins to run supplies to various [[Organizations/Rebellion\|Rebellion]] outposts from [[Navigational/Planets/Carida\|Carida]]
 ↳ [[Characters/Talia Draig\|Talia Draig]] [17] meets the mercenary [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [19]
 [[Characters/Allyson Petit\|Allyson Petit]] is born on ... 
 
 ### 2 ABY 
 [[Events/Battle of Carida\|Battle of Carida]] occurs when the [[Organizations/Galactic Empire\|Galactic Empire]] attempts reoccupation 
-↳ [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [20] fights for [[Navigational/Carida\|Carida]]'s freedom with freedom-fighters [[Characters/Cain Draig\|Cain Draig]] [21] and [[Characters/Talia Draig\|Talia Draig]] [18] 
-↳ With aid from the [[Organizations/Rebellion\|Rebel Alliance]], [[Navigational/Carida\|Carida]] secures its freedom and becomes an outpost for the [[Organizations/Rebellion\|Rebellion]]
+↳ [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [20] fights for [[Navigational/Planets/Carida\|Carida]]'s freedom with freedom-fighters [[Characters/Cain Draig\|Cain Draig]] [21] and [[Characters/Talia Draig\|Talia Draig]] [18] 
+↳ With aid from the [[Organizations/Rebellion\|Rebel Alliance]], [[Navigational/Planets/Carida\|Carida]] secures its freedom and becomes an outpost for the [[Organizations/Rebellion\|Rebellion]]
 
 ### 3 ABY 
 The [[Navigational/Echo Base\|Echo Base]] is established by the [[Organizations/Rebellion\|Rebel Alliance]] on [[Navigational/Hoth\|Hoth]]
@@ -128,8 +128,8 @@ Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [20] and [[Characte
 [[Characters/Kieran Crevan\|Kieran Crevan]] is born on ... 
 
 ### 5 ABY 
-The [[Organizations/New Republic\|New Republic]] is formed and establishes the [[Organizations/New Republic Senate\|New Republic Senate]] on [[Navigational/Chandrila\|Chandrila]]
-↳ [[Characters/Cain Draig\|Cain Draig]] [24] once more becomes the Senator of [[Navigational/Carida\|Carida]] in the [[Organizations/New Republic Senate\|New Republic Senate]] 
+The [[Organizations/New Republic\|New Republic]] is formed and establishes the [[Organizations/New Republic Senate\|New Republic Senate]] on [[Navigational/Planets/Chandrila\|Chandrila]]
+↳ [[Characters/Cain Draig\|Cain Draig]] [24] once more becomes the Senator of [[Navigational/Planets/Carida\|Carida]] in the [[Organizations/New Republic Senate\|New Republic Senate]] 
 [[Events/Battle of Jakku\|Battle of Jakku]] occurs
 Conclusion of the [[Events/Galactic Civil War\|Galactic Civil War]] via the [[Events/Galactic Concordance\|Galactic Concordance]]
 [[Organizations/Confederacy of Independent Systems\|Confederacy of Independent Systems]] and [[Organizations/New Separatist Union\|New Separatist Union]] form 
@@ -142,14 +142,14 @@ Conclusion of the [[Events/Galactic Civil War\|Galactic Civil War]] via the [[Ev
 Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] and [[Characters/Dahlia Coutier\|Dahlia Coutier]] [24] seek to disband any remaining [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] members and factions 
 ↳ Jedi Knight [[Characters/Rathos Visio\|Rathos Visio]] [25], a survivor from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], is discovered
 [[Characters/Cecily Beaumont\|Cecily Beaumont]] [22] first meets Sith apprentice [[Characters/Raegal Aurelius\|Raegel Aurelius]] [25] 
-[[Characters/Drew Hellix\|Drew Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [23] on [[Navigational/Chandrila\|Chandrila]] 
+[[Characters/Drew Hellix\|Drew Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [23] on [[Navigational/Planets/Chandrila\|Chandrila]] 
 [[Characters/Hasina Makara\|Hasina Makara]] is born to Senator [[Characters/Coreen Makara\|Coreen Makara]] and [[Kuat Drive Yards\|KDY]] President [[Characters/Erikson Makara\|Erikson Makara]] on [[Navigational/Kuat\|Kuat]] 
 [[Characters/Aiden Morr\|Aiden Morr]] is born on ... 
 
 ### 7 ABY 
 [[Characters/Talia Draig\|Talia Draig]] [23] and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] [25] marry 
-[[Characters/Bardolph Vos\|Bardolph Vos]] is born to [[Characters/Aryn Dro Vos\|Aryn Dro Vos]] and [[Characters/Bornan Vos\|Bornan Vos]] on [[Navigational/Anaxes\|Anaxes]]
-[[Characters/Chevalier Hellix\|Chevalier Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [24] on [[Navigational/Chandrila\|Chandrila]] 
+[[Characters/Bardolph Vos\|Bardolph Vos]] is born to [[Characters/Aryn Dro Vos\|Aryn Dro Vos]] and [[Characters/Bornan Vos\|Bornan Vos]] on [[Navigational/Planets/Anaxes\|Anaxes]]
+[[Characters/Chevalier Hellix\|Chevalier Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] [24] on [[Navigational/Planets/Chandrila\|Chandrila]] 
 [[Characters/Michael Hellix\|Michael Hellix]] [25] leaves the [[Organizations/New Republic\|New Republic]] with his sons [[Characters/Chevalier Hellix\|Chevalier Hellix]] and [[Characters/Drew Hellix\|Drew Hellix]] [1]
 [[Characters/Titanium Octan Makensi\|Titanium Kole]] is born to [[Characters/Victoria Octan\|Victoria Octan]] [23] and [[Characters/Rye Kole\|Rye Kole]] [24] on [[Navigational/Nallastia\|Nallastia]]
 Sith master [[Characters/Lord ??\|Lord ??]] is killed by [[Characters/Raegal Aurelius\|Raegal Aurelius]] [26]
@@ -157,8 +157,8 @@ Sith master [[Characters/Lord ??\|Lord ??]] is killed by [[Characters/Raegal Aur
 ### 8 ABY
 Grand Master Jedi [[Characters/Dahlia Coutier\|Dahlia Coutier]] [26] establishes the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] on [[Navigational/Yavin 4\|Yavin 4]]
 ↳ Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] [27] joins her to help teach
-[[Characters/Bastille Aurelius\|Bastille Aurelius]] is born to [[Characters/Cecily Beaumont\|Cecily Beaumont]] [24] on [[Navigational/Axum\|Axum]]
-Prince [[Characters/Alfred Jonnas\|Alfred Jonnas]] is born on [[Navigational/Artorias\|Artorias]] 
+[[Characters/Bastille Aurelius\|Bastille Aurelius]] is born to [[Characters/Cecily Beaumont\|Cecily Beaumont]] [24] on [[Navigational/Planets/Axum\|Axum]]
+Prince [[Characters/Alfred Jonnas\|Alfred Jonnas]] is born on [[Navigational/Planets/Artorias\|Artorias]] 
 [[Characters/Cassel Dameron\|Cassel Dameron]] is born on ... 
 [[Characters/Charlotte Rose\|Charlotte Rose]] is born on [[Navigational/Pydyr\|Pydyr]] 
 [[Characters/Evelynn Decipio\|Evelynn Decipio]] is born on [[Navigational/Mandalore\|Mandalore]] 
@@ -186,7 +186,7 @@ The [[Organizations/First Order\|First Order]] begins to form out of the remnant
 [[Characters/AT-5365\|AT-5365]] is born on [[Navigational/Primea\|Primea]] 
 
 ### 12 ABY
-[[Characters/Versailles Cordelia\|Versailles Cordelia]] is born on [[Navigational/Corellia\|Corellia]]
+[[Characters/Versailles Cordelia\|Versailles Cordelia]] is born on [[Navigational/Planets/Corellia\|Corellia]]
 
 ### 13 ABY
 [[Characters/Maggie Amell\|Maggie Amell]] is born on ...
