@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/outer-rim/","tags":["map","region","rimma","kessel","triellus","western"]}
+{"dg-publish":true,"permalink":"/navigational/outer-rim/","tags":["map","region","rimma","kessel","triellus","western","spicetri"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -9,7 +9,7 @@
 The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and the least widely settled and explored expanse of the (civilized) galaxy. It is also the largest region in the galaxy, with many diverse worlds and primitive frontier planets. 
 
 ### Sectors
-- [[Navigational/Dalnan sector\|Dalnan sector]]
+- [[Navigational/Sectors/Dalnan sector\|Dalnan sector]]
 - [[Navigational/Mortex sector\|Mortex sector]]
 - [[Navigational/Pacanth Reach\|Pacanth Reach]]
 - [[Navigational/Savareen sector\|Savareen sector]]
@@ -17,19 +17,19 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 
 { .block-language-dataview}
 ### Systems
-- [[Navigational/Christoph system\|Christoph system]]
+- [[Navigational/Systems/Christoph system\|Christoph system]]
 - [[Navigational/Savareen system\|Savareen system]]
 - [[Navigational/Tyrius system\|Tyrius system]]
 
 { .block-language-dataview}
 ### Planets
-- [[Navigational/Aeos Prime\|Aeos Prime]]
-- [[Navigational/Akuria\|Akuria]]
-- [[Navigational/Almania\|Almania]]
-- [[Navigational/Artorias\|Artorias]]
-- [[Navigational/Batuu\|Batuu]]
-- [[Navigational/Bunduki\|Bunduki]]
-- [[Navigational/Christophsis\|Christophsis]]
+- [[Navigational/Planets/Aeos Prime\|Aeos Prime]]
+- [[Navigational/Planets/Akuria\|Akuria]]
+- [[Navigational/Planets/Almania\|Almania]]
+- [[Navigational/Planets/Artorias\|Artorias]]
+- [[Navigational/Planets/Batuu\|Batuu]]
+- [[Navigational/Planets/Bunduki\|Bunduki]]
+- [[Navigational/Planets/Christophsis\|Christophsis]]
 - [[Navigational/D'Qar\|D'Qar]]
 - [[Navigational/Dathomir\|Dathomir]]
 - [[Navigational/Drongar\|Drongar]]
@@ -50,6 +50,7 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Pirdia\|Pirdia]]
 - [[Navigational/Pydyr\|Pydyr]]
 - [[Navigational/Rodia\|Rodia]]
+- [[Navigational/Roon\|Roon]]
 - [[Navigational/Savareen\|Savareen]]
 - [[Navigational/Taris\|Taris]]
 - [[Navigational/Tatooine\|Tatooine]]
@@ -63,6 +64,7 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Kessel Trade Cooridor\|Kessel Trade Cooridor]]
 - [[Navigational/Mumble's Turnaround\|Mumble's Turnaround]]
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
+- [[Navigational/Spice Triangle\|Spice Triangle]]
 - [[Navigational/Triellus Trade Route\|Triellus Trade Route]]
 
 { .block-language-dataview}
