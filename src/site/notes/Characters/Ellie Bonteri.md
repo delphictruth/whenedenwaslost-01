@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  "[[Navigational/Coruscant\|Coruscant]]"
+**Homeworld**::  "[[Navigational/Planets/Coruscant\|Coruscant]]"
 **Birth**:: 
 **Death**::  
 **Status**::  Deceased
