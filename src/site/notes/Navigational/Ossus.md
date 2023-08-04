@@ -9,7 +9,7 @@ Desc
 
 **Region**::  [[Navigational/Outer Rim\|Outer Rim]]
 **Sector**::  [[Auril sector\|Auril sector]]
-**System**::  [[Navigational/Adega system\|Adega system]]
+**System**::  [[Navigational/Systems/Adega system\|Adega system]]
 **Grid**::  R-6
 
 **Capital**
