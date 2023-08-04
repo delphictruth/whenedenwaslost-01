@@ -7,10 +7,10 @@
 # Alfred Jonnas | Deco Ren
 >The Knight, Prince of Artorias
 
-Alfred is the crown Prince of [[Navigational/Artorias\|Artorias]], but he left his home planet when he presented as Force-sensitive and essentially gave up his heritage, though he always intended to return home one day. He lacks some of the standard abilities of the Jedi, such as telekinesis and levitation, and practices more creative uses of the Force instead. He has a strong sense of honor, but does not take much interest in the political drama of the galaxy; he is rather indifferent to the Jedi and Sith alike. 
+Alfred is the crown Prince of [[Navigational/Planets/Artorias\|Artorias]], but he left his home planet when he presented as Force-sensitive and essentially gave up his heritage, though he always intended to return home one day. He lacks some of the standard abilities of the Jedi, such as telekinesis and levitation, and practices more creative uses of the Force instead. He has a strong sense of honor, but does not take much interest in the political drama of the galaxy; he is rather indifferent to the Jedi and Sith alike. 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Artorias\|Artorias]]
+**Homeworld**::  [[Navigational/Planets/Artorias\|Artorias]]
 **Birth**::  [[Directories/Timeline#8 ABY\|8 ABY]]
 **Death**::  N/A
 **Status**::  Alive
