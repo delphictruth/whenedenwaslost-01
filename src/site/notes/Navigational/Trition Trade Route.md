@@ -10,9 +10,13 @@ Trition Trade Route is an extension of the [[Navigational/Rimma Trade Route\|Rim
 
 ### Regions
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 
+{ .block-language-dataview}
