@@ -7,7 +7,7 @@
 # Tapani sector
 Desc
 
-**Region**::  [[Navigational/Colonies\|Colonies]]
+**Region**::  [[Navigational/Regions/Colonies\|Colonies]]
 **Sector**::
 **System**::
 **Grid**::
