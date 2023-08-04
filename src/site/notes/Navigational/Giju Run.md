@@ -11,3 +11,5 @@ Desc
 - [[Navigational/Atrisi system\|Atrisi system]]
 - [[Navigational/Atrisia\|Atrisia]]
 - [[Navigational/Atrisian Commonwealth\|Atrisian Commonwealth]]
+
+{ .block-language-dataview}
