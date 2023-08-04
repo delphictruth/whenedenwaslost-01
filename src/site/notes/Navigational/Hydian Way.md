@@ -11,10 +11,15 @@ The Hydian Way is a super-hyperroute that begins at the far edge of the galaxy a
 ### Regions 
 - [[Navigational/Western Reaches\|Western Reaches]]
 
+{ .block-language-dataview}
 
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
+- [[Navigational/Janx II\|Janx II]]
 
+{ .block-language-dataview}
