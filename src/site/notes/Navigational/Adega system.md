@@ -15,3 +15,4 @@ One of the six remaining Auril systems, or those within the [[Auril sector\|Auri
 ### Planets
 - [[Navigational/Ossus\|Ossus]]
 
+{ .block-language-dataview}
