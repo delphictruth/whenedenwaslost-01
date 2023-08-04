@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Atrisia\|Atrisia]]
+**Homeworld**::  [[Navigational/Planets/Atrisia\|Atrisia]]
 **Birth**::  [[Directories/Timeline#9ABY\|9 ABY]]
 **Death**::  N/A
 **Status**::  Alive
