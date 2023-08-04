@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Carida\|Carida]]
+**Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
 **Birth**:: 
 **Death**::  [[Directories/Timeline#3 BBY\|3 BBY]]
 **Status**::  Deceased
@@ -34,7 +34,7 @@
 
 #### Political Affiliations
 
-**Allegiance**::  [[Navigational/Carida\|Carida]] Navy
+**Allegiance**::  [[Navigational/Planets/Carida\|Carida]] Navy
 **Rank**::  General
 **Affiliations**::  [[Organizations/Rebellion\|Rebellion]] (ally)
 
