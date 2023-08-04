@@ -32,6 +32,7 @@ In the end, they only had four [[Force Traditions & Sects/Jedi Praxeum#Jedi Pada
 | [[Characters/Roslyn Dystra\|Roslyn Dystra]]             | Jedi Knight       | \-                                                          | [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]      | Deceased |
 | [[Characters/Versailles Cordelia\|Versailles Cordelia]] | Jedi Padawan      | [[Forms & Martial Arts/Ataru (IV)\|IV]], [[Forms & Martial Arts/Niman (VI)\|VI]]                      | [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]      | Fallen   |
 
+{ .block-language-dataview}
 ## Jedi Padawan Classes
 
 Traditionally, Jedi Padawans are trained as a collective. At the Praxeum, Padawan are sorted into classes based on approximate level of training — this serves as an easy way not only to establish different duties and lessons by class, but to have pre-determined group for combat drills. 
