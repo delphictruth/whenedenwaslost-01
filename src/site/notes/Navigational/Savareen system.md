@@ -13,3 +13,5 @@ The Savareen system is home to the planet [[Navigational/Savareen\|Savareen]], b
 
 ### Planets
 - [[Navigational/Savareen\|Savareen]]
+
+{ .block-language-dataview}
