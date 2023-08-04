@@ -10,9 +10,14 @@ Wild Space is refers to the unmapped expanse of the galaxy beyond the [[Navigati
 
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Mortis\|Mortis]]
 
+{ .block-language-dataview}
 ### Hyperlanes
+
+{ .block-language-dataview}
