@@ -7,7 +7,7 @@
 
 # Shredder Bat
 
-Native to [[Navigational/Atrisia\|Atrisia]]
+Native to [[Navigational/Planets/Atrisia\|Atrisia]]
 
 **Affiliations** 
 - test
