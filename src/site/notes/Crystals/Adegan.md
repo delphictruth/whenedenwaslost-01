@@ -6,7 +6,7 @@
 - Also known as *Ilum*
 # Adegan
 
-Adegan crystals are primarily sourced from their namesake system, [[Navigational/Adega system\|Adega]]. Although they are often considered interchangeable with *Ilum crystals*, it is more accurate to consider Adegan crystals to be a variant or subset of Ilum.
+Adegan crystals are primarily sourced from their namesake system, [[Navigational/Systems/Adega system\|Adega]]. Although they are often considered interchangeable with *Ilum crystals*, it is more accurate to consider Adegan crystals to be a variant or subset of Ilum.
 
 Adegan crystals are more potent than the broad Ilum category, with an enhanced connection to the Force that is not quite as replicated in Ilum crystals. Ilum crystals, while slightly less powerful, are nonetheless very common and easier to find that the Adegan variant. 
 
@@ -15,7 +15,7 @@ Adegan crystals are more potent than the broad Ilum category, with an enhanced c
 - *Mephite:* The common form of Adegan crystal, and typically the one being referred to by Adegan or Ilum. 
 - *Pontite:* The rarest form of Adegan (and Ilum) crystals, nearly impossible to find. It resonates with a powerful aura that cools the skin and temperament of its wielder. 
 
-**Location**s::  [[Navigational/Ilum\|Ilum]], [[Navigational/Mygeeto\|Mygeeto]], [[Halm\|Halm]], [[Navigational/Adega system\|Adega system]]
+**Location**s::  [[Navigational/Ilum\|Ilum]], [[Navigational/Mygeeto\|Mygeeto]], [[Halm\|Halm]], [[Navigational/Systems/Adega system\|Adega system]]
 **Colors**::  Blue, green
 **Attunement**::  Unattuned
 
