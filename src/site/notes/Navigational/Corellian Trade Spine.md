@@ -11,10 +11,14 @@ The Corellian Trade Spine, not to be confused with the [[Navigational/Corellian 
 ### Regions
 - [[Navigational/Western Reaches\|Western Reaches]]
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Corellia\|Corellia]]
 
+{ .block-language-dataview}
