@@ -14,3 +14,5 @@ Desc
 **Planets**
 - [[Navigational/Alsakan\|Alsakan]]
 - [[Navigational/Opatajji\|Opatajji]]
+
+{ .block-language-dataview}
