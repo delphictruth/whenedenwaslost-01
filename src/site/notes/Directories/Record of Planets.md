@@ -49,6 +49,7 @@
 | [[Navigational/Ilum\|Ilum]]                   | [[Navigational/Unknown Regions\|Unknown Regions]]   | \-                                                               | [[Ilum system\|Ilum system]]                           | G-7  |
 | [[Navigational/J't'p'tan\|J't'p'tan]]         | [[Navigational/Core Worlds\|Core Worlds]]           | [[Farlax sector\|Farlax sector]]                                 | [[Doornik-628 system\|Doornik-628 system]]             | K-10 |
 | [[Navigational/Jakku\|Jakku]]                 | [[Navigational/Inner Rim\|Inner Rim]]; [[Navigational/Western Reaches\|Western Reaches]]                     | [[Jakku sector\|Jakku sector]]                                   | [[Jakku system\|Jakku system]]                         | I-13 |
+| [[Navigational/Janx II\|Janx II]]             | [[Navigational/Outer Rim\|Outer Rim]]               | [[Mayagil sector\|Mayagil sector]]                               | [[Janx system\|Janx system]]                           | M-18 |
 | [[Navigational/Jedha\|Jedha]]                 | [[Navigational/Mid Rim\|Mid Rim]]                   | [[Navigational/Terrabe sector\|Terrabe sector]]               | [[Jedha system\|Jedha system]]                         | H-10 |
 | [[Navigational/Kalarba\|Kalarba]]             | [[Navigational/Mid Rim\|Mid Rim]]                   | [[Hevvral sector\|Hevvral sector]]                               | [[Kalarba system\|Kalarba system]]                     | P-15 |
 | [[Navigational/Kashi\|Kashi]]                 | [[Navigational/Outer Rim\|Outer Rim]]; [[The Slice\|The Slice]]                           | [[Phelleem sector\|Phelleem sector]]                             | [[Kashi system\|Kashi system]]                         | S-7  |
@@ -94,3 +95,5 @@
 | [[Navigational/Yavin 4\|Yavin 4]]             | [[Navigational/Outer Rim\|Outer Rim]]               | [[Gordian Reach\|Gordian Reach]]                                 | [[Yavin system\|Yavin system]]                         | P-6  |
 | [[Navigational/Zoist\|Zoist]]                 | [[Navigational/Outer Rim\|Outer Rim]]               | [[Esstran sector\|Esstran sector]]                               | [[Zoist system\|Zoist system]]                         | R-4  |
 | [[Navigational/Zoph\|Zoph]]                   | [[Navigational/Unknown Regions\|Unknown Regions]]   | \-                                                               | \-                                                     | F-4  |
+
+{ .block-language-dataview}
