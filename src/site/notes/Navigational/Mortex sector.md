@@ -11,3 +11,4 @@ The Mortex sector is located in the [[Navigational/Outer Rim\|Outer Rim]]. While
 - [[Navigational/Almania\|Almania]]
 - [[Navigational/Pydyr\|Pydyr]]
 
+{ .block-language-dataview}
