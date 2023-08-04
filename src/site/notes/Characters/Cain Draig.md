@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Carida\|Carida]]
+**Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
 **Birth**::  [[Directories/Timeline#20BBY\|20 BBY]]
 **Death**::  N/A
 **Status**:: Alive
