@@ -11,10 +11,14 @@ The Commenor Run is a trade route that runs from Brentaal to Commenor. Notably i
 ### Regions
 - [[Navigational/Core Worlds\|Core Worlds]]
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Alderaan\|Alderaan]]
 
+{ .block-language-dataview}
