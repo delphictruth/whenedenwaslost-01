@@ -6,7 +6,7 @@
 - *No other names on record*
 # Duros Space Run 
 
-The Duros Space Run is a hyperspace trade route that connected the [[Navigational/Corellian Run\|Corellian Run]] to the [[Navigational/Hydian Way\|Hydian Way]] while passing through major commercial planets in the [[Navigational/Mid Rim\|Mid Rim]].
+The Duros Space Run is a hyperspace trade route that connected the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]] to the [[Navigational/Hydian Way\|Hydian Way]] while passing through major commercial planets in the [[Navigational/Mid Rim\|Mid Rim]].
 
 ### Regions
 - [[Navigational/Mid Rim\|Mid Rim]]
