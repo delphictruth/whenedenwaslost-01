@@ -12,4 +12,4 @@ The Spice Triangle is a region in the [[Navigational/Outer Rim\|Outer Rim]] that
 
 * [[Navigational/Roon\|Roon]] to [[Navigational/Ryloth\|Ryloth]]: [[Cloak of the Sith\|Cloak of the Sith]]
 * [[Navigational/Ryloth\|Ryloth]] to [[Navigational/Tatooine\|Tatooine]]: [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]]
-* [[Navigational/Tatooine\|Tatooine]] to [[Navigational/Roon\|Roon]]: [[Navigational/Triellus Trade Route\|Triellus Trade Route]]
+* [[Navigational/Tatooine\|Tatooine]] to [[Navigational/Roon\|Roon]]: [[Navigational/Hyperlanes/Triellus Trade Route\|Triellus Trade Route]]
