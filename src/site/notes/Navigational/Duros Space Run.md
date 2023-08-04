@@ -11,10 +11,14 @@ The Duros Space Run is a hyperspace trade route that connected the [[Navigationa
 ### Regions
 - [[Navigational/Mid Rim\|Mid Rim]]
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Kalarba\|Kalarba]]
 
+{ .block-language-dataview}
