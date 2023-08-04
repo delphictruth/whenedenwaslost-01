@@ -29,3 +29,5 @@
 | [[Events/Padawan Massacre\|Padawan Massacre]]                                             | \-                                         | \-                                         | Event      |
 | [[Events/Siege of Mandalore\|Siege of Mandalore]]                                         | [[Navigational/Mandalore\|Mandalore]]   | [[Directories/Timeline#19 BBY\|19 BBY]] | Occupation |
 | [[Events/The Jedi Exile\|The Jedi Exile]]                                                 | \-                                         | \-                                         | Event      |
+
+{ .block-language-dataview}
