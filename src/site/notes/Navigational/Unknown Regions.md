@@ -9,8 +9,13 @@ tex
 
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 
+{ .block-language-dataview}
 ### Hyperlanes
+
+{ .block-language-dataview}
