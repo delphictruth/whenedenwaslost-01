@@ -14,3 +14,5 @@ Desc
 
 ### Planets
 - [[Navigational/Corellia\|Corellia]]
+
+{ .block-language-dataview}
