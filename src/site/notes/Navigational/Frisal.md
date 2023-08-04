@@ -7,8 +7,8 @@
 # Frisal
 Desc
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
-**Sector**::  [[Navigational/Atrisian Commonwealth\|Atrisian Commonwealth]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
+**Sector**::  [[Navigational/Sectors/Atrisian Commonwealth\|Atrisian Commonwealth]]
 **System**::  [[Navigational/Frisal system\|Frisal system]]
 **Grid**::  J-12
 
