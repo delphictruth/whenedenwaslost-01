@@ -5,7 +5,7 @@
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Pilgrim Moon*, *Cold Moon*, *Kyber Heart*
 # Jedha
-Jedha is a small desert moon that orbits the plant [[Navigational/NaJedha\|NaJedha]] in the [[Navigational/Terrabe sector\|Terrabe sector]] of the [[Navigational/Mid Rim\|Mid Rim]]. It is situated on the trade route [[Navigational/Burke's Trailing\|Burke's Trailing]].
+Jedha is a small desert moon that orbits the plant [[Navigational/NaJedha\|NaJedha]] in the [[Navigational/Terrabe sector\|Terrabe sector]] of the [[Navigational/Mid Rim\|Mid Rim]]. It is situated on the trade route [[Navigational/Hyperlanes/Burke's Trailing\|Burke's Trailing]].
 
 The moon has a cold climit due to its lasting winter, yet features deserts and magma seas. 
 
