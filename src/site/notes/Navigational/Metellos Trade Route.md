@@ -11,3 +11,5 @@ Desc
 
 **Planets**
 - [[Navigational/Coruscant\|Coruscant]]
+
+{ .block-language-dataview}
