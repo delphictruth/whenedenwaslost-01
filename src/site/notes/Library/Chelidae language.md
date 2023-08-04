@@ -6,6 +6,6 @@
 - *No other names on record*
 # Chelidae language
 
-Chelidae is the native language of the [[Species & Cultures/Chelidae species\|Chelidae species]] on [[Navigational/Castilon\|Castilon]]. 
+Chelidae is the native language of the [[Species & Cultures/Chelidae species\|Chelidae species]] on [[Navigational/Planets/Castilon\|Castilon]]. 
 
 
