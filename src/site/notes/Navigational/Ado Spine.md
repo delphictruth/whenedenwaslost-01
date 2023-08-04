@@ -11,9 +11,13 @@ tex
 
 ### Regions
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 
+{ .block-language-dataview}
