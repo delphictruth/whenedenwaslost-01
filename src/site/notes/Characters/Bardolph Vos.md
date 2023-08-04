@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Anaxes\|Anaxes]]
+**Homeworld**::  [[Navigational/Planets/Anaxes\|Anaxes]]
 **Birth**::  [[Directories/Timeline#7 ABY\|7 ABY]]
 **Death**:: N/A
 **Status**::  Alive
