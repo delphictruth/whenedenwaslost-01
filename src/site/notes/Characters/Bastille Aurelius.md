@@ -10,7 +10,7 @@
 Bastille carries the legacies of far too many, always destined to either excel in the Light or fall deep into the Dark. He is credited with the destruction of the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s disappearance, seemingly having made his choice and chosen the Dark as *Ani Ren*. 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Axum\|Axum]]
+**Homeworld**::  [[Navigational/Planets/Axum\|Axum]]
 **Birth**::  [[Directories/Timeline#8 ABY\|8 ABY]]
 **Death**::  N/A
 **Status**:: Alive
