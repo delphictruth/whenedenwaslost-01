@@ -8,7 +8,7 @@
 
 Desc
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
 **Sector**::  [[Farlax sector\|Farlax sector]]
 **System**::  [[Doornik-628 system\|Doornik-628 system]]
 **Grid**::  K-10
