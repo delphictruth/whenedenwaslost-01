@@ -15,3 +15,5 @@ The Tyrius system is a small, five-planet system within the [[Navigational/Savar
 ### Planets
 - [[Navigational/Pirdia\|Pirdia]]
 - [[Navigational/Rodia\|Rodia]]
+
+{ .block-language-dataview}
