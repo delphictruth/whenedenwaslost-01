@@ -40,7 +40,7 @@
 
 ### Forms
 
-Specializes in [[Characters/Lacrimosa Makara\|]] 
+Specializes in [[]] 
 
 ### Force Beliefs & Usage
 
