@@ -44,7 +44,7 @@
 
 ### Forms
 
-Specializes in [[Characters/Charlotte Rose\|]] 
+Specializes in [[]] 
 
 ### Force Beliefs & Usage
 
