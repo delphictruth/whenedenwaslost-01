@@ -6,7 +6,7 @@
 - Also known as *Western Regions*
 # Western Reaches
 
-The Western Reaches denotes a region of the galaxy that is large and consists of relatively remote systems. It is beyond the [[Navigational/Rimma Trade Route\|Rimma Trade Route]], expanding steadily over time with the growth of the [[Navigational/Corellian Trade Spine\|Corellian Trade Spine]] and the [[Navigational/Hydian Way\|Hydian Way]] and subsequent overflow from the Southern Core and Trailing Sectors. It is somewhat removed from the politics of the Core Worlds given its distance from [[Navigational/Coruscant\|Coruscant]]. 
+The Western Reaches denotes a region of the galaxy that is large and consists of relatively remote systems. It is beyond the [[Navigational/Rimma Trade Route\|Rimma Trade Route]], expanding steadily over time with the growth of the [[Navigational/Hyperlanes/Corellian Trade Spine\|Corellian Trade Spine]] and the [[Navigational/Hydian Way\|Hydian Way]] and subsequent overflow from the Southern Core and Trailing Sectors. It is somewhat removed from the politics of the Core Worlds given its distance from [[Navigational/Planets/Coruscant\|Coruscant]]. 
 
 The Western Reaches is also considered a sort of collective of regions, with several of the major regions falling within its territories.
 
@@ -31,7 +31,7 @@ The Western Reaches is also considered a sort of collective of regions, with sev
 
 { .block-language-dataview}
 ### Hyperlanes
-- [[Navigational/Corellian Trade Spine\|Corellian Trade Spine]]
+- [[Navigational/Hyperlanes/Corellian Trade Spine\|Corellian Trade Spine]]
 - [[Navigational/Hydian Way\|Hydian Way]]
 
 { .block-language-dataview}
