@@ -14,3 +14,5 @@ Desc
 
 **Planets**
 - [[Navigational/Tatooine\|Tatooine]]
+
+{ .block-language-dataview}
