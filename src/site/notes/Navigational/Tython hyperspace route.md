@@ -10,10 +10,14 @@ Now lost to time, the Tython hyperspace route connected planets in the [[Tython 
 
 ### Regions
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Tython\|Tython]]
 
+{ .block-language-dataview}
