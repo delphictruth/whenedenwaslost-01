@@ -14,11 +14,15 @@ A [[Navigational/Core Worlds\|Core Worlds]] sector known primarily for its inter
 - [[Navigational/Alsaka system\|Alsaka system]]
 - [[Navigational/Axum system\|Axum system]]
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Alsakan\|Alsakan]]
 - [[Navigational/Anaxes\|Anaxes]]
 - [[Navigational/Axum\|Axum]]
 - [[Navigational/Opatajji\|Opatajji]]
 
+{ .block-language-dataview}
 ### Hyperlanes
 - [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]]
+
+{ .block-language-dataview}
