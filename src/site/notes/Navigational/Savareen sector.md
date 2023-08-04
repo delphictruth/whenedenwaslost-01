@@ -15,8 +15,11 @@ The Savareen sector is located in the [[Navigational/Outer Rim\|Outer Rim]] terr
 - [[Navigational/Savareen system\|Savareen system]]
 - [[Navigational/Tyrius system\|Tyrius system]]
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Christophsis\|Christophsis]]
 - [[Navigational/Erodsis\|Erodsis]]
 - [[Navigational/Pirdia\|Pirdia]]
 - [[Navigational/Rodia\|Rodia]]
+
+{ .block-language-dataview}
