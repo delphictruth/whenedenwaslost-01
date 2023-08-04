@@ -13,3 +13,5 @@ Desc
 - [[Navigational/Outer Rim\|Outer Rim]]
 - [[Navigational/Savareen sector\|Savareen sector]]
 - [[Navigational/Tatooine\|Tatooine]]
+
+{ .block-language-dataview}
