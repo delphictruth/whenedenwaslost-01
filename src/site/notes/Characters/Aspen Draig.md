@@ -7,10 +7,10 @@
 # Aspen Draig
 >Commander of the Caridian Navy
 
-Aspen Draig was a Commander in [[Navigational/Carida\|Carida]]'s Navy and briefly involved in her sister-in-law [[Characters/Fecility Beauregard\|Fecility Beauregard]]'s campaign to aid the [[Organizations/Rebellion\|Rebel Alliance]]. She was killed in action. 
+Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy and briefly involved in her sister-in-law [[Characters/Fecility Beauregard\|Fecility Beauregard]]'s campaign to aid the [[Organizations/Rebellion\|Rebel Alliance]]. She was killed in action. 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Carida\|Carida]]
+**Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
 **Birth**::  [[Directories/Timeline#9ABY\|9 ABY]]
 **Death**::  [[Directories/Timeline#18 BBY\|18 BBY]]
 **Status**::  Deceased
