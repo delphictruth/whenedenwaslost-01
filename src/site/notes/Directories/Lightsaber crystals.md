@@ -8,26 +8,27 @@
 
 Summary
 
-| Crystal                                                     | Locations | Colors      | Attunement |
-| ----------------------------------------------------------- | --------- | ----------- | ---------- |
-| [[Crystals/Adegan\|Adegan]]                              | \-        | Blue, green | Unattuned  |
-| [[Crystals/Allya's Exile\|Allya's Exile]]                | Unknown   | Red         | Unattuned  |
-| [[Crystals/Ankarres Sapphire\|Ankarres Sapphire]]        | Unknown   | Dark blue   | Unattuned  |
-| [[Crystals/Attuned crystal\|Attuned crystal]]            | \-        | \-          | \-         |
-| [[Crystals/Blackwing\|Blackwing]]                        | \-        | \-          | \-         |
-| [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]]      | \-        | \-          | \-         |
-| [[Crystals/Darksaber\|Darksaber]]                        | \-        | \-          | \-         |
-| [[Crystals/Dragite\|Dragite]]                            | \-        | \-          | \-         |
-| [[Crystals/Durindfire\|Durindfire]]                      | \-        | \-          | \-         |
-| [[Crystals/Ghostfire\|Ghostfire]]                        | \-        | \-          | \-         |
-| [[Crystals/Kaiburr\|Kaiburr]]                            | \-        | \-          | \-         |
-| [[Crystals/Krayt dragon pearl\|Krayt dragon pearl]]      | \-        | \-          | \-         |
-| [[Directories/Lightsaber crystals\|Lightsaber crystals]] | \-        | \-          | \-         |
-| [[Crystals/Permafrost\|Permafrost]]                      | \-        | \-          | \-         |
-| [[Crystals/Qixoni\|Qixoni]]                              | \-        | \-          | \-         |
-| [[Crystals/Solari\|Solari]]                              | \-        | \-          | \-         |
-| [[Crystals/Windu's Guile\|Windu's Guile]]                | \-        | \-          | \-         |
-| [[Crystals/Zophis\|Zophis]]                              | \-        | \-          | \-         |
+| Crystal                                                     | Locations                      | Colors      | Attunement |
+| ----------------------------------------------------------- | ------------------------------ | ----------- | ---------- |
+| [[Crystals/Adegan\|Adegan]]                              | \-                             | Blue, green | Unattuned  |
+| [[Crystals/Allya's Exile\|Allya's Exile]]                | Unknown                        | Red         | Unattuned  |
+| [[Crystals/Ankarres Sapphire\|Ankarres Sapphire]]        | Unknown                        | Dark blue   | Unattuned  |
+| [[Crystals/Attuned crystal\|Attuned crystal]]            | \-                             | \-          | \-         |
+| [[Crystals/Blackwing\|Blackwing]]                        | \-                             | \-          | \-         |
+| [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]]      | \-                             | \-          | \-         |
+| [[Crystals/Darksaber\|Darksaber]]                        | \-                             | \-          | \-         |
+| [[Crystals/Dragite\|Dragite]]                            | \-                             | \-          | \-         |
+| [[Crystals/Durindfire\|Durindfire]]                      | \-                             | \-          | \-         |
+| [[Crystals/Ghostfire\|Ghostfire]]                        | \-                             | \-          | \-         |
+| [[Crystals/Kaiburr\|Kaiburr]]                            | \-                             | \-          | \-         |
+| [[Crystals/Krayt dragon pearl\|Krayt dragon pearl]]      | \-                             | \-          | \-         |
+| [[Directories/Lightsaber crystals\|Lightsaber crystals]] | \-                             | \-          | \-         |
+| [[Crystals/Permafrost\|Permafrost]]                      | \-                             | \-          | \-         |
+| [[Crystals/Qixoni\|Qixoni]]                              | \-                             | \-          | \-         |
+| [[Crystals/Roonstones\|Roonstones]]                      | [[Navigational/Roon\|Roon]] | White       | Unattuned  |
+| [[Crystals/Solari\|Solari]]                              | \-                             | \-          | \-         |
+| [[Crystals/Windu's Guile\|Windu's Guile]]                | \-                             | \-          | \-         |
+| [[Crystals/Zophis\|Zophis]]                              | \-                             | \-          | \-         |
 
 { .block-language-dataview}
 
@@ -53,6 +54,7 @@ Summary
 - [[Crystals/Ghostfire\|Ghostfire]]
 - [[Crystals/Kaiburr\|Kaiburr]]
 - [[Crystals/Krayt dragon pearl\|Krayt dragon pearl]]
+- [[Crystals/Roonstones\|Roonstones]]
 - [[Crystals/Solari\|Solari]]
 - [[Crystals/Windu's Guile\|Windu's Guile]]
 - [[Crystals/Zophis\|Zophis]]
