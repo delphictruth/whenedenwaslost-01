@@ -38,7 +38,7 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Erodsis\|Erodsis]]
 - [[Navigational/Hoth\|Hoth]]
 - [[Navigational/Ikkrukk\|Ikkrukk]]
-- [[Navigational/Janx II\|Janx II]]
+- [[Navigational/Planets/Janx II\|Janx II]]
 - [[Navigational/Kashi\|Kashi]]
 - [[Navigational/Kessel\|Kessel]]
 - [[Navigational/Lothal\|Lothal]]
@@ -65,6 +65,6 @@ The Outer Rim is located outside of the [[Navigational/Mid Rim\|Mid Rim]] and th
 - [[Navigational/Mumble's Turnaround\|Mumble's Turnaround]]
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
 - [[Navigational/Spice Triangle\|Spice Triangle]]
-- [[Navigational/Triellus Trade Route\|Triellus Trade Route]]
+- [[Navigational/Hyperlanes/Triellus Trade Route\|Triellus Trade Route]]
 
 { .block-language-dataview}
