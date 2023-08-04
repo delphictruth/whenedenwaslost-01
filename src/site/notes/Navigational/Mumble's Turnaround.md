@@ -13,6 +13,7 @@ Desc
 **Grid**::
 
 **Planets**
+- [[Navigational/Roon\|Roon]]
 - [[Navigational/Tatooine\|Tatooine]]
 
 { .block-language-dataview}
