@@ -10,7 +10,7 @@
 Raegal Aurelius, born Alban Draig, was abducted by the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] as a toddler due to his strong Force signature and raised to fulfill the cult's ambitions. They referred to him as the *Savior* because they relied on him to revive the [[Force Traditions & Sects/Jen'jidai Cult\|Jenjidai]] and raise them back into prominence. For the most part, he did, extending the cult's influence in the galaxy for several years. Nevertheless, it is rumored that he was Turned back to the Light by [[Characters/Cecily Beaumont\|Cecily Beaumont]] before his death. 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Carida\|Carida]]
+**Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
 **Birth**::  [[Directories/Timeline#19 BBY\|19 BBY]]
 **Death**::  [[Directories/Timeline#9 ABY\|9 ABY]]
 **Status**::  Deceased
