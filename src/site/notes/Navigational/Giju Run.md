@@ -8,8 +8,8 @@
 Desc
 
 **Planets**
-- [[Navigational/Atrisi system\|Atrisi system]]
-- [[Navigational/Atrisia\|Atrisia]]
-- [[Navigational/Atrisian Commonwealth\|Atrisian Commonwealth]]
+- [[Navigational/Systems/Atrisi system\|Atrisi system]]
+- [[Navigational/Planets/Atrisia\|Atrisia]]
+- [[Navigational/Sectors/Atrisian Commonwealth\|Atrisian Commonwealth]]
 
 { .block-language-dataview}
