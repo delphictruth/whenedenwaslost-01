@@ -9,14 +9,18 @@ tex
 
 ### Regions
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 - [[Navigational/Christoph system\|Christoph system]]
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Christophsis\|Christophsis]]
 - [[Navigational/Corellia\|Corellia]]
 - [[Navigational/Coruscant\|Coruscant]]
 - [[Navigational/Savareen\|Savareen]]
 
+{ .block-language-dataview}
