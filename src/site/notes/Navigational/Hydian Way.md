@@ -20,6 +20,6 @@ The Hydian Way is a super-hyperroute that begins at the far edge of the galaxy a
 
 { .block-language-dataview}
 ### Planets
-- [[Navigational/Janx II\|Janx II]]
+- [[Navigational/Planets/Janx II\|Janx II]]
 
 { .block-language-dataview}
