@@ -11,11 +11,15 @@ The Kessel Run is a 20-parsec route used by smugglers to move [[Fauna & Flora/Gl
 ### Regions
 - [[Navigational/Outer Rim\|Outer Rim]]
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Kessel\|Kessel]]
 - [[Navigational/Savareen\|Savareen]]
 
+{ .block-language-dataview}
