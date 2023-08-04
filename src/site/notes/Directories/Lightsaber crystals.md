@@ -29,6 +29,7 @@ Summary
 | [[Crystals/Windu's Guile\|Windu's Guile]]                | \-        | \-          | \-         |
 | [[Crystals/Zophis\|Zophis]]                              | \-        | \-          | \-         |
 
+{ .block-language-dataview}
 
 **Attuned crystals**
 - [[Crystals/Blackwing\|Blackwing]]
@@ -41,6 +42,7 @@ Summary
 - [[Crystals/Qixoni\|Qixoni]]
 - [[Crystals/Solari\|Solari]]
 
+{ .block-language-dataview}
 **Unattuned crystals**
 - [[Crystals/Adegan\|Adegan]]
 - [[Crystals/Allya's Exile\|Allya's Exile]]
@@ -55,3 +57,4 @@ Summary
 - [[Crystals/Windu's Guile\|Windu's Guile]]
 - [[Crystals/Zophis\|Zophis]]
 
+{ .block-language-dataview}
