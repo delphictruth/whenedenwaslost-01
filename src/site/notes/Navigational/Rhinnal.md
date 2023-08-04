@@ -6,7 +6,7 @@
 - Also known as 
 # Rhinnal
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
 **Sector**::  [[Darpa sector\|Darpa sector]]
 **System**::  [[Rhinnal system\|Rhinnal system]]
 **Grid**::  L-9
