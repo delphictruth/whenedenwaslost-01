@@ -20,7 +20,7 @@ The Triellus Trade Route is the most prominent hyperspace route in the [[Navigat
 - [[Roon system\|Roon system]]
 
 { .block-language-dataview}
-**Planets**
+### Planets
 - [[Navigational/Roon\|Roon]]
 - [[Navigational/Tatooine\|Tatooine]]
 
