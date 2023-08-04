@@ -12,5 +12,5 @@ The academy that was created on [[Navigational/Lettow\|Lettow]] was a unique one
 
 Notably, the Legionnaires are credited with developing [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]] from the ancient [[Forms & Martial Arts/Jar'Kai\|Jar'Kai]] dueling techniques, naming the Form after the triumvirate of Kashi gods. 
 
-The Legionnaires enterd into open war with the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] in apprxomimately 24,500 BBY, though it is unclear if the Legionnaires attacked first or if the Jedi declared war on the Dark Legions. Their leader, General Xendor, was defeated in a battle on [[Navigational/Columus\|Columus]] and still has his final resting place there. 
+The Legionnaires enterd into open war with the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] in apprxomimately 24,500 BBY, though it is unclear if the Legionnaires attacked first or if the Jedi declared war on the Dark Legions. Their leader, General Xendor, was defeated in a battle on [[Navigational/Planets/Columus\|Columus]] and still has his final resting place there. 
 
