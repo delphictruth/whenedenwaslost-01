@@ -7,8 +7,8 @@
 # Frisal system
 Desc
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
-**Sector**::  [[Navigational/Atrisian Commonwealth\|Atrisian Commonwealth]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
+**Sector**::  [[Navigational/Sectors/Atrisian Commonwealth\|Atrisian Commonwealth]]
 **Grid**::  J-12
 
 **Planets**
