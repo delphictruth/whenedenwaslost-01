@@ -9,3 +9,5 @@ The Trilon Sector sits on the frontier border of the [[Navigational/Wild Space\|
  
 **Planets**
 - [[Navigational/Batuu\|Batuu]]
+
+{ .block-language-dataview}
