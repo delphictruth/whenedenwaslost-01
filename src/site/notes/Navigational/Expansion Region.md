@@ -10,10 +10,15 @@
 ### Sectors
 - [[Navigational/Majoor sector\|Majoor sector]]
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/M'haeli\|M'haeli]]
 
+{ .block-language-dataview}
 ### Hyperlanes
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
+
+{ .block-language-dataview}
