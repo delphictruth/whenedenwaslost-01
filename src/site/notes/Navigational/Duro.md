@@ -7,7 +7,7 @@
 # Duro
 Desc
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
 **Sector**::  [[Duro sector\|Duro sector]]
 **System**::  [[Duro system\|Duro system]]
 **Grid**::  M-11
