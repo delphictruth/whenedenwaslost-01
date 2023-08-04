@@ -40,7 +40,7 @@
 
 ### Forms
 
-Specializes in [[Characters/Isa Phant\|]] 
+Specializes in [[]] 
 
 ### Force Beliefs & Usage
 
