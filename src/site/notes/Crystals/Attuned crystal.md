@@ -18,3 +18,4 @@ A type of [[Directories/Lightsaber crystals\|lightsaber crystal]] that, upon bei
 - [[Crystals/Qixoni\|Qixoni]]
 - [[Crystals/Solari\|Solari]]
 
+{ .block-language-dataview}
