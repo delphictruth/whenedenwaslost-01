@@ -13,6 +13,6 @@ Desc
 **Grid**::
 
 ### Planets
-- [[Navigational/Coruscant\|Coruscant]]
+- [[Navigational/Planets/Coruscant\|Coruscant]]
 
 { .block-language-dataview}
