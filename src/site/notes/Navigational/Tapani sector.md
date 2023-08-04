@@ -15,3 +15,5 @@ Desc
 **Planets**
 - [[Navigational/Fondor\|Fondor]]
 - [[Navigational/Nallastia\|Nallastia]]
+
+{ .block-language-dataview}
