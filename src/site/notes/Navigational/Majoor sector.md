@@ -14,3 +14,5 @@ Desc
 
 **Planets**
 - [[Navigational/M'haeli\|M'haeli]]
+
+{ .block-language-dataview}
