@@ -10,10 +10,12 @@
 **Sectors**
 - [[Navigational/Azure sector\|Azure sector]]
 
+{ .block-language-dataview}
 **Systems**
 - [[Navigational/Alsaka system\|Alsaka system]]
 - [[Navigational/Axum system\|Axum system]]
 
+{ .block-language-dataview}
 **Planets**
 - [[Navigational/Alderaan\|Alderaan]]
 - [[Navigational/Alsakan\|Alsakan]]
@@ -33,6 +35,9 @@
 - [[Navigational/Rhinnal\|Rhinnal]]
 - [[Navigational/Y'ness\|Y'ness]]
 
+{ .block-language-dataview}
 **Hyperlanes**
 - [[Navigational/Commenor Run\|Commenor Run]]
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
+
+{ .block-language-dataview}
