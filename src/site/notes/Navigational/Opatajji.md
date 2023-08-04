@@ -7,9 +7,9 @@
 # Opatajji
 Desc
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
-**Sector**::  [[Navigational/Azure sector\|Azure sector]]
-**System**::  [[Navigational/Alsaka system\|Alsaka system]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
+**Sector**::  [[Navigational/Sectors/Azure sector\|Azure sector]]
+**System**::  [[Navigational/Systems/Alsaka system\|Alsaka system]]
 **Grid**::  L-9
 
 **Capital**
