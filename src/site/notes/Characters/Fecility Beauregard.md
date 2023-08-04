@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Carida\|Carida]]
+**Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
 **Birth**::  
 **Death**::  [[Directories/Timeline#3 BBY\|3 BBY]]
 **Status**::  Deceased
