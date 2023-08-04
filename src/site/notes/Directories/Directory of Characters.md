@@ -48,13 +48,13 @@
 | [[Characters/Hazel Caelum\|Hazel Caelum]]                     | [[Organizations/Resistance\|Resistance]]                              | Jedi Knight       | [[Navigational/Nallastia\|Nallastia]] | Alive    |
 | [[Characters/Holland Lillivere\|Holland Lillivere]]           | [[Organizations/New Republic\|New Republic]]                          | Force-sensitive   | [[Navigational/Naboo\|Naboo]]         | Alive    |
 | [[Characters/Imperia Sibyl\|Imperia Sibyl]]                   | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Seidhkona\|Seidhkona]] | Alive    |
-| [[Characters/Isa Phant\|Isa Phant]]                           | [[Organizations/New Jedi Order.md\|New Jedi Order]]                      | Jedi Padawan      | \-                                       | Deceased |
+| [[Characters/Isa Phant\|Isa Phant]]                           | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
 | [[Characters/Janelle\|Janelle]]                               | [[Organizations/New Republic\|New Republic]]                          | Low sensitivity   | [[Navigational/Atrisia\|Atrisia]]     | Alive    |
 | [[Characters/Juliette Rose Makara\|Juliette Rose Makara]]     | [[Organizations/Resistance\|Resistance]]                              | No sensitivity    | \-                                       | Alive    |
 | [[Characters/Kieran Crevan\|Kieran Crevan]]                   | [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] | Sith Apprentice   | \-                                       | Deceased |
 | [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]             | [[Organizations/Humanitarian\|Humanitarian]]                          | Force-sensitive   | [[Navigational/Kuat\|Kuat]]           | Alive    |
-| [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]             | [[Organizations/New Jedi Order.md\|New Jedi Order]]                      | Jedi Padawan      | \-                                       | Deceased |
-| [[Characters/Lord ??\|Lord ??]]                               | [[Organizations/Jen'jidai Cult.md\|Jen'jidai Cult]]                      | Sith Lord         | \-                                       | Deceased |
+| [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]             | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
+| [[Characters/Lord ??\|Lord ??]]                               | [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]           | Sith Lord         | \-                                       | Deceased |
 | [[Characters/Maerex\|Maerex]]                                 | \-                                                                       | No sensitivity    | \-                                       | Alive    |
 | [[Characters/Maggie Amell\|Maggie Amell]]                     | [[Organizations/Resistance\|Resistance]]                              | Force-sensitive   | \-                                       | Alive    |
 | [[Characters/Malkyn Rodarch\|Malkyn Rodarch]]                 | [[Organizations/Resistance\|Resistance]]                              | No sensitivity    | [[Navigational/Mandalore\|Mandalore]] | Alive    |
@@ -65,7 +65,7 @@
 | [[Characters/Norman Draig\|Norman Draig]]                     | [[Navigational/Carida\|Carida]] Navy                                                          | No sensitivity    | [[Navigational/Carida\|Carida]]       | Deceased |
 | [[Characters/Octavia Bonteri\|Octavia Bonteri]]               | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                       | Deceased |
 | [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]           | Independent                                                              | Force-user        | \-                                       | Deceased |
-| [[Characters/Pollutis Kun\|Pollutis Kun]]                     | [[Organizations/Banite Sith.md\|Banite Sith]]                            | Sith Apprentice   | \-                                       | Deceased |
+| [[Characters/Pollutis Kun\|Pollutis Kun]]                     | [[Force Traditions & Sects/Banite Sith\|Banite Sith]]                 | Sith Apprentice   | \-                                       | Deceased |
 | [[Characters/Quenelle Caelum\|Quenelle Caelum]]               | Independent                                                              | No sensitivity    | [[Navigational/Nallastia\|Nallastia]] | Alive    |
 | [[Characters/Raegal Aurelius\|Raegal Aurelius]]               | [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]]           | Sith Lord         | [[Navigational/Carida\|Carida]]       | Deceased |
 | [[Characters/Rathos Visio\|Rathos Visio]]                     | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Master       | \-                                       | Deceased |
@@ -82,5 +82,6 @@
 | [[Characters/Victoria Octan\|Victoria Octan]]                 | [[Force Traditions & Sects/Jedi Order\|Jedi Order]]                   | Jedi Padawan      | [[Navigational/Nallastia\|Nallastia]] | Deceased |
 | [[Characters/Zaniel Bellatys\|Zaniel Bellatys]]               | \-                                                                       | Force Adept       | \-                                       | Deceased |
 
+{ .block-language-dataview}
 
 
