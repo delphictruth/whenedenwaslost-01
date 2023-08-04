@@ -7,7 +7,7 @@
 # Tatooine
 Desc
 
-located on the [[Navigational/Triellus Trade Route\|Triellus Trade Route]] and [[Navigational/Mumble's Turnaround\|Mumble's Turnaround]]
+located on the [[Navigational/Hyperlanes/Triellus Trade Route\|Triellus Trade Route]] and [[Navigational/Mumble's Turnaround\|Mumble's Turnaround]]
 
 **Region**::  [[Navigational/Outer Rim\|Outer Rim]]
 **Sector**::  [[Navigational/Sectors/Arkanis sector\|Arkanis sector]]
