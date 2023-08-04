@@ -13,10 +13,14 @@ The Rimma Trade Route is a major trade route that crosses a large portion of the
 - [[Navigational/Mid Rim\|Mid Rim]]
 - [[Navigational/Outer Rim\|Outer Rim]]
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Medth\|Medth]]
 
+{ .block-language-dataview}
