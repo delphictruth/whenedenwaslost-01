@@ -6,7 +6,7 @@
 - Also known as *Archais*
 
 # Kingdom of Archais
-Ruling authority of [[Navigational/Alsakan\|Alsakan]]
+Ruling authority of [[Navigational/Planets/Alsakan\|Alsakan]]
 
 
 
