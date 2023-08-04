@@ -10,7 +10,11 @@ Pacanth Reach refers to a star cluster in the [[Navigational/Outer Rim\|Outer Ri
 
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Bunduki\|Bunduki]]
 
+{ .block-language-dataview}
 ### Hyperlanes
+
+{ .block-language-dataview}
