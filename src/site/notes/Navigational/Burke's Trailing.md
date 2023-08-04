@@ -13,3 +13,5 @@ Desc
 - [[Navigational/Jedha\|Jedha]]
 - [[Navigational/NaJedha\|NaJedha]]
 - [[Navigational/Terrabe sector\|Terrabe sector]]
+
+{ .block-language-dataview}
