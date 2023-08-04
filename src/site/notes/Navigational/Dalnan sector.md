@@ -12,3 +12,5 @@ The Dalnan sector is located in the [[Navigational/Outer Rim\|Outer Rim]].
 **Planets**
 - [[Navigational/E'ronoh\|E'ronoh]]
 - [[Navigational/Eiram\|Eiram]]
+
+{ .block-language-dataview}
