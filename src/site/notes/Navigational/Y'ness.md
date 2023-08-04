@@ -7,7 +7,7 @@
 # Y'ness
 Desc
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
 **Sector**::  [[Koornacht sector\|Koornacht sector]]
 **System**::  [[N'zoth system\|N'zoth system]]
 **Grid**::  K-10
