@@ -10,10 +10,14 @@ The Kessel Trade Cooridor is a hyperlane between [[Navigational/Kessel\|Kessel]]
 
 ### Regions
 
+{ .block-language-dataview}
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Kessel\|Kessel]]
 
+{ .block-language-dataview}
