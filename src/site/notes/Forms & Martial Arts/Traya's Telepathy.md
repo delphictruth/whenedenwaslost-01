@@ -15,4 +15,5 @@ While it has only been seen or recorded with three lightsabers, it is not necess
 - [[Characters/Darth Traya\|Darth Traya]]
 - [[Characters/Imperia Sibyl\|Imperia Sibyl]]
 
+{ .block-language-dataview}
 
