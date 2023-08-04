@@ -10,8 +10,10 @@ The Inner Rim is a region between the Colonies and the Expansion Region.
 
 ### Sectors
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Donadus\|Donadus]]
 - [[Navigational/Jakku\|Jakku]]
@@ -21,5 +23,8 @@ The Inner Rim is a region between the Colonies and the Expansion Region.
 - [[Navigational/Tasariq\|Tasariq]]
 - [[Navigational/Walalla\|Walalla]]
 
+{ .block-language-dataview}
 ### Hyperlanes
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
+
+{ .block-language-dataview}
