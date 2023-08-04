@@ -7,7 +7,7 @@
 # Medth
 Desc
 
-located along the [[Navigational/Ado Spine\|Ado Spine]] and the [[Navigational/Rimma Trade Route\|Rimma Trade Route]].
+located along the [[Navigational/Hyperlanes/Ado Spine\|Ado Spine]] and the [[Navigational/Rimma Trade Route\|Rimma Trade Route]].
 
 **Region**::  [[Navigational/Mid Rim\|Mid Rim]]
 **Sector**::  [[Ado sector\|Ado sector]]
