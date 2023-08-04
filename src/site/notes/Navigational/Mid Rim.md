@@ -16,8 +16,8 @@ The Mid Rim is located between the Expansion Region and the [[Navigational/Outer
 
 { .block-language-dataview}
 ### Planets
-- [[Navigational/Ando Prime\|Ando Prime]]
-- [[Navigational/Castilon\|Castilon]]
+- [[Navigational/Planets/Ando Prime\|Ando Prime]]
+- [[Navigational/Planets/Castilon\|Castilon]]
 - [[Navigational/Jedha\|Jedha]]
 - [[Navigational/Kalarba\|Kalarba]]
 - [[Navigational/Medth\|Medth]]
@@ -27,7 +27,7 @@ The Mid Rim is located between the Expansion Region and the [[Navigational/Outer
 
 { .block-language-dataview}
 ### Hyperlanes
-- [[Navigational/Ado Spine\|Ado Spine]]
+- [[Navigational/Hyperlanes/Ado Spine\|Ado Spine]]
 - [[Navigational/Duros Space Run\|Duros Space Run]]
 - [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
 
