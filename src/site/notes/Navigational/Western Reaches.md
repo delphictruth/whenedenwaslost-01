@@ -16,16 +16,22 @@ The Western Reaches is also considered a sort of collective of regions, with sev
 - [[Navigational/Mid Rim\|Mid Rim]]
 - [[Navigational/Outer Rim\|Outer Rim]]
 
+{ .block-language-dataview}
 ### Sectors
 - [[Navigational/Tashtor sector\|Tashtor sector]]
 
+{ .block-language-dataview}
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Hoth\|Hoth]]
 - [[Navigational/Jakku\|Jakku]]
 - [[Navigational/Takodana\|Takodana]]
 
+{ .block-language-dataview}
 ### Hyperlanes
 - [[Navigational/Corellian Trade Spine\|Corellian Trade Spine]]
 - [[Navigational/Hydian Way\|Hydian Way]]
+
+{ .block-language-dataview}
