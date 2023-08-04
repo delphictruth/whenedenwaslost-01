@@ -7,7 +7,7 @@
 Desc
 
 **Region**::  [[Navigational/Outer Rim\|Outer Rim]]
-**Sector**::  [[Navigational/Dalnan sector\|Dalnan sector]]
+**Sector**::  [[Navigational/Sectors/Dalnan sector\|Dalnan sector]]
 **System**::  [[Eiram system\|Eiram system]]
 **Grid**::  I-19
 
