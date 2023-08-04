@@ -11,5 +11,8 @@ Desc
 
 ### Systems
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Kessel\|Kessel]]
+
+{ .block-language-dataview}
