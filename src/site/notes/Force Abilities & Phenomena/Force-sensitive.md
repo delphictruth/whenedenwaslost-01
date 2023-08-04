@@ -62,3 +62,5 @@ While Force-sensitive is a general term for any who can sense the Force, the ter
 - [[Characters/Titanium Octan Makensi\|Titanium Octan Makensi]]
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]]
 - [[Characters/Zaniel Bellatys\|Zaniel Bellatys]]
+
+{ .block-language-dataview}
