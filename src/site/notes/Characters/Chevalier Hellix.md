@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Chandrila\|Chandrila]]
+**Homeworld**::  [[Navigational/Planets/Chandrila\|Chandrila]]
 **Birth**::  [[Directories/Timeline#7 ABY\|7 ABY]]
 **Death**::  N/A
 
