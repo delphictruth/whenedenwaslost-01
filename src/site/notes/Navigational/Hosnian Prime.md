@@ -6,7 +6,7 @@
 - Also known as
 # Hosnian Prime
 
-**Region**::  [[Navigational/Core Worlds\|Core Worlds]]
+**Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
 **Sector**::  
 **System**::  [[Hosnian system\|Hosnian system]]
 **Grid**::  M-12
