@@ -10,12 +10,15 @@ tex
 ### Regions
 - [[Navigational/Core Worlds\|Core Worlds]]
 
+{ .block-language-dataview}
 ### Sectors
 - [[Navigational/Azure sector\|Azure sector]]
 
+{ .block-language-dataview}
 ### Systems
 - [[Navigational/Axum system\|Axum system]]
 
+{ .block-language-dataview}
 ### Planets
 - [[Navigational/Alsakan\|Alsakan]]
 - [[Navigational/Anaxes\|Anaxes]]
@@ -24,3 +27,4 @@ tex
 - [[Navigational/Coruscant\|Coruscant]]
 - [[Navigational/Rhinnal\|Rhinnal]]
 
+{ .block-language-dataview}
