@@ -8,23 +8,23 @@
 tex
 
 ### Regions
-- [[Navigational/Core Worlds\|Core Worlds]]
+- [[Navigational/Regions/Core Worlds\|Core Worlds]]
 
 { .block-language-dataview}
 ### Sectors
-- [[Navigational/Azure sector\|Azure sector]]
+- [[Navigational/Sectors/Azure sector\|Azure sector]]
 
 { .block-language-dataview}
 ### Systems
-- [[Navigational/Axum system\|Axum system]]
+- [[Navigational/Systems/Axum system\|Axum system]]
 
 { .block-language-dataview}
 ### Planets
-- [[Navigational/Alsakan\|Alsakan]]
-- [[Navigational/Anaxes\|Anaxes]]
-- [[Navigational/Axum\|Axum]]
-- [[Navigational/Chandrila\|Chandrila]]
-- [[Navigational/Coruscant\|Coruscant]]
+- [[Navigational/Planets/Alsakan\|Alsakan]]
+- [[Navigational/Planets/Anaxes\|Anaxes]]
+- [[Navigational/Planets/Axum\|Axum]]
+- [[Navigational/Planets/Chandrila\|Chandrila]]
+- [[Navigational/Planets/Coruscant\|Coruscant]]
 - [[Navigational/Rhinnal\|Rhinnal]]
 
 { .block-language-dataview}
