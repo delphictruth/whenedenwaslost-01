@@ -8,6 +8,6 @@
 The Trilon Sector sits on the frontier border of the [[Navigational/Wild Space\|Wild Space]] and [[Navigational/Unknown Regions\|Unknown Regions]]. It is known for its spice trade.
  
 **Planets**
-- [[Navigational/Batuu\|Batuu]]
+- [[Navigational/Planets/Batuu\|Batuu]]
 
 { .block-language-dataview}
