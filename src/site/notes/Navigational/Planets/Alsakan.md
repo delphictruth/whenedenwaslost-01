@@ -6,7 +6,7 @@
 - Also known as *Archais*
 # Alsakan
 
-Alsakan is an ecumenopolis[^1] world in the Alsakan system in the [[Navigational/Regions/Core Worlds\|Core Worlds]]. A Core Founder on the [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]], Alsakan is an ancient, wealthy world that has been a major political player for centuries. 
+Alsakan is an ecumenopolis[^1] world in the Alsakan system in the [[Navigational/Regions/Core Worlds\|Core Worlds]]. A Core Founder on the [[Navigational/Hyperlanes/Perlemian Trade Route\|Perlemian Trade Route]], Alsakan is an ancient, wealthy world that has been a major political player for centuries. 
 
 In ancient times, it was known as the [[Organizations/Kingdom of Archais\|Kingdom of Archais]] and is sometimes still referred to as *Archais* given that Alsakan is still ruled by the kingdom. 
 
