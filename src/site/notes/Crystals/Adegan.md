@@ -15,9 +15,9 @@ Adegan crystals are more potent than the broad Ilum category, with an enhanced c
 - *Mephite:* The common form of Adegan crystal, and typically the one being referred to by Adegan or Ilum. 
 - *Pontite:* The rarest form of Adegan (and Ilum) crystals, nearly impossible to find. It resonates with a powerful aura that cools the skin and temperament of its wielder. 
 
-**Location**s::  [[Navigational/Ilum\|Ilum]], [[Navigational/Mygeeto\|Mygeeto]], [[Halm\|Halm]], [[Navigational/Systems/Adega system\|Adega system]]
+**Location**s::  [[Navigational/Planets/Ilum\|Ilum]], [[Navigational/Planets/Mygeeto\|Mygeeto]], [[Halm\|Halm]], [[Navigational/Systems/Adega system\|Adega system]]
 **Colors**::  Blue, green
 **Attunement**::  Unattuned
 
 **Appearances**::
-- [[Characters/Alfred Jonnas\|Alfred Jonnas]]'s Jedi lightsaber, given to [[Characters/Versailles Cordelia\|Versailles Cordelia]] and turned into her saber shoto ([[Navigational/Ilum\|Ilum]])
+- [[Characters/Alfred Jonnas\|Alfred Jonnas]]'s Jedi lightsaber, given to [[Characters/Versailles Cordelia\|Versailles Cordelia]] and turned into her saber shoto ([[Navigational/Planets/Ilum\|Ilum]])
