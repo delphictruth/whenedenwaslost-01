@@ -10,7 +10,7 @@
 General Rodarch is quite possibly one of the most iconic [[Organizations/Rebellion\|Rebellion]] figures in the galaxy, known for the assistance she gave Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] in defeating the [[Characters/Darth Sidious\|Emperor]]. Before that, however, she was a renowned mercenary and freedom-fighter known as the Mandalorian Hound. Presently she is leading the [[Organizations/Resistance\|Resistance]]. 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Mandalore\|Mandalore]]
+**Homeworld**::  [[Navigational/Planets/Mandalore\|Mandalore]]
 **Birth**::  [[Directories/Timeline#19 BBY\|19 BBY]]
 **Death**::  N/A
 **Status**::  Alive
@@ -37,7 +37,7 @@ General Rodarch is quite possibly one of the most iconic [[Organizations/Rebelli
 
 **Allegiance**::  [[Organizations/Resistance\|Resistance]]
 **Rank**::  General
-**Affiliations**::  [[Organizations/Rebellion\|Rebel Alliance]] (mercenary), [[Navigational/Imperial Academy\|Imperial Academy]] (officer)
+**Affiliations**::  [[Organizations/Rebellion\|Rebel Alliance]] (mercenary), [[Organizations/Imperial Academy\|Imperial Academy]] (officer)
 
 ## History & Plot Significance
 Brief blurb.
