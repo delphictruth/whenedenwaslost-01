@@ -25,19 +25,19 @@
 - [[Navigational/Planets/Chandrila\|Chandrila]]
 - [[Navigational/Planets/Columus\|Columus]]
 - [[Navigational/Planets/Corellia\|Corellia]]
-- [[Navigational/Duro\|Duro]]
-- [[Navigational/Frisal\|Frisal]]
-- [[Navigational/Hosnian Prime\|Hosnian Prime]]
-- [[Navigational/Kuat\|Kuat]]
-- [[Navigational/Lettow\|Lettow]]
-- [[Navigational/Opatajji\|Opatajji]]
-- [[Navigational/Palawa\|Palawa]]
-- [[Navigational/Rhinnal\|Rhinnal]]
-- [[Navigational/Y'ness\|Y'ness]]
+- [[Navigational/Planets/Duro\|Duro]]
+- [[Navigational/Planets/Frisal\|Frisal]]
+- [[Navigational/Planets/Hosnian Prime\|Hosnian Prime]]
+- [[Navigational/Planets/Kuat\|Kuat]]
+- [[Navigational/Planets/Lettow\|Lettow]]
+- [[Navigational/Planets/Opatajji\|Opatajji]]
+- [[Navigational/Planets/Palawa\|Palawa]]
+- [[Navigational/Planets/Rhinnal\|Rhinnal]]
+- [[Navigational/Planets/Y'ness\|Y'ness]]
 
 { .block-language-dataview}
 **Hyperlanes**
 - [[Navigational/Hyperlanes/Commenor Run\|Commenor Run]]
-- [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
+- [[Navigational/Hyperlanes/Rimma Trade Route\|Rimma Trade Route]]
 
 { .block-language-dataview}
