@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Nallastia\|Nallastia]]
+**Homeworld**::  [[Navigational/Planets/Nallastia\|Nallastia]]
 **Birth**::  [[Directories/Timeline#11 ABY\|11 ABY]]
 **Death**::  N/A
 **Status**::  Alive
@@ -32,7 +32,7 @@
 
 **Allegiance**::  [[Organizations/Resistance\|Resistance]]
 **Rank**::  Jedi General
-**Affiliations**::  [[Navigational/Nallastia\|Nallastia]] (Skull Princess)
+**Affiliations**::  [[Navigational/Planets/Nallastia\|Nallastia]] (Skull Princess)
 
 ## Combat
 
