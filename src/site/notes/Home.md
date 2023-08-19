@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false}
 ---
 
-![[Jedipraxeum.png\|Jedipraxeum.png]]
-
+![praxeum.png](/img/user/Photos/praxeum.png)
 <center>be like the love that discovered the sin<br>
 that freed the first man and will do so again<br>
 be that hopeful feeling <a href="https://archiveofourown.org/works/19334440/chapters/45992584">when eden was lost</a><br>
