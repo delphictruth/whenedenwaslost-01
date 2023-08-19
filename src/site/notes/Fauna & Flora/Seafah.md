@@ -6,6 +6,6 @@
 
 # Seafah
 
-Seafah is a shellfish native to [[Navigational/Pydyr\|Pydyr]]. It has very beautiful shells and is harvested by the Pydyrians to make jewelry and frescoes. 
+Seafah is a shellfish native to [[Navigational/Planets/Pydyr\|Pydyr]]. It has very beautiful shells and is harvested by the Pydyrians to make jewelry and frescoes. 
 
 
