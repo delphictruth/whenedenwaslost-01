@@ -19,10 +19,10 @@ A [[Navigational/Regions/Core Worlds\|Core Worlds]] sector known primarily for i
 - [[Navigational/Planets/Alsakan\|Alsakan]]
 - [[Navigational/Planets/Anaxes\|Anaxes]]
 - [[Navigational/Planets/Axum\|Axum]]
-- [[Navigational/Opatajji\|Opatajji]]
+- [[Navigational/Planets/Opatajji\|Opatajji]]
 
 { .block-language-dataview}
 ### Hyperlanes
-- [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]]
+- [[Navigational/Hyperlanes/Perlemian Trade Route\|Perlemian Trade Route]]
 
 { .block-language-dataview}
