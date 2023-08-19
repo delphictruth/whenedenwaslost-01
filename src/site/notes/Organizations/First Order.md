@@ -2,7 +2,15 @@
 {"dg-publish":true,"permalink":"/organizations/first-order/","tags":["unfinished","faction"]}
 ---
 
-- [[Home\|Back to Home]] | [[Directories/Timeline\|Back to Timeline]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
+-  [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as
 
 # The First Order
+
+
+## First Order Navy
+
+- [[Navigational/Starships/Finalizer\|Finalizer]]
+- [[Navigational/Starships/Jedi Killer\|Jedi Killer]]
+
+{ .block-language-dataview}
