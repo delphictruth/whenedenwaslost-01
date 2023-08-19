@@ -6,7 +6,7 @@
 - Also known as 
 # Jedi Praxeum
 
-The Jedi Paxeum was established by Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]], in the hope of establishing the [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]. She and Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] worked to find students and train them in the way of the Jedi on [[Navigational/Yavin 4\|Yavin 4]]. 
+The Jedi Paxeum was established by Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]], in the hope of establishing the [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]. She and Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] worked to find students and train them in the way of the Jedi on [[Navigational/Planets/Yavin 4\|Yavin 4]]. 
 
 In the end, they only had four [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Classes\|Jedi Padawan Classes]] before the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]] in [[Directories/Timeline#28 ABY — Fall of the Jedi Praxeum\|28 ABY]], and only three of those had graduated to Knights. 
 
