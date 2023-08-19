@@ -6,9 +6,9 @@
 - Also known as *Janx*
 # Janx II
 
-Janx II is a gas giant located in the [[Navigational/Outer Rim\|Outer Rim]] territories, mostly known in smuggler circles as the homeplanet of the [[Navigational/Planets/Janx II#Boxer Point Station\|Boxer Point Station]], which orbits above Janx. It is also conveniently located on the [[Navigational/Hydian Way\|Hydian Way]]. 
+Janx II is a gas giant located in the [[Navigational/Regions/Outer Rim\|Outer Rim]] territories, mostly known in smuggler circles as the homeplanet of the [[Navigational/Planets/Janx II#Boxer Point Station\|Boxer Point Station]], which orbits above Janx. It is also conveniently located on the [[Navigational/Hyperlanes/Hydian Way\|Hydian Way]]. 
 
-**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Region**::  [[Navigational/Regions/Outer Rim\|Outer Rim]]
 **Sector**::  [[Mayagil sector\|Mayagil sector]]
 **System**::  [[Janx system\|Janx system]]
 **Grid**::  M-18
