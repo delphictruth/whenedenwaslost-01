@@ -8,7 +8,7 @@
 
 
 **Sectors**
-- [[Navigational/Tapani sector\|Tapani sector]]
+- [[Navigational/Sectors/Tapani sector\|Tapani sector]]
 
 { .block-language-dataview}
 **Systems**
@@ -16,11 +16,11 @@
 { .block-language-dataview}
 **Planets**
 - [[Navigational/Planets/Carida\|Carida]]
-- [[Navigational/Fondor\|Fondor]]
-- [[Navigational/Nallastia\|Nallastia]]
+- [[Navigational/Planets/Fondor\|Fondor]]
+- [[Navigational/Planets/Nallastia\|Nallastia]]
 
 { .block-language-dataview}
 **Hyperlanes**
-- [[Navigational/Rimma Trade Route\|Rimma Trade Route]]
+- [[Navigational/Hyperlanes/Rimma Trade Route\|Rimma Trade Route]]
 
 { .block-language-dataview}
