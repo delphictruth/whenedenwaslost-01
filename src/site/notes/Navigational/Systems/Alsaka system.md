@@ -13,6 +13,6 @@ Desc
 
 **Planets**
 - [[Navigational/Planets/Alsakan\|Alsakan]]
-- [[Navigational/Opatajji\|Opatajji]]
+- [[Navigational/Planets/Opatajji\|Opatajji]]
 
 { .block-language-dataview}
