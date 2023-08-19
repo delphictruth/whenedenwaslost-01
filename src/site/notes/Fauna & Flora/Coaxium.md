@@ -7,4 +7,4 @@
 
 # Coaxium
 
-Coaxium is an extremely rare form of hypermatter that can be refined into expensive starship fuel. It is mined almost exclusively on [[Navigational/Kessel\|Kessel]], is highly explosive, and tends to appear in blue and red shades. There are various refineries on [[Navigational/Savareen\|Savareen]] that specialize in refining coaxium stolen from Kessel for smugglers. 
+Coaxium is an extremely rare form of hypermatter that can be refined into expensive starship fuel. It is mined almost exclusively on [[Navigational/Planets/Kessel\|Kessel]], is highly explosive, and tends to appear in blue and red shades. There are various refineries on [[Navigational/Planets/Savareen\|Savareen]] that specialize in refining coaxium stolen from Kessel for smugglers. 
