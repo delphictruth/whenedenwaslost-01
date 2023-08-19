@@ -6,7 +6,7 @@
 - Also known as *Azure Queen*
 # Axum
 
-Axum is prominately known as the old throneworld of the [[Organizations/Azurian Nobility\|Azure Imperium]], a vast area of power that became the [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]]. It is a strong industrial world with a large population, considered one of the [[Navigational/Regions/Core Worlds\|Core Worlds]]' mightiest urbanized worlds and a military stronghold. 
+Axum is prominately known as the old throneworld of the [[Organizations/Azurian Nobility\|Azure Imperium]], a vast area of power that became the [[Navigational/Hyperlanes/Perlemian Trade Route\|Perlemian Trade Route]]. It is a strong industrial world with a large population, considered one of the [[Navigational/Regions/Core Worlds\|Core Worlds]]' mightiest urbanized worlds and a military stronghold. 
 
 Axum is traditionally ruled by a monarchy, with their royal family originating from the ruling authority of the [[Organizations/Azurian Nobility\|Azure Imperium]]. The ruling Houses and minor nobility of other [[Navigational/Sectors/Azure sector\|Azure sector]] planets traditionally swear fealty to the royal family. For this reason, Axum is sometimes referred to as the *Azure Queen*. 
 
