@@ -11,4 +11,4 @@ Darth Sion was a Sith Marauder from the age of the Great Sith War and originally
 
 It is believed that he was the one who convinced his fellow apprentice, [[Characters/Darth Nihilus\|Darth Nihilus]], to betray their master and cut her off from the Force. 
 
-He eventually met his true end on [[Navigational/Malachor V\|Malachor V]], several years after the First Jedi Purge. 
+He eventually met his true end on [[Navigational/Planets/Malachor V\|Malachor V]], several years after the First Jedi Purge. 
