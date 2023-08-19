@@ -10,7 +10,7 @@ Artorias is a sunny world, with sizable mountains, forests, and oceans. It is hi
 
 It is currently under the rule of King [[Characters/Arthurr Jonnas\|Arthurr Jonnas]] and is the home planet of Prince [[Characters/Alfred Jonnas\|Alfred Jonnas]]. 
 
-**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Region**::  [[Navigational/Regions/Outer Rim\|Outer Rim]]
 **Sector**::  [[Myto sector\|Myto sector]]
 **System**::  [[Artorias system\|Artorias system]]
 **Grid**::  K-3
