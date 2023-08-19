@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Nallastia\|Nallastia]]
+**Homeworld**::  [[Navigational/Planets/Nallastia\|Nallastia]]
 **Birth**::  
 **Death**::  
 **Status**::  Deceased 
