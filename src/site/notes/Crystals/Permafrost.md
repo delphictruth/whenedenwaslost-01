@@ -6,6 +6,6 @@
 - Also known as
 
 # Permafrost
-Rare lightsaber crystals found on [[Navigational/Hoth\|Hoth]]. Produces an icy blue color. An [[Crystals/Attuned crystal\|Attuned crystal]]. 
+Rare lightsaber crystals found on [[Navigational/Planets/Hoth\|Hoth]]. Produces an icy blue color. An [[Crystals/Attuned crystal\|Attuned crystal]]. 
 
 ![Permafrostcrystal.png](/img/user/Photos/Permafrostcrystal.png)
