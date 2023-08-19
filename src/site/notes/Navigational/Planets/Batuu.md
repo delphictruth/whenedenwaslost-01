@@ -5,10 +5,10 @@
 - [[Directories/Timeline\|Back to Home]]
 - Also known as 
 # Batuu
-Batuu is a ... located in the [[Navigational/Trilon sector\|Trilon sector]] of the [[Navigational/Outer Rim\|Outer Rim]]. 
+Batuu is a ... located in the [[Navigational/Sectors/Trilon sector\|Trilon sector]] of the [[Navigational/Regions/Outer Rim\|Outer Rim]]. 
 
-**Region**::  [[Navigational/Outer Rim\|Outer Rim]]; [[Navigational/Western Reaches\|Western Reaches]]
-**Sector**::  [[Navigational/Trilon sector\|Trilon sector]]
+**Region**::  [[Navigational/Regions/Outer Rim\|Outer Rim]]; [[Navigational/Regions/Western Reaches\|Western Reaches]]
+**Sector**::  [[Navigational/Sectors/Trilon sector\|Trilon sector]]
 **System**::  [[Batuu system\|Batuu system]]
 **Grid**::  G-15
 
