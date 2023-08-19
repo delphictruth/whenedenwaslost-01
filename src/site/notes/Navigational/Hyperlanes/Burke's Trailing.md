@@ -10,8 +10,8 @@ Desc
 **Region**::
 
 **Planets**
-- [[Navigational/Jedha\|Jedha]]
-- [[Navigational/NaJedha\|NaJedha]]
-- [[Navigational/Terrabe sector\|Terrabe sector]]
+- [[Navigational/Planets/Jedha\|Jedha]]
+- [[Navigational/Planets/NaJedha\|NaJedha]]
+- [[Navigational/Sectors/Terrabe sector\|Terrabe sector]]
 
 { .block-language-dataview}
