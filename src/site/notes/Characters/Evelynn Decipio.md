@@ -8,7 +8,7 @@
 > Mandalorian soldier
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Mandalore\|Mandalore]]
+**Homeworld**::  [[Navigational/Planets/Mandalore\|Mandalore]]
 **Birth**::  
 **Death**::  N/A
 **Status**::  Alive
