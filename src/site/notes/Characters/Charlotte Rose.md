@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/J't'p'tan\|J't'p'tan]]
+**Homeworld**::  [[Navigational/Planets/J't'p'tan\|J't'p'tan]]
 **Birth**::  
 **Death**::  N/A
 **Status**::  Alive
