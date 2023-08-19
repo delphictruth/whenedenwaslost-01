@@ -6,7 +6,7 @@
 - *No other names on record*
 # Commenor Run
 
-The Commenor Run is a trade route that runs from Brentaal to Commenor. Notably it passes by [[Navigational/Planets/Alderaan\|Alderaan]], with junctions to the [[Navigational/Hydian Way\|Hydian Way]] and [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]]. 
+The Commenor Run is a trade route that runs from Brentaal to Commenor. Notably it passes by [[Navigational/Planets/Alderaan\|Alderaan]], with junctions to the [[Navigational/Hyperlanes/Hydian Way\|Hydian Way]] and [[Navigational/Hyperlanes/Perlemian Trade Route\|Perlemian Trade Route]]. 
 
 ### Regions
 - [[Navigational/Regions/Core Worlds\|Core Worlds]]
