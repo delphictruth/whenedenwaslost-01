@@ -6,7 +6,7 @@
 - Also known as *Defender of the Core*
 # Anaxes
 
-Anaxes is a rocky planet located in the [[Navigational/Sectors/Azure sector\|Azure sector]]. A majority of its surface was covered with tall, red plant-like life. It was a vital world of the Galactic Republic for its role in protecting the Core Worlds from attacks along the [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]] as well as its shipyards. It is considered one of the primary sites of naval power, tradition, and prestige by both the [[Organizations/Galactic Empire\|Galactic Empire]] and [[Organizations/Galactic Republic\|Galactic Republic]]. 
+Anaxes is a rocky planet located in the [[Navigational/Sectors/Azure sector\|Azure sector]]. A majority of its surface was covered with tall, red plant-like life. It was a vital world of the Galactic Republic for its role in protecting the Core Worlds from attacks along the [[Navigational/Hyperlanes/Perlemian Trade Route\|Perlemian Trade Route]] as well as its shipyards. It is considered one of the primary sites of naval power, tradition, and prestige by both the [[Organizations/Galactic Empire\|Galactic Empire]] and [[Organizations/Galactic Republic\|Galactic Republic]]. 
 
 It is also known as the homeworld of the [[fyrnock species\|fyrnock species]] and the Core World delicacy, Spiral Dumplings.
 
