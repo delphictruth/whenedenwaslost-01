@@ -7,7 +7,7 @@
 # Crait
 [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] have training mission here; where [[Characters/Versailles Cordelia\|Versailles Cordelia]] finds her [[Fauna & Flora/Vulptex\|crystal critter]]
 
-**Region**::  [[Navigational/Outer Rim\|Outer Rim]]
+**Region**::  [[Navigational/Regions/Outer Rim\|Outer Rim]]
 **Sector**::  
 **System**::  [[Crait system\|Crait system]]
 **Grid**::  N-17
