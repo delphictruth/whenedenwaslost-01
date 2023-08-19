@@ -6,11 +6,11 @@
 - *No other names on record*
 # Roonstones
 
-Roonstones are extremely valuable crystals found in the Umboo province on [[Navigational/Roon\|Roon]]. Roonstones can be encoded with poems and sayings, and some forms (such as the **Kessum** crystals) will randomly bounce electronic signals off of surrounding objects. 
+Roonstones are extremely valuable crystals found in the Umboo province on [[Navigational/Planets/Roon\|Roon]]. Roonstones can be encoded with poems and sayings, and some forms (such as the **Kessum** crystals) will randomly bounce electronic signals off of surrounding objects. 
 
 The majority of the known Roonstone caches were destroyed by Roon's former dictator. It is suspected that they may be used as [[Directories/Lightsaber crystals\|lightsaber crystals]], but the theory is untested.
 
-**Locations**:: [[Navigational/Roon\|Roon]]
+**Locations**:: [[Navigational/Planets/Roon\|Roon]]
 **Colors**:: White
 **Attunement**:: Unattuned
 
