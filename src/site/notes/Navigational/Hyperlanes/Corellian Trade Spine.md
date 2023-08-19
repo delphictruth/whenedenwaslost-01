@@ -6,10 +6,10 @@
 - *No other names on record*
 # Corellian Trade Spine
 
-The Corellian Trade Spine, not to be confused with the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]], is a major trade route that begins are [[Navigational/Planets/Corellia\|Corellia]] and heads towards the far edges of the galaxy, towards [[Navigational/Duro\|Duro]]. It has notable intersections with [[Navigational/Hydian Way\|Hydian Way]] and the [[Navigational/Rimma Trade Route\|Rimma Trade Route]].
+The Corellian Trade Spine, not to be confused with the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]], is a major trade route that begins are [[Navigational/Planets/Corellia\|Corellia]] and heads towards the far edges of the galaxy, towards [[Navigational/Planets/Duro\|Duro]]. It has notable intersections with [[Navigational/Hyperlanes/Hydian Way\|Hydian Way]] and the [[Navigational/Hyperlanes/Rimma Trade Route\|Rimma Trade Route]].
 
 ### Regions
-- [[Navigational/Western Reaches\|Western Reaches]]
+- [[Navigational/Regions/Western Reaches\|Western Reaches]]
 
 { .block-language-dataview}
 ### Sectors
