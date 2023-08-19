@@ -8,7 +8,7 @@
 
 Ahch-To is a planet mostly covered in water, with a select few rocky islands blanketed with trees. It is considered the true birthplace of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and has a library containing the [[Library/Ancient Jedi texts/Ancient Jedi texts\|ancient Jedi texts]]. Following the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]], Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]] retreated to Ahch-To until [[Characters/Hazel Caelum\|Hazel Caelum]] found her. 
 
-**Region**::  [[Navigational/Unknown Regions\|Unknown Regions]]
+**Region**::  [[Navigational/Regions/Unknown Regions\|Unknown Regions]]
 **Sector**::  N/A
 **System**::  [[Ahch-To system\|Ahch-To system]]
 **Grid**::  F-13
