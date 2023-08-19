@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Kuat\|Kuat]]
+**Homeworld**::  [[Navigational/Planets/Kuat\|Kuat]]
 **Birth**::  
 **Death**:: 
 **Status**::  
@@ -32,7 +32,7 @@
 
 ### Political Affiliations
 
-**Allegiance**::  [[Navigational/Kuat#Kuat Drive Yards\|Kuat Drive Yards]]
+**Allegiance**::  [[Navigational/Planets/Kuat#Kuat Drive Yards\|Kuat Drive Yards]]
 **Rank**::  President
 **Affiliations**::  
 
