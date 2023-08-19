@@ -84,4 +84,4 @@ Chevalier's darksider lightsaber is formed from a [[Crystals/Cunning of Tyranus\
 
 ## History & Plot Significance
 
-Chevalier was raised in the [[Navigational/Outer Rim\|Outer Rim]] in a fairly simple lifestyle, far removed from the politics of the galaxy at large. His father had removed he and his elder brother from society in an effort to protect them from the rising tensions, but to no avail. [[Characters/Michael Hellix\|Michael Hellix]] was killed when Chev was 10, leaving he and his brother to fend for themselves. 
+Chevalier was raised in the [[Navigational/Regions/Outer Rim\|Outer Rim]] in a fairly simple lifestyle, far removed from the politics of the galaxy at large. His father had removed he and his elder brother from society in an effort to protect them from the rising tensions, but to no avail. [[Characters/Michael Hellix\|Michael Hellix]] was killed when Chev was 10, leaving he and his brother to fend for themselves. 
