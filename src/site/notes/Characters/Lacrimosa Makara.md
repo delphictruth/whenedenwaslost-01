@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Kuat\|Kuat]] 
+**Homeworld**::  [[Navigational/Planets/Kuat\|Kuat]] 
 **Birth**::  
 **Death**::  N/A
 **Status**::  Alive
