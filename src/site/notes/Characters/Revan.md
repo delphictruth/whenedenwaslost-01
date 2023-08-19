@@ -17,7 +17,7 @@ In defiance of the Jedi Council's orders, he adopted the name Revan for the firs
 
 After a decisive victory to mark their entrance into the War, Revan was named Supreme Commander of the Republic's Military and went on to lead the war against the Mandalorians. He is accredited with the Republic's eventual victory and was renowned among the Republic and the Revanchist. 
 
-Following the [[Events/Battle of Malachor V\|Battle of Malachor V]], the battle that marked Revan's victory over the Mandalorians, Revan and [[Characters/Darth Malak\|Alek]] chose to pursue the strange Sith energy that they had sensed on [[Navigational/Malachor V\|Malachor V]]. Thus, they disappeared rather than return to the Jedi Order. 
+Following the [[Events/Battle of Malachor V\|Battle of Malachor V]], the battle that marked Revan's victory over the Mandalorians, Revan and [[Characters/Darth Malak\|Alek]] chose to pursue the strange Sith energy that they had sensed on [[Navigational/Planets/Malachor V\|Malachor V]]. Thus, they disappeared rather than return to the Jedi Order. 
 
 He and [[Characters/Darth Malak\|Alek]] re-emerged from the Unknown Regions as Dark Lords of the Sith *Darth Revan* and *Darth Malak*. Initially under the Sith Emperor's control, they eventually broke free and waged their own war against the Republic and Jedi Order. It was a devastating war, marked by many of Revan's fellow followers and supporters turning to the Dark side to join him once more. 
 
