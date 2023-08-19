@@ -12,6 +12,6 @@ Desc
 **Planets**
 - [[Navigational/Systems/Atrisi system\|Atrisi system]]
 	- [[Navigational/Planets/Atrisia\|Atrisia]]
-- [[Navigational/Frisal system\|Frisal system]]
-	- [[Navigational/Frisal\|Frisal]]
+- [[Navigational/Systems/Frisal system\|Frisal system]]
+	- [[Navigational/Planets/Frisal\|Frisal]]
 
