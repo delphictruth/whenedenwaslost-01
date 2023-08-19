@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Naboo\|Naboo]]
+**Homeworld**::  [[Navigational/Planets/Naboo\|Naboo]]
 **Birth**::  
 **Death**::  N/A
 **Status**::  Alive
