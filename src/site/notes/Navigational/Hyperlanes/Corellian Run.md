@@ -21,6 +21,6 @@ tex
 - [[Navigational/Planets/Christophsis\|Christophsis]]
 - [[Navigational/Planets/Corellia\|Corellia]]
 - [[Navigational/Planets/Coruscant\|Coruscant]]
-- [[Navigational/Savareen\|Savareen]]
+- [[Navigational/Planets/Savareen\|Savareen]]
 
 { .block-language-dataview}
