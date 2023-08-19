@@ -8,7 +8,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Rhinnal\|Rhinnal]]
+**Homeworld**::  [[Navigational/Planets/Rhinnal\|Rhinnal]]
 **Birth**::  
 **Death**::  
 **Status**::  Deceased
