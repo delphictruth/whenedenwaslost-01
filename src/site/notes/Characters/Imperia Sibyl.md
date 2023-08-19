@@ -9,7 +9,7 @@
 
 ## Personal Information
 
-**Homeworld**::  [[Navigational/Seidhkona\|Seidhkona]]
+**Homeworld**::  [[Navigational/Planets/Seidhkona\|Seidhkona]]
 **Birth**::  
 **Death**::  N/A
 **Status**::  Alive
