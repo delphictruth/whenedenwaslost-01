@@ -6,7 +6,7 @@
 - Also known as *Kashi Mer Mystics*
 # Guardians of the Breath
 
-The Guardians of the Breath were an organization of Force-users hailing from the planet [[Navigational/Kashi\|Kashi]] and the [[Species & Cultures/Kashi Mer\|Kashi Mer]] culture. They had a strong connection to the Living Force, which they referred to as "the Breath," that they used to aid with growing crops and healing the sick and injured. 
+The Guardians of the Breath were an organization of Force-users hailing from the planet [[Navigational/Planets/Kashi\|Kashi]] and the [[Species & Cultures/Kashi Mer\|Kashi Mer]] culture. They had a strong connection to the Living Force, which they referred to as "the Breath," that they used to aid with growing crops and healing the sick and injured. 
 
 Guardian Elders interpreted visions received via the Breath to inform the Kashi Mer people on the paths that they should follow. They maintained the lore of the Breath as well as its usage methods, passing the methods down by oral tradition, and they considered recording it in any format to be blasphemous. 
 
