@@ -6,6 +6,6 @@
 - *No other names on record*
 # The Gathering
 
-The Gathering was an ancient Jedi Order tradition and a formal part of a Padawan's teachings. Padawans would embark on a pilgrimage to [[Navigational/Ilum\|Ilum]] to search for a lightsaber crystal for their first weapon. 
+The Gathering was an ancient Jedi Order tradition and a formal part of a Padawan's teachings. Padawans would embark on a pilgrimage to [[Navigational/Planets/Ilum\|Ilum]] to search for a lightsaber crystal for their first weapon. 
 
 
