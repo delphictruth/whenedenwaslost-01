@@ -8,4 +8,4 @@
 
 ## The Map of Chapters I-X
 ![Ch1-10.png](/img/user/Photos/Ch1-10.png)
-[[Navigational/Jakku\|Jakku]] | [[Navigational/Takodana\|Takodana]] | [[Navigational/Planets/Atrisia\|Atrisia]] | [[Navigational/Mindabaal\|Mindabaal]] | [[Navigational/Donadus\|Donadus]] | [[Navigational/Walalla\|Walalla]] | [[Navigational/Tasariq\|Tasariq]] | [[Navigational/Planets/Coruscant\|Coruscant]] | [[Navigational/Planets/Chaaktil\|Chaaktil]] | [[Navigational/Medth\|Medth]]
+[[Navigational/Planets/Jakku\|Jakku]] | [[Navigational/Planets/Takodana\|Takodana]] | [[Navigational/Planets/Atrisia\|Atrisia]] | [[Navigational/Planets/Mindabaal\|Mindabaal]] | [[Navigational/Planets/Donadus\|Donadus]] | [[Navigational/Planets/Walalla\|Walalla]] | [[Navigational/Planets/Tasariq\|Tasariq]] | [[Navigational/Planets/Coruscant\|Coruscant]] | [[Navigational/Planets/Chaaktil\|Chaaktil]] | [[Navigational/Planets/Medth\|Medth]]
