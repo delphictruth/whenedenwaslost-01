@@ -7,7 +7,7 @@
 # Coruscant
 Desc
 
-As the essential center of the known galaxy, Coruscant appears on the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]], [[Navigational/Hyperlanes/Coruscant-Dantooine hyperlane\|Coruscant-Dantooine hyperlane]], [[Navigational/Koros Trunk Line\|Koros Trunk Line]], [[Navigational/Martial Cross\|Martial Cross]], [[Navigational/Metellos Trade Route\|Metellos Trade Route]], [[Navigational/Perlemian Trade Route\|Perlemian Trade Route]], and [[Navigational/Shawken Spur\|Shawken Spur]].
+As the essential center of the known galaxy, Coruscant appears on the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]], [[Navigational/Hyperlanes/Coruscant-Dantooine hyperlane\|Coruscant-Dantooine hyperlane]], [[Navigational/Hyperlanes/Koros Trunk Line\|Koros Trunk Line]], [[Navigational/Hyperlanes/Martial Cross\|Martial Cross]], [[Navigational/Hyperlanes/Metellos Trade Route\|Metellos Trade Route]], [[Navigational/Hyperlanes/Perlemian Trade Route\|Perlemian Trade Route]], and [[Navigational/Hyperlanes/Shawken Spur\|Shawken Spur]].
 
 **Region**::  [[Navigational/Regions/Core Worlds\|Core Worlds]]
 **Sector**::  [[Corusca sector\|Corusca sector]]
