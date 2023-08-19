@@ -7,7 +7,7 @@
 # Octavia Bonteri
 >
 
-Octavia Bonteri was a Jedi padawan with the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Moraband\|Moraband]] in the [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
+Octavia Bonteri was a Jedi padawan with the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] and [[Characters/Chevalier Hellix\|Chevalier Hellix]]'s half-sister. Before she could complete her training, she was killed as a member of the strike team on [[Navigational/Planets/Moraband\|Moraband]] in the [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]]. 
 ## Personal Information
 
 **Homeworld**::  
