@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/force-traditions-and-sects/jedi-order/","tags":["unfinished","faction"]}
+{"dg-publish":true,"permalink":"/force-traditions-and-sects/jedi-order/","tags":["faction"]}
 ---
 
-- [[Directories/Timeline\|Back to Home]] | [[Other/Directory\|Back to Directory]] | [Back to Ao3](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
-
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- Also known as *Old Jedi Order*
 # Jedi Order
