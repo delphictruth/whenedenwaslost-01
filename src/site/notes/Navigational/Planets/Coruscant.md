@@ -16,7 +16,7 @@ As the essential center of the known galaxy, Coruscant appears on the [[Navigati
 
 **Capital**::  Galactic City
 **Notable Locations**::
-- Imperial Museum
+- Imperial Archives
 - Coruscant underworld
 - Great Western Sea
 - Jedi Temple
