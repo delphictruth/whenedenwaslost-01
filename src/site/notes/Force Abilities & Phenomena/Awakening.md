@@ -18,7 +18,7 @@ Awakenings are known to set off a ripple effect in the Force. While this is ofte
 
 ### Recorded Awakenings
 
-Modern records of Awakenings seem to mostly reflect [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] adepts, but there are a few records of Awakenings from just prior to the [[Fall of the Jedi Order\|Fall of the Jedi Order]].
+Modern records of Awakenings seem to mostly reflect [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] adepts, but there are a few records of Awakenings from just prior to the [[Events/Fall of the Jedi Order\|Fall of the Jedi Order]].
 * [[Characters/Pollutis Kun\|Isaak Malori]], 23 BBY, age 4: Isaak is Awakened in a minor accident and brought to the [[Force Traditions & Sects/Jedi Order\|Jedi Order]].
 * [[Characters/Raegal Aurelius\|Alban Draig]], 17 BBY, age 1: Alban shows early signs of Force-sensitivity in a gradual Awakening. Shortly thereafter, he is kidnapped and presumed dead.
 * [[Characters/Cecily Beaumont\|Cecily Beaumont]], 10 BBY, age 3: Cecily is Awakened abruptly but peacefully. She is recruited by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] a year later. 
