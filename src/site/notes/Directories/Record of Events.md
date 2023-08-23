@@ -16,7 +16,9 @@
 | [[Events/Battle of Nallastia\|Battle of Nallastia]]                                       | [[Navigational/Planets/Nallastia\|Nallastia]]   | \-                                         | Battle     |
 | [[Events/Battle of the Valley of the Dark Lords\|Battle of the Valley of the Dark Lords]] | [[Navigational/Planets/Moraband\|Moraband]]     | \-                                         | Battle     |
 | [[Events/Battle of Yavin\|Battle of Yavin]]                                               | yavin                                              | \-                                         | Battle     |
+| [[Events/Battle on Takodana\|Battle on Takodana]]                                         | [[Navigational/Planets/Takodana\|Takodana]]     | [[Directories/Timeline#31 ABY\|31 ABY]] | \-         |
 | [[Events/Clone Wars\|Clone Wars]]                                                         | \-                                                 | \-                                         | War        |
+| [[Events/Fall of the Jedi Order\|Fall of the Jedi Order]]                                 | [[Navigational/Planets/Coruscant\|Coruscant]]   | [[Directories/Timeline#2 BBY\|2 BBY]]   | \-         |
 | [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]                             | yavin 4                                            | \-                                         | Battle     |
 | [[Events/Fall of the Jen'jidai\|Fall of the Jen'jidai]]                                   | Korriban                                           | \-                                         | Battle     |
 | [[Events/First Great Schism\|First Great Schism]]                                         | \-                                                 | \-                                         | \-         |
