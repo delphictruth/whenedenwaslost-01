@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/regions/mid-rim/","tags":["map","region","western","rimma","duros"]}
+{"dg-publish":true,"permalink":"/navigational/regions/mid-rim/","tags":["map","region","western","rimma","greatgranrun","biox","duros"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
