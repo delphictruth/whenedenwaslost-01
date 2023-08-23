@@ -60,6 +60,7 @@
 | [[Characters/Malkyn Rodarch\|Malkyn Rodarch]]                 | [[Organizations/Resistance\|Resistance]]                              | No sensitivity    | [[Navigational/Planets/Mandalore\|Mandalore]] | Alive    |
 | [[Characters/Marcus Morr\|Marcus Morr]]                       | \-                                                                       | Jedi Knight       | \-                                               | Deceased |
 | [[Characters/Mari Ange\|Mari Ange]]                           | \-                                                                       | No sensitivity    | \-                                               | Deceased |
+| [[Characters/Maz Kanata\|Maz Kanata]]                         | \-                                                                       | \-                | \-                                               | \-       |
 | [[Characters/Michael Hellix\|Michael Hellix]]                 | [[Organizations/Rebellion\|Rebellion]]                                | Low sensitivity   | \-                                               | Deceased |
 | [[Characters/Missing Entry\|Missing Entry]]                   | Unknown                                                                  | Force Adept       | Unknown                                          | Unknown  |
 | [[Characters/Norman Draig\|Norman Draig]]                     | [[Navigational/Planets/Carida\|Carida]] Navy                                                          | No sensitivity    | [[Navigational/Planets/Carida\|Carida]]       | Deceased |
@@ -80,6 +81,7 @@
 | [[Characters/Unkar Plutt\|Unkar Plutt]]                       | [[Organizations/First Order\|First Order]]                            | No sensitivity    | [[Navigational/Jakku.md\|Jakku]]                 | Alive    |
 | [[Characters/Versailles Cordelia\|Versailles Cordelia]]       | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Corellia\|Corellia]]   | Alive    |
 | [[Characters/Victoria Octan\|Victoria Octan]]                 | [[Force Traditions & Sects/Jedi Order\|Jedi Order]]                   | Jedi Padawan      | [[Navigational/Planets/Nallastia\|Nallastia]] | Deceased |
+| [[Characters/Voron Jax\|Voron Jax]]                           | [[Organizations/First Order\|First Order]]                            | \-                | \-                                               | Alive    |
 | [[Characters/Zaniel Bellatys\|Zaniel Bellatys]]               | \-                                                                       | Force Adept       | \-                                               | Deceased |
 
 { .block-language-dataview}
