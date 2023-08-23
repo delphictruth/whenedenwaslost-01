@@ -3,7 +3,7 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as *Albam Draig*, *Lord Aurelius*
+- Also known as *Alban Draig*, *Lord Aurelius*
 # Raegal Aurelius
 >Sith Lord, Savior of the Jen'jidai
 
