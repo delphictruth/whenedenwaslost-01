@@ -4,7 +4,6 @@
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *danger sense*, *Third Sight*
-
 # Precognition
 A deeper form of [[Force Abilities & Phenomena/Force sense\|Force sense]], more tuned towards sensing future events and premonitions, especially from objects. It is essentially the opposite power to [[Force Abilities & Phenomena/Psychometry\|Psychometry]], which senses the past. 
 
