@@ -1,23 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/takodana/","tags":["map","planet","midrim","western","tashtor","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/planets/takodana/","tags":["map","planet","midrim","western","tashtor","greatgranrun","biox"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
+- *No other names on record* 
 # Takodana
 
-located in the [[Navigational/Sectors/Tashtor sector\|Tashtor sector]] of the [[Navigational/Regions/Mid Rim\|Mid Rim]].
+Takodana is a remote, neutral planet located in the [[Navigational/Sectors/Tashtor sector\|Tashtor sector]] of the [[Navigational/Regions/Mid Rim\|Mid Rim]] and a part of the [[Navigational/Regions/Western Reaches\|Western Reaches]]. It is a lush, forested planet with small lakes and prominent greenery. It's remoteness has made it a haven for fugitives, smugglers, and explorers, especially with Takodana Castle acting as an open port to spies and dubious travelers. 
+
+It is a popular departure point with easy access to trade routes that connect to the [[Navigational/Regions/Inner Rim\|Inner Rim]] and [[Navigational/Regions/Outer Rim\|Outer Rim]]. Those heading outwards towards the Outer Rim refer to it as the "last taste of civilization" while those heading inwards towards the [[Navigational/Regions/Core Worlds\|Core Worlds]] refer to it as the "last grasp of frontier living." 
+
+It is located on the [[Great Gran Run\|Great Gran Run]] and the [[Biox Detour\|Biox Detour]]. 
 
 **Region**::  [[Navigational/Regions/Mid Rim\|Mid Rim]]; [[Navigational/Regions/Western Reaches\|Western Reaches]]
 **Sector**::  [[Navigational/Sectors/Tashtor sector\|Tashtor sector]]
 **System**::  [[Takodana system\|Takodana system]]
 **Grid**::  J-16
 
-**Capital**
+**Capital** N/A
 **Notable Locations**
-- test
+- Takodana Castle
+- Nymeve Lake
+- Lost Jedi Temple
 
+### Takodana Castle
+
+Takodana Castle, also referred to as *Maz Kanata's Castle*, is on the shore of Nymeve Lake and owned by the pirate [[Maz Kanata\|Maz Kanata]]. It is a fortress with a main hall that hosts a cantina, as well as a large underground network of dungeons, storerooms, and catacombs.
 ### Lost Jedi Temple
-The ruins of a Jedi Temple exist on Takodana, though they have been grown over by nature and have not been visited in decades. The Temple was destroyed by the Nihil during Operation: Counterstrike in the High Republic Era. 
 
-https://starwars.fandom.com/wiki/Takodana
+The ruins of a Jedi Temple exist on Takodana, though they have been grown over by nature and have not been visited in decades. The Temple was destroyed by the [[Force Traditions & Sects/Nihil\|Nihil]] during *Operation: Counterstrike* in the High Republic Era. 
+
+## Plot Significance
+
+In **Book II**, Hazel and the *Steel Hound* land on Takodana to rendezvous with [[Maz Kanata\|Maz Kanata]] and prepare to meet up with the rest of the [[Organizations/Resistance\|Resistance]]. In Maz's Castle, Hazel is called to the catacombs below the cantina and discovers [[Characters/Cecily Beaumont\|Cecily Beaumont]]'s lightsaber. Upon touching it, she has a vivid Force vision but refuses to take the lightsaber with her.
