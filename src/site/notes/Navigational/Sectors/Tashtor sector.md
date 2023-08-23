@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/sectors/tashtor-sector/","tags":["map","midrim","western","sector","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/sectors/tashtor-sector/","tags":["map","midrim","western","greatgranrun","biox","sector","unfinished"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
