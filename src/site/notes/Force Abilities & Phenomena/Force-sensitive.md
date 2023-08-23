@@ -47,6 +47,7 @@ While Force-sensitive is a general term for any who can sense the Force, the ter
 - [[Characters/Lord ??\|Lord ??]]
 - [[Characters/Maggie Amell\|Maggie Amell]]
 - [[Characters/Marcus Morr\|Marcus Morr]]
+- [[Characters/Maz Kanata\|Maz Kanata]]
 - [[Characters/Michael Hellix\|Michael Hellix]]
 - [[Characters/Missing Entry\|Missing Entry]]
 - [[Characters/Octavia Bonteri\|Octavia Bonteri]]
