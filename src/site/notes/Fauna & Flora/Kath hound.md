@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fauna-and-flora/kath-hound/","tags":["fauna"]}
+{"dg-publish":true,"permalink":"/fauna-and-flora/kath-hound/"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
