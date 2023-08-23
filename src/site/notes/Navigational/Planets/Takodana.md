@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/takodana/","tags":["map","planet","midrim","western","tashtor","greatgranrun","biox"]}
+{"dg-publish":true,"permalink":"/navigational/planets/takodana/","tags":["map","planet","midrim","western","tashtor","takodanasystem","greatgranrun","biox"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
