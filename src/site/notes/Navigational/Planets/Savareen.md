@@ -3,9 +3,10 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- *No other names on record*
 # Savareen
 
-Savareen is a planet located on one of the spurs of the [[Navigational/Hyperlanes/Kessel Run\|Kessel Run]] in the [[Navigational/Regions/Outer Rim\|Outer Rim]]. It is mostly comprised of sandy landmasses and huge oceans. Supposedly, [[Maz Kanata\|Maz Kanata]] once considered the planet as a base for her operations. 
+Savareen is a planet located on one of the spurs of the [[Navigational/Hyperlanes/Kessel Run\|Kessel Run]] in the [[Navigational/Regions/Outer Rim\|Outer Rim]]. It is mostly comprised of sandy landmasses and huge oceans. Supposedly, [[Characters/Maz Kanata\|Maz Kanata]] once considered the planet as a base for her operations. 
 
 **Region**::  [[Navigational/Regions/Outer Rim\|Outer Rim]]
 **Sector**::  [[Navigational/Sectors/Savareen sector\|Savareen sector]]
