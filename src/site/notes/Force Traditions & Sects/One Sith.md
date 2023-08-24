@@ -6,7 +6,7 @@
 - Also known as
 
 # One Sith
-[[Characters/Darth Krayt\|Darth Krayt]]'s Sith cult on [[Navigational/Planets/Zoist\|Zoist]].
+[[Characters/Darth Krayt\|Darth Krayt]]'s Sith cult on [[Navigational/Planets/Ziost\|Ziost]].
 
 **Affiliations** 
 - test
