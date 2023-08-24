@@ -11,7 +11,7 @@ Form V combat is meant to address the disadvantages of a more defense-focused fo
 
 Whereas a failing of Shien is its weakness against a single opponent, Djem So is known for having a lack of mobility. Otherwise, Shien is designed more towards long-range combat, while Djem So is designed specifically for dueling. 
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
 - [[Characters/Roman Ange\|Roman Ange]]
