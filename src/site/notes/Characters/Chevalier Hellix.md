@@ -63,11 +63,11 @@ Chevalier specializes in [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]], but hi
 
 **Strengths**
 - [[Force Abilities & Phenomena/Force empathy\|Force empathy]]
-- [[Force Abilities & Phenomena/Force body\|Force body]]
+- [[Force Abilities & Phenomena/Force Body\|Force Body]]
 - [[Force Abilities & Phenomena/Alter Image\|Alter Image]]
-- [[Force Abilities & Phenomena/Force illusion\|Force illusion]]
 - [[Force Abilities & Phenomena/Mind Tricks\|Mind Tricks]]
-- [[Force Abilities & Phenomena/Force jump\|Force jump]]
+	- [[Force Abilities & Phenomena/Mind Tricks#Force illusion\|Force illusions]]
+- [[Force Abilities & Phenomena/Force Jump\|Force Jump]]
 
 **Weaknesses**
 - Techniques requiring direction of energy; he is better at affecting his own person, not the environment around him
