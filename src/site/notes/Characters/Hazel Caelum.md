@@ -56,7 +56,7 @@ Hazel is strongly influenced by [[Characters/Dahlia Coutier\|Dahlia Coutier]]'s 
 - [[Force Abilities & Phenomena/Breath control\|Breath control]]
 - [[Force Abilities & Phenomena/Force Enlightenment\|Force Enlightenment]]
 - [[Force Abilities & Phenomena/Force Light\|Force Light]] 
-- Affinity for [[Force Abilities & Phenomena/Force ghosts\|Force ghosts]] 
+- Affinity for [[Force Abilities & Phenomena/Force ghost\|Force ghost]] 
 
 **Weaknesses**::
 - power
