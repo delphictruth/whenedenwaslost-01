@@ -34,6 +34,8 @@
 | [[Characters/Darth Krayt\|Darth Krayt]]                       | [[Force Traditions & Sects/One Sith\|One Sith]]                       | Sith Lord         | [[Navigational/Planets/Tatooine\|Tatooine]]   | Unknown  |
 | [[Characters/Darth Malak\|Darth Malak]]                       | \-                                                                       | Sith Lord         | \-                                               | Deceased |
 | [[Characters/Darth Nihilus\|Darth Nihilus]]                   | [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | Unknown                                          | Deceased |
+| [[Characters/Darth Rivan\|Darth Rivan]]                       | \-                                                                       | \-                | \-                                               | \-       |
+| [[Characters/Darth Ruin\|Darth Ruin]]                         | \-                                                                       | \-                | \-                                               | \-       |
 | [[Characters/Darth Sidious\|Darth Sidious]]                   | [[Force Traditions & Sects/Banite Sith\|Banite Sith]]                 | Sith Lord         | [[Navigational/Naboo.md\|Naboo]]                 | Deceased |
 | [[Characters/Darth Sion\|Darth Sion]]                         | [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                               | \-       |
 | [[Characters/Darth Traya\|Darth Traya]]                       | [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                               | Deceased |
@@ -75,6 +77,7 @@
 | [[Characters/Roman Ange\|Roman Ange]]                         | [[Organizations/First Order\|First Order]]                            | Jedi Padawan      | \-                                               | Alive    |
 | [[Characters/Roslyn Dystra\|Roslyn Dystra]]                   | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Knight       | \-                                               | Deceased |
 | [[Characters/Rye Kole\|Rye Kole]]                             | \-                                                                       | No sensitivity    | [[Navigational/Planets/Rhinnal\|Rhinnal]]     | Deceased |
+| [[Characters/Skere Kaan\|Skere Kaan]]                         | \-                                                                       | \-                | \-                                               | \-       |
 | [[Characters/Snoke\|Snoke]]                                   | [[Organizations/First Order\|First Order]]                            | Sith Lord         | Unknown                                          | Alive    |
 | [[Characters/Talia Draig\|Talia Draig]]                       | [[Organizations/Resistance\|Resistance]]                              | Force-sensitive   | [[Navigational/Planets/Carida\|Carida]]       | Alive    |
 | [[Characters/Titanium Octan Makensi\|Titanium Octan Makensi]] | Independent                                                              | Force-user        | [[Navigational/Planets/Nallastia\|Nallastia]] | Alive    |
