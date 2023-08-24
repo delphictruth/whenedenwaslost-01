@@ -6,7 +6,7 @@
 - Also known as
 
 # Disciples of Ragnos 
-The Disciples of Ragnos refers to the cult(s) that formed in honor of Dark Lord of the Sith [[Characters/Dark Lord Ragnos\|Maka Ragnos]], whose [[Force Abilities & Phenomena/Force ghosts\|Sith ghost]] still lived on in the [[Navigational/Planets/Moraband#Tomb of Maka Ragnos\|Tomb of Maka Ragnos]] in the [[Navigational/Planets/Moraband#Valley of the Dark Lords\|Valley of the Dark Lords]] on [[Navigational/Planets/Moraband\|Moraband]].
+The Disciples of Ragnos refers to the cult(s) that formed in honor of Dark Lord of the Sith [[Characters/Dark Lord Ragnos\|Maka Ragnos]], whose [[Force Abilities & Phenomena/Force ghost\|Sith ghost]] still lived on in the [[Navigational/Planets/Moraband#Tomb of Maka Ragnos\|Tomb of Maka Ragnos]] in the [[Navigational/Planets/Moraband#Valley of the Dark Lords\|Valley of the Dark Lords]] on [[Navigational/Planets/Moraband\|Moraband]].
 
 Centuries after his death, the [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] was dedicated to learning the ghost's teachings and to trying to bring him back to life. They spent several generations trying to find the [[Weapons/Sceptor of Ragnos\|Sceptor of Ragnos]], the Sith Lord's lost sword, which was capable of siphoning Dark side energy and transferring it to individuals to make them Force sensitive. They intended to grow their numbers and try to use the Sceptor to solidify Ragnos's ghost. However, the group was destroyed before they could ever locate the Sceptor.
 
