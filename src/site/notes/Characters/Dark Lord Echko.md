@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/dark-lord-echko/","tags":["ghost","sith","unfinished","forcesensitive","formvi"]}
+{"dg-publish":true,"permalink":"/characters/dark-lord-echko/","tags":["forceghost","sith","unfinished","forcesensitive","formvi"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
