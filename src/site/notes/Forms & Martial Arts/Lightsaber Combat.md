@@ -3,7 +3,7 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as 
+- *No other names on records*
 # Lightsaber Combat
 Description
 
@@ -18,6 +18,8 @@ Description
 
 { .block-language-dataview}
 ## Other Techniques
+- [[Forms & Martial Arts/Center of Being\|Center of Being]]
+- [[Forms & Martial Arts/Dun Möch\|Dun Möch]]
 - [[Forms & Martial Arts/Jar'Kai\|Jar'Kai]]
 - [[Forms & Martial Arts/Teräs Käsi\|Teräs Käsi]]
 - [[Forms & Martial Arts/Trákata\|Trákata]]
