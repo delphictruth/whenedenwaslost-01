@@ -9,9 +9,11 @@
 
 Desc
 
-**Specialists**
+**Practitioners**::
 - [[Characters/Bardolph Vos\|Bardolph Vos]]
+- [[Characters/Rathos Visio\|Rathos Visio]]
 
+{ .block-language-dataview}
 ## Jedi Path Excerpts
 ![makashi1.jpg](/img/user/Photos/makashi1.jpg)
 ![makashi2.jpg](/img/user/Photos/makashi2.jpg)
