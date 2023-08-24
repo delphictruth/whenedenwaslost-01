@@ -11,7 +11,7 @@ Users of Deadly Sight can damage entire groups of foes within their field of vis
 
 Attempts to refine its effects have largely been unsuccessful, though there may be little research involved given that the power has historically been used only by Darksiders. It is also extremely tiring to sustain and tends to be too inefficient for prolonged use. 
 
-It used to be an extraordinary rare ability, but its usage exploded in the last decades of the New Sith Wars. As it became more prominent and known to the galaxy, the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] forbid its use or study by Jedi Knights. 
+It used to be an extraordinary rare ability, but its usage exploded in the last decades of the [[Events/New Sith Wars\|New Sith Wars]]. As it became more prominent and known to the galaxy, the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] forbid its use or study by Jedi Knights. 
 
 **Specialists**::
 - [[Characters/Bardolph Vos\|Bardolph Vos]]
