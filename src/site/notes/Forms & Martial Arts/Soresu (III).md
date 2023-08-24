@@ -13,7 +13,7 @@ The core tenets of Soresu encourage duelists to place themselves "within the eye
 
 Despite its effectiveness, Soresu is heavily criticized for its lack of offensive capabilities, as it facilitates survival rather than victory. The more aggressive forms, [[Forms & Martial Arts/Ataru (IV)\|Ataru]] and [[Forms & Martial Arts/Djem So (V)\|Shien]], were developed simultaneously to address this passivity. 
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
 
 { .block-language-dataview}
