@@ -9,7 +9,7 @@
 
 An uncommon technique in [[Forms & Martial Arts/Lightsaber Combat\|lightsaber combat]]. It is not necessarily it's own form, but rather a strategy that can be combined with more traditional forms. 
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Chevalier Hellix\|Chevalier Hellix]]
 - [[Characters/Darth Traya\|Darth Traya]]
 
