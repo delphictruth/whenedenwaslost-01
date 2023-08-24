@@ -8,7 +8,7 @@
 
 Tython is the birthplace and home of the [[Force Traditions & Sects/Je'daii Order\|Je'daii Order]], an ancient predeccesor of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]]. It is a once-verdant world that is incredibly rich in the Force, orbited by two moons that represented the Light and the Dark and influenced the central tenants of the Je'daii. It orbits the sun, Tythos, and is located on the now lost [[Navigational/Hyperlanes/Tython hyperspace route\|Tython hyperspace route]].
 
-While it has a number of continents, with variable geography, it is marked by immense [[Force Abilities & Phenomena/Force Storms\|Force Storms]] and groundquakes that ravage the surface of the planet in response to fluctuations in the Force. It makes the planet rather perilous for non-Force-sensitives. 
+While it has a number of continents, with variable geography, it is marked by immense [[Force Abilities & Phenomena/Force storms\|Force storms]] and groundquakes that ravage the surface of the planet in response to fluctuations in the Force. It makes the planet rather perilous for non-Force-sensitives. 
 
 **Region**::  [[Deep Core\|Deep Core]]
 **Sector**::  N/A
