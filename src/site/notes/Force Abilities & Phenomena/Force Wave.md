@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-wave/","tags":["universal","forcepower","offense","utility","alter"]}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-wave/","tags":["universal","forcepower","alter"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
