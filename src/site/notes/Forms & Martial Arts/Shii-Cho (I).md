@@ -15,7 +15,7 @@ It is characterized by wide, sweeping motions ideal for engaging multiple oppone
 
 Shii-Cho philosophy emphasizes victory without injury, so every move is geared towards quickly disarming an opponent before the fight can escelate. 
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Alfred Jonnas\|Alfred Jonnas]]
 - [[Characters/Isa Phant\|Isa Phant]]
 - [[Characters/Lilith Nicolescu\|Lilith Nicolescu]]
