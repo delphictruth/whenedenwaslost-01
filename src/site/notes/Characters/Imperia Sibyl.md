@@ -62,7 +62,7 @@ The Mother
 **Strengths**::
 - [[Force Abilities & Phenomena/Force healing\|Force healing]]
 - [[Force Abilities & Phenomena/Hibernation trance\|Hibernation trance]]
-- [[Force Abilities & Phenomena/Center of Being\|Center of Being]]
+- [[Forms & Martial Arts/Center of Being\|Center of Being]]
 - [[Force Abilities & Phenomena/Battle Meditation\|Battle Meditation]]
 - [[Force Abilities & Phenomena/Wall of Light\|Wall of Light]]
 - [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]]
