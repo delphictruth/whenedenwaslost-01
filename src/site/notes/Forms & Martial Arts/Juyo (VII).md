@@ -15,7 +15,7 @@ Notably, while both styles of Form VII have their own opening stances and classi
 
 *"In many ways, some have described it as a surrender to the Force and to chaos, to strike at an opponent with such speed and angles of attack that they have difficulty countering it. But in surrendering yourself to the Force in such a way reduces your ability to resist its effects should the enemy turn the Force against you. Be on your guard."* — Jedi Master [[Characters/Darth Traya\|Kreia]] to Jedi Padawans
 
-**Practitioners**
+**Practitioners**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
 - [[Characters/Chevalier Hellix\|Chevalier Hellix]]
 - [[Characters/Octavia Bonteri\|Octavia Bonteri]]
