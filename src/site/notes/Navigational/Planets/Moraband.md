@@ -26,5 +26,5 @@ Desc
 
 
 ### Tomb of Maka Ragnos
-The final resting place of [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], an ancient Sith lord who still lingered in the Tomb as a [[Force Abilities & Phenomena/Force ghosts\|Sith ghost]] centuries after his death. It is located in the Valley of the Dark Lords on [[Navigational/Planets/Moraband\|Moraband]] and is also where the [[Weapons/Sceptor of Ragnos\|Sceptor of Ragnos]] was once hidden. 
+The final resting place of [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]], an ancient Sith lord who still lingered in the Tomb as a [[Force Abilities & Phenomena/Force ghost\|Sith ghost]] centuries after his death. It is located in the Valley of the Dark Lords on [[Navigational/Planets/Moraband\|Moraband]] and is also where the [[Weapons/Sceptor of Ragnos\|Sceptor of Ragnos]] was once hidden. 
 
