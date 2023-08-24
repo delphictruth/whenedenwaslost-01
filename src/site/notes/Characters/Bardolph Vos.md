@@ -67,9 +67,9 @@ Bardolph doesn't practice any particular style of Force belief, nor does he nece
 - [[Force Abilities & Phenomena/Shatterpoint\|Shatterpoint]]
 - [[Force Abilities & Phenomena/Force sight\|Force sight]]
 - [[Force Abilities & Phenomena/Crucitorn\|Crucitorn]]
-- [[Force Abilities & Phenomena/Deadly sight\|Deadly sight]]
+- [[Force Abilities & Phenomena/Deadly Sight\|Deadly Sight]]
 - [[Force Abilities & Phenomena/Mind Tricks#Force fear\|Force fear]]
-- Practices the Sith art [[Force Abilities & Phenomena/Dun Möch\|Dun Möch]]
+- Practices the Sith art [[Forms & Martial Arts/Dun Möch\|Dun Möch]]
 
 **Weaknesses**::
 - [[Force Abilities & Phenomena/Force healing\|Force healing]]
