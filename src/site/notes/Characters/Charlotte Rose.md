@@ -51,7 +51,7 @@ Specializes in [[]]
 Fallanassi White Current 
 
 **Strengths**::
-- power
+- [[Force Abilities & Phenomena/Force immersion\|Force immersion]]
 
 **Weaknesses**::
 - power
