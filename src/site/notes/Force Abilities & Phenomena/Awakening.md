@@ -5,7 +5,6 @@
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Discovery*
 # Awakening
-
 An Awakening refers to the instant in which a latent [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitive]] suddenly becomes actively aware of their abilities. It is not unusual for Force-sentitive children who go undetected by the Jedi to not realize their potential, and frequently they do by mere happenstance. Similarly, those with low grade Force sensitivity may remain latent for their entire lives, absent an Awakening. 
 
 Some consider an Awakening to be a given at certain levels of Force sensitivity. Most who have a strong enough connection with the Force to be trained eventually do have one, and typically at relatively young ages. Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] spoke of it as such, claiming that the Force cannot forever be "contained" within a Force-sensitive if they indeed have a strong enough connection to feel it. 
@@ -15,9 +14,12 @@ Another theory, and one that does not necessarily discredit the first, is that A
 The trigger theory has been largely accepted on some level by Jedi philosophers. Many Force-sensitives come into their power suddenly and violently, with abrupt Awakenings being triggered by traumatic or emotional events. It appears that an Awakening may be a given for those with stronger connections, but that it can be triggered *sooner*; like-wise, a Force-sensitive with a strong connection who is not triggered into an Awakening will often nonetheless have one naturally and less violently. 
 
 Awakenings are known to set off a ripple effect in the Force. While this is often in connection with a burst of natural energy — the by-product of the triggering event at its core — it is also theorized that newly Awakened adepts temporarily put out a stronger signature, almost a beacon of awareness for Force-sensitives nearby. Some can be sensed from systems away. 
+### Appearances in *When Eden Was Lost*
 
-### Recorded Awakenings
+In **Book I**, [[Characters/Snoke\|Snoke]] refers to [[Characters/Hazel Caelum\|Hazel Caelum]]'s "Awakening" when speaking with [[Characters/Bastille Aurelius\|Ani Ren]].
 
+In **Book XII**, during [[Characters/Talia Draig\|Talia Draig]]'s flashback, it is mentioned that they had hoped that [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] would Awaken "slowly and easily" after they discover him on the pirate ship, presumptively post-Awakening.
+## Recorded Awakenings
 Modern records of Awakenings seem to mostly reflect [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] adepts, but there are a few records of Awakenings from just prior to the [[Events/Fall of the Jedi Order\|Fall of the Jedi Order]].
 * [[Characters/Pollutis Kun\|Isaak Malori]], 23 BBY, age 4: Isaak is Awakened in a minor accident and brought to the [[Force Traditions & Sects/Jedi Order\|Jedi Order]].
 * [[Characters/Raegal Aurelius\|Alban Draig]], 17 BBY, age 1: Alban shows early signs of Force-sensitivity in a gradual Awakening. Shortly thereafter, he is kidnapped and presumed dead.
