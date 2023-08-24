@@ -9,7 +9,7 @@ Psychometry is the mirror image of [[Force Abilities & Phenomena/Precognition\|P
 
 Unlike other Force abilities, Psychometry cannot be cultivated or taught to Force sensitives. It is an innate skill that can only be honed and practiced by those who are born with the ability. 
 
-**Known Users**
+**Known Users**::
 - [[Characters/Pirphal Chthonios\|Pirphal Chthonios]]
 - [[Characters/Cecily Beaumont\|Cecily Beaumont]]
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
