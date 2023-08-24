@@ -66,7 +66,7 @@ text
 
 **Strengths**::
 - [[Force Abilities & Phenomena/Shadow vision\|Shadow vision]]
-- [[Force Abilities & Phenomena/Beast Control\|Beast Control]]
+- [[Force Abilities & Phenomena/Animal bond\|Animal bond]]
 - [[Force Abilities & Phenomena/Mechu-Deru\|Mechu-Deru]]
 - Mounted combat
 
