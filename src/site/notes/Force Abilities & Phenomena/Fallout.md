@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/fallout/","tags":["universal","forcepower"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/fallout/","tags":["universal","forcepower"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
