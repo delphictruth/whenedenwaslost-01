@@ -15,7 +15,7 @@ According to Jedi Battlemaster Cin Drallig, if a duelist dedicated himself exclu
 
 As a dual-wield form, some refer to it as a [[Forms & Martial Arts/Jar'Kai\|Jar'Kai tactic]]. Interestingly, Niman was originally developed by the [[Force Traditions & Sects/Legions of Lettow\|Legions of Lettow]], a sect of Dark Jedi that broke away from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and named the Form after the Kashi gods that they worshipped. Nevertheless, it still found its way into the Order's teachings. 
 
-**Specialists**
+**Practitioners**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
 - [[Characters/Dark Lord Echko\|Dark Lord Echko]]
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]]
