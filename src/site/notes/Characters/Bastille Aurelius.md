@@ -69,7 +69,7 @@ Bastille is an extremely versatile fighter, having reached some level of mastery
 
 ### Forms
 
-Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particularly in the reverse-grip and dual wield styles. He is highly versatile in combat, dabbling in most of the Forms, but he prefers unpredictability of [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]] and the swift counter-attacks of [[Forms & Martial Arts/Djem So (V)\|Djem So (V)]]. He primarly keeps his off-hand free for use of Force attacks mid-combat. 
+Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particularly in the reverse-grip and dual wield styles. He is highly versatile in combat, dabbling in most of the Forms, but he prefers unpredictability of [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]] and the swift counter-attacks of [[Forms & Martial Arts/Djem So (V)\|Djem So (V)]]. He primarily keeps his off-hand free for use of Force attacks mid-combat. 
 
 ### Force Beliefs & Usage
 
@@ -80,19 +80,18 @@ Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particu
 - [[Force Abilities & Phenomena/Flow-walking\|Flow-walking]]
 - [[Force Abilities & Phenomena/Force meld\|Force meld]]
 - [[Force Abilities & Phenomena/Battle Precognition\|Battle Precognition]]
-- [[Force Abilities & Phenomena/Force empathy\|Force empathy]]
+- [[Force Abilities & Phenomena/Force empathy\|Force empathy]] ([[Force Abilities & Phenomena/Force empathy#Receptive Telepathy\|Receptive Telepathy]])
 - [[Force Abilities & Phenomena/Force deflection\|Force deflection]]
 - [[Force Abilities & Phenomena/Pyrokinesis\|Pyrokinesis]]
 - [[Force Abilities & Phenomena/Force stun\|Force stun]]
 - [[Force Abilities & Phenomena/Mind Tricks\|Mind Tricks]]
-- [[Force Abilities & Phenomena/Receptive Telepathy\|Receptive Telepathy]]
 - Combatting [[Force Abilities & Phenomena/Torture by Chagrin\|Torture by Chagrin]]
 - Capable of [[Force Abilities & Phenomena/Spirit Transference\|Spirit Transference]]
 
 **Weaknesses**::
 - [[Force Abilities & Phenomena/Force healing\|Force healing]]
 - [[Force Abilities & Phenomena/Precognition\|Precognition]]
-- [[Force Abilities & Phenomena/Center of Being\|Center of Being]]
+- [[Forms & Martial Arts/Center of Being\|Center of Being]]
 - Balancing that relies on peace
 
 ## Weapons
@@ -109,7 +108,7 @@ After recovering the lost [[Crystals/Darksaber\|Darksaber]], Bastille dismantled
 
 Bastille Aurelius is the legacy of two iconic families from the [[Directories/Timeline#Galatic Civil War Era\|Galactic Civil War]], and he has had an extremely chaotic life to show for it. He was primarily raised by his aunts, [[Characters/Talia Draig\|Talia Draig]] and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]], and believed [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] to be his mother for the majority of his life. He was 15 when the scandal of him being the Sith [[Characters/Raegal Aurelius\|Raegal Aurelius]]'s son became public knowledge, and Bastille thought the truth explained the oddities of his life.
 
-He has always been able to hear the Sith of the past in his thoughts, and seems to have a peculiar connection to the [[Force Abilities & Phenomena/Force ghosts\|Force ghosts]] who have haunted him all his life. His temperment reflected the chaos frequently as a child, and he was watched very closely by [[Characters/Dahlia Coutier\|Dahlia Coutier]] at the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] for fear that he was naturally inclined towards the Dark side. This suspicion grew among the other Knights and Padawans after his parentage was revealed, and most thought that something like the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]] was inevitable. 
+He has always been able to hear the Sith of the past in his thoughts, and seems to have a peculiar connection to the [[Force Abilities & Phenomena/Force ghost\|Force ghosts]] who have haunted him all his life. His temperment reflected the chaos frequently as a child, and he was watched very closely by [[Characters/Dahlia Coutier\|Dahlia Coutier]] at the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]] for fear that he was naturally inclined towards the Dark side. This suspicion grew among the other Knights and Padawans after his parentage was revealed, and most thought that something like the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]] was inevitable. 
 
 Ironically, when the [[Events/Fall of the Jedi Praxeum\|Fall]] finally came, Bastille was not at the heart of it. Instead, he took [[Characters/Roman Ange\|Roman Ange]]'s place in order to spare the young Padawan and because everyone assumed that he had been the one to call down the Sith [[Characters/Darth Grimm\|Darth Grimm]] in the first place. He planned to turn his exile into an opportunity, but was surprisingly joined by the majority of his [[Force Traditions & Sects/Jedi Praxeum\|Jedi Padawan Class]] in his defection. 
 
