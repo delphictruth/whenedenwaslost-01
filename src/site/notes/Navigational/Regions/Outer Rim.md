@@ -56,7 +56,7 @@ The Outer Rim is located outside of the [[Navigational/Regions/Mid Rim\|Mid Rim]
 - [[Navigational/Planets/Tatooine\|Tatooine]]
 - [[Navigational/Planets/Utapau\|Utapau]]
 - [[Navigational/Planets/Yavin 4\|Yavin 4]]
-- [[Navigational/Planets/Zoist\|Zoist]]
+- [[Navigational/Planets/Ziost\|Ziost]]
 
 { .block-language-dataview}
 ### Hyperlanes
