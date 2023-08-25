@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/directories/directory-of-characters/","hideInGraph":true,"tags":["meta"],"dgShowLocalGraph":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/directories/directory-of-characters/","hideInGraph":true,"tags":["meta"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false,"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
 # Directory of Characters
 
 | Character                                                        | Allegiance                                                               | Force Sensitivity | Homeworld                                        | Status   |
