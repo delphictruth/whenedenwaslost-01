@@ -11,5 +11,5 @@ The Battle on Takodana occurred during the Resistance-First Order War on [[Navig
 During the Battle, [[Characters/Hazel Caelum\|Hazel Caelum]] was separated from the rest of the Resistance and encountered the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] for the first time. [[Characters/Bastille Aurelius\|Ani Ren]] learned that Hazel had seen the map and captured her, marking the Knights' retreat and taking her back to the *Finalizer*.
 
 **Location**::  [[Navigational/Planets/Takodana\|Takodana]]
-**Year**::  [[Directories/Timeline#31 ABY\|31 ABY]]
+**Year**::  [[Events/Timeline#31 ABY\|31 ABY]]
 **When Eden Was Lost**:: Book II; Book III
