@@ -65,13 +65,13 @@ Alfred specializes in [[Forms & Martial Arts/Shii-Cho (I)\|Shii-Cho (I)]], thoug
 text
 
 **Strengths**::
-- [[Force Abilities & Phenomena/Shadow vision\|Shadow vision]]
+- [[Force Abilities & Phenomena/Shadow Vision\|Shadow Vision]]
 - [[Force Abilities & Phenomena/Animal bond\|Animal bond]]
 - [[Force Abilities & Phenomena/Mechu-Deru\|Mechu-Deru]]
 - Mounted combat
 
 **Weaknesses**::
-- [[Force Abilities & Phenomena/Levitation\|Levitation]]
+- [[Levitation\|Levitation]]
 - [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]]
 ## Weapons
 
