@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-martial-arts/makashi-ii/","tags":["form","unfinished"]}
+{"dg-publish":true,"permalink":"/forms-and-martial-arts/makashi-ii/","tags":["form","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
