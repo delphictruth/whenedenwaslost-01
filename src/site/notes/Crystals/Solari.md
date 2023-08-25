@@ -8,5 +8,9 @@
 # Solari
 Description
 
-**Appearances**
+**Locations**:: 
+**Colors**:: 
+**Attunement**:: Attuned
+
+**Appearances**::
 - 
