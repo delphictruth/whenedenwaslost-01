@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crystals/permafrost/","tags":["crystal","attuned","blue"]}
+{"dg-publish":true,"permalink":"/crystals/permafrost/","tags":["crystal","attuned","blue"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
