@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/mandalore/","tags":["map","outerrim","mandalore","unfinished","planet"]}
+{"dg-publish":true,"permalink":"/navigational/planets/mandalore/","tags":["map","outerrim","mandalore","unfinished","planet"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
