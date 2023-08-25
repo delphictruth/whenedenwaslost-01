@@ -11,7 +11,7 @@ Alfred is the crown Prince of [[Navigational/Planets/Artorias\|Artorias]], but h
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Artorias\|Artorias]]
-**Birth**::  [[Directories/Timeline#8 ABY\|8 ABY]]
+**Birth**::  [[Events/Timeline#8 ABY\|8 ABY]]
 **Death**::  N/A
 **Status**::  Alive
 
@@ -39,7 +39,7 @@ Alfred is the crown Prince of [[Navigational/Planets/Artorias\|Artorias]], but h
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
-**Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
+**Knighted**::  [[Events/Timeline#26 ABY\|26 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
