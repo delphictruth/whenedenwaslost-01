@@ -10,7 +10,7 @@
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Nallastia\|Nallastia]]
-**Birth**::  [[Directories/Timeline#11 ABY\|11 ABY]]
+**Birth**::  [[Events/Timeline#11 ABY\|11 ABY]]
 **Death**::  N/A
 **Status**::  Alive
 
