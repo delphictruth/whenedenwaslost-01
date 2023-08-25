@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/hyperlanes/duros-space-run/","tags":["map","hyperlane","midrim"]}
+{"dg-publish":true,"permalink":"/navigational/hyperlanes/duros-space-run/","tags":["map","hyperlane","midrim"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
