@@ -96,11 +96,11 @@ Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particu
 
 ### Jedi Saber
 
-Bastille's Jedi lightsaber from his time at the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]. He chose not to [[Force Abilities & Phenomena/Bleed\|bleed]] the [[Crystals/Lightsaber crystals\|crystal]] for his new weapon, and instead continues to wield it when dual-wielding given the relatively neutral attunement of the crystal. It has a silver modified hilt stylized for [[Forms & Martial Arts/Djem So (V)\|Form V]], more rigid and slightly longer for single or double hand grips, and has separate facets for offenses and defense. It is powered by an [[Crystals/Attuned crystal\|attuned]] [[Crystals/Permafrost\|Permafrost]] crystal, which gives the blade an icy blue color.
+Bastille's Jedi lightsaber from his time at the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]]. He chose not to [[Force Abilities & Phenomena/Bleed\|bleed]] the [[Crystals/Lightsaber crystal\|crystal]] for his new weapon, and instead continues to wield it when dual-wielding given the relatively neutral attunement of the crystal. It has a silver modified hilt stylized for [[Forms & Martial Arts/Djem So (V)\|Form V]], more rigid and slightly longer for single or double hand grips, and has separate facets for offenses and defense. It is powered by an [[Attuned crystal\|attuned]] [[Crystals/Permafrost\|Permafrost]] crystal, which gives the blade an icy blue color.
 
 ### Darksider Saber
 
-After recovering the lost [[Crystals/Darksaber\|Darksaber]], Bastille dismantled it to take the [[Crystals/Lightsaber crystals\|crystal]] that used to power it. He built a new casing, nearly identical to his Jedi lightsaber but utilizing a matte black steel for the hilt. The black blade that is produced is unstable and static-y in appearance, often letting off bursts of electricity in response to hightened emotional states. 
+After recovering the lost [[Crystals/Darksaber\|Darksaber]], Bastille dismantled it to take the [[Crystals/Lightsaber crystal\|crystal]] that used to power it. He built a new casing, nearly identical to his Jedi lightsaber but utilizing a matte black steel for the hilt. The black blade that is produced is unstable and static-y in appearance, often letting off bursts of electricity in response to hightened emotional states. 
 
 ## History & Plot Significance
 
