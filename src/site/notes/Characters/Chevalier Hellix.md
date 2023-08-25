@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/chevalier-hellix/","tags":["fallenjedi","firstorder","jediknight","knightsofren","jedipraxeum","formvii","trakata","forcesensitive","unfinished"]}
+{"dg-publish":true,"permalink":"/characters/chevalier-hellix/","tags":["fallenjedi","firstorder","jediknight","knightsofren","jedipraxeum","formvii","trakata","forcesensitive","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
