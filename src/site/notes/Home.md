@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false}
+{"dg-publish":true,"permalink":"/home/","hide":true,"tags":["gardenEntry"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false,"noteIcon":"saber1"}
 ---
 
 ![praxeum.png](/img/user/Photos/praxeum.png)
