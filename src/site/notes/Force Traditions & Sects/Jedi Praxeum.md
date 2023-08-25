@@ -8,7 +8,7 @@
 
 The Jedi Paxeum was established by Grand Jedi Master [[Characters/Dahlia Coutier\|Dahlia Coutier]], in the hope of establishing the [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]. She and Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] worked to find students and train them in the way of the Jedi on [[Navigational/Planets/Yavin 4\|Yavin 4]]. 
 
-In the end, they only had four [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Classes\|Jedi Padawan Classes]] before the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]] in [[Directories/Timeline#28 ABY — Fall of the Jedi Praxeum\|28 ABY]], and only three of those had graduated to Knights. 
+In the end, they only had four [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Classes\|Jedi Padawan Classes]] before the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]] in [[Events/Timeline#28 ABY — Fall of the Jedi Praxeum\|28 ABY]], and only three of those had graduated to Knights. 
 
 ## All Members
 | Name                                                       | Rank              | Forms                                                       | Padawan Class                                                                             | Status   |
@@ -45,15 +45,15 @@ Some classes are Knighted early, on account of special circumstances; typically 
 
 ### Jedi Padawan Class I
 
-Graduated in [[Directories/Timeline#21 ABY\|21 ABY]]
+Graduated in [[Events/Timeline#21 ABY\|21 ABY]]
 
 ### Jedi Padawan Class II
 
-Graduated in [[Directories/Timeline#21 ABY\|24 ABY]]
+Graduated in [[Events/Timeline#21 ABY\|24 ABY]]
 
 ### Jedi Padawan Class III
 
-Special graduation in [[Directories/Timeline#26 ABY\|26 ABY]]
+Special graduation in [[Events/Timeline#26 ABY\|26 ABY]]
 
 ### Jedi Padawan Class IV
 
