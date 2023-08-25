@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/kalarba/","tags":["map","midrim","planet","duros","retraining","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/planets/kalarba/","tags":["map","midrim","planet","duros","retraining","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
