@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/sectors/savareen-sector/","tags":["map","sector","unfinished","corellian","triellus","outerrim"]}
+{"dg-publish":true,"permalink":"/navigational/sectors/savareen-sector/","tags":["map","sector","unfinished","corellian","triellus","outerrim"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
