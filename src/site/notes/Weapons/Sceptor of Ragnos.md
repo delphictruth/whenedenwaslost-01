@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/sceptor-of-ragnos/","tags":["fauna"]}
+{"dg-publish":true,"permalink":"/weapons/sceptor-of-ragnos/","tags":["fauna"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
