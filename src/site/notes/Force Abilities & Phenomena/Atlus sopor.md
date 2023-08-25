@@ -5,7 +5,9 @@
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Force stealth*, *Force Concealment*, *Buried Presence*, *Quey'tek meditation*
 # Atlus sopor
-*Atlus supor* is the tradition term for the Force ability to increase a user's force on and connection with the Force. It is a basic area of [[Force Abilities & Phenomena/Aspects of the Force#Control\|Control]] that, when practiced in the extreme, could allow the user to "merge" into the Force and become invisible to others (an ability more modernly known as *Force stealth*).
+*Atlus supor* is the traditional term for the Force ability to increase a user's force on and connection with the Force. It is a basic area of [[Force Abilities & Phenomena/Aspects of the Force#Control\|Control]] that, when practiced in the extreme, could allow the user to "merge" into the Force and become invisible to others (an ability more modernly known as *Force stealth*).
+
+A mirror ability achieved through a meditation based on [[Force Abilities & Phenomena/Aspects of the Force#Sense\|Sense]] as opposed to Control is called [[Force Abilities & Phenomena/Force sense#Clear mind\|clear mind]].
 
 **Specialists**::
 - [[Characters/Chevalier Hellix\|Chevalier Hellix]]
