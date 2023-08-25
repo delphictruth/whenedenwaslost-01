@@ -31,7 +31,7 @@ A third position is a two-handed low guard, with the hilt held at waist height i
 
 ## Common Maneuvers
 
-In keeping with the tactic of incorporating Force powers into combat, two primary Form VI maneuvers, the "draw closer" and the "pushing slash", are conjunctions between lightsaber moves and [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]] attacks. Effectively polar opposites of one another, the "draw closer" involves telekinetically seizing an opponent and pulling the enemy into the path of his blade, while the "pushing slash" slams the opponent with a Force push after scoring an attack.
+In keeping with the tactic of incorporating Force powers into combat, two primary Form VI maneuvers, the "draw closer" and the "pushing slash", are conjunctions between lightsaber moves and [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]] attacks. Effectively polar opposites of one another, the "draw closer" involves telekinetically seizing an opponent and pulling the enemy into the path of his blade, while the "pushing slash" slams the opponent with a [[Force Abilities & Phenomena/Telekinesis#Force Push\|Force Push]] after scoring an attack.
 
 ![Niman.png](/img/user/Photos/Niman.png)
 
