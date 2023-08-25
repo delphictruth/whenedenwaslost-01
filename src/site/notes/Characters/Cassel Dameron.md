@@ -10,7 +10,7 @@
 ## Personal Information
 
 **Homeworld**:: 
-**Birth**::  [[Directories/Timeline#8 ABY\|8 ABY]]
+**Birth**::  [[Events/Timeline#8 ABY\|8 ABY]]
 **Death**::  N/A
 **Status**::  Alive
 
