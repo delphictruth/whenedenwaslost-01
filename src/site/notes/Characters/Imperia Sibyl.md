@@ -64,10 +64,8 @@ The Mother
 - [[Force Abilities & Phenomena/Hibernation trance\|Hibernation trance]]
 - [[Forms & Martial Arts/Center of Being\|Center of Being]]
 - [[Force Abilities & Phenomena/Battle Meditation\|Battle Meditation]]
-- [[Force Abilities & Phenomena/Wall of Light\|Wall of Light]]
+- [[Force Abilities & Phenomena/Wall of light\|Wall of light]]
 - [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]]
-- [[Force Abilities & Phenomena/Malacia\|Malacia]]
-- [[Force Abilities & Phenomena/Morichro\|Morichro]]
 
 **Weaknesses**::
 - Hand-to-hand combat
