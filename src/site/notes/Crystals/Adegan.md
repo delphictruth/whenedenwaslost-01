@@ -5,7 +5,6 @@
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - Also known as *Ilum*
 # Adegan
-
 Adegan crystals are primarily sourced from their namesake system, [[Navigational/Systems/Adega system\|Adega]]. Although they are often considered interchangeable with *Ilum crystals*, it is more accurate to consider Adegan crystals to be a variant or subset of Ilum.
 
 Adegan crystals are more potent than the broad Ilum category, with an enhanced connection to the Force that is not quite as replicated in Ilum crystals. Ilum crystals, while slightly less powerful, are nonetheless very common and easier to find that the Adegan variant. 
