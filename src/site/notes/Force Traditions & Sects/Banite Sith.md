@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-traditions-and-sects/banite-sith/","tags":["unfinished","faction"]}
+{"dg-publish":true,"permalink":"/force-traditions-and-sects/banite-sith/","tags":["unfinished","faction"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
