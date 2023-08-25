@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/batuu/","tags":["map","planet","outerrim","trilon","retraining","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/planets/batuu/","tags":["map","planet","outerrim","trilon","retraining","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [[Directories/Timeline\|Back to Home]]
