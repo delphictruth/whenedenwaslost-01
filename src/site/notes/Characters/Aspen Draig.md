@@ -11,8 +11,8 @@ Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy an
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
-**Birth**::  [[Directories/Timeline#9ABY\|9 ABY]]
-**Death**::  [[Directories/Timeline#18 BBY\|18 BBY]]
+**Birth**::  [[Events/Timeline#9ABY\|9 ABY]]
+**Death**::  [[Events/Timeline#18 BBY\|18 BBY]]
 **Status**::  Deceased
 
 **Age**::  24 (at death)
