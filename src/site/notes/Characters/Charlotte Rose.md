@@ -37,7 +37,7 @@
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]] 
 **Padawan**::  N/A 
-**Knighted**::   [[Directories/Timeline#26 ABY\|26 ABY]]
+**Knighted**::   [[Events/Timeline#26 ABY\|26 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]] 
 
 ## Combat
