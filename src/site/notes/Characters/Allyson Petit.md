@@ -10,8 +10,8 @@
 ## Personal Information
 
 **Homeworld**::  
-**Birth**::  [[Directories/Timeline#1 ABY\|1 ABY]]
-**Death**::  [[Directories/Timeline#23 ABY\|23 ABY]]
+**Birth**::  [[Events/Timeline#1 ABY\|1 ABY]]
+**Death**::  [[Events/Timeline#23 ABY\|23 ABY]]
 
 **Age**::  22 (at death)
 **Gender**::  Female
@@ -38,7 +38,7 @@
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  [[Characters/Chevalier Hellix\|Chevalier Hellix]]
-**Knighted**::  [[Directories/Timeline#21 ABY\|21 ABY]]
+**Knighted**::  [[Events/Timeline#21 ABY\|21 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class I\|Padawan Class I]]
 ## History & Plot Significance
 
