@@ -10,8 +10,8 @@
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Axum\|Axum]]
-**Birth**::  [[Directories/Timeline#16 BBY\|16 BBY]]
-**Death**::  [[Directories/Timeline#9 ABY\|9 ABY]]
+**Birth**::  [[Events/Timeline#16 BBY\|16 BBY]]
+**Death**::  [[Events/Timeline#9 ABY\|9 ABY]]
 **Status**::  Deceased
 
 **Age**::  23 (at death)
