@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/imperia-sibyl/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jediknight","forcesensitive","unfinished","trayas"]}
+{"dg-publish":true,"permalink":"/characters/imperia-sibyl/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jediknight","forcesensitive","unfinished","trayas"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
