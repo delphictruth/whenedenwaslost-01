@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/systems/savareen-system/","tags":["map","system","outerrim","savareen","corellian"]}
+{"dg-publish":true,"permalink":"/navigational/systems/savareen-system/","tags":["map","system","outerrim","savareen","corellian"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
