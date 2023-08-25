@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/bunduki/","tags":["map","planet","outerrim","pacanth"]}
+{"dg-publish":true,"permalink":"/navigational/planets/bunduki/","tags":["map","planet","outerrim","pacanth"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
