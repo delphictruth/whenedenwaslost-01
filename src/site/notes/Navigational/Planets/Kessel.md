@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/kessel/","tags":["map","planet","outerrim","kessel","kesselsector","kesseltc"]}
+{"dg-publish":true,"permalink":"/navigational/planets/kessel/","tags":["map","planet","outerrim","kessel","kesselsector","kesseltc"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
