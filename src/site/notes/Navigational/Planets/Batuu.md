@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/batuu/","tags":["map","planet","outerrim","trilon","retraining","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [[Events/Timeline\|Back to Home]]
 - Also known as 
 # Batuu
 Batuu is a ... located in the [[Navigational/Sectors/Trilon sector\|Trilon sector]] of the [[Navigational/Regions/Outer Rim\|Outer Rim]]. 
