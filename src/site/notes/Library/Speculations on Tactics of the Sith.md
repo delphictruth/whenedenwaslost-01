@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/speculations-on-tactics-of-the-sith/","tags":[null]}
+{"dg-publish":true,"permalink":"/library/speculations-on-tactics-of-the-sith/","tags":[null],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
