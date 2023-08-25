@@ -10,7 +10,7 @@
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Corellia\|Corellia]]
-**Birth**::  [[Directories/Timeline#12 ABY\|12 ABY]]
+**Birth**::  [[Events/Timeline#12 ABY\|12 ABY]]
 **Death**::  N/A
 **Status**::  Alive
 
