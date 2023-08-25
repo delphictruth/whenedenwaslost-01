@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/kalarba/","tags":["map","midrim","planet","duros","retraining","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [[Directories/Timeline\|Back to Home]]
+- [[Events/Timeline\|Back to Home]]
 - Also known as 
 # Kalarba
 Desc
