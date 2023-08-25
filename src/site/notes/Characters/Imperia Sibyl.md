@@ -74,7 +74,7 @@ The Mother
 
 ### Jedi Sabers
 
-Imperia's Jedi lightsabers were three identical sabers crafted from [[Crystals/Durindfire\|Durindfire]] crystals specifically [[Crystals/Attuned crystal\|attuned]] to maintain harmony with her Force signature and with one another. They were light blue with a silvery sheen granted by the crystal, with standard silver hilts. 
+Imperia's Jedi lightsabers were three identical sabers crafted from [[Crystals/Durindfire\|Durindfire]] crystals specifically [[Attuned crystal\|attuned]] to maintain harmony with her Force signature and with one another. They were light blue with a silvery sheen granted by the crystal, with standard silver hilts. 
 
 ### Darksider Sabers
 
