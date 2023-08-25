@@ -23,8 +23,8 @@ While Force Lightning standardly appears blue, it can manifest in any number of 
 [[Characters/Snoke\|Snoke]] commonly employs Force Lightning against [[Characters/Bastille Aurelius\|Ani Ren]] in varying degrees of intensity. Occasionally *Force shocks* or *Dark Aura* are used just to issue a warning or act as a mild threat, but he also uses Lightning as a torture device.  
 ## Force shock
 *Force shock* is a Force power that allows the user to create an energy spark that tracks and damages the nearest enemy. The shock can stun or injure target, or else used merely to track a target until the energy dissipates. These shocks are miniature forms of Force Lightning. 
-## Force Storm
-One variant of Force Lightning is known as *Force storm*, wherein the user creates an explosion of electrical energy directed at all foes in the vicinity. This is a specific application of lightning and therefore not the same as a [[Force Abilities & Phenomena/Force storms\|Force storms]] or weather-conjuring applications of [[Force Abilities & Phenomena/Alter Environment\|Alter Environment]].
+## Force Storm (Summon Storm)
+One variant of Force Lightning is known as *Force storm*, wherein the user creates an explosion of electrical energy directed at all foes in the vicinity. This is a specific application of lightning and therefore not the same as a [[Force Abilities & Phenomena/Force storm\|Force storm]] or weather-conjuring applications of [[Force Abilities & Phenomena/Alter Environment\|Alter Environment]]. In more violent forms, combined with abilities such as [[Force Abilities & Phenomena/Force Wind\|Force Whirlwind]], Force Storm can be used to generate a larger and more extreme effect, but the storm will not last beyond the user's control. 
 ## Force Tempest 
 *Force Tempest* is a variant of Force Lightning in which the user projects Force Lightning from all of their limbs in a whirlwind that encircles their body. Some practitioners will twirl around while using Force Tempest, turning their own bodies into tempests.
 ## Chain lightning
