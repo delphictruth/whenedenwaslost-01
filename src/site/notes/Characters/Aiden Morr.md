@@ -11,7 +11,7 @@ Aiden Morr was the younger brother of Jedi Knight [[Characters/Marcus Morr\|Marc
 ## Personal Information
 
 **Homeworld**::  
-**Birth**::  [[Directories/Timeline#6 ABY\|6 ABY]]
+**Birth**::  [[Events/Timeline#6 ABY\|6 ABY]]
 **Death**:: 
 **Status**::  Deceased
 
