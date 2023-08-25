@@ -8,5 +8,9 @@
 # Krayt dragon pearl
 Description
 
-**Appearances**
+**Locations**::  
+**Colors**::  
+**Attunement**::  Unattuned
+
+**Appearances**::
 - [[Characters/Hazel Caelum\|Hazel Caelum]]'s second lightsaber
