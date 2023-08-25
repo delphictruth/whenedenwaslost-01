@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/hyperlanes/rimma-trade-route/","tags":["map","midrim","hyperlane","core","colonies","innerrim","expansion","outerrim"]}
+{"dg-publish":true,"permalink":"/navigational/hyperlanes/rimma-trade-route/","tags":["map","midrim","hyperlane","core","colonies","innerrim","expansion","outerrim"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
