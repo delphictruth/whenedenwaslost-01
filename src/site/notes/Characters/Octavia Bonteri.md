@@ -12,7 +12,7 @@ Octavia Bonteri was a Jedi padawan with the [[Force Traditions & Sects/Jedi Prax
 
 **Homeworld**::  
 **Birth**::   
-**Death**::  [[Directories/Timeline#25 ABY\|25 ABY]]
+**Death**::  [[Events/Timeline#25 ABY\|25 ABY]]
 **Status**::  Deceased
 
 **Age**::  
