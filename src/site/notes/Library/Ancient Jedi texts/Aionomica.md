@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/ancient-jedi-texts/aionomica/","tags":["library"]}
+{"dg-publish":true,"permalink":"/library/ancient-jedi-texts/aionomica/","tags":["library"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
