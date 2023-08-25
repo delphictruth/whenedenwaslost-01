@@ -21,5 +21,16 @@ body {
     --h6-size: 1.12em;
     
     --italic-color: #6a8695;
+    
+    --note-icon-1: url(/img/saber1.svg);
+    --note-icon-2: url(/img/saber2.svg);
+    --note-icon-3: url(/img/saber3.svg);
+    --note-icon-fallback: url(/img/default-note-icon.svg);
 
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="saber1"]::before,
+body.filetree-note-icon .filename[data-note-icon="saber1"]::before,
+body.links-note-icon .internal-link[data-note-icon="saber1"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="3"]::before {
+  background-image: url(/img/saber1.svg);
+    }
 }
