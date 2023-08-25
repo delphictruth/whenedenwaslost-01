@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/anaxes/","tags":["map","planet","core","azure","unfinished","perlemian"]}
+{"dg-publish":true,"permalink":"/navigational/planets/anaxes/","tags":["map","planet","core","azure","unfinished","perlemian"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
