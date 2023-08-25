@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/jedha/","tags":["map","planet","unfinished","midrim","terrabe","burkes"]}
+{"dg-publish":true,"permalink":"/navigational/planets/jedha/","tags":["map","planet","unfinished","midrim","terrabe","burkes"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
