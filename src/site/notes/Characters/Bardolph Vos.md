@@ -65,7 +65,7 @@ Bardolph doesn't practice any particular style of Force belief, nor does he nece
 **Strengths**::
 - [[Force Abilities & Phenomena/Force rend\|Force rend]]
 - [[Force Abilities & Phenomena/Shatterpoint\|Shatterpoint]]
-- [[Force Abilities & Phenomena/Force sight\|Force sight]]
+- [[Farsight\|Farsight]]
 - [[Force Abilities & Phenomena/Crucitorn\|Crucitorn]]
 - [[Force Abilities & Phenomena/Deadly Sight\|Deadly Sight]]
 - [[Force Abilities & Phenomena/Mind Tricks#Force fear\|Force fear]]
