@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/marcus-morr/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished","character"]}
+{"dg-publish":true,"permalink":"/characters/marcus-morr/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished","character"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
