@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/aeos-prime/","tags":["map","retraining","planet","outerrim","aeos"]}
+{"dg-publish":true,"permalink":"/navigational/planets/aeos-prime/","tags":["map","retraining","planet","outerrim","aeos"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
