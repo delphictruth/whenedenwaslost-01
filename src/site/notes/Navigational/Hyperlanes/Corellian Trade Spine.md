@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/hyperlanes/corellian-trade-spine/","tags":["map","hyperlane","western"]}
+{"dg-publish":true,"permalink":"/navigational/hyperlanes/corellian-trade-spine/","tags":["map","hyperlane","western"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
