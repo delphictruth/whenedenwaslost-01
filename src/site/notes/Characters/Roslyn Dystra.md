@@ -39,7 +39,7 @@
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
-**Knighted**::  [[Directories/Timeline#21 ABY\|24 ABY]]
+**Knighted**::  [[Events/Timeline#21 ABY\|24 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class II\|Padawan Class II]]
 
 ## History & Plot Significance
