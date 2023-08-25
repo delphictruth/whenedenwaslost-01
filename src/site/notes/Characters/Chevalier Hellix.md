@@ -80,7 +80,7 @@ Chevalier's Jedi lightsaber has a [[Crystals/Ghostfire\|Ghostfire]] crystal, whi
 
 ### Darksider Saber
 
-Chevalier's darksider lightsaber is formed from a [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]] crystal and a fairly typical red blade. It is an [[Crystals/Attuned crystal\|Attuned crystal]], such that only he can activate the saber. 
+Chevalier's darksider lightsaber is formed from a [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]] crystal and a fairly typical red blade. It is an [[Attuned crystal\|Attuned crystal]], such that only he can activate the saber. 
 
 ## History & Plot Significance
 
