@@ -8,4 +8,4 @@
 Desc
 
 **Location**::  [[Navigational/Planets/Mandalore\|Mandalore]]
-**Year**::  [[Directories/Timeline#19 BBY\|19 BBY]]
+**Year**::  [[Events/Timeline#19 BBY\|19 BBY]]
