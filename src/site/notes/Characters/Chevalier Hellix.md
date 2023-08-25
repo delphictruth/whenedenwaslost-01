@@ -10,7 +10,7 @@
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Chandrila\|Chandrila]]
-**Birth**::  [[Directories/Timeline#7 ABY\|7 ABY]]
+**Birth**::  [[Events/Timeline#7 ABY\|7 ABY]]
 **Death**::  N/A
 
 **Age**::  24
@@ -39,7 +39,7 @@
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Allyson Petit\|Allyson Petit]]
 **Padawan**::  [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] (brief)
-**Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
+**Knighted**::  [[Events/Timeline#26 ABY\|26 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
