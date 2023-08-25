@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bastille-aurelius/","tags":["forcesensitive","fallenjedi","firstorder","knightsofren","azuriannobility","jedipraxeum","jediknight","formv","formvi","formvii"]}
+{"dg-publish":true,"permalink":"/characters/bastille-aurelius/","tags":["forcesensitive","fallenjedi","firstorder","knightsofren","azuriannobility","jedipraxeum","jediknight","formv","formvi","formvii"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
