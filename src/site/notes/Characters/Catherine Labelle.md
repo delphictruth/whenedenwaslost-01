@@ -10,7 +10,7 @@
 ## Personal Information
 
 **Homeworld**::  
-**Birth**::  [[Directories/Timeline#0 BBY — Battle of Yavin & DESTRUCTION OF Death Star DEATH STAR\|0 BBY]]
+**Birth**::  [[Events/Timeline#0 BBY — Battle of Yavin & DESTRUCTION OF Death Star DEATH STAR\|0 BBY]]
 **Death**::  
 **Status**::  Deceased
 
