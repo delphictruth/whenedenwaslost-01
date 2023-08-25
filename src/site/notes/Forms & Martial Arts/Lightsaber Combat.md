@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/forms-and-martial-arts/lightsaber-combat/","tags":["universal","utility","forcepower"]}
+{"dg-publish":true,"permalink":"/forms-and-martial-arts/lightsaber-combat/","tags":["universal","utility","forcepower"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
