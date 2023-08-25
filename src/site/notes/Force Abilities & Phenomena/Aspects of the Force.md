@@ -33,7 +33,7 @@ Control is traditionally the first aspect of the Force that Jedi Initiates studi
 
 { .block-language-dataview}
 ## Sense 
-The Sense discipline was typically taught as the second aspect of the Force, used to broaden the scope of their Control abilities. These abilities allow the user to immerse themselves in their environment and use the Force as an additional sense. Sense abilities were traditionally divided into four main groups: *[[Prima vitae\|prima vitae]]* (Life Detection), *[[Tactus otium\|tactus otium]]* (Sense Force), *[[Force Abilities & Phenomena/Psychometry\|tai vordrax]]* (Postcognition), and [[Force Abilities & Phenomena/Telepathy\|projected telepathy]].
+The Sense discipline was typically taught as the second aspect of the Force, used to broaden the scope of their Control abilities. These abilities allow the user to immerse themselves in their environment and use the Force as an additional sense. Sense abilities were traditionally divided into four main groups: *[[Force Abilities & Phenomena/Prima vitae\|prima vitae]]* (Life Detection), *[[Force Abilities & Phenomena/Tactus otium\|tactus otium]]* (Sense Force), *[[Force Abilities & Phenomena/Psychometry\|tai vordrax]]* (Postcognition), and [[Force Abilities & Phenomena/Telepathy\|projected telepathy]].
 - [[Force Abilities & Phenomena/Battle Meditation\|Battle Meditation]]
 - [[Force Abilities & Phenomena/Battle Precognition\|Battle Precognition]]
 - [[Force Abilities & Phenomena/Flow-walking\|Flow-walking]]
@@ -47,13 +47,13 @@ The Sense discipline was typically taught as the second aspect of the Force, use
 - [[Force Abilities & Phenomena/Mind Probe\|Mind Probe]]
 - [[Force Abilities & Phenomena/Mind Tricks\|Mind Tricks]]
 - [[Force Abilities & Phenomena/Precognition\|Precognition]]
-- [[Prima vitae\|Prima vitae]]
+- [[Force Abilities & Phenomena/Prima vitae\|Prima vitae]]
 - [[Force Abilities & Phenomena/Psychometry\|Psychometry]]
 - [[Force Abilities & Phenomena/Qâzoi Kyantuska\|Qâzoi Kyantuska]]
 - [[Force Abilities & Phenomena/Shadow Vision\|Shadow Vision]]
 - [[Force Abilities & Phenomena/Shatterpoint\|Shatterpoint]]
 - [[Force Abilities & Phenomena/Spirit Transference\|Spirit Transference]]
-- [[Tactus otium\|Tactus otium]]
+- [[Force Abilities & Phenomena/Tactus otium\|Tactus otium]]
 - [[Force Abilities & Phenomena/Telepathy\|Telepathy]]
 
 { .block-language-dataview}
