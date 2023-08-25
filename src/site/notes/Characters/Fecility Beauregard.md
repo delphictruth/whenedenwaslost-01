@@ -11,7 +11,7 @@
 
 **Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
 **Birth**::  
-**Death**::  [[Directories/Timeline#3 BBY\|3 BBY]]
+**Death**::  [[Events/Timeline#3 BBY\|3 BBY]]
 **Status**::  Deceased
 
 **Age**:: 
