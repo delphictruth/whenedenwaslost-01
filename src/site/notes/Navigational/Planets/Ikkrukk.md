@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/ikkrukk/","tags":["map","outerrim","retraining","planet","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/planets/ikkrukk/","tags":["map","outerrim","retraining","planet","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
