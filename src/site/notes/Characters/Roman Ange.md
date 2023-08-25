@@ -12,7 +12,7 @@ summary
 ## Personal Information
 
 **Homeworld**::  
-**Birth**::  [[Directories/Timeline#13 ABY\|13 ABY]]
+**Birth**::  [[Events/Timeline#13 ABY\|13 ABY]]
 **Death**::  N/A
 **Status**::  Alive
 
