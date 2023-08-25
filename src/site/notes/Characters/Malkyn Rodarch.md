@@ -11,7 +11,7 @@ General Rodarch is quite possibly one of the most iconic [[Organizations/Rebelli
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Mandalore\|Mandalore]]
-**Birth**::  [[Directories/Timeline#19 BBY\|19 BBY]]
+**Birth**::  [[Events/Timeline#19 BBY\|19 BBY]]
 **Death**::  N/A
 **Status**::  Alive
 
