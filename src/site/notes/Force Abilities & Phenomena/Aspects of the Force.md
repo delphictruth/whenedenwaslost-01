@@ -7,7 +7,7 @@
 # Aspects of the Force
 According to the teachings of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], there are three aspects of the Force that govern all abilities and powers accessible through the Force: [[Force Abilities & Phenomena/Aspects of the Force#Control\|Control]], [[Force Abilities & Phenomena/Aspects of the Force#Sense\|Sense]], and [[Force Abilities & Phenomena/Aspects of the Force#Alter\|Alter]].
 ## Control
-Control is traditionally the first aspect of the Force that Jedi Initiates studied. The discipline of Control centers around three main abilities: *[[Force Abilities & Phenomena/Tutaminis\|tutaminis]]* (energy absorption), *[[Force Abilities & Phenomena/Force healing#Curato salva\|curato salva]]* (self-healing), and *[[Force Abilities & Phenomena/Atlus sopor\|atlus sopor]]* (heightened focus).
+Control is traditionally the first aspect of the Force that Jedi Initiates studied. The discipline of Control centers around three main abilities: *[[Force Abilities & Phenomena/Tutaminis\|tutaminis]]* (energy absorption), *[[Force Abilities & Phenomena/Force healing\|curato salva]]* (self-healing), and *[[Force Abilities & Phenomena/Atlus sopor\|atlus sopor]]* (heightened focus).
 - [[Force Abilities & Phenomena/Animal bond\|Animal bond]]
 - [[Force Abilities & Phenomena/Atlus sopor\|Atlus sopor]]
 - [[Force Abilities & Phenomena/Battle Meditation\|Battle Meditation]]
