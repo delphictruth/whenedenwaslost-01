@@ -8,5 +8,9 @@
 # Qixoni
 Description
 
-**Appearances**
+**Locations**:: 
+**Colors**:: 
+**Attunement**:: Attuned
+
+**Appearances**::
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]]'s tonfa sabers
