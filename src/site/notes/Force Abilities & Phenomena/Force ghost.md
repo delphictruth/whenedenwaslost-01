@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-ghost/","tags":["control","forcepower"]}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-ghost/","tags":["control","forcepower"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
