@@ -8,5 +8,9 @@
 # Cunning of Tyranus
 Description
 
-**Appearances**
+**Locations**:: 
+**Colors**:: 
+**Attunement**:: Attuned
+
+**Appearances**::
 - 
