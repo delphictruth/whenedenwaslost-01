@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/organizations/pathfinders/","tags":["faction"]}
+{"dg-publish":true,"permalink":"/organizations/pathfinders/","tags":["faction"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
