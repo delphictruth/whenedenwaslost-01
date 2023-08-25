@@ -301,4 +301,4 @@ Generals [[Characters/Cain Draig\|Cain Draig]] [47] and [[Characters/Malkyn Roda
 ### 30 ABY
 
 ### 31 ABY
-[[Directories/Mapping WEWL\|Mapping WEWL]] events take place
+[[Navigational/Mapping WEWL\|Mapping WEWL]] events take place
