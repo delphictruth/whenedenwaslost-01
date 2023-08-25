@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crystals/durindfire/","tags":["color","attuned unattuned","crystal"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/crystals/durindfire/","tags":["color","attuned","crystal"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -8,5 +8,9 @@
 # Durindfire
 Description
 
-**Appearances**
+**Locations**:: 
+**Colors**:: 
+**Attunement**:: Attuned
+
+**Appearances**::
 - 
