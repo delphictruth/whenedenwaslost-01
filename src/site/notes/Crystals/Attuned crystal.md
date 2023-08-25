@@ -5,7 +5,7 @@
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 # Attuned crystal
 
-A type of [[Directories/Lightsaber crystals\|lightsaber crystal]] that, upon being tuned for use in a saber, is attuned to the weilder. It can only be used by the one who tuned it. 
+A type of [[Crystals/Lightsaber crystals\|lightsaber crystal]] that, upon being tuned for use in a saber, is attuned to the weilder. It can only be used by the one who tuned it. 
 
 **Recorded Crystals**::
 - [[Crystals/Blackwing\|Blackwing]]
