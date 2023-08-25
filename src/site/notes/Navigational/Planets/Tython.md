@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/tython/","tags":["map","planet","tythons","tython"]}
+{"dg-publish":true,"permalink":"/navigational/planets/tython/","tags":["map","planet","tythons","tython"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
