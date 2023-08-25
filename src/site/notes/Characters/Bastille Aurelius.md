@@ -83,16 +83,14 @@ Bastille specializes in [[Forms & Martial Arts/Niman (VI)\|Niman (VI)]], particu
 - [[Force Abilities & Phenomena/Force empathy\|Force empathy]] ([[Force Abilities & Phenomena/Force empathy#Receptive Telepathy\|Receptive Telepathy]])
 - [[Force Abilities & Phenomena/Force deflection\|Force deflection]]
 - [[Force Abilities & Phenomena/Pyrokinesis\|Pyrokinesis]]
-- [[Force Abilities & Phenomena/Force stun\|Force stun]]
 - [[Force Abilities & Phenomena/Mind Tricks\|Mind Tricks]]
-- Combatting [[Force Abilities & Phenomena/Torture by Chagrin\|Torture by Chagrin]]
+- Combatting [[Force Abilities & Phenomena/Memory Walk\|Memory Walk]]
 - Capable of [[Force Abilities & Phenomena/Spirit Transference\|Spirit Transference]]
 
 **Weaknesses**::
 - [[Force Abilities & Phenomena/Force healing\|Force healing]]
-- [[Force Abilities & Phenomena/Precognition\|Precognition]]
 - [[Forms & Martial Arts/Center of Being\|Center of Being]]
-- Balancing that relies on peace
+- [[Force Abilities & Phenomena/Purification\|Purification]]
 
 ## Weapons
 
