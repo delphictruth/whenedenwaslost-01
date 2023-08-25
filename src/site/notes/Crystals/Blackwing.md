@@ -8,9 +8,9 @@
 
 Description
 
-**Locations**::
-**Colors**::
-**Attunement**::
+**Locations**:: 
+**Colors**:: Black
+**Attunement**:: Attuned
 
-**Appearances**
+**Appearances**::
 - [[Characters/Versailles Cordelia\|Versailles Cordelia]]'s lightwhip; forms one of the strands
