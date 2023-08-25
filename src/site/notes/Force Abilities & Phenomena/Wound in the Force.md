@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wound-in-the-force/","tags":["light dark universal","control sense alter","forcepower"]}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wound-in-the-force/","tags":["dark","force"]}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
@@ -13,5 +13,5 @@ A Wound is a deeper form of [[Force Abilities & Phenomena/Psychometry\|Force ech
 
 "_How could you ever hope to know the threat you faced when you have never walked in the dark places of the galaxy? Faced war and death on such a scale? If you had traveled far enough, rather than waiting for the echo to reach you, perhaps you would have seen it for what it was. There is a place in the galaxy where the dark side of the Force runs strong. It is something of the Sith, but it was fueled by war. It corrupts all that walks on its surface, drowns them in the power of the dark side—it corrupts all life. And it feeds on death._" — Jedi Master [[Characters/Darth Traya\|Kreia]] to the Jedi Council, speaking of Malachor V
 
-**Known Wounds**
+**Known Wounds**::
 - [[Navigational/Planets/Malachor V\|Malachor V]] following the [[Events/Battle of Malachor V\|Battle of Malachor V]]
