@@ -7,7 +7,7 @@
 # Trákata
 >
 
-An uncommon technique in [[Forms & Martial Arts/Lightsaber Combat\|lightsaber combat]]. It is not necessarily it's own form, but rather a strategy that can be combined with more traditional forms. 
+An uncommon technique in [[Forms & Martial Arts/Lightsaber combat\|lightsaber combat]]. It is not necessarily it's own form, but rather a strategy that can be combined with more traditional forms. 
 
 **Practitioners**::
 - [[Characters/Chevalier Hellix\|Chevalier Hellix]]
