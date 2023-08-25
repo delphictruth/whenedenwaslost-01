@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/sectors/pacanth-reach/","tags":["map","sector","outerrim"]}
+{"dg-publish":true,"permalink":"/navigational/sectors/pacanth-reach/","tags":["map","sector","outerrim"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
