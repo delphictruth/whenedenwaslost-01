@@ -7,7 +7,7 @@
 # Speculations on Tactics of the Sith
 The *Speculations on Tactics of the Sith* was a Jedi publication detailing a study of the [[Force Abilities & Phenomena/Sith magic\|Sith magic]] tactic of creating battlelords, with a particular focus on the [[Organizations/Battlelords\|Battlelords]] that fought under [[Characters/Darth Rivan\|Darth Rivan]] during the [[Events/New Sith Wars\|New Sith Wars]]. 
 
-The exact methods for Sith battlelords is supposedly recorded in *Speculations*, but attempts to replicate such methods were unsuccessful and the publication was later lost along with other Sith tomes when the [[Navigational/Jedi Archives\|Jedi Archives]] were seized. Information on the creation of battlelords was also inscribed on the walls of Sith temples and copied in *Speculations*.
+The exact methods for Sith battlelords is supposedly recorded in *Speculations*, but attempts to replicate such methods were unsuccessful and the publication was later lost along with other Sith tomes when the [[Library/Jedi Archives\|Jedi Archives]] were seized. Information on the creation of battlelords was also inscribed on the walls of Sith temples and copied in *Speculations*.
 ## Sith battlelords
 Battlelords were Sith warrior leaders who performed [[Force Abilities & Phenomena/Sith magic\|Sith magic]] rituals to form bonds with their subordinates. The bond had a unique strengthening effect on the battlelords, bolstering their ferocity on the battlefield and granting them physically thicker skin for defense. Battlelords developed a maniacal blood-rage as a result of the bonding rituals and were known to push their troops to extreme lengths.
 
