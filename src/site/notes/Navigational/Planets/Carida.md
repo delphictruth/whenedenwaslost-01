@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/carida/","tags":["map","planet","colonies","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/planets/carida/","tags":["map","planet","colonies","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
