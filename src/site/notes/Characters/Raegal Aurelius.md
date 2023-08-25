@@ -11,8 +11,8 @@ Raegal Aurelius, born Alban Draig, was abducted by the [[Force Traditions & Sect
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
-**Birth**::  [[Directories/Timeline#19 BBY\|19 BBY]]
-**Death**::  [[Directories/Timeline#9 ABY\|9 ABY]]
+**Birth**::  [[Events/Timeline#19 BBY\|19 BBY]]
+**Death**::  [[Events/Timeline#9 ABY\|9 ABY]]
 **Status**::  Deceased
 
 **Age**::  26 (at death)
