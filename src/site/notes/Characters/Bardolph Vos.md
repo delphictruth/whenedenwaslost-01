@@ -10,7 +10,7 @@
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Anaxes\|Anaxes]]
-**Birth**::  [[Directories/Timeline#7 ABY\|7 ABY]]
+**Birth**::  [[Events/Timeline#7 ABY\|7 ABY]]
 **Death**:: N/A
 **Status**::  Alive
 
@@ -38,7 +38,7 @@
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Rathos Visio\|Rathos Visio]]
 **Padawan**::  N/A
-**Knighted**::  [[Directories/Timeline#26 ABY\|26 ABY]]
+**Knighted**::  [[Events/Timeline#26 ABY\|26 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
