@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/octavia-bonteri/","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formvii","classiv","forcesensitive","unfinished","character"]}
+{"dg-publish":true,"permalink":"/characters/octavia-bonteri/","tags":["jedi","jedipraxeum","jedipadawan","newjediorder","formvii","classiv","forcesensitive","unfinished","character"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
