@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/aspects-of-the-force/","tags":["force"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/aspects-of-the-force/","pinned":true,"tags":["force"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
