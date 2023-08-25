@@ -37,7 +37,7 @@
 
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
-**Knighted**::  [[Directories/Timeline#29 ABY\|29 ABY]]
+**Knighted**::  [[Events/Timeline#29 ABY\|29 ABY]]
 **Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
 
 ### Knights of Ren
