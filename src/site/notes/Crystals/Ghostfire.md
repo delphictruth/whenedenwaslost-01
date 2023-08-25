@@ -8,5 +8,9 @@
 # Ghostfire
 Description
 
-**Appearances**
+**Locations**::  
+**Colors**::  
+**Attunement**::  Unattuned
+
+**Appearances**::
 - 
