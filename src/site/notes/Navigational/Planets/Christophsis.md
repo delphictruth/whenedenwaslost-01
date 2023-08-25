@@ -6,7 +6,7 @@
 - *No other names on record* 
 # Christophsis
 
-Christophsis is a crystalline world in the [[Navigational/Sectors/Savareen sector\|Savareen sector]] of the [[Navigational/Regions/Outer Rim\|Outer Rim]] territories located along the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]]. It is orbited by a single moon in the middle of a mineral-rich astroid field and is frequently struck by stray rocks from the various nearly astroid belts. Nevertheless, it was developed into a thriving mining hub around 600 [[Directories/Timeline\|BBY]]. Christophsis became a mjaor exporter of minderals, artwork, and industrial goods.
+Christophsis is a crystalline world in the [[Navigational/Sectors/Savareen sector\|Savareen sector]] of the [[Navigational/Regions/Outer Rim\|Outer Rim]] territories located along the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]]. It is orbited by a single moon in the middle of a mineral-rich astroid field and is frequently struck by stray rocks from the various nearly astroid belts. Nevertheless, it was developed into a thriving mining hub around 600 [[Events/Timeline\|BBY]]. Christophsis became a mjaor exporter of minderals, artwork, and industrial goods.
 
 Christophsis was seized by the [[Organizations/Confederacy of Independent Systems\|Confederacy of Independent Systems]] during the [[Events/Clone Wars\|Clone Wars]] and subjugated to Separatist rule. Then a Jedi-led faction was deployed to the planet by the [[Organizations/Galactic Republic\|Galactic Republic]], and while the planet was eventually liberated, it also sustained significant damage and saw a sharp decline in exports.
 
