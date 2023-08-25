@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/library/holocrons/great-holocron/","tags":["holocron","unfinished"]}
+{"dg-publish":true,"permalink":"/library/holocrons/great-holocron/","tags":["holocron","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
