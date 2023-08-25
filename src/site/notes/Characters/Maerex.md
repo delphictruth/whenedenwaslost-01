@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/maerex/","tags":["newrepublicsenate","senator","prince","character"]}
+{"dg-publish":true,"permalink":"/characters/maerex/","tags":["newrepublicsenate","senator","prince","character"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
