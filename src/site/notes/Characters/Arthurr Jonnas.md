@@ -8,7 +8,11 @@
 > King of Artorias
 
 
-
+**Homeworld**::  [[Navigational/Planets/Artorias\|Artorias]]
+**Birth**::  
+**Death**::  N/A
+**Status**::  Alive
+**Allegiance**:: Independent
 
 
 
