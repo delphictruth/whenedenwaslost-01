@@ -9,7 +9,7 @@ Alter Environment utilizes innate life energy to manipulate temperatures, creati
 
 Moreover, Alter Environment can influence existing natural occurrences. For instance, a thunderstorm can be manipulated to unleash a burst of lightning, or rain clouds to start up torrential rains or hail. Windswept seas can be coaxed to rear up in massive waves or form whirlpools. 
 
-[[Force Abilities & Phenomena/Force Wind\|Force Whirlwind]] is considered a specialized form of Alter Environment.
+[[Force Abilities & Phenomena/Force Wind\|Force Whirlwind]] and [[Force Abilities & Phenomena/Pyrokinesis\|Pyrokinesis]] are considered specialized forms of Alter Environment.
 
 **Specialists**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
