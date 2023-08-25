@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bardolph-vos/","tags":["fallenjedi","jediknight","firstorder","knightsofren","jedipraxeum","formii","forcesensitive","unfinished"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/characters/bardolph-vos/","tags":["fallenjedi","jediknight","firstorder","knightsofren","jedipraxeum","formii","forcesensitive","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
