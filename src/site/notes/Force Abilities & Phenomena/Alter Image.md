@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/alter-image/","tags":["universal","alter","forcepower"]}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/alter-image/","tags":["universal","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
