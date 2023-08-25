@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/sectors/majoor-sector/","tags":["map","sector","expansion","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/sectors/majoor-sector/","tags":["map","sector","expansion","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
