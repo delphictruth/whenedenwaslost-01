@@ -15,12 +15,12 @@ Alfred is the crown Prince of [[Navigational/Planets/Artorias\|Artorias]], but h
 **Death**::  N/A
 **Status**::  Alive
 
-**Age** 23
-**Gender** Male
-**Height** 5'11
-**Hair** Ash blonde
-**Eyes** Blue/green
-**Skin** Average
+**Age**:: 23
+**Gender**:: Male
+**Height**:: 5'11
+**Hair**:: Ash blonde
+**Eyes**:: Blue/green
+**Skin**:: Average
 ## Relations
 
 **Parents**::  [[Characters/Arthurr Jonnas\|Arthurr Jonnas]] 
