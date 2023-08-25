@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-stun/","tags":["universal","alter","offense","forcepower"]}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-stun/","tags":["universal","alter","offense","forcepower"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
