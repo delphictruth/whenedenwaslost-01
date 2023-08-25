@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/pastoria/","tags":["map","planet","retraining","outerrim","unfinished"]}
+{"dg-publish":true,"permalink":"/navigational/planets/pastoria/","tags":["map","planet","retraining","outerrim","unfinished"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
