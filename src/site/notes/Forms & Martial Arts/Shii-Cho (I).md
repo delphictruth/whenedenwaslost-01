@@ -27,6 +27,6 @@ Shii-Cho philosophy emphasizes victory without injury, so every move is geared t
 
 ## Jedi Path Excerpts
 
-![form1 1.jpg](/img/user/Jedi%20Path/form1%201.jpg)
-![form1 2.jpg](/img/user/Jedi%20Path/form1%202.jpg)
-![form1 3.jpg](/img/user/Jedi%20Path/form1%203.jpg)
+![shiicho1.jpg](/img/user/Photos/shiicho1.jpg)
+![shiicho2.jpg](/img/user/Photos/shiicho2.jpg)
+![shiicho3.jpg](/img/user/Photos/shiicho3.jpg)
