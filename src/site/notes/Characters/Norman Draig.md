@@ -24,7 +24,7 @@
 ## Relations
 
 **Parents**:: 
-**Significant Other**::  [[Characters/Fecility Beauregard\|Fecility Beauregard]]
+**Significant Other**::  [[Characters/Felicity Beauregard\|Felicity Beauregard]]
 
 **Other Family**
 - [[Characters/Aspen Draig\|Aspen Draig]] (sister)
