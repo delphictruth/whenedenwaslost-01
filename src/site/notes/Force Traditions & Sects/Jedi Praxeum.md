@@ -34,7 +34,6 @@ In the end, they only had four [[Force Traditions & Sects/Jedi Praxeum#Jedi Pada
 
 { .block-language-dataview}
 ## Jedi Padawan Classes
-
 Traditionally, Jedi Padawans are trained as a collective. At the Praxeum, Padawan are sorted into classes based on approximate level of training — this serves as an easy way not only to establish different duties and lessons by class, but to have pre-determined group for combat drills. 
 
 Classes are trained to deploy as a collective, or as smaller strike teams comprised of classmates. The general thinking behind this methodology is to prepare Padawans to work closely with one another and to grow deeply familiar with their potential combat partners.
@@ -44,17 +43,13 @@ Classes generally graduate as one as well, which is why they are sorted based on
 Some classes are Knighted early, on account of special circumstances; typically anything that rises to the level of justifying an early Knighting is something that would have involved the whole class, so the class's graduation as a collective remains proper.
 
 ### Jedi Padawan Class I
-
 Graduated in [[Events/Timeline#21 ABY\|21 ABY]]
 
 ### Jedi Padawan Class II
-
 Graduated in [[Events/Timeline#21 ABY\|24 ABY]]
 
 ### Jedi Padawan Class III
-
 Special graduation in [[Events/Timeline#26 ABY\|26 ABY]]
 
 ### Jedi Padawan Class IV
-
 No graduation 
