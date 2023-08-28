@@ -206,7 +206,7 @@ Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] (20) and [[Characte
 [[Characters/Pirphal Chthonios\|Pirphal Chthonios]] (23) and Margravine [[Characters/Aurora Caelum\|Aurora Caelum]] (23) marry.
 [[Characters/Drew Hellix\|Drew Hellix]] is born to Senator [[Characters/Ellie Bonteri\|Ellie Bonteri]] (23) on [[Navigational/Planets/Chandrila\|Chandrila]].
 [[Characters/Hasina Makara\|Hasina Makara]] is born to Senator [[Characters/Coreen Makara\|Coreen Makara]] and [[Navigational/Planets/Kuat#Kuat Drive Yards\|KDY]] President [[Characters/Erikson Makara\|Erikson Makara]] on [[Navigational/Planets/Kuat\|Kuat]].
-[[Amanda Wilde\|Amanda Wilde]] is born. 
+[[Characters/Amanda Wilde\|Amanda Wilde]] is born. 
 Jedi Knight [[Characters/Cecily Beaumont\|Cecily Beaumont]] (20) first meets Sith apprentice [[Characters/Raegal Aurelius\|Raegal Aurelius]] (24) during the [[Galactic Calendar\|Festival of Lights]].
 [[Characters/Aiden Morr\|Aiden Morr]] is born.
 ### 7 ABY 
