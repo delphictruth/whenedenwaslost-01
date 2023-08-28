@@ -10,6 +10,7 @@
 | [[Characters/Aiden Morr\|Aiden Morr]]                           | None                                                                     | No sensitivity    | \-                                               | Deceased |
 | [[Characters/Alfred Jonnas\|Alfred Jonnas]]                     | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Artorias\|Artorias]]   | Alive    |
 | [[Characters/Allyson Petit\|Allyson Petit]]                     | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Knight       | \-                                               | Deceased |
+| [[Characters/Amanda Wilde\|Amanda Wilde]]                       | \-                                                                       | \-                | \-                                               | \-       |
 | [[Characters/Arthurr Jonnas\|Arthurr Jonnas]]                   | Independent                                                              | No sensitivity    | [[Navigational/Planets/Artorias\|Artorias]]   | Alive    |
 | [[Characters/Aryn Dro Vos\|Aryn Dro Vos]]                       | \-                                                                       | No sensitivity    | [[Navigational/Planets/Anaxes\|Anaxes]]       | Alive    |
 | [[Characters/Aspen Draig\|Aspen Draig]]                         | Carida Navy                                                              | No sensitivity    | [[Navigational/Planets/Carida\|Carida]]       | Deceased |
@@ -35,7 +36,7 @@
 | [[Characters/Darth Nihilus\|Darth Nihilus]]                     | [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | Unknown                                          | Deceased |
 | [[Characters/Darth Rivan\|Darth Rivan]]                         | \-                                                                       | \-                | \-                                               | \-       |
 | [[Characters/Darth Ruin\|Darth Ruin]]                           | \-                                                                       | \-                | \-                                               | \-       |
-| [[Characters/Darth Sidious\|Darth Sidious]]                     | [[Force Traditions & Sects/Banite Sith\|Banite Sith]]                 | Sith Lord         | [[Navigational/Naboo.md\|Naboo]]                 | Deceased |
+| [[Characters/Darth Sidious\|Darth Sidious]]                     | [[Force Traditions & Sects/Banite Sith\|Banite Sith]]                 | Sith Lord         | [[Navigational/Planets/Naboo\|Naboo]]         | Deceased |
 | [[Characters/Darth Sion\|Darth Sion]]                           | [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                               | \-       |
 | [[Characters/Darth Traya\|Darth Traya]]                         | [[Force Traditions & Sects/Sith Triumvirate\|Sith Triumvirate]]       | Sith Lord         | \-                                               | Deceased |
 | [[Characters/Directory of Characters\|Directory of Characters]] | \-                                                                       | \-                | \-                                               | \-       |
@@ -44,7 +45,7 @@
 | [[Characters/Erikson Makara\|Erikson Makara]]                   | [[Navigational/Planets/Kuat#Kuat Drive Yards\|Kuat Drive Yards]]      | No sensitivity    | [[Navigational/Planets/Kuat\|Kuat]]           | \-       |
 | [[Characters/Evelynn Decipio\|Evelynn Decipio]]                 | [[Organizations/Resistance\|Resistance]]                              | Low sensitivity   | [[Navigational/Planets/Mandalore\|Mandalore]] | Alive    |
 | [[Characters/Exar Kun\|Exar Kun]]                               | \-                                                                       | Sith Lord         | \-                                               | Deceased |
-| [[Characters/Fecility Beauregard\|Fecility Beauregard]]         | [[Organizations/Resistance\|Resistance]]                              | Low sensitivity   | [[Navigational/Planets/Carida\|Carida]]       | Deceased |
+| [[Characters/Felicity Beauregard\|Felicity Beauregard]]         | [[Organizations/Resistance\|Resistance]]                              | Low sensitivity   | [[Navigational/Planets/Carida\|Carida]]       | Deceased |
 | [[Characters/Grand Inquisitor\|Grand Inquisitor]]               | <ul><li><ul><li>Inquisitorius</li></ul></li></ul>                        | Dark Lord         | \-                                               | Deceased |
 | [[Characters/Hasina Makara\|Hasina Makara]]                     | [[Organizations/New Republic\|New Republic]]                          | No sensitivity    | [[Navigational/Planets/Kuat\|Kuat]]           | Alive    |
 | [[Characters/Hazel Caelum\|Hazel Caelum]]                       | [[Organizations/Resistance\|Resistance]]                              | Jedi Knight       | [[Navigational/Planets/Nallastia\|Nallastia]] | Alive    |
