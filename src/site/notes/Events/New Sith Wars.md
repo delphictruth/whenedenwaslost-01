@@ -3,7 +3,7 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as *Jedi-Sith War*, *War of the Fittest*, *The Betrayal*, *The Curse of Qalydon*
+- Also known as *Jedi-Sith War*, *War of the Fittest*, *The Betrayal*, *The Curse of Qalydon*, *Draggulch Period*
 # New Sith Wars
 The New Sith Wars is the name given to the thousand years of conflict between the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and several factions of Sith, which lasted from approximately [[Events/Timeline\|2000 BBY]] to [[Events/Timeline\|1000 BBY]]. As an era, it was characterized by a spectacular rise of the Sith, the decline of the [[Organizations/Old Republic\|Old Republic]], and a growing militancy in the [[Force Traditions & Sects/Jedi Order\|Jedi Order]]. The Republic was frequently in danger of being overwhelmed completely, and the New Sith Wars concluded the era known as the [[Events/Fall of the Old Republic\|Fall of the Old Republic]].
 
@@ -20,8 +20,8 @@ While the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] aided the [[Organi
 By the end of the Sith Ascendancy period, conditions had grown so bad for the Republic that the [[HoloNet\|HoloNet]] had collapsed along with interstellar commerce. Jedi were forced to become more involved in leadership, commanding the Republic military and assuming roles in government. From 1400 BBY to 1000 BBY, Jedi served in the post of Supreme Chancellor of the Republic.
 ## The Sictis Wars
 The period from 1250 BBY to 1230 BBY is known as the Sictis Wars. A Sith Lord from [[Navigational/Planets/Tython\|Tython]] was the main power among the Sith, waging war against the Jedi and the Republic with the use of [[Technobeasts\|Technobeasts]] until she was killed by another faction of Sith in response to unwanted incursions on [[Navigational/Sectors/Tapani sector\|Tapani]] territory. 
-## Dark Republic Age
-The Dark Republic Age, sometimes referred to as merely the *Dark Age*, ranged from 1230 BBY to approximately 1130 BBY. The Sith were deeply divided amongst themselves, fighting one another for supremacy, but they continued to rampage across the galaxy virtually unhindered and oppress entire star systems. 
+## Republic Dark Age
+The Republic Dark Age, sometimes referred to as merely the *Dark Age*, ranged from 1230 BBY to approximately 1130 BBY. The Sith were deeply divided amongst themselves, fighting one another for supremacy, but they continued to rampage across the galaxy virtually unhindered and oppress entire star systems. 
 
 The Republic had declined into a pale shadow of what it once was and was unable to focus on combatting the Sith, even as the Sith fought themselves. While the Republic was not under as constant attack, it had already lost a significant amount of its territory to the Sith and made almost no attempt to regain any of its old worlds. 
 
