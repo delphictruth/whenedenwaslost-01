@@ -7,7 +7,7 @@
 # Aspen Draig
 >Commander of the Caridian Navy
 
-Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy and briefly involved in her sister-in-law [[Characters/Fecility Beauregard\|Fecility Beauregard]]'s campaign to aid the [[Organizations/Rebellion\|Rebel Alliance]]. She was killed in action. 
+Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy and briefly involved in her sister-in-law [[Characters/Felicity Beauregard\|Felicity Beauregard]]'s campaign to aid the [[Organizations/Rebellion\|Rebel Alliance]]. She was killed in action. 
 ## Personal Information
 
 **Homeworld**::  [[Navigational/Planets/Carida\|Carida]]
@@ -28,7 +28,7 @@ Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy an
 
 **Other Family**::
 - [[Characters/Norman Draig\|Norman Draig]] (brother)
-- [[Characters/Fecility Beauregard\|Fecility Beauregard]] (sister-in-law)
+- [[Characters/Felicity Beauregard\|Felicity Beauregard]] (sister-in-law)
 - [[Characters/Cain Draig\|Cain Draig]] (son)
 - [[Characters/Raegal Aurelius\|Raegal Aurelius]] (son)
 - [[Characters/Talia Draig\|Talia Draig]] (niece)
@@ -40,4 +40,4 @@ Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy an
 **Affiliations**::  [[Organizations/Rebellion\|Rebel Alliance]]
 ## History & Plot Significance
 
-Aspen has very little plot significance, and not much is known about her given that [[Characters/Cain Draig\|Cain Draig]] was raised as [[Characters/Fecility Beauregard\|Fecility Beauregard]]'s own son. 
+Aspen has very little plot significance, and not much is known about her given that [[Characters/Cain Draig\|Cain Draig]] was raised as [[Characters/Felicity Beauregard\|Felicity Beauregard]]'s own son. 
