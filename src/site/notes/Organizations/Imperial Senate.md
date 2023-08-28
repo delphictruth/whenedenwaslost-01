@@ -8,4 +8,4 @@
 # Imperial Senate
 
 Factions
-- [[Organizations/Seperatist\|Seperatist]]
+- [[Organizations/Separatist\|Separatist]]
