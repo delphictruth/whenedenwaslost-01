@@ -26,7 +26,7 @@
 **Significant Other**::  [[Characters/Holland Lillivere\|Holland Lillivere]] (wife)
 
 **Other Family**::
-- [[Characters/Fecility Beauregard\|Fecility Beauregard]] (aunt/adopted mother)
+- [[Characters/Felicity Beauregard\|Felicity Beauregard]] (aunt/adopted mother)
 - [[Characters/Norman Draig\|Norman Draig]] (uncle/adopted father)
 - [[Characters/Raegal Aurelius\|Raegal Aurelius]] (brother)
 - [[Characters/Talia Draig\|Talia Draig]] (sister*)
