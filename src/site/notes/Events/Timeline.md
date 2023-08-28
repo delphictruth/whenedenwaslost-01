@@ -156,7 +156,7 @@ The [[Events/Fall of the Jedi Order\|Jedi Order falls]].
 An attack on the Padawan group by the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]] kills all but [[Characters/Cecily Beaumont\|Cecily Beaumont]] (14) and [[Characters/Dahlia Coutier\|Dahlia Coutier]] (16).
 Jedi Master [[Characters/Darth Krayt\|A'Sharad Hett]] is stranded on [[Navigational/Planets/Malachor V\|Malachor]] and becomes [[Characters/Darth Krayt\|Darth Krayt]].
 Towards the end of the year, Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] (15) and [[Characters/Dahlia Coutier\|Dahlia Coutier]] (17) join the [[Organizations/Rebellion\|Rebellion]].
-### 0 BBY — [[Events/Battle of Yavin\|Battle of Yavin]] & DESTRUCTION OF THE [[Navigational/Space Stations/Death Star\|DEATH STAR]]
+### 0 B****BY — [[Events/Battle of Yavin\|BATTLE OF YAVIN]] & DESTRUCTION OF THE [[Navigational/Space Stations/Death Star\|DEATH STAR]]
 
 ### 1 ABY 
 Jedi Knights [[Characters/Cecily Beaumont\|Cecily Beaumont]] (15) and [[Characters/Dahlia Coutier\|Dahlia Coutier]] (17) begin to hunt down the [[Force Traditions & Sects/Jen'jidai Cult\|Jen'jidai Cult]].
