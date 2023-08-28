@@ -23,7 +23,7 @@
 
 ## Relations
 
-**Parents**::  [[Characters/Fecility Beauregard\|Fecility Beauregard]] & [[Characters/Norman Draig\|Norman Draig]] 
+**Parents**::  [[Characters/Felicity Beauregard\|Felicity Beauregard]] & [[Characters/Norman Draig\|Norman Draig]] 
 **Significant Other**::  [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (wife)
 
 **Other Family**::
