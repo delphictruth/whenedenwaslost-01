@@ -31,7 +31,7 @@ Raegal Aurelius, born Alban Draig, was abducted by the [[Force Traditions & Sect
 - [[Characters/Talia Draig\|Talia Draig]] (cousin)
 - [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (sister-in-law)
 - [[Characters/Holland Lillivere\|Holland Lillivere]] (sister-in-law)
-- [[Characters/Fecility Beauregard\|Fecility Beauregard]] (aunt)
+- [[Characters/Felicity Beauregard\|Felicity Beauregard]] (aunt)
 - [[Characters/Norman Draig\|Norman Draig]] (uncle)
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (son)
 
