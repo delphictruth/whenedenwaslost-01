@@ -9,7 +9,7 @@ Desc
 
 **Region**::  [[Navigational/Regions/Outer Rim\|Outer Rim]]
 **Sector**::  [[Sanbra sector\|Sanbra sector]]
-**System**::  [[Ileenium system\|Ileenium system]]
+**System**::  [[Navigational/Systems/Ileenium system\|Ileenium system]]
 **Grid**::  O-17
 
 **Capital**
