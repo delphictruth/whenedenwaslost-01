@@ -12,6 +12,7 @@ While Force-sensitive is a general term for any who can sense the Force, the ter
 **Recorded Force-sensitives**::
 - [[Characters/Alfred Jonnas\|Alfred Jonnas]]
 - [[Characters/Allyson Petit\|Allyson Petit]]
+- [[Characters/Amanda Wilde\|Amanda Wilde]]
 - [[Characters/AT-5365\|AT-5365]]
 - [[Characters/Aurora Caelum\|Aurora Caelum]]
 - [[Characters/Bardolph Vos\|Bardolph Vos]]
@@ -36,7 +37,7 @@ While Force-sensitive is a general term for any who can sense the Force, the ter
 - [[Characters/Erikson Makara\|Erikson Makara]]
 - [[Characters/Evelynn Decipio\|Evelynn Decipio]]
 - [[Characters/Exar Kun\|Exar Kun]]
-- [[Characters/Fecility Beauregard\|Fecility Beauregard]]
+- [[Characters/Felicity Beauregard\|Felicity Beauregard]]
 - [[Characters/Grand Inquisitor\|Grand Inquisitor]]
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
 - [[Characters/Holland Lillivere\|Holland Lillivere]]
