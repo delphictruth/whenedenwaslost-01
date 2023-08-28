@@ -13,7 +13,7 @@ Shii-Cho swordplay is simplistic and raw. In the hands of a master, the bladewor
 
 It is characterized by wide, sweeping motions ideal for engaging multiple opponents. The blade-work consists of a lot of perfectly horizontal and vertical angles, attacks and parries falling perpendicular or diagonal to one another. 
 
-Shii-Cho philosophy emphasizes victory without injury, so every move is geared towards quickly disarming an opponent before the fight can escelate. 
+Shii-Cho philosophy emphasizes victory without injury, so every move is geared towards quickly disarming an opponent before the fight can escalate. 
 
 **Practitioners**::
 - [[Characters/Alfred Jonnas\|Alfred Jonnas]]
