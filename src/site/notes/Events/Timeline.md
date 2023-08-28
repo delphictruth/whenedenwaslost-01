@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/timeline/","hideInGraph":true,"pinned":true,"dgShowBacklinks":false,"dgShowLocalGraph":false,"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Galactic Timeline
 
 ## Fall of the Old Republic 
@@ -351,4 +351,4 @@ Three months after their disappearance, the [[Force Traditions & Sects/Knights o
 ↳ [[Characters/Alfred Jonnas\|Alfred Jonnas]] ⇢ [[Characters/Alfred Jonnas\|Deco Ren]] (21).
 ↳ [[Characters/Versailles Cordelia\|Versailles Cordelia]] ⇢ [[Characters/Versailles Cordelia\|Victa Ren]] (16).
 ↳ [[Characters/Roman Ange\|Roman Ange]] ⇢ [[Characters/Roman Ange\|Feru Ren]] (16).
-## 31 ABY – [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+## 31 ABY – [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
