@@ -331,7 +331,7 @@ Near the end of the year, the [[Events/Battle of the Valley of the Dark Lords\|B
 ↳ [[Characters/Charlotte Rose\|Charlotte Rose]] (17).
 ## Resistance-First Order War
 > 28 ABY — *Present*
-### 28 ABY — [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]]
+### 28 ABY
 Senator [[Characters/Hasina Makara\|Hasina Makara]] is elected Chancellor of the [[Organizations/New Republic\|New Republic]]. 
 Sith ghost [[Characters/Darth Grimm\|Darth Grimm]] is summoned to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]] by [[Characters/Roman Ange\|Roman Ange]] (15), setting off the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]].
 ↳ Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] (47) is killed by [[Characters/Bardolph Vos\|Bardolph Vos]] (20).
