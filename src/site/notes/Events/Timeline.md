@@ -149,7 +149,7 @@ Local government on [[Navigational/Planets/Carida\|Carida]] manages to reclaim p
 The death of the [[Organizations/Galactic Empire\|Galactic Empire]]-imposed leader on [[Navigational/Planets/Mandalore\|Mandalore]] leads to a power vacuum and on-going civil war on [[Navigational/Planets/Mandalore\|Mandalore]].
 ↳ [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (16) escapes the [[Organizations/Imperial Academy\|Academy]] and flees with a group of fellow officers.
 The [[Events/Fall of the Jedi Order\|Jedi Order falls]].
-↳Jedi Master [[Characters/Darth Krayt\|A'Sharad Hett]] escapes the [[Events/Fall of the Jedi Order\|Fall]].
+↳ Jedi Master [[Characters/Darth Krayt\|A'Sharad Hett]] escapes the [[Events/Fall of the Jedi Order\|Fall]].
 ### 1 BBY 
 [[Navigational/Planets/Carida\|Carida]] begins to offer discreet aid to the [[Organizations/Rebellion\|Rebel Alliance]].
 [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (17) is hired by the [[Organizations/Rebellion\|Rebel Alliance]] as a mercenary 
