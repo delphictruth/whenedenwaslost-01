@@ -266,7 +266,7 @@ The [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] begin 
 ### 17 ABY
 The [[Sith-Nallastia disputes\|Sith-Nallastia disputes]] begin.
 [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] (9) is briefly captured by pirates, Awakened, and sent to the [[Force Traditions & Sects/Jedi Praxeum\|Jedi Praxeum]]. 
-[[Characters/Hazel Caelum\|Hazel Caelum]] (6) has nightmares, later thought to be premonitions of the [[Events/Battle of Nallastia\|Battle of Nallastia]].
+↳ [[Characters/Hazel Caelum\|Hazel Caelum]] (6) has nightmares, later thought to be premonitions of the [[Events/Battle of Nallastia\|Battle of Nallastia]].
 ### 18 ABY
 The [[Organizations/First Order\|First Order]] begins to form from the remnants of the [[Organizations/Galactic Empire\|Galactic Empire]] and various Sith factions. 
 The [[Events/Battle of Nallastia\|Battle of Nallastia]] occurs.
@@ -335,7 +335,7 @@ Near the end of the year, the [[Events/Battle of the Valley of the Dark Lords\|B
 Senator [[Characters/Hasina Makara\|Hasina Makara]] is elected Chancellor of the [[Organizations/New Republic\|New Republic]]. 
 Sith ghost [[Characters/Darth Grimm\|Darth Grimm]] is summoned to the [[Force Traditions & Sects/Jedi Praxeum\|Praxeum]] by [[Characters/Roman Ange\|Roman Ange]] (15), setting off the [[Events/Fall of the Jedi Praxeum\|Fall of the Jedi Praxeum]].
 ↳ Jedi Master [[Characters/Rathos Visio\|Rathos Visio]] (47) is killed by [[Characters/Bardolph Vos\|Bardolph Vos]] (20).
-↳ Jedi Knights [[Characters/Roslyn Dystra\|Roslyn Dystra]] (22) is killed.  
+↳ Jedi Knight [[Characters/Roslyn Dystra\|Roslyn Dystra]] (22) is killed.  
 ↳ Jedi Knight [[Characters/Marcus Morr\|Marcus Morr]] (24) is killed by [[Characters/Chevalier Hellix\|Chevalier Hellix]] (20).
 ↳ Jedi Padawans [[Characters/Lilith Nicolescu\|Lilith Nicolescu]] (13) and [[Characters/Isa Phant\|Isa Phant]] (12) are killed by [[Characters/Roman Ange\|Roman Ange]] (15).
 ↳ Grand Master Jedi [[Characters/Dahlia Coutier\|Dahlia Coutier]] (44) disappears.
