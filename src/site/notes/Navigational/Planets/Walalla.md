@@ -3,15 +3,15 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as
+- *No other names on record*
 # Walalla
-Desc
+Walalla is a small planet located in the [[Navigational/Regions/Inner Rim\|Inner Rim]]. It is largely unpopulated. 
 
 **Region**::  [[Navigational/Regions/Inner Rim\|Inner Rim]]
 **Sector**::  [[Seventh Security Zone\|Seventh Security Zone]]
 **System**::  [[Walalla system\|Walalla system]]
 **Grid**::  J-13
 
-**Capital**
+**Capital** N/A
 **Notable Locations**
-- test
+- N/A
