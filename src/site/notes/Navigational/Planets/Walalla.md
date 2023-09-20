@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/walalla/","tags":["map","innerrim","seventh","planet","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/navigational/planets/walalla/","tags":["map","innerrim","seventh","planet"],"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
 - *No other names on record*
 # Walalla
-Walalla is a small planet located in the [[Navigational/Regions/Inner Rim\|Inner Rim]]. It is largely unpopulated. 
+Walalla is a large planet located in the [[Navigational/Regions/Inner Rim\|Inner Rim]]. Despite its size, it is largely unpopulated. 
 
 **Region**::  [[Navigational/Regions/Inner Rim\|Inner Rim]]
 **Sector**::  [[Seventh Security Zone\|Seventh Security Zone]]
