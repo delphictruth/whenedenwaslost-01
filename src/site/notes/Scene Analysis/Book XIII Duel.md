@@ -39,7 +39,6 @@ But when Ani points this out and asks her about [[Forms & Martial Arts/Ataru (IV
 When she goes on the offensive, Hazel is still using the sweeping movements of [[Forms & Martial Arts/Ataru (IV)\|Ataru]], but she also begins to mirror the quick parries and counterattacks of [[Forms & Martial Arts/Djem So (V)\|Djem So]] that Ani used in the first phase of the fight. 
 
 At one point she briefly tests a reverse grip, copying his preferred hold, before switching back to a forward grip. The spin that she "stole" from him is essentially the HC spin:
-
 ![ani.gif](/img/user/Photos/ani.gif)
 ### Phase Three
 When Ani laughs at Hazel, she lets her anger take ahold of her and effectively loses control. Here she continues to employ [[Forms & Martial Arts/Ataru (IV)\|Ataru]]'s flowing movement with the rapid [[Forms & Martial Arts/Djem So (V)\|Djem So]] counterstrikes, but she is fully plunged into the rage of [[Forms & Martial Arts/Juyo (VII)\|Juyo]] and on an aggressive offensive. (Note: This is still [[Forms & Martial Arts/Niman (VI)\|Niman]].)
