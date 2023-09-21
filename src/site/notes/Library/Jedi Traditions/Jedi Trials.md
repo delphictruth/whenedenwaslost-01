@@ -32,3 +32,14 @@ While bearing similarities to the *Trial of Skill*, this trial does not involve 
 The *Trial of Insight* is the last test offered as part of the Trials of Knighthood. This trial is designed to help a Jedi see what is really in front of their eyes through use of the Force. The trial focuses on seeing through illusion, evaluating an individual's true persona, and unveiling lies. 
 
 The trial might require a Padawan to analyze and decipher the High Riddles of Dwartii, or decode broken text in scattered files. Sometimes, a field of stones is laid out on the Trials Chamber floor and a Padawan is be forced to locate the single grain of sand amongst it. To complete the trial, Padawans are forbidden from reviewing any of the possible puzzles in the Jedi Archives; such an advantage would make the test moot. 
+# Jedi Path Excerpts
+![knight trials-99.jpg](/img/user/Photos/knight%20trials-99.jpg)
+![knight trials-100.jpg](/img/user/Photos/knight%20trials-100.jpg)
+![knight trials-101.jpg](/img/user/Photos/knight%20trials-101.jpg)
+![knight trials-102.jpg](/img/user/Photos/knight%20trials-102.jpg)
+![knight trials-103.jpg](/img/user/Photos/knight%20trials-103.jpg)
+![knight trials-104.jpg](/img/user/Photos/knight%20trials-104.jpg)
+![knight trials-105.jpg](/img/user/Photos/knight%20trials-105.jpg)
+![knight trials-106.jpg](/img/user/Photos/knight%20trials-106.jpg)
+![knight trials-107.jpg](/img/user/Photos/knight%20trials-107.jpg)
+![knight trials-108.jpg](/img/user/Photos/knight%20trials-108.jpg)
