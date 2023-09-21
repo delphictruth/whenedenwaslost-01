@@ -25,7 +25,6 @@ Notably, while both styles of Form VII have their own opening stances and classi
 Juyo is said to be the most vicious and chaotic form of lightsaber combat, requiring significant internal focus on the part of the user. Many describe it as a form of "malignant grace," and it is sometimes refered to as the "Sith style". 
 
 Juyo blade-work is chaotic and erractic, with a focus on offensive attacks marked by bold, direct motions. It is a more open and kinetic form than some of the others, but not as smooth. It is highly unpredictable, and therefore a dangerous but powerful form.
-
 ### Stances and Maneuvers
 The Form VII opening stance is a one-handed high guard with the blade held horizontally above the head and pointed to the side. The body is half-twisted, with the off-hand swept across and down.
 
@@ -33,18 +32,17 @@ Juyo users are proficient in a technique called *Assured Strike*, wherein they t
 
 Another technique they use is referred to as *Vornskr's Ferocity*, which involves "ferocious" attacking of an opponent. Wielders of Juyo are capable of employing this move without allowing the dark side's influence to pervade their aggression.
 
+![Pasted image 20230920222948.png](/img/user/Photos/Pasted%20image%2020230920222948.png)
 ## Vaapad
 Vaapad is a more modern variation of Juyo, described as being a state of mind rather than just a fighting style, allowing the wielder to channel his inner darkness into the duel and accept the opponent's fury. The wielder is required to enjoy the fight and relish in the satisfaction of winning, inching close to the Dark side in order to channel the inherent violence of the fight. 
 
 Vaapad requires a constant and sizable stream of Force use from the user, with a barely contained explosion of Force power essential to all variations of Form VII as another prerequisite for its use. The form's attacks appear to be unconnected, its motions seemingly unpolished to an untrained observer, which makes it as unpredictable as its original form, Juyo. 
-
 ### Vaapad Stances and Maneuvers
 Vaapad users appear to wield many lightsabers at once, moving too fast to see, with attacks that flow into each other with liquid precision, creating the constant near-invisible weave of energy which is considered the ready-stance of Vaapad. They might also use Juyo's opening stance. 
 
 Those skilled in the Vaapad form are known for their use of the *Swift Flank* technique, where they leap or dash around an opponent to make a quick strike. The speed of the maneuver is intended to catch opponents off guard. 
 
 They are also skilled in *Tempered Aggression*, a term used to describe the ferocity of the Vaapad form, but with more control against succumbing to the dark side even in the heat of battle.
-
 ## Jedi Path Excerpts
 ![juyo1.jpg](/img/user/Photos/juyo1.jpg)
 ![juyo2.jpg](/img/user/Photos/juyo2.jpg)
