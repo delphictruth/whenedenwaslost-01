@@ -15,15 +15,15 @@ An aggressive style, Form IV is fast-paced and effective against single opponent
 
 { .block-language-dataview}
 ## Stances
-The opening stance for Ataru was a balanced two-handed guard: holding the lightsaber vertically with both palms, either on the right or left side of the body.
+The opening stance for Form IV is a balanced two-handed guard: holding the lightsaber vertically with both palms, either on the right or left side of the body.
 
+![Pasted image 20230920222715.png](/img/user/Photos/Pasted%20image%2020230920222715.png)
 ## Common Maneuvers
 One technique employed with greater effect by Ataru users is the *Hawk-Bat Swoop*. When utilized by Ataru practitioners, it is intended to allow a combatant to quickly strike their opponent without giving them a chance to react, and then escape before they have a chance to retaliate. 
 
 Another move that Ataru users can use effectively is dubbed the *Saber Swarm*, where numerous short strikes are aimed at the adversary to force a defensive posture. Ataru wielders are able to execute this combination with particular skill.
 
-Both the *Hawk-Bat Swoop* and the *Saber Swarm* were related to the Falling Leaf technique, and they gained in popularity during the New Sith Wars.
-
+Both the *Hawk-Bat Swoop* and the *Saber Swarm* are related to the *Falling Leaf* technique, and they gained in popularity during the New Sith Wars.
 ## Jedi Path Excerpts
 ![soresu2 ataru1.jpg](/img/user/Photos/soresu2%20ataru1.jpg)
 ![ataru2.jpg](/img/user/Photos/ataru2.jpg)
