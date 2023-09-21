@@ -88,3 +88,15 @@ Alter is the third and most difficult aspect of the Force taught by the Jedi. Th
 - [[Force Abilities & Phenomena/Wall of light\|Wall of light]]
 
 { .block-language-dataview}
+## Jedi Path Excerpts
+![control-29.jpg](/img/user/Photos/control-29.jpg)
+![control-30.jpg](/img/user/Photos/control-30.jpg)
+![sense-81.jpg](/img/user/Photos/sense-81.jpg)
+![sense-82.jpg](/img/user/Photos/sense-82.jpg)
+![sense-83.jpg](/img/user/Photos/sense-83.jpg)
+![sense-84.jpg](/img/user/Photos/sense-84.jpg)![alter-132.jpg](/img/user/Photos/alter-132.jpg)
+![alter-133.jpg](/img/user/Photos/alter-133.jpg)
+![alter-134.jpg](/img/user/Photos/alter-134.jpg)
+![alter-135.jpg](/img/user/Photos/alter-135.jpg)
+![alter-136.jpg](/img/user/Photos/alter-136.jpg)
+![alter-137.jpg](/img/user/Photos/alter-137.jpg)
