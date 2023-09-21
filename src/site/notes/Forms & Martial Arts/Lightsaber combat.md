@@ -28,10 +28,8 @@ The *zone 5 attack* is a low side-sweep or slash angled towards an opponent's ri
 The inverse to *zone 5*, a *zone 6 attack* is a low side-sweep or slash angled towards an opponent's right leg. Depending on the opponent's own stance, this may mean targeting their dominant or back leg to disrupt their balance, or targeting their forward foot to compromise their movements. The *zone 6 parry* is a defensive drop parry with the hilt held at the waist. 
 ### Marks of Contact
 Marks of Contact refer to the standard "marks" used across all of the seven traditional forms. These marks describe the objectives, maneuvers to use, and various outcomes that could arise out of lightsaber combat. The [[Force Traditions & Sects/Jedi Order\|Jedi Order]] taught the Marks in order to help narrow a duelist's focus to a few clear categories or goals, and sometimes used the marks as short-hand for various techniques.
-
-![marksofcontact.png](/img/user/Photos/marksofcontact.png)
 #### Sun djem
-The *sun djem* is the act of disarming an opponent, with the object typically being not to physically harm the opponent. These attacks are typically aimed at the weapon in isolation, such as [[Forms & Martial Arts/Shii-Cho (I)\|Shii-Cho]]'s Disarming Slash.
+The *sun djem* is the act of disarming an opponent, with the objective typically being not to physically harm the opponent. These attacks are typically aimed at the weapon in isolation, such as [[Forms & Martial Arts/Shii-Cho (I)\|Shii-Cho]]'s Disarming Slash.
 #### Shiim
 The *shiim* is a more minute wound made by the edge of a lightsaber's blade. This mark is exclusively a "technique" and not a specific zone on the body, as it can be applied anywhere on the body. 
 #### Cho mai, cho sun, cho mok
@@ -44,6 +42,9 @@ The *sai cha* is the decapitation of an opponent, but may be used to refer to ot
 The *sai tok* is the act of cutting an opponent in half, traditionally by separating their legs from their torso at the waist through a horizontal strike (*zone 2*, *zone 3*, *zone 4*), but it can also be performed vertically (*zone 1*).
 #### Mou kei
 The *mou kei* is an attack that dismembers an opponent through a circular motion of the lightsaber, aiming to strike all major limbs in one fluid motion. Successful *mou kei* marks are sometimes referred to as double, triple, or quad *cho mok* marks.
+#### Jedi Path Excerpts
+![marks-79.jpg](/img/user/Photos/marks-79.jpg)
+![marks-80.jpg](/img/user/Photos/marks-80.jpg)
 ### Three Rings of Defense
 The Three Rings of Defense are different levels of defense, generally imagined as rings surrounding a duelist at various distances. Certain defensive stances focus on different "rings" or ranges to defend attacks from. While there are standard stances associated with each ring, any defensive move or stance can technically be sorted into one of the rings. For that reason, the rings are less frequently taught by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] and generally only glancingly addressed. 
 
