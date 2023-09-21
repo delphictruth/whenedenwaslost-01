@@ -7,10 +7,10 @@
 In **Book XIII**, [[Characters/Bastille Aurelius\|Ani Ren]] recites several snippets from different oaths and codes. In the beginning of the chapter, he switches back and forth through the different codes, as follows:
 > There is no death. There is no death. There is the Force. ([[Library/Oaths/Code of the Jedi\|Code of the Jedi]])
 > Freedom in life. Purpose in death. There is no death. No death, no death, nodeath— ([[Library/Oaths/Gray Jedi Code\|Gray Jedi Code]])
-> Ashajontû kotswinot itsu nuyak. Wonoksh Qyâsik nun, wonokshqyâsiknun, WONOKSHOYÂSIKNUN— ("Through victory, my chains are broken. The Force shall free me, theForceshallfreeme, THEFORCESHALLFREEME") ([[Library/Oaths/Code of the Sith\|Code of the Sith]])
+> Ashajontû kotswinot itsu nuyak. Wonoksh Qyâsik nun, wonokshqyâsiknun, WONOKSHOYÂSIKNUN— (*"Through victory, my chains are broken. The Force shall free me, theForceshallfreeme, THEFORCESHALLFREEME"*) ([[Library/Oaths/Code of the Sith\|Code of the Sith]])
 > —freedom in life. Purpose in death. ([[Library/Oaths/Gray Jedi Code\|Gray Jedi Code]])
 > —no emotion, peace— ([[Library/Oaths/Code of the Jedi\|Code of the Jedi]])
-> Nwûl tash. Dzwol shâsotkun. Nwûl tash, nwûl tash, dzwol shâsotkun— ("Peace is a lie, there is only passion. Peace is a lie, peace is a lie, there is only passion") ([[Library/Oaths/Code of the Sith\|Code of the Sith]])
+> Nwûl tash. Dzwol shâsotkun. Nwûl tash, nwûl tash, dzwol shâsotkun— (*"Peace is a lie, there is only passion. Peace is a lie, peace is a lie, there is only passion"*) ([[Library/Oaths/Code of the Sith\|Code of the Sith]])
 > —no passion without peace to guide ([[Library/Oaths/Gray Jedi Code\|Gray Jedi Code]])
 > There is no death. ([[Library/Oaths/Code of the Jedi\|Code of the Jedi]])
 
