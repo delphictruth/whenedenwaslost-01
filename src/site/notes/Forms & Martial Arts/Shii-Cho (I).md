@@ -22,7 +22,7 @@ Shii-Cho philosophy emphasizes victory without injury, so every move is geared t
 
 { .block-language-dataview}
 ## Stances
-The Shii-Cho opening stance is a defensive stance, in which the practitioner holds the lightsaber before them, blade angled upwards with the hilt in front of their navel or chest. Some practitioners choose to twist their body slightly, or hold the lightsaber a bit to the side of their body as opposed to directly in front of them.
+The Form I opening stance is a defensive stance, in which the practitioner holds the lightsaber before them, blade angled upwards with the hilt in front of their navel or chest. Some practitioners choose to twist their body slightly, or hold the lightsaber a bit to the side of their body as opposed to directly in front of them.
 
 ![Pasted image 20230920221237.png](/img/user/Photos/Pasted%20image%2020230920221237.png)
 ## Common Maneuvers
