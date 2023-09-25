@@ -68,6 +68,6 @@ The final [[Forms & Martial Arts/Lightsaber combat\|mark of contact]] that Hazel
 
 > *Sai cha* is the act of cutting an enemy's head from his shoulders. It is never the intention of a Jedi to extinguish a fellow life, for even the worst of us exists as a luminous being in the warmth of the Force. But when required, a lightsaber can also kill.
 
-(In **Book XIV**, [[Characters/Imperia Sibyl\|Imperia Sibyl]] lists *sai tok*, *cho mai*, and *sai cha* as [[Forms & Martial Arts/Lightsaber combat\|marks of contact]] that Hazel landed on Ani. Respectively, those are the strikes to his side, wrist, and throat.)
+(In **Book XIV**, [[Characters/Imperia Sibyl\|Imperia Sibyl]] lists *sai tok*, *cho mai*, and *sai cha* as [[Forms & Martial Arts/Lightsaber combat\|marks of contact]] that Hazel landed on Ani. Respectively, those are the strikes to his side, wrist, and throat. In turn, he landed a *shiim* mark when he forced her saber into her shoulder.)
 
 It is because Hazel strikes under the influence of her rage and hatred that the [[Crystals/Ankarres Sapphire\|Ankarres Sapphire]] in [[Characters/Octavia Bonteri\|Octavia Bonteri]]'s lightsaber burns her palm. 
