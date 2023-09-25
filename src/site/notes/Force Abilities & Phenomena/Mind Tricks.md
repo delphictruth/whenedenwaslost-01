@@ -3,7 +3,7 @@
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
-- Also known as *affect mind*, *alter mind*, *dominate mind*, *Force mind trick*, *Force persuasion*, *Illusion*, *Jedi mind trick*, *Mindform*, *Force corruption*
+- Also known as *affect mind*, *Alter Mind*, *dominate mind*, *Force mind trick*, *Force persuasion*, *Illusion*, *Jedi mind trick*, *Mindform*, *Force corruption*
 # Mind Tricks
 Mind tricks refer to a spectrum of Force powers that are capable of influencing the thoughts of sentient creatures. It is commonly used as a coercion method, or a way of persuasion, but it can be used to create sensory illusions or distractions, extract information, and push a target's thoughts in a certain direction. 
 
@@ -15,7 +15,7 @@ Similar but distinct abilities include [[Force Abilities & Phenomena/Force empat
 ### Appearances in *When Eden Was Lost*
 In **Book V**, [[Characters/Hazel Caelum\|Hazel Caelum]] uses Force persuasion against [[Characters/Roman Ange\|Feru Ren]] to command him to help her escape the *Finalizer* and allow her to use [[Force Abilities & Phenomena/Mind Probe#Drain knowledge\|drain knowledge]] to learn how to pilot from him. 
 ## Force persuasion
-A Force-user uses *Force persuasion* in order to exert influence over another's mind or emotions. It is a powerful form of suggestion. While it is used universally, it can be something of a moral debate for Light-side users and is commonly taught with restraint among the Jedi. It is also called *affect mind*, for milder uses, or *dominate mind*, for more extreme approaches (see *mind control*), in this form.
+A Force-user uses *Force persuasion* in order to exert influence over another's mind or emotions. It is a powerful form of suggestion. While it is used universally, it can be something of a moral debate for Light-side users and is commonly taught with restraint among the Jedi. It is also called *affect mind* or *alter mind*, for milder uses, or *dominate mind*, for more extreme approaches (see *mind control*), in this form.
 ## Force confusion
 Among the more advanced mind trick techniques was *Force confusion*, which could be used in combat to temporarily manipulate enemies to fight as an ally. It was especially useful when outnumbered, and was quicker to employ than affect mind in the heat of battle.
 ## Force fear
