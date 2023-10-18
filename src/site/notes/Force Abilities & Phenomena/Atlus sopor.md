@@ -13,5 +13,8 @@ A mirror ability achieved through a meditation based on [[Force Abilities & Phen
 - [[Characters/Chevalier Hellix\|Chevalier Hellix]]
 ## Force stealth
 Also known as *Force Concealment* or *Buried Presence*, *Force stealth* is considered the height of the *atlus sopor* technique. A talented practitioner can hide mask their Force alignment (and appear neutral in the Force), their [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitivity]], or even their entire presence from other Force-sensitives. They essentially become "invisible" in the Force.
+
+### Appearances in [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+In Book XII, [[Characters/Bastille Aurelius\|Ani Ren]] uses Force Concealment to muffle his Force signature until [[Characters/Talia Draig\|Talia Draig]] is closer to his location. 
 ## Quey'tek meditation
 *Quey'tek meditation* is a prevalent form of Force Concealment, through which a Sith Lord or Dark Jedi masks their own dark signature and appears as completely benevolent to even the most powerful and alert Jedi. While this ability is essentially the same as neutral Force Concealment, this terminology for it was used by the Sith. 
