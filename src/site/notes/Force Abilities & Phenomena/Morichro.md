@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/morichro/","tags":["light","control","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Touch of Death*
 # Morichro
 The ancient Jedi art of *Morichro* is a powerful but potentially fatal Force technique through which the user slows down the body functions of another being into mild catatonia or long-term suspended animation or, in the extreme, to extinguish life. It is a very rarely practiced technique and was even prohibited by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] for centuries. 
