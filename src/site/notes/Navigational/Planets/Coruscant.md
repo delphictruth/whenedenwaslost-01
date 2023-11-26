@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/coruscant/","tags":["map","resistance","planet","corellianrun","perlemian","corudant","koros","martial","metellos","spur"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Notron*, *Queen of the Core*, *Imperial Center*, *Jewel of the Core Worlds*
 # Coruscant
 Coruscant is a planet located in the [[Navigational/Regions/Core Worlds\|Core Worlds]], at the center of numerous major hyperlanes and essentially the center of the galaxy itself. It has developed into an ecumenopolis over the centuries, with a total of 5,127 levels of the city built up from the surface by the time of the [[Events/Clone Wars\|Clone Wars]]. The actual planet-wide metropolis is called Galactic City, which is considered the planet's capital. 
