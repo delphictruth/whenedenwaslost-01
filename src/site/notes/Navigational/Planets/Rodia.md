@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/rodia/","tags":["map","planet","savareen","tyrius","outerrim"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record* 
 # Rodia
 
