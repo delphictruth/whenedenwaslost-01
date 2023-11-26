@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/organizations/new-sith-empire/","tags":["faction"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *New Sith*
 # New Sith Empire
 The name "New Sith Empire" is something of an archival inventions by historians; it refers to a series of factions of the [[Sith Order\|Sith Order]] that existed throughout the [[Events/New Sith Wars\|New Sith Wars]] era and tried to restore a "new" [[Sith Empire\|Sith Empire]]. As many of the smaller and less significant factions went unrecorded or forgotten, historians have referred to them as a collective group — and they more or less did act as such, largely following the rule of several influential leaders.
