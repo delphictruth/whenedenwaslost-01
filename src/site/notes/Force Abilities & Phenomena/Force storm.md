@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-storm/","tags":["force"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-storm/","tags":["forcephenomenon"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Force storm
 A Force storm is a weather phenomenon that consists of significant and violent weather patterns, with some occasionally accompanied by volcanic or seismic activities. These storms are generally "naturally" occurring within the Force, triggered by powerful presences or events as opposed to by a [[Force Abilities & Phenomena/Force-sensitive\|Force-user]]'s manipulations, but they can be intentionally made or manipulated in some cases. [[Navigational/Planets/Tython\|Tython]] is rather infamously ravaged by Force storms. 
