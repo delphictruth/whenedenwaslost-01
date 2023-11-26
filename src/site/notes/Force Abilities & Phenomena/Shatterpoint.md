@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/shatterpoint/","tags":["universal","sense","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Red Lines of Fire*
 # Shatterpoint
 Shatterpoints are a complex Force phenomenon, perceivable only by an unknown innate talent or immense focus and concentration on the part of a [[Force Abilities & Phenomena/Force-sensitive\|Force-user]]. Philosophers theorize that the ability to perceive these shatterpoints (an ability typically called *Shatterpoint*) is connected to [[Force Abilities & Phenomena/Precognition\|Precognition]] and [[Force Abilities & Phenomena/Psychometry\|Psychometry]]. Shatterpoints are akin to fault lines, similar to different pathways of actions. Adept Force users are able to perceive these faults through the Force and influence them.
