@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/atrisia/","tags":["planet","map","gijurun","core","commonwealth","atrisi"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Ketal Phard*
 # Atrisia
 More mordernly known as *Ketal Phard*, Atrisia is the heart of the [[Navigational/Sectors/Atrisian Commonwealth\|Atrisian Commonwealth]]. It is located on the [[Navigational/Hyperlanes/Giju Run\|Giju Run]]. 
