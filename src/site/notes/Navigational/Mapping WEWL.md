@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/mapping-wewl/","tags":["unfinished","meta"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # When Eden Was Lost
 
 ## The Map of Chapters I-X
