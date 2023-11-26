@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/juyo-vii/","tags":["form"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Form VII*
 # Juyo / Vaapad
 > The Way of the Vornskr, The Ferocity Form
@@ -32,7 +32,7 @@ Juyo users are proficient in a technique called *Assured Strike*, wherein they t
 
 Another technique they use is referred to as *Vornskr's Ferocity*, which involves "ferocious" attacking of an opponent. Wielders of Juyo are capable of employing this move without allowing the dark side's influence to pervade their aggression.
 
-![Pasted image 20230920222948.png](/img/user/Photos/Pasted%20image%2020230920222948.png)
+![juyobanner.png](/img/user/Photos/juyobanner.png)
 ## Vaapad
 Vaapad is a more modern variation of Juyo, described as being a state of mind rather than just a fighting style, allowing the wielder to channel his inner darkness into the duel and accept the opponent's fury. The wielder is required to enjoy the fight and relish in the satisfaction of winning, inching close to the Dark side in order to channel the inherent violence of the fight. 
 
