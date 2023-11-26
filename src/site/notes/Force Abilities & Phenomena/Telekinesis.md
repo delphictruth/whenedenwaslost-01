@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/telekinesis/","tags":["universal","alter","offense","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Force Lift*, *Levitation*
 # Telekinesis
 Telekinesis is the neutral ability that most [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitives]] are capable of, at least on a basic level, with or without training. It is one of the most common early manifestations of [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitivity]] and typically comes naturally to users. Telekinesis covers a wide range of techniques, with many unique combinations and uses, but the three primary or major techniques are the [[Force Abilities & Phenomena/Telekinesis#Force Push (Force Shove)\|Force Push]], [[Force Abilities & Phenomena/Telekinesis#Force Pull (Force Tug)\|Force Pull]], and [[Force Abilities & Phenomena/Telekinesis#Force Grip\|Force Grip]]. In its most basic form, Telekinesis is known as *Levitation* and involves lifting objects with the Force. 
