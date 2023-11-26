@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/corellia/","tags":["map","core","corellian","corellianspine","corellianrun","unfinished","planet"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Eldest Brother*
 # Corellia
 
