@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/mind-probe/","tags":["dark","control sense alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *drain knowledge*
 # Mind Probe
 Mind probe is a [[Force Abilities & Phenomena/Telepathy\|telepathic]] ability of the Force that allows the user to sense or even sift through the thoughts, emotions, and memories of the victim, seeking useful information. It is very similar in nature to [[Force Abilities & Phenomena/Force empathy\|Receptive Telepathy]], but is markedly more invasive, requires domination of the target's mind, and typically colored with anger and violence. This ability is also closely related to [[Force Abilities & Phenomena/Mind Tricks\|Mind Tricks]].
