@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/sith-schools-of-the-force/","pinned":true,"tags":["force"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/sith-schools-of-the-force/","pinned":true,"tags":["forceteachings"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Sith Schools of the Force
 The Sith practiced their own schools or focuses of the Force, similar to the [[Force Traditions & Sects/Jedi Order\|Jedi Order]]'s own [[Force Abilities & Phenomena/Aspects of the Force\|Aspects of the Force]]. These schools included [[Force Abilities & Phenomena/Sith Schools of the Force#Offense\|Offense]], [[Force Abilities & Phenomena/Sith Schools of the Force#Body\|Body]], and [[Force Abilities & Phenomena/Sith Schools of the Force#Mind\|Mind]]. These schools were taught along with [[Force Abilities & Phenomena/Sith magic\|Sith magic]].
