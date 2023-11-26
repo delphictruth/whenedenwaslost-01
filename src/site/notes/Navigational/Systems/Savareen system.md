@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/systems/savareen-system/","tags":["map","system","outerrim","savareen","corellian"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Savareen system
 
 The Savareen system is home to the planet [[Navigational/Planets/Savareen\|Savareen]], but ironically it known more so as the origin of [[Savareen brandy\|Savareen brandy]] and the [[Savereen whist\|Savereen whist]] card game. 
