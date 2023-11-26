@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/characters/aspen-draig/","tags":["commander"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/aspen-draig/","tags":["commander"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Commander Draig*
 # Aspen Draig
 >Commander of the Caridian Navy
-
 Aspen Draig was a Commander in [[Navigational/Planets/Carida\|Carida]]'s Navy and briefly involved in her sister-in-law [[Characters/Felicity Beauregard\|Felicity Beauregard]]'s campaign to aid the [[Organizations/Rebellion\|Rebel Alliance]]. She was killed in action. 
 ## Personal Information
 
