@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/fauna-and-flora/bota/","tags":["fauna","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/fauna-and-flora/bota/","tags":["fauna","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as
 
 # Bota
