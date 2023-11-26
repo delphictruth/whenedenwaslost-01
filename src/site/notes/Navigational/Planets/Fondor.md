@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/fondor/","tags":["map","retraining","colonies","tapani","planet","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Fondor
 located in the [[Navigational/Sectors/Tapani sector\|Tapani sector]] of the [[Navigational/Regions/Colonies\|Colonies]] 
