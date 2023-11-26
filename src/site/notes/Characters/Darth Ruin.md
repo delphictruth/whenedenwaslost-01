@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/darth-ruin/","tags":["jedi","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Phanius*
 # Darth Ruin
 Darth Ruin was a Jedi Master turned Sith Lord who was active during the [[Organizations/Old Republic\|Old Republic]] era, reigning as a Dark Lord of the Sith around 2000 BBY. 
