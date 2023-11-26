@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/imperia-sibyl/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jediknight","forcesensitive","unfinished","trayas"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/imperia-sibyl/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jediknight","forcesensitive","trayas"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as
 # Imperia Sibyl | Sacra Ren
 >The Witch
@@ -52,7 +52,6 @@
 - [[Characters/Roman Ange\|Feru Ren]]
 
 ## Combat
-
 Imperia does not practice an traditional lightsaber form. She utilizes a unique style of combat that relies on telepathically controlling three sabers at once, allowing her to fight from a slight distance and with little personal movement. There is no known name for this style of combat, but some have used the phrase [[Forms & Martial Arts/Traya's Telepathy\|Traya's Telepathy]] to refer to it. 
 
 ### Force Beliefs & Usage
