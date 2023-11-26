@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/jedi-archives/","tags":["location"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Jedi Temple Library*
 # Jedi Archives
 The Jedi Archives was the [[Force Traditions & Sects/Jedi Order\|Jedi Order]]'s repository of knowledge on [[Navigational/Planets/Coruscant\|Coruscant]] and rumored to hold the sum total of all galactic knowledge. Incredible amounts of data were stored electronically and holographically; whether or not the "sum total" of all knowledge actually was collected there, it was in fact the single largest source of information in the galaxy at its height. It contains data tapes, holobooks, [[Library/Holocrons/Holocron\|holocrons]], some special objects, and all manner of information storage devices. 
