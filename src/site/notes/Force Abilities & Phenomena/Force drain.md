@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-drain/","tags":["dark","control","sense","alter","body","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *deadly field*, *death field*, *Drain life*, *Dark healing*, *Drain Force*, *Force Diminish*
 # Force drain
 Force drain refers to a spectrum of offensive and defensive Force powers predominately practiced by Dark side [[Force Abilities & Phenomena/Force-sensitive\|Force-users]]. These powers were used to tap into the strengths of an organic target and drain it, often redirecting it to the user. These abilities used connections to the target to draw upon, feed upon, and completely drain the wills and strengths of others. 
