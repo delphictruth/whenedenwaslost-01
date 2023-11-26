@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-wind/","tags":["dark","light","sense","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Force Whirlwind*, *Spell of Storm*
 # Force Wind
 Force Wind is considered a Dark power. It allows the user to manipulate and channel air currents, primarily to create destructive tornadoes. 
