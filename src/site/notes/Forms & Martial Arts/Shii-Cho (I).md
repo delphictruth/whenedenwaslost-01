@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/shii-cho-i/","tags":["form"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Form I*
 # Shii-Cho
 >Way of the Sarlacc, Determination Form
@@ -24,7 +24,7 @@ Shii-Cho philosophy emphasizes victory without injury, so every move is geared t
 ## Stances
 The Form I opening stance is a defensive stance, in which the practitioner holds the lightsaber before them, blade angled upwards with the hilt in front of their navel or chest. Some practitioners choose to twist their body slightly, or hold the lightsaber a bit to the side of their body as opposed to directly in front of them.
 
-![Pasted image 20230920221237.png](/img/user/Photos/Pasted%20image%2020230920221237.png)
+![shiichobanner.png](/img/user/Photos/shiichobanner.png)
 ## Common Maneuvers
 Keeping with the use of *sun djem*, one of the attacks utilized by Form I practitioners is referred to as the *Disarming Slash*, consisting of a strike directed at the opponent's weapon in an attempt to rip it out of their grasp.
 
