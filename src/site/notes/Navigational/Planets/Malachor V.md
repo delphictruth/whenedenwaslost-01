@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/malachor-v/","tags":["map","retraining","outerrim","chorlian","planet"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Malachor*
 # Malachor V
 Malachor V, or simply *Malachor*, is an Outer Rim planet located in the Malachor system. During the [[Events/Battle of Malachor V\|Battle of Malachor V]], the planet was devastated by the use of the Mass Shadow Generator, with its very core cracking. Thousands of Jedi, Republic soldiers, and Mandalorians died in the resulting cataclysm. 
