@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-blast/","tags":["dark","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Sickening Blast*
 # Force Blast
 Force Blast is a Force power used by darksiders and modeled on [[Force Abilities & Phenomena/Sith magic\|Sith magic]]. Practitioners project concentrated blasts of pure dark side energy at objects or opponents, usually with devastating effects. Such blasts can obliterate objects and destroy living creatures. In its heightened form, called *Sickening Blast*, it can complete dissolve an opponent's physical body. 
