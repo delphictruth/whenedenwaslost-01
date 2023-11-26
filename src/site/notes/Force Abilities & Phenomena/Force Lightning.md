@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-lightning/","tags":["dark","alter","body","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Storm of Midnight Fire*, *Guided Lightning*, *chain lightning*, *Dark Aura*, *Sith lightning*, *Electric Judgment*, *Emerald Lightning*
 # Force Lightning
 Force Lightning is a well-known Force ability used to blast dangerous electrical bolts, used almost exclusively by the Sith (and thus commonly known as *Sith lightning*). It is a form of raw elemental power, allowing the user to unleash storms of lightning from their fingertips, and relies heavily on manifestations of Dark energy. Although the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] generally prohibited its use, it was not necessarily exclusively a Sith technique and was even used openly by the [[Force Traditions & Sects/Je'daii Order\|Je'daii Order]]. 
