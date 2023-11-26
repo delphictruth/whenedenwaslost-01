@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/cecily-beaumont/","tags":["jedi","rebellion","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/cecily-beaumont/","tags":["jedi","rebellion","jediknight","newjediorder","i","ii","iii","iv","v","vi","vii","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Princess Beaumont*
 # Cecily Beaumont
 >Princess of Axum, Light of the Jedi
