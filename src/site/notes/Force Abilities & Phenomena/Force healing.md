@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-healing/","tags":["universal","control","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *curato salva*, *Cure*
 # Force healing
 Force healing is a power that uses the Force to accelerate the natural healing process rapidly, and could be used to heal the most fatal of wounds and injuries.
