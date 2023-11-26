@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/crait/","tags":["map","planet","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Crait
 [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] have training mission here; where [[Characters/Versailles Cordelia\|Versailles Cordelia]] finds her [[Fauna & Flora/Vulptex\|crystal critter]]
