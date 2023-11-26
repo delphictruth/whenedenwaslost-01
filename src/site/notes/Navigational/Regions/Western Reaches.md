@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/regions/western-reaches/","tags":["map","region","corellianspine","greatgranrun","biox","hydian"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Western Regions*
 # Western Reaches
 
