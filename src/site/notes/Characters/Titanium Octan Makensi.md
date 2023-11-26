@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/titanium-octan-makensi/","tags":["greyjedi","resistance","forcesensitive","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/titanium-octan-makensi/","tags":["greyjedi","resistance","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Titanium Octan Makensi
 >titles, taglines, etc
