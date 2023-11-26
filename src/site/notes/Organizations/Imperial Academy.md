@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/organizations/imperial-academy/","tags":["galacticempire","location","place","firstorder","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/organizations/imperial-academy/","tags":["galacticempire","location","place","firstorder","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Imperial Academy
 The Imperial Academy is a network of officer's schools designed for the training of Imperial and First Order soldiers. Academies are located all across the galaxy, and are typically referred to as the Academy instead of by the campus name. 
