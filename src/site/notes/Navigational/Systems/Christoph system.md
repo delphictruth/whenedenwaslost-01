@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/systems/christoph-system/","tags":["map","system","corellianrun","outerrim","savareen"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/navigational/systems/christoph-system/","tags":["map","system","corellianrun","outerrim","savareen"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Christoph system
 Located in the [[Navigational/Sectors/Savareen sector\|Savareen sector]] of the [[Navigational/Regions/Outer Rim\|Outer Rim]], the Cristoph system borders the [[Navigational/Hyperlanes/Corellian Run\|Corellian Run]] and is home to very few planets. 
