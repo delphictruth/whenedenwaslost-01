@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bardolph-vos/","tags":["fallenjedi","jediknight","firstorder","knightsofren","jedipraxeum","formii","forcesensitive","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/bardolph-vos/","tags":["fallenjedi","jediknight","firstorder","knightsofren","jedipraxeum","formii","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Lord Vos*
 # Bardolph Vos | Jus Ren
 >The Executioner, Heir of House Vos
