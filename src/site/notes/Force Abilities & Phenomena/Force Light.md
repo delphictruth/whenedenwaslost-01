@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-light/","tags":["light","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Force Light
 Force Light is an [[Force Abilities & Phenomena/Aspects of the Force#Alter\|Alter]]-based Force power generally employed by the Jedi. When used against a darksider, Force Light weakens the darksider's connection to the Force. 
