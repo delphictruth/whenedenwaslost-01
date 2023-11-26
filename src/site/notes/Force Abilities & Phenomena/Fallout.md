@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/fallout/","tags":["universal","forcepower"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/fallout/","tags":["universal","forcephenomenon"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *flashburn*
 # Fallout
 Although not necessarily what one might call a Force power, Fallout is a phenomena of the Force that occurs in Force-sensitives. It is a sort of defensive mechanism in response to extreme trauma, wherein the Force might shield the victim by hiding or altering the memories. 
