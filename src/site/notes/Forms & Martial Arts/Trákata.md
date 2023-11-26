@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/trakata/","tags":["technique"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Trákata
 Trákata is an uncommon technique in [[Forms & Martial Arts/Lightsaber combat\|lightsaber combat]]. It is not necessarily its own form, but rather a strategy that can be combined with more traditional forms. When utilizing trákata, a practitioner will rapidly shut off and then re-ignite their lightsaber to confuse opponents, allow diversional feints, or get under and around blocks and parries. It can be highly deadly but equally dangerous for the wielder. 
