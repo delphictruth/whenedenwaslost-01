@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/pyrokinesis/","tags":["universal","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *fire manipulation*
 # Pyrokinesis
 Pyrokinesis is a Force power that allows the user to manipulate and generate fire. Typically, users will conjure flames from already existing material or take control of already existing flames, but some users are capable of conjuring flames from the air in a specialized form of [[Force Abilities & Phenomena/Alter Environment\|Alter Environment]]. 
