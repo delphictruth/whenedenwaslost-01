@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/regions/outer-rim/","tags":["map","region","rimma","kessel","triellus","western","spicetri"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Outer Rim Systems*, *Outer Rim Worlds*
 # Outer Rim Territories
 
