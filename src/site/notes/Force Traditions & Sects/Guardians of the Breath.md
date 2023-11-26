@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-traditions-and-sects/guardians-of-the-breath/","tags":["faction"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Kashi Mer Mystics*
 # Guardians of the Breath
 
