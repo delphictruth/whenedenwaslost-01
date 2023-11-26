@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-meld/","tags":["light","sense","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *battle meld*, *combat meld*
 # Force meld
 Force meld, otherwise known as a *battle meld*, is a technique where a number of Force users join their minds together through the Force, drawing strength from each other. 
