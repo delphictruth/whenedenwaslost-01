@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/walalla/","tags":["map","innerrim","seventh","planet"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Walalla
 Walalla is a large planet located in the [[Navigational/Regions/Inner Rim\|Inner Rim]]. Despite its size, it is largely unpopulated. 
