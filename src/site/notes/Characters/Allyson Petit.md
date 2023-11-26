@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/allyson-petit/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i ii iii iv v vi vii","forcesensitive","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/allyson-petit/","tags":["jedi","jedipraxeum","jediknight","newjediorder","i","ii","iii","iv","v","vi","vii","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Allyson Petit
 >Jedi Knight of the New Order
