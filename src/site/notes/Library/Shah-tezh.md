@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/shah-tezh/","tags":["game"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *holochess*, *Dejarik*, *holochex*
 # Shah-tezh
 Shah-tezh is an abstract strategy game for two players, each beginning with an identical contingent of pieces that are moved on a board called the "demesne." The objective is to place an opponent's most important piece, the Imperator, under an attack from which it can not escape, thus ending the game. Over the course of history, it spawned many variants, including Dejarik, holochex, and holochess.
