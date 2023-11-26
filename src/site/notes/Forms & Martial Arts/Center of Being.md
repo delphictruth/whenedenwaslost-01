@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/center-of-being/","tags":["technique"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record* 
 # Center of Being
 Center of Being is a stance used in [[Forms & Martial Arts/Lightsaber combat\|lightsaber combat]], though it is also used for meditation. It was used by members of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], and later taught to students of the [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]. 
