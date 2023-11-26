@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/events/record-of-events/","pinned":true,"tags":["meta"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/events/record-of-events/","pinned":true,"tags":["meta"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Record of Events
 
 | Event                                                                                        | Location                                           | Year                                  | Type       |
