@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/aspects-of-the-force/","pinned":true,"tags":["force"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/aspects-of-the-force/","pinned":true,"tags":["forceteachings"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Aspects of the Force
 According to the teachings of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], there are three aspects of the Force that govern all abilities and powers accessible through the Force: [[Force Abilities & Phenomena/Aspects of the Force#Control\|Control]], [[Force Abilities & Phenomena/Aspects of the Force#Sense\|Sense]], and [[Force Abilities & Phenomena/Aspects of the Force#Alter\|Alter]].
