@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/mind-tricks/","tags":["universal","control","sense","alter","mind","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *affect mind*, *Alter Mind*, *dominate mind*, *Force mind trick*, *Force persuasion*, *Illusion*, *Jedi mind trick*, *Mindform*, *Force corruption*
 # Mind Tricks
 Mind tricks refer to a spectrum of Force powers that are capable of influencing the thoughts of sentient creatures. It is commonly used as a coercion method, or a way of persuasion, but it can be used to create sensory illusions or distractions, extract information, and push a target's thoughts in a certain direction. 
