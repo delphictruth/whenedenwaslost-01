@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/drongar/","tags":["map","planet","outerrim"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other name on record*
 # Drongar
 Drongar is a mostly uninhabitable tropical planet in the [[Navigational/Regions/Outer Rim\|Outer Rim]], with native airborne spores that cause death to those who are not protected from them. It features common monsoons with devastating electrical storms, soaring temperatures, and intense humidity. Despite this, it is considered a valuable asset due to being the only planet known to produce [[Fauna & Flora/Bota\|Bota]].
