@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/record-of-planets/","pinned":true,"tags":["map"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/navigational/record-of-planets/","pinned":true,"tags":["map"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Record of Planets
 
 | Planet                                                   | Region                                                         | Sector                                                                   | System                                                         | Grid |
@@ -74,6 +74,8 @@
 | [[Navigational/Planets/Nallastia\|Nallastia]]         | [[Navigational/Regions/Colonies\|Colonies]]                 | [[Navigational/Sectors/Tapani sector\|Tapani sector]]                 | [[Fondor system\|Fondor system]]                               | L-13 |
 | [[Navigational/Planets/Namadii\|Namadii]]             | \-                                                             | \-                                                                       | \-                                                             | I-6  |
 | [[Navigational/Planets/Nyriaan\|Nyriaan]]             | [[Navigational/Regions/Mid Rim\|Mid Rim]]                   | [[Trans-Vulta sector\|Trans-Vulta sector]]                               | [[Luire system\|Luire system]]                                 | N-7  |
+| [[Navigational/Planets/Nyssa\|Nyssa]]                 | [[Navigational/Regions/Colonies\|Colonies]]                 | [[Navigational/Sectors/Tapani sector\|Tapani sector]]                 | [[Nyssa system\|Nyssa system]]                                 | L-13 |
+| [[Navigational/Planets/Obulette\|Obulette]]           | [[Navigational/Regions/Colonies\|Colonies]]                 | [[Navigational/Sectors/Tapani sector\|Tapani sector]]                 | [[Obulette system\|Obulette system]]                           | L-13 |
 | [[Navigational/Planets/Opatajji\|Opatajji]]           | [[Navigational/Regions/Core Worlds\|Core Worlds]]           | [[Navigational/Sectors/Azure sector\|Azure sector]]                   | [[Navigational/Systems/Alsaka system\|Alsaka system]]       | L-9  |
 | [[Navigational/Planets/Ossus\|Ossus]]                 | [[Navigational/Regions/Outer Rim\|Outer Rim]]               | [[Auril sector\|Auril sector]]                                           | [[Navigational/Systems/Adega system\|Adega system]]         | R-6  |
 | [[Navigational/Planets/Palawa\|Palawa]]               | [[Navigational/Regions/Core Worlds\|Core Worlds]]           | N/A                                                                      | [[Palawa system\|Palawa system]]                               | L-10 |
@@ -89,7 +91,7 @@
 | [[Navigational/Planets/Tah'Nuhma\|Tah'Nuhma]]         | [[Navigational/Regions/Mid Rim\|Mid Rim]]                   | \-                                                                       | \-                                                             | Q-14 |
 | [[Navigational/Planets/Takodana\|Takodana]]           | [[Navigational/Regions/Mid Rim\|Mid Rim]]; [[Navigational/Regions/Western Reaches\|Western Reaches]]                               | [[Navigational/Sectors/Tashtor sector\|Tashtor sector]]               | [[Navigational/Systems/Takodana system\|Takodana system]]   | J-16 |
 | [[Navigational/Planets/Taris\|Taris]]                 | [[Navigational/Regions/Outer Rim\|Outer Rim]]               | \-                                                                       | [[Taris system\|Taris system]]                                 | N-7  |
-| [[Navigational/Planets/Tasariq\|Tasariq]]             | [[Navigational/Regions/Inner Rim\|Inner Rim]]               | \-                                                                       | [[Tasar system\|Tasar system]]                                 | J-14 |
+| [[Navigational/Planets/Tasariq\|Tasariq]]             | [[Navigational/Regions/Inner Rim\|Inner Rim]]               | [[Bamula sector\|Bamula sector]]                                         | [[Tasar system\|Tasar system]]                                 | J-14 |
 | [[Navigational/Planets/Tatooine\|Tatooine]]           | [[Navigational/Regions/Outer Rim\|Outer Rim]]               | [[Navigational/Sectors/Arkanis sector\|Arkanis sector]]               | [[Tatoo system\|Tatoo system]]                                 | R-16 |
 | [[Navigational/Planets/Tython\|Tython]]               | [[Deep Core\|Deep Core]]                                       | N/A                                                                      | [[Tython system\|Tython system]]                               | L-10 |
 | [[Navigational/Planets/Utapau\|Utapau]]               | [[Navigational/Regions/Outer Rim\|Outer Rim]]               | [[Tarabba sector\|Tarabba sector]]                                       | [[Utapau system\|Utapau system]]                               | N-19 |
