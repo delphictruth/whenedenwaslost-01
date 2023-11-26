@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/organizations/battlelords/","tags":["faction","sith"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Sith Battlelords*
 # Battlelords
 The Battlelords were a class of Sith warriors who served under the Sith Lord [[Characters/Darth Rivan\|Darth Rivan]] during the [[Events/New Sith Wars\|New Sith Wars]]. The Sith Battlelords were leaders within Rivan's personal armies who managed to bond themselves to the troops they commanded using the Force and a series of complex rituals involving [[Force Abilities & Phenomena/Sith magic\|Sith magic]]. Through this particular bond, the Battlelords were able to reduce desertion rates and strengthen their armies. 
