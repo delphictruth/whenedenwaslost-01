@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/battle-meditation/","tags":["forcepower","universal","control","sense","alter"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Sith battle coordination*
 # Battle Meditation
 Battle meditation is a Force ability that considerably boosts the morale, stamina, and overall battle prowess of an individual's allies while simultaneously reducing the opposition's combat-effectiveness by eroding their will to fight.
