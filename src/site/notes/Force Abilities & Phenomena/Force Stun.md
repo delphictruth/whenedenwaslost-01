@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-stun/","tags":["universal","alter","offense","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Force Stasis*
 # Force Stun
 Force Stun is a [[Force Abilities & Phenomena/Telekinesis\|telekinetic]] Force power that can temporarily restrict and freeze movement. Although this ability is typically used against living beings and opponents, it can also be used to freeze energy-based attacks or energy-generated weapons such as blasterbolts or lightsaber blades. 
