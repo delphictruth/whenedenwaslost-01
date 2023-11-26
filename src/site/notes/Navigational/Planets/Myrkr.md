@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/myrkr/","tags":["map","retraining","innerrim","myrkr","planet","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Myrkr
 Desc
