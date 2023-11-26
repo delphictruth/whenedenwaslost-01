@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/malacia/","tags":["light","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Malacia
 Malacia is a Force technique that is uses to induce a powerful dizziness and nausea in enemies by turning their equilibrium against them. It is completely incapacitating, but causes no damage to the body, and so is not considered a Dark side power. Even so, the effects of the power are sometimes so severe that it can cause a target to vomit. The principal quality of the technique is that a Force user utilizes it by transforming a target's energy rather than using their own.
