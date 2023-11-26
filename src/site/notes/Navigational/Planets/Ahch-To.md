@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/ahch-to/","tags":["map","planet","unknown"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *Legendary names lost in records*
 # Ahch-To
 
