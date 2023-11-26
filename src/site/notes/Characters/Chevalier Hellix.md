@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/chevalier-hellix/","tags":["fallenjedi","firstorder","jediknight","knightsofren","jedipraxeum","formvii","trakata","forcesensitive","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/chevalier-hellix/","tags":["fallenjedi","firstorder","jediknight","knightsofren","jedipraxeum","formvii","trakata","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Chevalier Hellix | Muta Ren
 >The Trickster, Second Knight
@@ -56,7 +56,6 @@
 ## Combat
 
 ### Forms
-
 Chevalier specializes in [[Forms & Martial Arts/Juyo (VII)\|Juyo (VII)]], but his style is largely influenced by his practice of [[Forms & Martial Arts/Trákata\|Trákata]], a rather risky and rare strategy that depends on igniting and extinguishing the lightsaber rapidly in combat. He dabbles a bit in [[Forms & Martial Arts/Juyo (VII)\|Vaapad (VII)]] as well, but more so for its compliments to Juyo. His blade-work is graceful and light, but completely unpredictable and reckless. 
 
 ### Force Beliefs & Usage
