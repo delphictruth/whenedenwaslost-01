@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/rule-of-two/","tags":["library"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Chwayatyun*, *Banite system*
 # Rule of Two
 The Rule of Two, a philosophical successor to the [[Doctrine of the Dyad\|Doctrine of the Dyad]], is a decree adopted by the Sith in order to preserve their secrecy and guard their secrets. It was developed following the chaos of the [[Events/New Sith Wars\|New Sith Wars]] and modeled on both the [[Doctrine of the Dyad\|Doctrine of the Dyad]] and the teachings contained within the [[Library/Holocrons/Holocron of Darth Revan\|Holocron of Darth Revan]]. 
