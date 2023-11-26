@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/norman-draig/","tags":["rebelalliance","general","unfinished","character"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/norman-draig/","tags":["rebelalliance","general","character"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *General Norman Draig*
 # Norman Draig
 >General of the Caridian Navy
