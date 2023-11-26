@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/crystals/adegan/","tags":["blue","green","unattuned","crystal"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Ilum*
 # Adegan
 Adegan crystals are primarily sourced from their namesake system, [[Navigational/Systems/Adega system\|Adega]]. Although they are often considered interchangeable with *Ilum crystals*, it is more accurate to consider Adegan crystals to be a variant or subset of Ilum.
