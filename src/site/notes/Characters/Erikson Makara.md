@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/erikson-makara/","tags":["firstorder","president","forcesensitive","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/erikson-makara/","tags":["firstorder","president","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *President Makara*
 # Erikson Makara
 > President of the Kuat Drive Yards
