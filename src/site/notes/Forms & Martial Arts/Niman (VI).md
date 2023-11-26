@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/niman-vi/","tags":["form"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Form VI*
 # Niman
 > The Way of the Rancor, The Moderation Form, The Diplomat's Form
@@ -22,21 +22,18 @@ As a dual-wield form, some refer to it as a [[Forms & Martial Arts/Jar'Kai\|Jar'
 
 { .block-language-dataview}
 ## Stances
-
 The opening stance of the Niman form is wide and open, with the blade held out from the body in a one-handed grip, the blade angled upwards and back, while the off-hand is folded across the chest. The feet are evenly spaced.
 
 Another Niman stance features the blade held at head-height in a two-handed grip, angled upwards and slightly in, with the dominant foot placed forwards.
 
 A third position is a two-handed low guard, with the hilt held at waist height in both hands, blade held back and to the side, angled downwards, with the feet closely spaced.
 
+![nimanbanner.png](/img/user/Photos/nimanbanner.png)
 ## Common Maneuvers
-
-In keeping with the tactic of incorporating Force powers into combat, two primary Form VI maneuvers, the "draw closer" and the "pushing slash", are conjunctions between lightsaber moves and [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]] attacks. Effectively polar opposites of one another, the "draw closer" involves telekinetically seizing an opponent and pulling the enemy into the path of his blade, while the "pushing slash" slams the opponent with a [[Force Abilities & Phenomena/Telekinesis#Force Push\|Force Push]] after scoring an attack.
+In keeping with the tactic of incorporating Force powers into combat, two primary Form VI maneuvers, the *draw closer* and the *pushing slash*, are conjunctions between lightsaber moves and [[Force Abilities & Phenomena/Telekinesis\|Telekinesis]] attacks. Effectively polar opposites of one another, the *draw closer* involves telekinetically seizing an opponent and pulling the enemy into the path of his blade, while the *pushing slash* slams the opponent with a [[Force Abilities & Phenomena/Telekinesis#Force Push\|Force Push]] after scoring an attack.
 
 ![Niman.png](/img/user/Photos/Niman.png)
-
 ## Jedi Path Excerpts
-
 ![niman1.jpg](/img/user/Photos/niman1.jpg)
 ![niman2.jpg](/img/user/Photos/niman2.jpg)
 ![ownstyle1.jpg](/img/user/Photos/ownstyle1.jpg)
