@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/jar-kai/","tags":["technique"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Jar'Kai tactic*
 # Jar'Kai
 >The original dual-bladed combat 
@@ -17,4 +17,5 @@ A dual-blade sword-fighting technique, Jar'Kai was first developed in [[Navigati
 **Practitioners**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (Niman)
 - [[Characters/Hazel Caelum\|Hazel Caelum]] (Dual-wield Ataru)
+- [[Characters/Versailles Cordelia\|Versailles Cordelia]] (Tonfas)
 
