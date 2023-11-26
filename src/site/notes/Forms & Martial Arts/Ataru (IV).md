@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/ataru-iv/","tags":["form"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Form IV*
 # Ataru
 >The Way of the Hawk-Bat, The Aggression Form
@@ -17,7 +17,7 @@ An aggressive style, Form IV is fast-paced and effective against single opponent
 ## Stances
 The opening stance for Form IV is a balanced two-handed guard: holding the lightsaber vertically with both palms, either on the right or left side of the body.
 
-![Pasted image 20230920222715.png](/img/user/Photos/Pasted%20image%2020230920222715.png)
+![atarubanner.png](/img/user/Photos/atarubanner.png)
 ## Common Maneuvers
 One technique employed with greater effect by Ataru users is the *Hawk-Bat Swoop*. When utilized by Ataru practitioners, it is intended to allow a combatant to quickly strike their opponent without giving them a chance to react, and then escape before they have a chance to retaliate. 
 
