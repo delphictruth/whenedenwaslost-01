@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/dun-moech/","tags":["technique"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Dun Möch
 Dun Möch is a technique that uses distraction and doubt, usually through taunting, in conjunction with [[Forms & Martial Arts/Lightsaber combat\|lightsaber combat]]. It is a Sith technique developed by the [[Organizations/Brotherhood of Darkness\|Brotherhood of Darkness]] and was frowned upon by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]] but not explicitly prohibited (and has been used by some Jedi). It embodies using the Force as a form of psychological warfare. 
