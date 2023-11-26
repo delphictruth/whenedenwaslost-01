@@ -1,33 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/crystals/lightsaber-crystal/","pinned":true,"tags":["fauna","crystal"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/crystals/lightsaber-crystal/","pinned":true,"tags":["fauna","crystal"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *kyber crystal*
 # Lightsaber crystal
 
 Summary
 
-| Crystal                                                | Locations                              | Colors      | Attunement |
-| ------------------------------------------------------ | -------------------------------------- | ----------- | ---------- |
-| [[Crystals/Adegan\|Adegan]]                         | \-                                     | Blue, green | Unattuned  |
-| [[Crystals/Allya's Exile\|Allya's Exile]]           | Unknown                                | Red         | Unattuned  |
-| [[Crystals/Ankarres Sapphire\|Ankarres Sapphire]]   | Unknown                                | Dark blue   | Unattuned  |
-| [[Crystals/Blackwing\|Blackwing]]                   | \-                                     | Black       | Attuned    |
-| [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]] | \-                                     | \-          | Attuned    |
-| [[Crystals/Darksaber\|Darksaber]]                   | \-                                     | \-          | Attuned    |
-| [[Crystals/Dragite\|Dragite]]                       | \-                                     | \-          | Attuned    |
-| [[Crystals/Durindfire\|Durindfire]]                 | \-                                     | \-          | Attuned    |
-| [[Crystals/Ghostfire\|Ghostfire]]                   | \-                                     | \-          | Unattuned  |
-| [[Crystals/Kaiburr\|Kaiburr]]                       | \-                                     | \-          | Attuned    |
-| [[Crystals/Krayt dragon pearl\|Krayt dragon pearl]] | \-                                     | \-          | Unattuned  |
-| [[Crystals/Lightsaber crystal\|Lightsaber crystal]] | \-                                     | \-          | \-         |
-| [[Crystals/Permafrost\|Permafrost]]                 | \-                                     | \-          | Attuned    |
-| [[Crystals/Qixoni\|Qixoni]]                         | \-                                     | \-          | Attuned    |
-| [[Crystals/Roonstones\|Roonstones]]                 | [[Navigational/Planets/Roon\|Roon]] | White       | Unattuned  |
-| [[Crystals/Solari\|Solari]]                         | \-                                     | \-          | Attuned    |
-| [[Crystals/Windu's Guile\|Windu's Guile]]           | \-                                     | \-          | Unattuned  |
-| [[Crystals/Zophis\|Zophis]]                         | [[Navigational/Planets/Zoph\|Zoph]] | \-          | Unattuned  |
+| Crystal                                                | Locations                                    | Colors      | Attunement |
+| ------------------------------------------------------ | -------------------------------------------- | ----------- | ---------- |
+| [[Crystals/Adegan\|Adegan]]                         | \-                                           | Blue, green | Unattuned  |
+| [[Crystals/Allya's Exile\|Allya's Exile]]           | Unknown                                      | Red         | Unattuned  |
+| [[Crystals/Ankarres Sapphire\|Ankarres Sapphire]]   | Unknown                                      | Dark blue   | Unattuned  |
+| [[Crystals/Blackwing\|Blackwing]]                   | \-                                           | Black       | Attuned    |
+| [[Crystals/Cunning of Tyranus\|Cunning of Tyranus]] | \-                                           | \-          | Attuned    |
+| [[Crystals/Darksaber\|Darksaber]]                   | \-                                           | \-          | Attuned    |
+| [[Crystals/Dragite\|Dragite]]                       | \-                                           | \-          | Attuned    |
+| [[Crystals/Durindfire\|Durindfire]]                 | \-                                           | \-          | Attuned    |
+| [[Crystals/Ghostfire\|Ghostfire]]                   | \-                                           | \-          | Unattuned  |
+| [[Crystals/Kaiburr\|Kaiburr]]                       | \-                                           | \-          | Attuned    |
+| [[Crystals/Krayt dragon pearl\|Krayt dragon pearl]] | \-                                           | \-          | Unattuned  |
+| [[Crystals/Lightsaber crystal\|Lightsaber crystal]] | \-                                           | \-          | \-         |
+| [[Crystals/Permafrost\|Permafrost]]                 | \-                                           | \-          | Attuned    |
+| [[Crystals/Qixoni\|Qixoni]]                         | \-                                           | \-          | Attuned    |
+| [[Crystals/Roonstones\|Roonstones]]                 | [[Navigational/Planets/Roon\|Roon]]       | White       | Unattuned  |
+| [[Crystals/Solari\|Solari]]                         | \-                                           | \-          | Attuned    |
+| [[Crystals/Tasar crystal\|Tasar crystal]]           | [[Navigational/Planets/Tasariq\|Tasariq]] | Various     | Unattuned  |
+| [[Crystals/Windu's Guile\|Windu's Guile]]           | \-                                           | \-          | Unattuned  |
+| [[Crystals/Zophis\|Zophis]]                         | [[Navigational/Planets/Zoph\|Zoph]]       | \-          | Unattuned  |
 
 { .block-language-dataview}
 ### Attuned crystals
@@ -52,6 +53,7 @@ Unattuned crystals are a type of crystal that, upon being tuned for use in a sab
 - [[Crystals/Krayt dragon pearl\|Krayt dragon pearl]]
 - [[Crystals/Roonstones\|Roonstones]]
 - [[Crystals/Solari\|Solari]]
+- [[Crystals/Tasar crystal\|Tasar crystal]]
 - [[Crystals/Windu's Guile\|Windu's Guile]]
 - [[Crystals/Zophis\|Zophis]]
 
