@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/scene-analysis/oaths-in-book-xiii/","dgShowToc":true,"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Oaths in Book XIII
 In **Book XIII**, [[Characters/Bastille Aurelius\|Ani Ren]] chains together several snippets from different oaths and codes. In the beginning of the chapter, he switches back and forth through the different codes, typically linked through words or concepts.
 > There is no death. There is no death. There is the Force. ([[Library/Oaths/Code of the Jedi\|Code of the Jedi]])
