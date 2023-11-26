@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/speculations-on-tactics-of-the-sith/","tags":[null],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Speculations on Tactics of the Sith
 The *Speculations on Tactics of the Sith* was a Jedi publication detailing a study of the [[Force Abilities & Phenomena/Sith magic\|Sith magic]] tactic of creating battlelords, with a particular focus on the [[Organizations/Battlelords\|Battlelords]] that fought under [[Characters/Darth Rivan\|Darth Rivan]] during the [[Events/New Sith Wars\|New Sith Wars]]. 
