@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events/timeline/","hideInGraph":true,"pinned":true,"dgShowBacklinks":false,"dgShowLocalGraph":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/events/timeline/","hideInGraph":true,"pinned":true,"noteIcon":"saber1"}
 ---
 
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
@@ -8,7 +8,7 @@
 ## Fall of the Old Republic 
 > 4000 BBY – 1000 BBY
 ### 4000 BBY
-The *Old Sith Wars Era* begin.
+The *Old Sith Wars Era* begins.
 ### 3976 BBY
 The Mandalorian Wars begin.
 ### 3964 BBY
@@ -342,7 +342,7 @@ Sith ghost [[Characters/Darth Grimm\|Darth Grimm]] is summoned to the [[Force Tr
 ↳ Jedi Knight [[Characters/Charlotte Rose\|Charlotte Rose]] (19) forsakes the Jedi way and joins the [[Organizations/Resistance\|Resistance]].
 ↳ Jedi Knights [[Characters/Bastille Aurelius\|Bastille Aurelius]] (19), [[Characters/Bardolph Vos\|Bardolph Vos]] (20), [[Characters/Alfred Jonnas\|Alfred Jonnas]] (19), [[Characters/Chevalier Hellix\|Chevalier Hellix]] (20), [[Characters/Imperia Sibyl\|Imperia Sibyl]] (18), and Padawans [[Characters/Versailles Cordelia\|Versailles Cordelia]] (15) and [[Characters/Roman Ange\|Roman Ange]] (15) defect to the [[Organizations/First Order\|First Order]].
 Generals [[Characters/Cain Draig\|Cain Draig]] (46) and [[Characters/Malkyn Rodarch\|Malkyn Rodarch]] (45) escalate the war with the [[Organizations/First Order\|First Order]].
-Three months after their disappearance, the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] of "Knighted" on [[Navigational/Planets/Malachor V\|Malachor]]. 
+Three months after their disappearance, the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] are "Knighted" on [[Navigational/Planets/Malachor V\|Malachor]]. 
 ### 29 ABY
 [[Organizations/First Order\|First Order]] Warlord [[Characters/Bastille Aurelius\|Ani Ren]] (21) and the [[Force Traditions & Sects/Knights of Ren\|Knights of Ren]] emerge in the battles against the [[Organizations/Resistance\|Resistance]] for the first time.
 ↳ [[Characters/Chevalier Hellix\|Chevalier Hellix]] ⇢ [[Characters/Chevalier Hellix\|Muta Ren]] (21).
