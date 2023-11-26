@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/memory-walk/","tags":["dark","alter","mind","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *torture by chagrin*
 # Memory Walk
 The Memory Walk, also known as *torture by chagrin*, is a Force technique that reaches into the mind and forces a target to relive their worst memories over and over again. This technique has been practiced by various Sith and Dark side factions for millennia and was prohibited by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]]. 
