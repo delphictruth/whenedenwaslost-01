@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/makashi-ii/","tags":["form","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Form II*
 # Makashi 
 >The Way of the Ysalamiri, The Contention Form
@@ -22,6 +22,8 @@ The drawbacks of Makashi come from its development as a one-on-one, dueling form
 The Form II opening stance is a single-handed low guard. The saber is held in the dominant hand, at their side with the blade pointed down. Practitioners stand with their feet shoulder-width apart, occasionally facing an opponent side-on with the blade pointed in their direction. The lightsaber hilt is held with the thumb pointing down the length of the blade to allow for smaller, tighter, more accurate movements of the saber. The grip should be tight, but not so tight as to limit the fluidity of movements. 
 
 As part of the Makashi opening stance, practitioners generally begin with a *Makashi salute*. The typical Makashi flourish consists of rapidly moving the tip of the blade in an X shaped pattern through the air. The salute is not an attack or maneuver but a challenge to an opponent. The saber is held in one hand, brought up vertical directly in front of the practitioner's face, then swung down in a flourish.
+
+![makashibanner.png](/img/user/Photos/makashibanner.png)
 ## Common Maneuvers
 Makashi duelists focus on [[Forms & Martial Arts/Lightsaber combat\|Marks of Contact]], particularly the *sun djem* and *shiak*. The typical Form II applications of the _sun djem_ feature precise attacks directed at the weapon itself, often destroying it or even burning through an opponent's fingers to disarm them. Application of the _shiak_ is a natural result of Form II footwork and swordplay, all of which follow a single back-and-forth line, and is seen as an indication of skill and control.
 
