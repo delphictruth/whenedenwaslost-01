@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/jedi-traditions/jedi-trials/","noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Trials of Knighthood*, *Knight Trials*
 # Jedi Trials
 In the old [[Force Traditions & Sects/Jedi Order\|Jedi Order]], the Jedi Trials were the challenges Jedi padawans were given as pre-requisites for achieving [[Library/Jedi Traditions/Knight Ceremony\|Knighthood]], and were sometimes retaken by Knights to earn the rank of Jedi Master. The primary trials are a set of five: the *Trial of Skill*, the *Trial of Courage*, the *Trial of the Flesh*, the *Trial of Spirit*, and the *Trial of Insight*. In addition, the Council sometimes assigned substitute tests or used an exceptionally trying mission in place of the traditional tests. 
