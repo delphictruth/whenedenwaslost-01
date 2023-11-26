@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/regions/colonies/","tags":["map","region","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as
 # Colonies
 
@@ -18,6 +18,8 @@
 - [[Navigational/Planets/Carida\|Carida]]
 - [[Navigational/Planets/Fondor\|Fondor]]
 - [[Navigational/Planets/Nallastia\|Nallastia]]
+- [[Navigational/Planets/Nyssa\|Nyssa]]
+- [[Navigational/Planets/Obulette\|Obulette]]
 
 { .block-language-dataview}
 **Hyperlanes**
