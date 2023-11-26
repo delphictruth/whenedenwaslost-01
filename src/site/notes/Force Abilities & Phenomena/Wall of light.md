@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/wall-of-light/","tags":["light","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Band of light*
 # Wall of light
 A wall of light is an immense manifestation of potentially destructive Light side Force energy created by the focused power of a united Jedi front. When performed successfully, a wall of light allows participants to effectively contain or purge the power of the Dark side from a specific location, or sever an especially dangerous darksider from their Force connection. It was considered one of the Jedi's most devastating offensive abilities during the [[Organizations/Old Republic\|Old Republic]] era. 
