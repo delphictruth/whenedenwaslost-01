@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/oaths/code-of-the-jedi/","tags":["oath"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Jedi Oath*, *Jedi Code*
 # Code of the Jedi
 The Code of the Jedi reflects the philosophy taught by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], modeled on the earlier [[Library/Oaths/Code of the Je'daii\|Code of the Je'daii]].
@@ -13,7 +13,7 @@ _There is no passion, there is serenity._
 _There is no chaos, there is harmony._
 _There is no death, there is the Force._
 ## Initiate Trials Code
-There is an alternate, shorter version of the Code that was once recited by Jedi younglings during their [[Initiate Trials\|Initiate Trials]].
+There is an alternate, shorter version of the Code that was once recited by Jedi younglings during their [[Initiate Trials\|Initiate Trials]]. It was also sometimes used in the [[Library/Jedi Traditions/Jedi Trials\|Jedi Trials]].
 
 _Emotion, yet peace._
 _Ignorance, yet knowledge._
