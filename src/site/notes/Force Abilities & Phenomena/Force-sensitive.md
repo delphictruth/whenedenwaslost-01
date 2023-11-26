@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-sensitive/","tags":["force"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-sensitive/","tags":["forcephenomenon"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Force Adept*, *Force-user*
 # Force-sensitive
 Force-sensitivity is generally a naturally occurring phenomena among some individuals. It refers to the ability to sense and potentially interact with the Force, which may range from incredibly low-grade sensitivity to extremely powerful connections. Latent Force-sensitives might never become aware of their abilities, or even if they do, they might not be able to fully [[Force Abilities & Phenomena/Awakening\|Awaken]] or ever develop a stronger connection. Nevertheless, they may still have some unusual abilities (namely, the ability to [[Force Abilities & Phenomena/Force sense\|sense others and intentions]]). 
@@ -17,6 +17,7 @@ While Force-sensitive is a general term for any who can sense the Force, the ter
 - [[Characters/Aurora Caelum\|Aurora Caelum]]
 - [[Characters/Bardolph Vos\|Bardolph Vos]]
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]]
+- [[Characters/Belia Darzu\|Belia Darzu]]
 - [[Characters/Cain Draig\|Cain Draig]]
 - [[Characters/Catherine Labelle\|Catherine Labelle]]
 - [[Characters/Cecily Beaumont\|Cecily Beaumont]]
@@ -42,6 +43,7 @@ While Force-sensitive is a general term for any who can sense the Force, the ter
 - [[Characters/Hazel Caelum\|Hazel Caelum]]
 - [[Characters/Holland Lillivere\|Holland Lillivere]]
 - [[Characters/Imperia Sibyl\|Imperia Sibyl]]
+- [[Characters/Indigo Oceana\|Indigo Oceana]]
 - [[Characters/Isa Phant\|Isa Phant]]
 - [[Characters/Kieran Crevan\|Kieran Crevan]]
 - [[Characters/Lacrimosa Makara\|Lacrimosa Makara]]
