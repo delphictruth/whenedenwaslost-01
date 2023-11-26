@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/spirit-transference/","tags":["dark","control","sense","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *transfer essence*, *transfer life*
 # Spirit Transference
 Spirit Transference is a radical dark side Force power that can transfer an individual's consciousness into another body (or, in some cases, an inanimate object). Ancient Sith Lords and other powerful darksiders historically used this technique to cheat death, haunting their tombs as [[Force Abilities & Phenomena/Force ghost\|Sith ghosts]] and possessing those who stumbled across them. 
