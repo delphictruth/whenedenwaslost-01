@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/awakening/","tags":["force"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/force-abilities-and-phenomena/awakening/","tags":["forcephenomenon"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Discovery*
 # Awakening
 An Awakening refers to the instant in which a latent [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitive]] suddenly becomes actively aware of their abilities. It is not unusual for Force-sentitive children who go undetected by the Jedi to not realize their potential, and frequently they do by mere happenstance. Similarly, those with low grade Force sensitivity may remain latent for their entire lives, absent an Awakening. 
@@ -15,7 +15,6 @@ The trigger theory has been largely accepted on some level by Jedi philosophers.
 
 Awakenings are known to set off a ripple effect in the Force. While this is often in connection with a burst of natural energy — the by-product of the triggering event at its core — it is also theorized that newly Awakened adepts temporarily put out a stronger signature, almost a beacon of awareness for Force-sensitives nearby. Some can be sensed from systems away. 
 ### Appearances in *When Eden Was Lost*
-
 In **Book I**, [[Characters/Snoke\|Snoke]] refers to [[Characters/Hazel Caelum\|Hazel Caelum]]'s "Awakening" when speaking with [[Characters/Bastille Aurelius\|Ani Ren]].
 
 In **Book XII**, during [[Characters/Talia Draig\|Talia Draig]]'s flashback, it is mentioned that they had hoped that [[Characters/Bastille Aurelius\|Bastille Rodarch Draig]] would Awaken "slowly and easily" after they discover him on the pirate ship, presumptively post-Awakening.
