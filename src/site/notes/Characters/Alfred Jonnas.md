@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/alfred-jonnas/","tags":["fallenjedi","firstorder","knightsofren","jediknight","jedipraxeum","royalty","formi","forcesensitive","unfinished"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/alfred-jonnas/","tags":["fallenjedi","firstorder","knightsofren","jediknight","jedipraxeum","royalty","formi","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Prince Jonnas*
 # Alfred Jonnas | Deco Ren
 >The Knight, Prince of Artorias
