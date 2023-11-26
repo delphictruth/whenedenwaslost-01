@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-enlightenment/","tags":["light","forcepower","control"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Enlightened Jedi*
 # Force Enlightenment 
 Force Enlightenment is a passive Light side Force power that allows a [[Force Abilities & Phenomena/Force-sensitive\|Force-user]] to push themselves beyond their natural abilities. When activated, this power takes the Force powers a Jedi is most skilled in, pushing them to the highest degree that the Jedi has previously mastered during his or her routine training. 
