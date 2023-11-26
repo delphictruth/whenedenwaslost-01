@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/crucitorn/","tags":["universal","alter","mind","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other namse on record* 
 # Crucitorn
 Crucitorn is a [[Forms & Martial Arts/Lightsaber combat\|lightsaber combat]] technique for decreasing physical pain or transcending it beyond normal thresholds using the Force. It is essentially the ability to control an opponent's (or ally's) experience of pain. It has been used by both the Jedi and the Sith.
