@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/exegol/","tags":["map","planet","unknown"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Ixigul*
 # Exegol
 Exegol is a dark, barren, and rocky planet with desert flats located in the [[Navigational/Regions/Unknown Regions\|Unknown Regions]]. Its dry conditions, combined with the rubbing of dust particles in its atmosphere, creates enormous static discharges that appeared as lightning strikes from the planet, which make the atmosphere too dangerous to deploy deflector shields. The desolate world is covered with enormous fissures that reach deep into its crust. 
