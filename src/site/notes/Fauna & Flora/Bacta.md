@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/fauna-and-flora/bacta/","tags":["fauna"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Bacta
 Bacta is an organic chemical substance that consists of gelatinous, translucent red alazhi and kavam bacterial particles that are mixed within a colorless, viscous fluid known as ambori. Bacta seeks out wounds and promotes rapid tissue regeneration while preventing the emergence of scar tissue. Bacta is often thought of as a "miracle fluid" and is effective against almost every type of injury and ailment across an incredible cross-section of species throughout the galaxy. It is considered the best medicine available anywhere, replacing the previously used [[Fauna & Flora/Kolto\|kolto]].
