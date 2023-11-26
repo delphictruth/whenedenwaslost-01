@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/systems/alsaka-system/","tags":["map","core","azure","system","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Alsaka system
 Desc
