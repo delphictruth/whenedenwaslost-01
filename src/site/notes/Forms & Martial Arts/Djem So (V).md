@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/forms-and-martial-arts/djem-so-v/","tags":["form"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Form V*
 # Shien / Djem So
 >The Way of the Krayt Dragon, The Perseverance Form
@@ -28,7 +28,7 @@ Shien users are also proficient in a maneuver referred to as the *Barrier of Bla
 
 A somewhat controversial and unorthodox form of Shien involves the *reverse Shien grip*, wherein the wielder whips the blade forward with the movement of throwing a punch. Some Jedi Masters frowned on this usage. 
 
-![Pasted image 20230920222849.png](/img/user/Photos/Pasted%20image%2020230920222849.png)
+![shienbanner.png](/img/user/Photos/shienbanner.png)
 ## Djem So
 Djem So is designed to address the passivity of [[Forms & Martial Arts/Soresu (III)\|Soresu]], with a focus devoted specifically to lightsaber dueling. Utilizing a combination of blocks and parries, a Djem So user maintains a proper foundation of defense against both ranged and melee attacks. Immediately after defending against an opponent's strike, a Djem So specialists follows with a counter-attack, bringing the force of the opponent's blow against them to dominate the duel. Djem So places a heavy focus on brute strength and pure power, making it the most physically demanding of forms. 
 
