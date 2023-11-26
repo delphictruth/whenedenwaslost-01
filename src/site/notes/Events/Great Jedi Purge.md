@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/events/great-jedi-purge/","tags":["era","event"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Second Jedi Purge*
 # Great Jedi Purge
 
