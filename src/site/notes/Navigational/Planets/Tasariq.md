@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/navigational/planets/tasariq/","tags":["map","innerrim","planet","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/navigational/planets/tasariq/","tags":["map","innerrim","bamula","planet"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Tasariq
-Tasariq is a barren, sandy planet in the [[Navigational/Regions/Inner Rim\|Inner Rim]], with a crater-covered surface and rather dry air. There is very little on the planet, aside from the many underground tunnels and mines containing [[Tasar crystal\|Tasar crystals]]. 
+Tasariq is a barren, sandy planet in the [[Navigational/Regions/Inner Rim\|Inner Rim]], with a crater-covered surface and rather dry air. There is very little on the planet, aside from the many underground tunnels and mines containing [[Crystals/Tasar crystal\|Tasar crystals]]. 
 
 **Region**::  [[Navigational/Regions/Inner Rim\|Inner Rim]]
-**Sector**::
+**Sector**::  [[Bamula sector\|Bamula sector]]
 **System**::  [[Tasar system\|Tasar system]]
 **Grid**::  J-14
 
