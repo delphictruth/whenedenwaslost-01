@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/hasina-makara/","tags":["newrepublicsenate","resistance","chancellor","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/hasina-makara/","tags":["newrepublicsenate","resistance","chancellor"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Chancellor Makara*
 # Hasina Makara
 >Chancellor of the New Republic Senate
