@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/regions/mid-rim/","tags":["map","region","western","rimma","greatgranrun","biox","duros"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Mid-systems*, *Mid Rim*
 # Middle Rim Territories
 
