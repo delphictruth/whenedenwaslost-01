@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/weapons/jar-kai-dualing-sabers/","tags":["galacticsenate imperialsenate","resistance firstorder","sith jedi","fauna"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as
 # Jar'Kai dualing sabers
 
