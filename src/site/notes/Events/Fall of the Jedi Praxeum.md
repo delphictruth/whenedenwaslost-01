@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/events/fall-of-the-jedi-praxeum/","tags":["event","battle"],"dgHomeLink":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/events/fall-of-the-jedi-praxeum/","tags":["event","battle"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 
 # Fall of the Jedi Praxeum
