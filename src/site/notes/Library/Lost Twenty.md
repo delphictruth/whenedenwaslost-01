@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/library/lost-twenty/","tags":[null],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *The Lost*
 # Lost Twenty
 The Lost Twenty are the "only" Jedi Masters to ever voluntarily resign from the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], typically over ideological differences. It is thus extremely rare for Jedi Masters to leave the Order under such conditions, and they have historically parted from the Order amicably and been commemorated as one of *The Lost*.
