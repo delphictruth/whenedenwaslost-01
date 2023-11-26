@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/force-empathy/","tags":["universal","sense","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Receptive Telepathy*, *empath*
 # Force empathy
 Force empathy is a form of [[Force Abilities & Phenomena/Force sense\|Force sense]] and allows the user to sense an individual's feelings and general emotional state. [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitives]] tend to develop low-grade Force empathy naturally, but trained practitioners can also sense motivations, hidden feelings, and deeply guarded secrets through an individual's emotional state. 
