@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/almania/","tags":["map","planet","outerrim","mortex","almaniasys"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Almania
 
 Almania is a cold and windy planet located in the [[Navigational/Sectors/Mortex sector\|Mortex sector]] of the [[Navigational/Regions/Outer Rim\|Outer Rim]]. It has three moons, including the moon [[Navigational/Planets/Pydyr\|Pydyr]], and is primarily comprised of mountains and plains. 
