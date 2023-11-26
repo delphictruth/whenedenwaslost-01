@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/alter-image/","tags":["universal","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *masquerade*
 # Alter Image
 Alter image is a Force power that allows the user to alter their own personal features, such as the height, weight, skin color, facial features, sex, voice, and body shape. These changes will stay as long as the Force-sensitive keeps the power up, but will be dropped whenever the Force-user falls unconscious or simply looses concentration. 
