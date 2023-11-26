@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/force-traditions-and-sects/je-daii-order/","tags":["faction"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Je'daii Order
-
 *"In the light, there is darkness and in the darkness, a light. It is the way with us all. Be a prisoner of neither Bogan nor Ashla. Strive to live in Balance. As Tython itself teaches us, it is dangerous to do otherwise. And the danger is there—always."* — Je'daii Temple Master Ketu
 
 The Je'daii Order was an ancient organization unified by its belief and observance of the Force on the planet [[Navigational/Planets/Tython\|Tython]], formed from the philosophies of several organizations studying the Force at the time and notably influenced by the [[Force Traditions & Sects/Order of Dai Bendu\|Order of Dai Bendu]]. Even the name *Je'daii* is derived from the [[Force Traditions & Sects/Order of Dai Bendu\|Order of Dai Bendu]]; it is an amalgam of two Dai Bendu words: je ("mystic") and dai ("center").
@@ -14,7 +13,7 @@ The Je'daii were dedicated to maintaining Balance, seeing the Force as three asp
 
 The Je'daii philosophy acknowledged that there is always a light within darkness, and a darkness within light, such that it is impossible for one to ever be truly free of either. Je'daii were encouraged to give into the tempations of both the light and the dark, because it was necessary to embrace both in order to learn more of the Force and to achieve Balance. 
 
-The Je'daii maintained nine Temples, each of which was presided over by a Je'daii Temple Master. The nine Temple Masters formed the Council of Masters. Mastery was accomplished by studying different tenants of the Force at each of the Temples. There were also Je'daii Journeyers (those who have finished Padawan training and were current;y traveling between Temples for the [[Library/Traditions/Great Journey\|Great Journey]]) and Je'daii Rangers (those who have finished their training at the Temples and acted as representatives of the Je'daii). 
+The Je'daii maintained nine Temples, each of which was presided over by a Je'daii Temple Master. The nine Temple Masters formed the Council of Masters. Mastery was accomplished by studying different tenants of the Force at each of the Temples. There were also Je'daii Journeyers (those who have finished Padawan training and were current;y traveling between Temples for the [[Library/Jedi Traditions/Great Journey\|Great Journey]]) and Je'daii Rangers (those who have finished their training at the Temples and acted as representatives of the Je'daii). 
 
 **Je'daii Temples**::
 - Mahara Kesh (Temple of Healing), in the Deep Ocean, [[Navigational/Planets/Tython\|Tython]]
@@ -27,7 +26,6 @@ The Je'daii maintained nine Temples, each of which was presided over by a Je'dai
 - Vur Tepe (Je'daii Forge), on Kato Zakar, [[Navigational/Planets/Tython\|Tython]]
 - Padawan Kesh (The Je'daii Academy), on Masara, [[Navigational/Planets/Tython\|Tython]]
 ## Je'daii Oath
-
 *There is no ignorance, there is knowledge.
 There is no fear, there is power.
 I am the heart of the Force.
