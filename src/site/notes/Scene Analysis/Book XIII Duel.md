@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/scene-analysis/book-xiii-duel/","noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Book XIII Duel
 The first Hazille lightsaber duel in **Book XIII** mostly focuses on [[Characters/Hazel Caelum\|Hazel Caelum]] naturally adjusting to [[Forms & Martial Arts/Lightsaber combat\|Lightsaber combat]] and acquiring some of [[Characters/Bastille Aurelius\|Ani Ren]]'s training through [[Force Abilities & Phenomena/Mind Probe\|drain knowledge]]. Hazel unwittingly embodies several forms and techniques; in contrast, Ani consciously adjusts his style to match her. 
 ### First Phase
