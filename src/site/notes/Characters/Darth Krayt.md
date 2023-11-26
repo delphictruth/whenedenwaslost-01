@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/darth-krayt/","tags":["fallenjedi","sith","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *A'Sharad Hett*
 # Darth Krayt
 >Dragon of the Sith, Dread Lord, Dark Lord of the Sith
