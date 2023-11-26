@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/directory-of-characters/","hideInGraph":true,"pinned":true,"tags":["meta"],"dgShowBacklinks":false,"dgShowLocalGraph":false,"dgShowToc":false,"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/directory-of-characters/","hideInGraph":true,"pinned":true,"tags":["meta"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 # Directory of Characters
 
 | Character                                                          | Allegiance                                                               | Force Sensitivity | Homeworld                                        | Status   |
@@ -18,17 +18,18 @@
 | [[Characters/Aurora Caelum\|Aurora Caelum]]                     | Independent                                                              | Force-sensitive   | [[Navigational/Planets/Nallastia\|Nallastia]] | Deceased |
 | [[Characters/Bardolph Vos\|Bardolph Vos]]                       | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Anaxes\|Anaxes]]       | Alive    |
 | [[Characters/Bastille Aurelius\|Bastille Aurelius]]             | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Axum\|Axum]]           | Alive    |
-| [[Characters/Bornan Vos\|Bornan Vos]]                           | \-                                                                       | No sensitivity    | [[Navigational/Anaxes.md\|Anaxes]]               | Alive    |
+| [[Characters/Belia Darzu\|Belia Darzu]]                         | [[Organizations/New Sith Empire\|New Sith Empire]]                    | Force-sensitive   | \-                                               | Deceased |
+| [[Characters/Bornan Vos\|Bornan Vos]]                           | \-                                                                       | No sensitivity    | [[Navigational/Planets/Anaxes\|Anaxes]]       | Alive    |
 | [[Characters/Cain Draig\|Cain Draig]]                           | [[Organizations/Resistance\|Resistance]]                              | Force-sensitive   | [[Navigational/Planets/Carida\|Carida]]       | Alive    |
 | [[Characters/Cassel Dameron\|Cassel Dameron]]                   | [[Organizations/Resistance\|Resistance]]                              | No sensitivity    | \-                                               | Alive    |
 | [[Characters/Catherine Labelle\|Catherine Labelle]]             | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Knight       | \-                                               | Deceased |
 | [[Characters/Cecily Beaumont\|Cecily Beaumont]]                 | [[Organizations/Rebellion\|Rebellion]]                                | Jedi Knight       | [[Navigational/Planets/Axum\|Axum]]           | Deceased |
 | [[Characters/Charlotte Rose\|Charlotte Rose]]                   | [[Organizations/Resistance\|Resistance]]                              | Jedi Knight       | [[Navigational/Planets/J't'p'tan\|J't'p'tan]] | Alive    |
 | [[Characters/Chevalier Hellix\|Chevalier Hellix]]               | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Chandrila\|Chandrila]] | Alive    |
-| [[Characters/Coreen Makara\|Coreen Makara]]                     | [[Organizations/Galactic Empire\|Galactic Empire]]                    | No sensitivity    | [[Navigational/Kuat.md\|Kuat]]                   | Alive    |
+| [[Characters/Coreen Makara\|Coreen Makara]]                     | [[Organizations/Galactic Empire\|Galactic Empire]]                    | No sensitivity    | [[Navigational/Planets/Kuat\|Kuat]]           | Alive    |
 | [[Characters/Dahlia Coutier\|Dahlia Coutier]]                   | [[Organizations/Rebellion\|Rebellion]]                                | Jedi Master       | \-                                               | Unknown  |
 | [[Characters/Dallas Makensi\|Dallas Makensi]]                   | Independent                                                              | No sensitivity    | \-                                               | Unknown  |
-| [[Characters/Dark Lord Echko\|Dark Lord Echko]]                 | \-                                                                       | Sith Lord         | \-                                               | Ghost    |
+| [[Characters/Dark Lord Echko\|Dark Lord Echko]]                 | [[Force Traditions & Sects/Mecrosa Order\|Mecrosa Order]]             | Sith Lord         | [[Navigational/Planets/Tython\|Tython]]       | Ghost    |
 | [[Characters/Dark Lord Ragnos\|Dark Lord Ragnos]]               | [[Force Traditions & Sects/Disciples of Ragnos\|Disciples of Ragnos]] | Sith Lord         | \-                                               | Deceased |
 | [[Characters/Darth Grimm\|Darth Grimm]]                         | Unknown                                                                  | Sith Lord         | Unknown                                          | Ghost    |
 | [[Characters/Darth Krayt\|Darth Krayt]]                         | [[Force Traditions & Sects/One Sith\|One Sith]]                       | Sith Lord         | [[Navigational/Planets/Tatooine\|Tatooine]]   | Unknown  |
@@ -46,11 +47,12 @@
 | [[Characters/Evelynn Decipio\|Evelynn Decipio]]                 | [[Organizations/Resistance\|Resistance]]                              | Low sensitivity   | [[Navigational/Planets/Mandalore\|Mandalore]] | Alive    |
 | [[Characters/Exar Kun\|Exar Kun]]                               | \-                                                                       | Sith Lord         | \-                                               | Deceased |
 | [[Characters/Felicity Beauregard\|Felicity Beauregard]]         | [[Organizations/Resistance\|Resistance]]                              | Low sensitivity   | [[Navigational/Planets/Carida\|Carida]]       | Deceased |
-| [[Characters/Grand Inquisitor\|Grand Inquisitor]]               | <ul><li><ul><li>Inquisitorius</li></ul></li></ul>                        | Dark Lord         | \-                                               | Deceased |
+| [[Characters/Grand Inquisitor\|Grand Inquisitor]]               | \-                                                                       | Dark Lord         | \-                                               | Deceased |
 | [[Characters/Hasina Makara\|Hasina Makara]]                     | [[Organizations/New Republic\|New Republic]]                          | No sensitivity    | [[Navigational/Planets/Kuat\|Kuat]]           | Alive    |
 | [[Characters/Hazel Caelum\|Hazel Caelum]]                       | [[Organizations/Resistance\|Resistance]]                              | Jedi Knight       | [[Navigational/Planets/Nallastia\|Nallastia]] | Alive    |
 | [[Characters/Holland Lillivere\|Holland Lillivere]]             | [[Organizations/New Republic\|New Republic]]                          | Force-sensitive   | [[Navigational/Planets/Naboo\|Naboo]]         | Alive    |
 | [[Characters/Imperia Sibyl\|Imperia Sibyl]]                     | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Seidhkona\|Seidhkona]] | Alive    |
+| [[Characters/Indigo Oceana\|Indigo Oceana]]                     | [[Force Traditions & Sects/Mecrosa Order\|Mecrosa Order]]             | \-                | \-                                               | \-       |
 | [[Characters/Isa Phant\|Isa Phant]]                             | [[Force Traditions & Sects/New Jedi Order\|New Jedi Order]]           | Jedi Padawan      | \-                                               | Deceased |
 | [[Characters/Janelle\|Janelle]]                                 | [[Organizations/New Republic\|New Republic]]                          | Low sensitivity   | [[Navigational/Planets/Atrisia\|Atrisia]]     | Alive    |
 | [[Characters/Juliette Rose Makara\|Juliette Rose Makara]]       | [[Organizations/Resistance\|Resistance]]                              | No sensitivity    | \-                                               | Alive    |
@@ -82,7 +84,7 @@
 | [[Characters/Snoke\|Snoke]]                                     | [[Organizations/First Order\|First Order]]                            | Sith Lord         | Unknown                                          | Alive    |
 | [[Characters/Talia Draig\|Talia Draig]]                         | [[Organizations/Resistance\|Resistance]]                              | Force-sensitive   | [[Navigational/Planets/Carida\|Carida]]       | Alive    |
 | [[Characters/Titanium Octan Makensi\|Titanium Octan Makensi]]   | Independent                                                              | Force-user        | [[Navigational/Planets/Nallastia\|Nallastia]] | Alive    |
-| [[Characters/Unkar Plutt\|Unkar Plutt]]                         | [[Organizations/First Order\|First Order]]                            | No sensitivity    | [[Navigational/Jakku.md\|Jakku]]                 | Alive    |
+| [[Characters/Unkar Plutt\|Unkar Plutt]]                         | [[Organizations/First Order\|First Order]]                            | No sensitivity    | [[Navigational/Planets/Jakku\|Jakku]]         | Alive    |
 | [[Characters/Versailles Cordelia\|Versailles Cordelia]]         | [[Organizations/First Order\|First Order]]                            | Fallen Jedi       | [[Navigational/Planets/Corellia\|Corellia]]   | Alive    |
 | [[Characters/Victoria Octan\|Victoria Octan]]                   | [[Force Traditions & Sects/Jedi Order\|Jedi Order]]                   | Jedi Padawan      | [[Navigational/Planets/Nallastia\|Nallastia]] | Deceased |
 | [[Characters/Voron Jax\|Voron Jax]]                             | [[Organizations/First Order\|First Order]]                            | \-                | \-                                               | Alive    |
