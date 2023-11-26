@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-traditions-and-sects/sith-triumvirate/","tags":["faction"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Sith Triumvirate
 The Sith Triumvirate formed out of the remains of [[Characters/Revan\|Revan]]'s Sith Empire following the end of the Jedi Civil War and Revan's return to the Jedi, otherwise known as the beginning of the Sith Civil War. Under the leadership of the Dark Lords of the Sith Triumvirate, it went on to wage war against the Jedi.
