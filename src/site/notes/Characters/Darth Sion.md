@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/darth-sion/","tags":["fallenjedi","sith","forcesensitive","sithtrio"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Lord of Pain*
 # Darth Sion
 >Dark Lord of the Sith Triumvirate
