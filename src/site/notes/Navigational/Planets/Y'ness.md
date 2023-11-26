@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/y-ness/","tags":["map","core","koornacht","planet","starkiller","unfinished"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as
 # Y'ness
 Desc
