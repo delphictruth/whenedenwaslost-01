@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/tutaminis/","tags":["universal","control","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Energy Absorption*, *Absorb Energy*, *Dissipate Energy*, *Force absorb*, *Negate Energy*, *Energy Negation*
 # Tutaminis
 *Tutaminis* is an umbrella term used to classify the [[Force Abilities & Phenomena/Aspects of the Force#Control\|Control]]-based Force abilities related to energy absorption. While the formal terminology and training of *tutaminis* was taught by the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], it is a neutral skill set that is practiced by most Force-based groups to varying degrees. Similarly, although it was taught to all Jedi in the very early stages of their training, successfully dissipating highly concentrated energy (such as that of a blasterbolt or lightsaber blade) was considered a rare feat and a demonstration of the complete mastery of *tutaminis*. 
