@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/characters/versailles-cordelia/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive","unfinished"],"noteIcon":"saber1"}
+{"dg-publish":true,"permalink":"/characters/versailles-cordelia/","tags":["fallenjedi","firstorder","knightsofren","jedipraxeum","jedipadawan","formvi","formiv","forcesensitive"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as 
 # Versailles Cordelia | Victa Ren
 >The Wildling, Pirate King
