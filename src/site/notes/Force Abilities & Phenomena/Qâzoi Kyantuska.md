@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/qazoi-kyantuska/","tags":["dark","control","sense","alter","sithmagic","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *Suppress Thought*, *control mind*
 # Qâzoi Kyantuska
 Qâzoi Kyantuska (literally "Suppress Thought" in Basic) is an ability developed through [[Force Abilities & Phenomena/Sith magic\|Sith magic]] that grants the wielder the ability to control and influence the minds of anyone they choose. Practitioners utilize this power to dominate a single mind or a multitude of minds simultaneously. 
