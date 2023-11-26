@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/force-abilities-and-phenomena/deadly-sight/","tags":["dark","alter","forcepower"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - Also known as *evil eye*
 # Deadly Sight
 Deadly Sight is a Force ability used primarily by Darksiders, in which the user harnesses their fury and hatred into deadly energy. In doing so, they project their hatred through an intense glare onto the victim, blistering skin and vaporizing extremities. As such, it is sometimes referred to as the *evil eye* by non-Force users.
