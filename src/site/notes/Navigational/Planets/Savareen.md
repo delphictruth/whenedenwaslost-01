@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/navigational/planets/savareen/","tags":["map","planet","kessel","outerrim","savareens","corellianrun"],"noteIcon":"saber1"}
 ---
 
-- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440/chapters/45992584)
+- [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Savareen
 
