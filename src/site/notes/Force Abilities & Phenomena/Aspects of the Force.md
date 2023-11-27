@@ -5,7 +5,7 @@
 - [When Eden Was Lost (Ao3)](https://archiveofourown.org/works/19334440)
 - *No other names on record*
 # Aspects of the Force
-According to the teachings of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], there are three aspects of the Force that govern all abilities and powers accessible through the Force: [[Force Abilities & Phenomena/Aspects of the Force#Control\|Control]], [[Force Abilities & Phenomena/Aspects of the Force#Sense\|Sense]], and [[Force Abilities & Phenomena/Aspects of the Force#Alter\|Alter]].
+According to the teachings of the [[Force Traditions & Sects/Jedi Order\|Jedi Order]], there are three aspects of the Force that govern all abilities and powers accessible through the Force: <a href="https://whenedenwaslost.netlify.app/force-abilities-and-phenomena/aspects-of-the-force/#control">Control</a>, <a href="https://whenedenwaslost.netlify.app/force-abilities-and-phenomena/aspects-of-the-force/#sense">Sense</a>, and <a href="https://whenedenwaslost.netlify.app/force-abilities-and-phenomena/aspects-of-the-force/#alter">Alter</a>.
 ## Control
 Control is traditionally the first aspect of the Force that Jedi Initiates studied. The discipline of Control centers around three main abilities: *[[Force Abilities & Phenomena/Tutaminis\|tutaminis]]* (energy absorption), *[[Force Abilities & Phenomena/Force healing\|curato salva]]* (self-healing), and *[[Force Abilities & Phenomena/Atlus sopor\|atlus sopor]]* (heightened focus).
 - [[Force Abilities & Phenomena/Animal bond\|Animal bond]]
