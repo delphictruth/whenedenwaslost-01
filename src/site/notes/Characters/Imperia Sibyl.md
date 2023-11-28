@@ -38,7 +38,7 @@
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  [[Events/Timeline#29 ABY\|29 ABY]]
-**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
+**Class**::  <a href="https://whenedenwaslost.netlify.app/force-traditions-and-sects/jedi-praxeum/#jedi-padawan-class-iii">Padawan Class III</a>
 
 ### Knights of Ren
 
@@ -50,7 +50,6 @@
 - [[Characters/Alfred Jonnas\|Deco Ren]]
 - [[Characters/Versailles Cordelia\|Victa Ren]]
 - [[Characters/Roman Ange\|Feru Ren]]
-
 ## Combat
 Imperia does not practice an traditional lightsaber form. She utilizes a unique style of combat that relies on telepathically controlling three sabers at once, allowing her to fight from a slight distance and with little personal movement. There is no known name for this style of combat, but some have used the phrase [[Forms & Martial Arts/Traya's Telepathy\|Traya's Telepathy]] to refer to it. 
 
