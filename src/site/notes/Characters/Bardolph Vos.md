@@ -39,7 +39,7 @@
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]], [[Characters/Rathos Visio\|Rathos Visio]]
 **Padawan**::  N/A
 **Knighted**::  [[Events/Timeline#26 ABY\|26 ABY]]
-**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
+**Class**::  <a href="https://whenedenwaslost.netlify.app/force-traditions-and-sects/jedi-praxeum/#jedi-padawan-class-iii">Padawan Class III</a>
 
 ### Knights of Ren
 
