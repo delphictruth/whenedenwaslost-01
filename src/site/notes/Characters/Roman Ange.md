@@ -42,7 +42,7 @@ summary
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  N/A
-**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class IV\|Padawan Class IV]]
+**Class**::  <a href="https://whenedenwaslost.netlify.app/force-traditions-and-sects/jedi-praxeum/#jedi-padawan-class-iv">Padawan Class IV</a>
 
 ### Knights of Ren
 
