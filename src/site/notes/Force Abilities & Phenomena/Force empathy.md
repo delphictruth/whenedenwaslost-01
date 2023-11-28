@@ -7,7 +7,7 @@
 # Force empathy
 Force empathy is a form of [[Force Abilities & Phenomena/Force sense\|Force sense]] and allows the user to sense an individual's feelings and general emotional state. [[Force Abilities & Phenomena/Force-sensitive\|Force-sensitives]] tend to develop low-grade Force empathy naturally, but trained practitioners can also sense motivations, hidden feelings, and deeply guarded secrets through an individual's emotional state. 
 
-A heightened form of Force empathy is known as [[Force Abilities & Phenomena/Force empathy#Receptive Telepathy\|Receptive Telepathy]]. Force-users with Receptive Telepathy are able to sense the emotional states of those around them at all times, without having to exert effort to access low-level empathy, and typically can get a deeper read on an individual's emotions before having to invade their mind. 
+A heightened form of Force empathy is known as Receptive Telepathy. Force-users with Receptive Telepathy are able to sense the emotional states of those around them at all times, without having to exert effort to access low-level empathy, and typically can get a deeper read on an individual's emotions before having to invade their mind. 
 
 **Specialists**::
 - [[Characters/Bastille Aurelius\|Bastille Aurelius]] (Receptive Telepathy)
