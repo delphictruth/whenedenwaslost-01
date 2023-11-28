@@ -49,7 +49,7 @@ Bastille carries the legacies of far too many, always destined to either excel i
 **Master**::  [[Characters/Dahlia Coutier\|Dahlia Coutier]]
 **Padawan**::  N/A
 **Knighted**::  [[Events/Timeline#26 ABY\|26 ABY]]
-**Class**::  [[Force Traditions & Sects/Jedi Praxeum#Jedi Padawan Class III\|Padawan Class III]]
+**Class**::  <a href="https://whenedenwaslost.netlify.app/force-traditions-and-sects/jedi-praxeum/#jedi-padawan-class-iii">Padawan Class III</a>
 
 ### Knights of Ren
 
