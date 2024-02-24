@@ -9,4 +9,4 @@ Force Blast is a Force power used by darksiders and modeled on [[Force Abilities
 
 This power is one that requires significant training to perfect; virtually no practitioners demonstrate any "natural" talent with the ability. This may be due to its roots in [[Force Abilities & Phenomena/Sith magic\|Sith magic]]. Sometimes users suffer burns on their flesh, especially on their "casting" hand, but feel no pain. 
 
-A universal version of this ability merely compresses the air to blast at enemies, as opposed to dark side energy, but this version is essentially identical to the [[Force Abilities & Phenomena/Telekinesis#Force Push\|Force Push]].
+A universal version of this ability merely compresses the air to blast at enemies, as opposed to dark side energy, but this version is essentially identical to the [[Force Abilities & Phenomena/Telekinesis#Force Push (Force Shove)\|Force Push]].
